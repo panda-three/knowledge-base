@@ -1,0 +1,593 @@
+{
+ "space_id": "7669431379494440158",
+ "items": [
+  {
+   "title": "01 AI双三角",
+   "node_token": "MG4hwkehRiI1ZikEti5cZLw4neg",
+   "obj_token": "NzE9deozroOKc5x6tuScM1PfnCb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "01 AI双三角 逐字稿",
+   "node_token": "MhTEwUml3i9DBTkb5rpcqsL5n2e",
+   "obj_token": "Hk57dodgLoTLaBxYNGEcm9pdnjf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "02 AI如何生图",
+   "node_token": "Fazkwr6JFi9JvFkbaE8cr9zCnue",
+   "obj_token": "JxdPdVnFfom1kFxaO6ec1zArnQ2",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "03 AI数据",
+   "node_token": "BpxbwxFwkiqolckSjUfc3mzYnWh",
+   "obj_token": "NcBUd6XeEooh6sxCA8gcFDIznWf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "04 同一个人，同一个AI，一分钱没多花：改五句话，图片能好到什么程度",
+   "node_token": "Vq2NwlIENi4in5kPymFcitBrnSh",
+   "obj_token": "GsprdTC0YoilCNxrBg7cHG8tnhf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "05 提示词复制",
+   "node_token": "T0DxwL7T9ighbWk6b1XcUQqYnQc",
+   "obj_token": "HTfldW9KyoH9fox1IeJcg2GrnWc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "07 数据的计算",
+   "node_token": "Nq27wCY8SiMNTtkb6xhcwwc3nZe",
+   "obj_token": "Cpmxda44eo6ukRxZIUgcSJVUnd8",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI教育课",
+   "node_token": "FdpEwgY1jiVUw3kj01qcpE3mnAh",
+   "obj_token": "DGvnddZp7oBmrVxDabYclHmhncd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI简历",
+   "node_token": "Q9FRwbugRiwEmQkTHy1cdLehn4b",
+   "obj_token": "MeTQd7AR3oKNFSxprPZcx60ynrh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "03 AI数据第一课",
+   "node_token": "XNQpwKCstiPjBokygypchl1knFe",
+   "obj_token": "DO8WdZzlVojP9LxRVcIc6qM9nEd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "04 AI口喷-截图笔记",
+   "node_token": "LbSnwy1iViZWZvk76tscZ1Hnnze",
+   "obj_token": "VVK2dRaOqox18txoCEhcdxMVntb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "05 AI基本功-截图笔记",
+   "node_token": "Z7cYwquPJiIbKtkgf48cbPo9nBg",
+   "obj_token": "DrKudsQY7obJt9xljOgcIrzlnri",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "06 AI双三角-截图笔记",
+   "node_token": "KLzpw8O74iSLujkcRMcc5pWLn0c",
+   "obj_token": "DbLIdEn9AoSLNSxqsdxcibpxn5c",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "07 AI场景第一课-截图笔记",
+   "node_token": "EGpTwAGomiWD0wkQzx1chLdYnMc",
+   "obj_token": "G8KfdyDKgoE8jFx8ACPcG9vondb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI时代的数据计算",
+   "node_token": "LVDwwcXgViRdz5kBVc5cNhJ2nbc",
+   "obj_token": "EW5KsgDGFlcKXadnIEHcC9xPnsc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI时代的数据计算（互动精简版）",
+   "node_token": "SCTewDlYfitfU1kwbcHcD6vSnxh",
+   "obj_token": "CbJSsVbzKlete2dnkVccK65VnUe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI课程PPT制作经验总结",
+   "node_token": "DYfewfOQ5ifwDwkUDupcYV7UnQf",
+   "obj_token": "KMMvdamdUoqxZsxvPhYcCzSqnUh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "AI课程PPT制作提示词模板",
+   "node_token": "QRK3wki7Mi7qAfkhN99cbREcngd",
+   "obj_token": "RIXmdHw8ToPQIMxu1oIcQ1myn6e",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "方法论：课程链接提取入库与复用方案",
+   "node_token": "MoJ1wb8riikLLpkjqdjcx4DKnzZ",
+   "obj_token": "RO3rdJLvAoQ0Bgx4Egccop3mnSs",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "08 截图转文字：经验沉淀·不足复盘·标准流程SOP",
+   "node_token": "QKQewMvWji50TPkRT1VcP5NvnOc",
+   "obj_token": "VVzEdreWCozwwwx9PmccVHlPnsf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "全员必修：深度复盘第一课",
+   "node_token": "SnH7wy7f6ibnOLknEZFcQ4yBn3d",
+   "obj_token": "F1xVd2nb6o41nUxDCeXcs9etnif",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "🎯AI落地Live 87·蓝鱼：素人上手搭AI知识体系",
+   "node_token": "XOnYw5nWQibLWUkXNDrcgV0QnRb",
+   "obj_token": "Bdwed8nVHo5XZnx859Uc4ioqn1c",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "🎯一堂行动营：刻意练习AI落地篇",
+   "node_token": "WF91wwLuhivXrykHrxhcdEC2nIb",
+   "obj_token": "Z3BBd9gEeoxYq1xSC5jc8Frtnge",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "全员必修：重新理解「科学理念」",
+   "node_token": "Ph5YwaJ2YidEBLk8qgOcetvBnvb",
+   "obj_token": "L93Sd1qWVom4SSx1tmHcNi8MnLd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "全员必修：重新理解解放思想",
+   "node_token": "HdffwZXZqiwLTqkQVluc4hyWnzh",
+   "obj_token": "Kpb5de79doh1pNxal4Kcv090neW",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 2/2",
+   "node_token": "DWH1we7TbieZWFkiw8kc4sXtnqV",
+   "obj_token": "FOAZdaFL2oFibIxJNdDcWvQYnLe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 1/2",
+   "node_token": "Ewn5wHtnei4uMHkQu47cIkgJnRe",
+   "obj_token": "WmXTdAXBvoJTMzxwazNcRSWxnde",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "知识库",
+   "node_token": "K5rBwcrcYiLUIQkjErUcRCJznkg",
+   "obj_token": "LWOIdU300ozn2VxqWkzcyiVpnUf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "16 AI场景如何落地-截图笔记",
+   "node_token": "HUwYw2yqWiGDJEkkVgucl4wLnVY",
+   "obj_token": "XtYodEbxioaT3exNgcWc90x8noc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "17 如何把汇报打磨成一个好案例-截图笔记",
+   "node_token": "TA7PwVjtmibhJUkdDFscQQQ6nje",
+   "obj_token": "CF3Vdk7XwoNSvdxOvbPc8AEsnmb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "08 双三角思考-截图笔记",
+   "node_token": "SRtLwl1Fji54IFkyLXecineqnie",
+   "obj_token": "YwucdLh5VoBG0Oxo92ucDAz6nSe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "12 AI内容工业化生产-截图笔记",
+   "node_token": "JKv6wXxqZiKZkQknbdkcwdZsn1f",
+   "obj_token": "IweNdvH5eoZzEKxGfqXcmstXnlb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "18 AI落地-探索AI协作新范式-截图笔记",
+   "node_token": "XNqnweSSOi4QtgkqxjgcjeoDnzd",
+   "obj_token": "Sf41dITEeo0kxsxrpIBcgQg9n3d",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "09 如何设计 partner-截图笔记",
+   "node_token": "BsVyw7MoQidfOgkWSYic5KOCnQh",
+   "obj_token": "Bk8ndLSpHonPThxE60jcZCy5nJe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "19 一堂的信-截图笔记",
+   "node_token": "VrRswHkEniXU7okVguLcEuYBnLd",
+   "obj_token": "Kz03dIA7uoBfHXxtIN6civSXn48",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "10 一堂 X探月-截图笔记",
+   "node_token": "UvPVwLXdtis3nLknoLqcf9N3noc",
+   "obj_token": "XV2NdSlH7oceAmxqWZncyZ6InSh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "13 AI设计实践-截图笔记",
+   "node_token": "SzDmwTRgXiQ9YMkVfmxcSRhnnic",
+   "obj_token": "JsXddfLEEoUus6xnWQWccMrDn6f",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "20 如何写一篇文章-截图笔记",
+   "node_token": "QhHswcOZbimKo8ka8MzcfIW7nOd",
+   "obj_token": "EVFUdGYV5o4lsbxmldjckJwcnIb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "21 龙虾员工实践-截图笔记",
+   "node_token": "SB1lwdZT4iU4YskLhrPcMoezngh",
+   "obj_token": "W5LrdaJaYoxodBxztY6cZvSzngd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "22 7.14 一堂五步法-截图笔记",
+   "node_token": "B7wswuywAicyNwkpqXLcJSR4n4e",
+   "obj_token": "IqDddR6W9okp3sxtF4Ycg74Pn1T",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "23 7.14 暑假完整介绍-截图笔记",
+   "node_token": "V5jKwXW0ciswf2k57tLcCpqfndg",
+   "obj_token": "DkvTdkJo2ohA43xYMZNciu9Dnzc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "24 7.14 低成本验证之MVP-截图笔记",
+   "node_token": "Ddn1wv33BiO0CckNqKactz23nRc",
+   "obj_token": "GD12dhu76ospdex0ey7cXne2nPc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "25 7.15 需求侦探之旅-截图笔记",
+   "node_token": "B5eQwRbMkiiW11kD30mcqJIonOf",
+   "obj_token": "Sru2dBDvLotlAkxnnGQcE5cfnPd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "26 7.15 把好想法变成真事-截图笔记",
+   "node_token": "Tn7cwlqqFiOdgskf50Lc7jV5nUh",
+   "obj_token": "UrXKdsWfCokUsZxoj7YcexzKn9c",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "27 7.16 调研黑客-截图笔记",
+   "node_token": "AePDwqvlMinUb3kva7fcdFxqnVd",
+   "obj_token": "UlsEd76r2oiEBPxnCmDcpgtWnpg",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "28 7.17 需求洞察-截图笔记",
+   "node_token": "LFxtwwKSdiJNpJkupU3cs2SWnLf",
+   "obj_token": "G7rgdhQoJoUMJmxRoYzc7TI6ntg",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "29 7.20 一堂五步法-截图笔记",
+   "node_token": "TFPLwTKsGiGUI5k1jp2cb3R5nif",
+   "obj_token": "KUVyd2EtxoeUIlxOe3IcMvk5nKf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "30 7.21 一堂五步法-截图笔记",
+   "node_token": "S6g5wowEeiCfjtkXMuwc65gVnpf",
+   "obj_token": "L1zxdkIBYoPVOSxhIN4cqpwjnAc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "31 7.21 低成本验证-截图笔记",
+   "node_token": "C45tw2QAeiA4zLk0oTuc3Nnynze",
+   "obj_token": "KP8ldZ2C2oo5d8xSvn0c0KJ2nZc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "32 7.22 青少年mvp验证课-截图笔记",
+   "node_token": "J7Gjw4fCGimGpGkphGSc296HnFg",
+   "obj_token": "F7FZdvBETobKF3x3HYtcG5glnxd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "33 7.22 需求分析-截图笔记",
+   "node_token": "U1dTwuPKjiDPL5kNHEycB4kGnhd",
+   "obj_token": "Dlr4daZmDomG8DxAV8cciJzFnMe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "34 7.23 产品内核-截图笔记",
+   "node_token": "Jhg8wxrdki7BfXkrX2TcWPkzn0b",
+   "obj_token": "VurGdjC5Io8P2DxxkIack5kFnIa",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "35 7.24 一堂五步法-截图笔记",
+   "node_token": "KUG3wVr64irerGkhTXVc7Ph9n5f",
+   "obj_token": "MH9qd5TNHotInvxEkeccCd8ynjB",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "36 7.26 产品内核-截图笔记",
+   "node_token": "JWGbwEeFpiKPCDkX5rJcvYg3nob",
+   "obj_token": "ZVHxdeej2obdvfxebpOcbDTgnPf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "37 7.27 AI双三角-截图笔记",
+   "node_token": "BJEhwcxObiakWQkfuuecjjbDned",
+   "obj_token": "G9oLdXlujozQ8hxPQBYcY6KjnWc",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "38 7.27 科学决策-截图笔记",
+   "node_token": "G7oKwe8SViGNLukjw5Bcozk0nEd",
+   "obj_token": "DSUodXFs3oqM9oxDY1UcB4bhnCf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "39 7.28 重新理解领导力-截图笔记",
+   "node_token": "DXCqwFHO7iuIrDkvOZJc8sConMZ",
+   "obj_token": "IeapdRDfHoafnTxmrxqcHnvnn4c",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "40 7.30 泛产品设计-截图笔记",
+   "node_token": "SNQCwIM4uinuQXk8yxDcOe5NnCf",
+   "obj_token": "Bf6EdOjDLoByxTxLlnQcEP55nTf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "41 7.31 AI时代的领导力-截图笔记",
+   "node_token": "OOHgwo8Oii1qmbkLL7AcSpdEn8d",
+   "obj_token": "TCIudJfN7ojLPGxLddGcdpt2nud",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "42 8.14 人生红点-截图笔记",
+   "node_token": "NJERw1PNSiUlrFkVsF8ckKDon0A",
+   "obj_token": "KArvdHAjOoukX7xOKj9cPwx0nNb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "43 8.4 AI双三角-截图笔记",
+   "node_token": "Z46dwY32liIm2vkoIJMct16onvf",
+   "obj_token": "YAQEdJGSwogRkExpbFxcI8UKnTh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "44 8.6 泛产品设计-截图笔记",
+   "node_token": "HXwVwTaEzibVYZkN2pfclUD8nsg",
+   "obj_token": "ApvvdZA36ozcfixVRmWc5LG6nfb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "45 8.7 AI双三角-截图笔记",
+   "node_token": "McPGwqeMLit4taks60zczcBlnRf",
+   "obj_token": "NmQ4degyUoWVG1xnhgJcWXn8nLd",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "46 8.7 领导力-截图笔记",
+   "node_token": "XPUzwsaXuiItELkPE8ecZhCsnZc",
+   "obj_token": "XaVrdxa7ao69dxxSZjacOGLanch",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "47 IPO1-截图笔记",
+   "node_token": "LNWVwtWv2iR4mqkptbic2ZH9nqh",
+   "obj_token": "UEJMdKCM3oituExWbagcyUVAnq0",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "48 IPO2-截图笔记",
+   "node_token": "Iub5w4IpziWH3Mk2PV7c9oGCnWh",
+   "obj_token": "NpJfdlEPuo6xswxIaU9cI9YfnLb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "49 人生红点-截图笔记",
+   "node_token": "Lc7zwqy9aiGMaDkkIaacAOJMnle",
+   "obj_token": "Ysa4dazmBow1lFxzIHZcvRr9njh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "50 时间管理-截图笔记",
+   "node_token": "Guh1wfETriMaC7kiy2IcAvycnIh",
+   "obj_token": "PaWUdif3XoIpGDxz7w4cRoqJnjb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "51 知识管理-截图笔记",
+   "node_token": "GMqHw2elziXkCtke9pkcllLNnHd",
+   "obj_token": "HfPWdeQ7Lo4YbWxkTnUcbXi0n3g",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "52 刻意练习1-截图笔记",
+   "node_token": "VRJrwGs29iBSsEkqauXc4LQpnob",
+   "obj_token": "SDludXLbHozt90xS0nQcKnZ6nAb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "53 刻意练习2-截图笔记",
+   "node_token": "Yn6CwwfoBib5tZkWxJ7c2AeQn0e",
+   "obj_token": "L81IdL6s2oKkRjxkaN0csy8enRg",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "54 从交叉到交付，从新设计你的自我介绍-截图笔记",
+   "node_token": "Swsuwanwbin9G5kz7aecXN4XnAh",
+   "obj_token": "AthzdpuoKoHiAxxAIWrcTMhZnUh",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "11 做课培训-截图笔记",
+   "node_token": "VIkqworIgiEpC3kojK3cNNksnKf",
+   "obj_token": "WwkTdqkwfoN9EnxPKqRcDzzfnPa",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "14 AI制作ppt-截图笔记",
+   "node_token": "S1mCwfBhzivz9rko7BxcCmxgn5b",
+   "obj_token": "Zzrsdr8u5oRfwPxONb4cNX3Yn3c",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "15 AI自动化生成网感视频-截图笔记",
+   "node_token": "ASKRwPdQciqtfvk9GtGcGiYRn0c",
+   "obj_token": "ESM2d5rHhoRoI7xwP7pce5rqnpg",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "08 我用一堂做一堂-战略笃定篇-截图笔记",
+   "node_token": "RTUbwC8EWiFJLKkBhREcCcDsnNd",
+   "obj_token": "K7bYdjhIUoQy46xT714cH6Keng3",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "09 调研-爆炸式调研-截图笔记",
+   "node_token": "NU4sw9VPjipOqPkNMh1cVC0snic",
+   "obj_token": "FAqDdBoDvo9vgvxq9vIcaDchnpg",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "10 十指讲香模型-截图笔记",
+   "node_token": "V6a0wnkKYi6rm4kxkmxcu8ESnih",
+   "obj_token": "InRudpxCXoK3PJxPvVkcQGuYnqf",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "11 调研-武器篇-截图笔记",
+   "node_token": "IgwqwbRkqi4xMrklHEJcXv9Wnjc",
+   "obj_token": "Xl1hdgt4Yo18n2xybNjcUrpDnbe",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "12 调研黑客5部曲认知篇-截图笔记",
+   "node_token": "YSIGwDeGhiXneGkuENCcW6mzntf",
+   "obj_token": "GnoOdetPwowW7DxXkyHcCnGmnfb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "12 调研黑客5部曲认知篇-截图笔记",
+   "node_token": "ZePSwuOKBiIQpDkvBRucR54vn4d",
+   "obj_token": "US4NdKefkofWZLxCyu4cYzgPnft",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "13 调研黑客5部曲实操篇-截图笔记",
+   "node_token": "Z0LYwkLaCibBrGkBL13cQb0Nnpe",
+   "obj_token": "KOTndphmYo8wb7xcBbBcegW2n7f",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 2/2（阅读优化版）",
+   "node_token": "Tmm1w45NPi7YDFkZiXKcebZ5npc",
+   "obj_token": "VqNCdOhPHoDW6sxYrNJcu8g9nYG",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 1/2（阅读优化版）",
+   "node_token": "VO8xwhCbuivqgQkY5CwcIAA4nrd",
+   "obj_token": "UgltdHuxvoMVH2xbwb7c7pprnVb",
+   "origin": "wiki_space_root",
+   "space_id": "7669431379494440158"
+  }
+ ]
+}

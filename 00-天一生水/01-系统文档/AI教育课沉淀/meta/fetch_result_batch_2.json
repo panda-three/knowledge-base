@@ -1,0 +1,592 @@
+[
+  {
+    "obj_token": "IxBedj6c9o1Jalx1UCPcLvFdnFD",
+    "title": "02 原始阶段：手工作坊（截图02-03）",
+    "path": "12 AI内容工业化生产-截图笔记/02 原始阶段：手工作坊（截图02-03）",
+    "obj_type": "docx",
+    "filename": "02 原始阶段：手工作坊__45a393.md",
+    "status": "ok",
+    "content_length": 3634,
+    "error": null
+  },
+  {
+    "obj_token": "WjFkdbgt4oHJjGxtCSocmxSinng",
+    "title": "03 第二阶段：写稿 agent V1-V8 迭代（截图04，agent双三角V1-V8）",
+    "path": "12 AI内容工业化生产-截图笔记/03 第二阶段：写稿 agent V1-V8 迭代（截图04，agent双三角V1-V8）",
+    "obj_type": "docx",
+    "filename": "03 第二阶段：写稿 agent V1-V8 迭代__ff5cea.md",
+    "status": "ok",
+    "content_length": 2543,
+    "error": null
+  },
+  {
+    "obj_token": "HuezdUDDJovBc0x0H4Qc1AJYnqd",
+    "title": "04 第三阶段 YAI 知识库与第四阶段 Codex（截图05-06，YAI画布）",
+    "path": "12 AI内容工业化生产-截图笔记/04 第三阶段 YAI 知识库与第四阶段 Codex（截图05-06，YAI画布）",
+    "obj_type": "docx",
+    "filename": "04 第三阶段 YAI 知识库与第四阶段 Codex__173756.md",
+    "status": "ok",
+    "content_length": 4795,
+    "error": null
+  },
+  {
+    "obj_token": "KmVMdrnlQob3iTxyre4cq03Knph",
+    "title": "05 第五阶段多partner裂变与第六阶段多维表格闭环（截图07-08，多partner/最终画布）",
+    "path": "12 AI内容工业化生产-截图笔记/05 第五阶段多partner裂变与第六阶段多维表格闭环（截图07-08，多partner/最终画布）",
+    "obj_type": "docx",
+    "filename": "05 第五阶段多partner裂变与第六阶段多维表格闭环__d486b2.md",
+    "status": "ok",
+    "content_length": 5228,
+    "error": null
+  },
+  {
+    "obj_token": "EZqrd0HXAoAc8yx8Fl1c5oJGn3f",
+    "title": "06 补充资料：封面排版研究与选题池/对标账号（截图09-12）",
+    "path": "12 AI内容工业化生产-截图笔记/06 补充资料：封面排版研究与选题池/对标账号（截图09-12）",
+    "obj_type": "docx",
+    "filename": "06 补充资料：封面排版研究与选题池_对标账号__4d9d35.md",
+    "status": "ok",
+    "content_length": 3507,
+    "error": null
+  },
+  {
+    "obj_token": "Yc1hdvn2So4XBbxc4xEcNQNgnMx",
+    "title": "01 预热思考+一堂AI协作过程复盘（截图00-01）",
+    "path": "18 AI落地-探索AI协作新范式-截图笔记/01 预热思考+一堂AI协作过程复盘（截图00-01）",
+    "obj_type": "docx",
+    "filename": "01 预热思考+一堂AI协作过程复盘__5c6230.md",
+    "status": "ok",
+    "content_length": 3651,
+    "error": null
+  },
+  {
+    "obj_token": "QZ5LdD4pWonXIcxu3lmc57mcnfe",
+    "title": "02 高效协同+为何选Obsidian（截图02-03）",
+    "path": "18 AI落地-探索AI协作新范式-截图笔记/02 高效协同+为何选Obsidian（截图02-03）",
+    "obj_type": "docx",
+    "filename": "02 高效协同+为何选Obsidian__74f6d9.md",
+    "status": "ok",
+    "content_length": 2754,
+    "error": null
+  },
+  {
+    "obj_token": "Eq1tdSPELoyT1hxSjqpcmlMwngh",
+    "title": "03 LLM Wiki+总结（截图04-05）",
+    "path": "18 AI落地-探索AI协作新范式-截图笔记/03 LLM Wiki+总结（截图04-05）",
+    "obj_type": "docx",
+    "filename": "03 LLM Wiki+总结__c851b8.md",
+    "status": "ok",
+    "content_length": 4013,
+    "error": null
+  },
+  {
+    "obj_token": "AHawdPzbvoCIsQxpTwtcMDCznvc",
+    "title": "01 营介绍与段位地图（截图00-04）",
+    "path": "09 如何设计 partner-截图笔记/01 营介绍与段位地图（截图00-04）",
+    "obj_type": "docx",
+    "filename": "01 营介绍与段位地图__7ae8a4.md",
+    "status": "ok",
+    "content_length": 4502,
+    "error": null
+  },
+  {
+    "obj_token": "ErrcdRgpzoWkwjxYJFScvpuoneb",
+    "title": "02 调用知识库与团队协作（截图05-08）",
+    "path": "09 如何设计 partner-截图笔记/02 调用知识库与团队协作（截图05-08）",
+    "obj_type": "docx",
+    "filename": "02 调用知识库与团队协作__8d0ea9.md",
+    "status": "ok",
+    "content_length": 2172,
+    "error": null
+  },
+  {
+    "obj_token": "SZyWdalFbo3SIoxKM0pcNYafnCb",
+    "title": "03 方法论武器库与三层进阶（截图09-14）",
+    "path": "09 如何设计 partner-截图笔记/03 方法论武器库与三层进阶（截图09-14）",
+    "obj_type": "docx",
+    "filename": "03 方法论武器库与三层进阶__bc019b.md",
+    "status": "ok",
+    "content_length": 2185,
+    "error": null
+  },
+  {
+    "obj_token": "GTw0dnNrWozDw7xu1v7cctt6npb",
+    "title": "01 守住底线期待惊喜+必经之路+悲观的乐观主义者（截图01-03）",
+    "path": "19 一堂的信-截图笔记/01 守住底线期待惊喜+必经之路+悲观的乐观主义者（截图01-03）",
+    "obj_type": "docx",
+    "filename": "01 守住底线期待惊喜+必经之路+悲观的乐观主义者__def799.md",
+    "status": "ok",
+    "content_length": 5862,
+    "error": null
+  },
+  {
+    "obj_token": "MWURdcleXo0OHxxGRlJcdBa2nov",
+    "title": "02 蓄力+必修课三板斧+陪伴（截图04-06）",
+    "path": "19 一堂的信-截图笔记/02 蓄力+必修课三板斧+陪伴（截图04-06）",
+    "obj_type": "docx",
+    "filename": "02 蓄力+必修课三板斧+陪伴__07e849.md",
+    "status": "ok",
+    "content_length": 4676,
+    "error": null
+  },
+  {
+    "obj_token": "QONTdl4BaozI4xxKdkrcuILUnuc",
+    "title": "03 一堂两年+2022春+三周年（截图07-09）",
+    "path": "19 一堂的信-截图笔记/03 一堂两年+2022春+三周年（截图07-09）",
+    "obj_type": "docx",
+    "filename": "03 一堂两年+2022春+三周年__9a8d81.md",
+    "status": "ok",
+    "content_length": 3682,
+    "error": null
+  },
+  {
+    "obj_token": "TpH8dBApbo0noBx7tNDcUx26nSh",
+    "title": "04 十年+上场（截图10-11）",
+    "path": "19 一堂的信-截图笔记/04 十年+上场（截图10-11）",
+    "obj_type": "docx",
+    "filename": "04 十年+上场__ac1dd0.md",
+    "status": "ok",
+    "content_length": 3927,
+    "error": null
+  },
+  {
+    "obj_token": "YOoUdevTfoco3nxhZYAc5ciknvk",
+    "title": "01 启动会开场与三个共识（截图00-01）",
+    "path": "10 一堂 X探月-截图笔记/01 启动会开场与三个共识（截图00-01）",
+    "obj_type": "docx",
+    "filename": "01 启动会开场与三个共识__3165e8.md",
+    "status": "ok",
+    "content_length": 5474,
+    "error": null
+  },
+  {
+    "obj_token": "PdBYd4LSfowq4VxqBrVcnSaJnBd",
+    "title": "02 三个待验证假设与实验计划（截图02-03）",
+    "path": "10 一堂 X探月-截图笔记/02 三个待验证假设与实验计划（截图02-03）",
+    "obj_type": "docx",
+    "filename": "02 三个待验证假设与实验计划__926e30.md",
+    "status": "ok",
+    "content_length": 11540,
+    "error": null
+  },
+  {
+    "obj_token": "NSqfds01jowL0CxobAdcPgYfnZe",
+    "title": "03 线上线下报名与回归初心（截图04-06）",
+    "path": "10 一堂 X探月-截图笔记/03 线上线下报名与回归初心（截图04-06）",
+    "obj_type": "docx",
+    "filename": "03 线上线下报名与回归初心__582d4f.md",
+    "status": "ok",
+    "content_length": 11643,
+    "error": null
+  },
+  {
+    "obj_token": "RZQtd4Jq1oJ47WxVviJcSpQbnzc",
+    "title": "01 LEO 文创小人从 0-1：调研、棉花娃娃与电商白底图（截图01）",
+    "path": "13 AI设计实践-截图笔记/01 LEO 文创小人从 0-1：调研、棉花娃娃与电商白底图（截图01）",
+    "obj_type": "docx",
+    "filename": "01 LEO 文创小人从 0-1：调研、棉花娃娃与电商白底图__ca9909.md",
+    "status": "ok",
+    "content_length": 4097,
+    "error": null
+  },
+  {
+    "obj_token": "OAhHduwcUouTTtx5NqUc0b10n6f",
+    "title": "02 新媒体运营物料与拼贴海报提示词模板（截图02）",
+    "path": "13 AI设计实践-截图笔记/02 新媒体运营物料与拼贴海报提示词模板（截图02）",
+    "obj_type": "docx",
+    "filename": "02 新媒体运营物料与拼贴海报提示词模板__f33740.md",
+    "status": "ok",
+    "content_length": 4835,
+    "error": null
+  },
+  {
+    "obj_token": "U7cXdugVzo0NhExIpZjcqYREnoh",
+    "title": "03 物理落地、核心心法、分层建议与作业（截图03-04）",
+    "path": "13 AI设计实践-截图笔记/03 物理落地、核心心法、分层建议与作业（截图03-04）",
+    "obj_type": "docx",
+    "filename": "03 物理落地、核心心法、分层建议与作业__60bf5f.md",
+    "status": "ok",
+    "content_length": 6091,
+    "error": null
+  },
+  {
+    "obj_token": "S3SId97s8opz2YxeiXHcdL8cnke",
+    "title": "01 双三角征文：我的一个AI落地实践（截图01-02）",
+    "path": "20 如何写一篇文章-截图笔记/01 双三角征文：我的一个AI落地实践（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 双三角征文：我的一个AI落地实践__4a2f77.md",
+    "status": "ok",
+    "content_length": 3089,
+    "error": null
+  },
+  {
+    "obj_token": "Wh6cdGDybohoAQxt5Frczod3nad",
+    "title": "01 为什么开始+快速启动（截图01-02）",
+    "path": "21 龙虾员工实践-截图笔记/01 为什么开始+快速启动（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 为什么开始+快速启动__fa9b15.md",
+    "status": "ok",
+    "content_length": 2214,
+    "error": null
+  },
+  {
+    "obj_token": "BX1VdiwjTo0Ys6xPCKIcVjnBnkh",
+    "title": "02 数字员工是怎么长出来的（截图03）",
+    "path": "21 龙虾员工实践-截图笔记/02 数字员工是怎么长出来的（截图03）",
+    "obj_type": "docx",
+    "filename": "02 数字员工是怎么长出来的__a829cc.md",
+    "status": "ok",
+    "content_length": 4848,
+    "error": null
+  },
+  {
+    "obj_token": "Z4xndVMuPoZ9rGxnYcJcHKRFnJn",
+    "title": "03 回到AIGC视频+复盘（截图04-05）",
+    "path": "21 龙虾员工实践-截图笔记/03 回到AIGC视频+复盘（截图04-05）",
+    "obj_type": "docx",
+    "filename": "03 回到AIGC视频+复盘__645856.md",
+    "status": "ok",
+    "content_length": 5198,
+    "error": null
+  },
+  {
+    "obj_token": "BKOldey1CoaY84xd1kecmiTpneg",
+    "title": "01 开场与卖冰棍的故事（截图00-02）",
+    "path": "22 7.14 一堂五步法-截图笔记/01 开场与卖冰棍的故事（截图00-02）",
+    "obj_type": "docx",
+    "filename": "01 开场与卖冰棍的故事__b40821.md",
+    "status": "ok",
+    "content_length": 8074,
+    "error": null
+  },
+  {
+    "obj_token": "T3S7dobYJoLYH7xLFApceC86n9d",
+    "title": "02 一堂五步法画布与壁垒讨论（截图03-04）",
+    "path": "22 7.14 一堂五步法-截图笔记/02 一堂五步法画布与壁垒讨论（截图03-04）",
+    "obj_type": "docx",
+    "filename": "02 一堂五步法画布与壁垒讨论__26657a.md",
+    "status": "ok",
+    "content_length": 2295,
+    "error": null
+  },
+  {
+    "obj_token": "WaVndxkadoG3xSxazwBcH0kCnM9",
+    "title": "03 回顾总结与课后作业（截图05-06）",
+    "path": "22 7.14 一堂五步法-截图笔记/03 回顾总结与课后作业（截图05-06）",
+    "obj_type": "docx",
+    "filename": "03 回顾总结与课后作业__281881.md",
+    "status": "ok",
+    "content_length": 1947,
+    "error": null
+  },
+  {
+    "obj_token": "A1YAdsq9QobIBvxOvCicLtQSnvg",
+    "title": "01 开营寄语：守住底线，期待惊喜（截图01-02）",
+    "path": "23 7.14 暑假完整介绍-截图笔记/01 开营寄语：守住底线，期待惊喜（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 开营寄语：守住底线，期待惊喜__625b5d.md",
+    "status": "ok",
+    "content_length": 9255,
+    "error": null
+  },
+  {
+    "obj_token": "TCnhdlFncoxiT3x9Q6qc6VHinqf",
+    "title": "01 为什么要讲精益思维（截图01-02）",
+    "path": "24 7.14 低成本验证之MVP-截图笔记/01 为什么要讲精益思维（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 为什么要讲精益思维__4ecae8.md",
+    "status": "ok",
+    "content_length": 3815,
+    "error": null
+  },
+  {
+    "obj_token": "YhcGdPKH8oLErvxVS9Uc9BUKnpd",
+    "title": "02 为什么不能一次做对与MVP概念（截图03-04）",
+    "path": "24 7.14 低成本验证之MVP-截图笔记/02 为什么不能一次做对与MVP概念（截图03-04）",
+    "obj_type": "docx",
+    "filename": "02 为什么不能一次做对与MVP概念__6d3338.md",
+    "status": "ok",
+    "content_length": 3558,
+    "error": null
+  },
+  {
+    "obj_token": "S0Q2dzCkFo0cpOxPWuyc1JUTnnf",
+    "title": "03 五种心态与MVP实操+课程总结（截图05-07）",
+    "path": "24 7.14 低成本验证之MVP-截图笔记/03 五种心态与MVP实操+课程总结（截图05-07）",
+    "obj_type": "docx",
+    "filename": "03 五种心态与MVP实操+课程总结__99b5c1.md",
+    "status": "ok",
+    "content_length": 9196,
+    "error": null
+  },
+  {
+    "obj_token": "Ebt5dHZW9oqAG5xfLsWcr234neQ",
+    "title": "01 引子：一张卷子三层世界+方法论大地图（截图01-03）",
+    "path": "25 7.15 需求侦探之旅-截图笔记/01 引子：一张卷子三层世界+方法论大地图（截图01-03）",
+    "obj_type": "docx",
+    "filename": "01 引子：一张卷子三层世界+方法论大地图__6bc93c.md",
+    "status": "ok",
+    "content_length": 4997,
+    "error": null
+  },
+  {
+    "obj_token": "MKU1dyrsEo3kVDxQV9Eci665nCd",
+    "title": "02 拆推评与说清需求+总结（截图04-06）",
+    "path": "25 7.15 需求侦探之旅-截图笔记/02 拆推评与说清需求+总结（截图04-06）",
+    "obj_type": "docx",
+    "filename": "02 拆推评与说清需求+总结__2dc779.md",
+    "status": "ok",
+    "content_length": 7230,
+    "error": null
+  },
+  {
+    "obj_token": "P3qQd05oQoAUeoxhSV0cOcAwn5g",
+    "title": "01 开场+找宝藏+造武器+算金币（截图01-02）",
+    "path": "26 7.15 把好想法变成真事-截图笔记/01 开场+找宝藏+造武器+算金币（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 开场+找宝藏+造武器+算金币__4c761b.md",
+    "status": "ok",
+    "content_length": 6214,
+    "error": null
+  },
+  {
+    "obj_token": "D0p9dSQhCofPV5xkMxTccepFn9e",
+    "title": "02 喊队友+守城堡+总结（截图03-04）",
+    "path": "26 7.15 把好想法变成真事-截图笔记/02 喊队友+守城堡+总结（截图03-04）",
+    "obj_type": "docx",
+    "filename": "02 喊队友+守城堡+总结__c0b74f.md",
+    "status": "ok",
+    "content_length": 5496,
+    "error": null
+  },
+  {
+    "obj_token": "P8pidwSOWoAJv2xmU3mcZK0fn2b",
+    "title": "01 调研黑客：OSCAR 模型（截图01-02）",
+    "path": "27 7.16 调研黑客-截图笔记/01 调研黑客：OSCAR 模型（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 调研黑客：OSCAR 模型__ed07e4.md",
+    "status": "ok",
+    "content_length": 7825,
+    "error": null
+  },
+  {
+    "obj_token": "I81Pdf3p2oeg3UxohKacTA1Anpd",
+    "title": "01 开篇+义卖摆摊背景（截图01-02）",
+    "path": "28 7.17 需求洞察-截图笔记/01 开篇+义卖摆摊背景（截图01-02）",
+    "obj_type": "docx",
+    "filename": "01 开篇+义卖摆摊背景__c8df67.md",
+    "status": "ok",
+    "content_length": 1882,
+    "error": null
+  },
+  {
+    "obj_token": "XMw0dq8i4o0NbnxvJYUc2KzVnqc",
+    "title": "02 四位同学摆摊实录（截图03-06）",
+    "path": "28 7.17 需求洞察-截图笔记/02 四位同学摆摊实录（截图03-06）",
+    "obj_type": "docx",
+    "filename": "02 四位同学摆摊实录__0610de.md",
+    "status": "ok",
+    "content_length": 7656,
+    "error": null
+  },
+  {
+    "obj_token": "TwewdMWYDoUvWNxeypZcr6wUnTe",
+    "title": "03 ABCD大PK复盘（截图07）",
+    "path": "28 7.17 需求洞察-截图笔记/03 ABCD大PK复盘（截图07）",
+    "obj_type": "docx",
+    "filename": "03 ABCD大PK复盘__56672b.md",
+    "status": "ok",
+    "content_length": 2153,
+    "error": null
+  },
+  {
+    "obj_token": "Fs1ld8HzaodJJ3xHEkKcV7TenKE",
+    "title": "04 进阶公式+回顾总结（截图08-09）",
+    "path": "28 7.17 需求洞察-截图笔记/04 进阶公式+回顾总结（截图08-09）",
+    "obj_type": "docx",
+    "filename": "04 进阶公式+回顾总结__bda55a.md",
+    "status": "ok",
+    "content_length": 4515,
+    "error": null
+  },
+  {
+    "obj_token": "YpkYdqMaFoZxfpxu67YcHSnmnYg",
+    "title": "01 开篇提出问题：一个拿到MVP的项目（截图01）",
+    "path": "29 7.20 一堂五步法-截图笔记/01 开篇提出问题：一个拿到MVP的项目（截图01）",
+    "obj_type": "docx",
+    "filename": "01 开篇提出问题：一个拿到MVP的项目__4e31d5.md",
+    "status": "ok",
+    "content_length": 2026,
+    "error": null
+  },
+  {
+    "obj_token": "G8FRdZPzVolsd2xFaHGcDSWdnQf",
+    "title": "02 打开地图：商业判断的五个问题（截图02）",
+    "path": "29 7.20 一堂五步法-截图笔记/02 打开地图：商业判断的五个问题（截图02）",
+    "obj_type": "docx",
+    "filename": "02 打开地图：商业判断的五个问题__068eaf.md",
+    "status": "ok",
+    "content_length": 2339,
+    "error": null
+  },
+  {
+    "obj_token": "JIyTdkFC8orfPVxfQowcEzX1ncg",
+    "title": "03 实战：需求原点与解决方案（截图03-04）",
+    "path": "29 7.20 一堂五步法-截图笔记/03 实战：需求原点与解决方案（截图03-04）",
+    "obj_type": "docx",
+    "filename": "03 实战：需求原点与解决方案__e036cf.md",
+    "status": "ok",
+    "content_length": 4917,
+    "error": null
+  },
+  {
+    "obj_token": "Ox5Mdnsl6oHQAcxy4q5cO3l3nCe",
+    "title": "04 实战：商业模式、业务增长与项目壁垒（截图05-07）",
+    "path": "29 7.20 一堂五步法-截图笔记/04 实战：商业模式、业务增长与项目壁垒（截图05-07）",
+    "obj_type": "docx",
+    "filename": "04 实战：商业模式、业务增长与项目壁垒__f7296f.md",
+    "status": "ok",
+    "content_length": 9583,
+    "error": null
+  },
+  {
+    "obj_token": "LbvmdcKCworrkJx8nPBcONbXn8B",
+    "title": "05 判读纠偏+迁移练习+课程总结（截图08-11）",
+    "path": "29 7.20 一堂五步法-截图笔记/05 判读纠偏+迁移练习+课程总结（截图08-11）",
+    "obj_type": "docx",
+    "filename": "05 判读纠偏+迁移练习+课程总结__c1b25f.md",
+    "status": "ok",
+    "content_length": 7441,
+    "error": null
+  },
+  {
+    "obj_token": "DTvgdiE0aoZOuaxHxZycF1M4nVg",
+    "title": "01 一堂五步法：做成一件事之前先问自己5个问题（截图00-03）",
+    "path": "30 7.21 一堂五步法-截图笔记/01 一堂五步法：做成一件事之前先问自己5个问题（截图00-03）",
+    "obj_type": "docx",
+    "filename": "01 一堂五步法：做成一件事之前先问自己5个问题__42a68c.md",
+    "status": "ok",
+    "content_length": 8606,
+    "error": null
+  },
+  {
+    "obj_token": "ThlcdqH2woEvxoxcckvc22Vwnec",
+    "title": "01 为什么要学+两种致命浪费（截图00-02）",
+    "path": "31 7.21 低成本验证-截图笔记/01 为什么要学+两种致命浪费（截图00-02）",
+    "obj_type": "docx",
+    "filename": "01 为什么要学+两种致命浪费__1cac63.md",
+    "status": "ok",
+    "content_length": 4258,
+    "error": null
+  },
+  {
+    "obj_token": "JKn4dCmuBoNzMLxtKYZc2XinnMb",
+    "title": "02 三个基础原则+回顾作业（截图03-05）",
+    "path": "31 7.21 低成本验证-截图笔记/02 三个基础原则+回顾作业（截图03-05）",
+    "obj_type": "docx",
+    "filename": "02 三个基础原则+回顾作业__951a8d.md",
+    "status": "ok",
+    "content_length": 3817,
+    "error": null
+  },
+  {
+    "obj_token": "TW7AdOIE2oijzkx5E6jcl0FsnSQ",
+    "title": "01 开场+Leo画师初体验（截图00-02）",
+    "path": "32 7.22 青少年mvp验证课-截图笔记/01 开场+Leo画师初体验（截图00-02）",
+    "obj_type": "docx",
+    "filename": "01 开场+Leo画师初体验__ce162e.md",
+    "status": "ok",
+    "content_length": 4065,
+    "error": null
+  },
+  {
+    "obj_token": "HGckdjV4lo7vlfxYo6rctJoingf",
+    "title": "02 方法提炼+迁移案例（截图03-04）",
+    "path": "32 7.22 青少年mvp验证课-截图笔记/02 方法提炼+迁移案例（截图03-04）",
+    "obj_type": "docx",
+    "filename": "02 方法提炼+迁移案例__becd8d.md",
+    "status": "ok",
+    "content_length": 3195,
+    "error": null
+  },
+  {
+    "obj_token": "PR0RdYCNVoJ54ZxzoabcCtkTnxf",
+    "title": "03 终局挑战+总结作业（截图05-06）",
+    "path": "32 7.22 青少年mvp验证课-截图笔记/03 终局挑战+总结作业（截图05-06）",
+    "obj_type": "docx",
+    "filename": "03 终局挑战+总结作业__1763f6.md",
+    "status": "ok",
+    "content_length": 3800,
+    "error": null
+  },
+  {
+    "obj_token": "SBakdpVxqoyyM9xusfIcHJnyn5v",
+    "title": "01 开场+20万案例+拆解方法基础版（截图00-02）",
+    "path": "33 7.22 需求分析-截图笔记/01 开场+20万案例+拆解方法基础版（截图00-02）",
+    "obj_type": "docx",
+    "filename": "01 开场+20万案例+拆解方法基础版__51135e.md",
+    "status": "ok",
+    "content_length": 4444,
+    "error": null
+  },
+  {
+    "obj_token": "UCfNdq9iaoPn8Ux7yeRc0Ncznkg",
+    "title": "02 进阶版方法+案例复盘+课后练习（截图03-05）",
+    "path": "33 7.22 需求分析-截图笔记/02 进阶版方法+案例复盘+课后练习（截图03-05）",
+    "obj_type": "docx",
+    "filename": "02 进阶版方法+案例复盘+课后练习__9735b1.md",
+    "status": "ok",
+    "content_length": 3478,
+    "error": null
+  },
+  {
+    "obj_token": "UxWFdxeYmoU1QqxgKSsc70Wfn3g",
+    "title": "01 产品内核：用户为什么会买我的产品？（截图00-03）",
+    "path": "34 7.23 产品内核-截图笔记/01 产品内核：用户为什么会买我的产品？（截图00-03）",
+    "obj_type": "docx",
+    "filename": "01 产品内核：用户为什么会买我的产品？__c2ed0f.md",
+    "status": "ok",
+    "content_length": 8003,
+    "error": null
+  },
+  {
+    "obj_token": "Qqi8dETtSomlGuxdyaccxmAcnOb",
+    "title": "01 开场设计+从消费者到创业者视角（截图00-01）",
+    "path": "35 7.24 一堂五步法-截图笔记/01 开场设计+从消费者到创业者视角（截图00-01）",
+    "obj_type": "docx",
+    "filename": "01 开场设计+从消费者到创业者视角__adbe51.md",
+    "status": "ok",
+    "content_length": 2693,
+    "error": null
+  },
+  {
+    "obj_token": "DxpEdVtAEod3GVxc1a6ccC2Tnid",
+    "title": "02 内容讲解：一堂五步法详解（截图02-03）",
+    "path": "35 7.24 一堂五步法-截图笔记/02 内容讲解：一堂五步法详解（截图02-03）",
+    "obj_type": "docx",
+    "filename": "02 内容讲解：一堂五步法详解__b43f42.md",
+    "status": "ok",
+    "content_length": 3637,
+    "error": null
+  },
+  {
+    "obj_token": "PStkdBdSvorvsax2o5yc5VTFnTd",
+    "title": "03 Labubu案例+假设验证+作业（截图04-06）",
+    "path": "35 7.24 一堂五步法-截图笔记/03 Labubu案例+假设验证+作业（截图04-06）",
+    "obj_type": "docx",
+    "filename": "03 Labubu案例+假设验证+作业__8f4a14.md",
+    "status": "ok",
+    "content_length": 3580,
+    "error": null
+  },
+  {
+    "obj_token": "AOT0dCoH3o7KA1xcAGxcxaUVnkb",
+    "title": "01 开篇与小小产品设计师（截图00-03）",
+    "path": "36 7.26 产品内核-截图笔记/01 开篇与小小产品设计师（截图00-03）",
+    "obj_type": "docx",
+    "filename": "01 开篇与小小产品设计师__53ef32.md",
+    "status": "ok",
+    "content_length": 4164,
+    "error": null
+  }
+]

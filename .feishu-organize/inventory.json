@@ -1,0 +1,2491 @@
+{
+ "space_id": "7669431379494440158",
+ "root": [
+  {
+   "title": "01 AI双三角",
+   "type": "docx",
+   "node_token": "MG4hwkehRiI1ZikEti5cZLw4neg",
+   "obj_token": "NzE9deozroOKc5x6tuScM1PfnCb",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "01 AI双三角 逐字稿",
+   "type": "docx",
+   "node_token": "MhTEwUml3i9DBTkb5rpcqsL5n2e",
+   "obj_token": "Hk57dodgLoTLaBxYNGEcm9pdnjf",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "02 AI如何生图",
+   "type": "docx",
+   "node_token": "Fazkwr6JFi9JvFkbaE8cr9zCnue",
+   "obj_token": "JxdPdVnFfom1kFxaO6ec1zArnQ2",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "03 AI数据",
+   "type": "docx",
+   "node_token": "BpxbwxFwkiqolckSjUfc3mzYnWh",
+   "obj_token": "NcBUd6XeEooh6sxCA8gcFDIznWf",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "04 同一个人，同一个AI，一分钱没多花：改五句话，图片能好到什么程度",
+   "type": "docx",
+   "node_token": "Vq2NwlIENi4in5kPymFcitBrnSh",
+   "obj_token": "GsprdTC0YoilCNxrBg7cHG8tnhf",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "05 提示词复制",
+   "type": "docx",
+   "node_token": "T0DxwL7T9ighbWk6b1XcUQqYnQc",
+   "obj_token": "HTfldW9KyoH9fox1IeJcg2GrnWc",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "07 数据的计算",
+   "type": "docx",
+   "node_token": "Nq27wCY8SiMNTtkb6xhcwwc3nZe",
+   "obj_token": "Cpmxda44eo6ukRxZIUgcSJVUnd8",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "AI教育课",
+   "type": "docx",
+   "node_token": "FdpEwgY1jiVUw3kj01qcpE3mnAh",
+   "obj_token": "DGvnddZp7oBmrVxDabYclHmhncd",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "AI简历",
+   "type": "docx",
+   "node_token": "Q9FRwbugRiwEmQkTHy1cdLehn4b",
+   "obj_token": "MeTQd7AR3oKNFSxprPZcx60ynrh",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "03 AI数据第一课",
+   "type": "docx",
+   "node_token": "XNQpwKCstiPjBokygypchl1knFe",
+   "obj_token": "DO8WdZzlVojP9LxRVcIc6qM9nEd",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "04 AI口喷-截图笔记",
+   "type": "docx",
+   "node_token": "LbSnwy1iViZWZvk76tscZ1Hnnze",
+   "obj_token": "VVK2dRaOqox18txoCEhcdxMVntb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "05 AI基本功-截图笔记",
+   "type": "docx",
+   "node_token": "Z7cYwquPJiIbKtkgf48cbPo9nBg",
+   "obj_token": "DrKudsQY7obJt9xljOgcIrzlnri",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "06 AI双三角-截图笔记",
+   "type": "docx",
+   "node_token": "KLzpw8O74iSLujkcRMcc5pWLn0c",
+   "obj_token": "DbLIdEn9AoSLNSxqsdxcibpxn5c",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "07 AI场景第一课-截图笔记",
+   "type": "docx",
+   "node_token": "EGpTwAGomiWD0wkQzx1chLdYnMc",
+   "obj_token": "G8KfdyDKgoE8jFx8ACPcG9vondb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "AI时代的数据计算",
+   "type": "slides",
+   "node_token": "LVDwwcXgViRdz5kBVc5cNhJ2nbc",
+   "obj_token": "EW5KsgDGFlcKXadnIEHcC9xPnsc",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "AI时代的数据计算（互动精简版）",
+   "type": "slides",
+   "node_token": "SCTewDlYfitfU1kwbcHcD6vSnxh",
+   "obj_token": "CbJSsVbzKlete2dnkVccK65VnUe",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "AI课程PPT制作经验总结",
+   "type": "docx",
+   "node_token": "DYfewfOQ5ifwDwkUDupcYV7UnQf",
+   "obj_token": "KMMvdamdUoqxZsxvPhYcCzSqnUh",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "AI课程PPT制作提示词模板",
+   "type": "docx",
+   "node_token": "QRK3wki7Mi7qAfkhN99cbREcngd",
+   "obj_token": "RIXmdHw8ToPQIMxu1oIcQ1myn6e",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "方法论：课程链接提取入库与复用方案",
+   "type": "docx",
+   "node_token": "MoJ1wb8riikLLpkjqdjcx4DKnzZ",
+   "obj_token": "RO3rdJLvAoQ0Bgx4Egccop3mnSs",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "08 截图转文字：经验沉淀·不足复盘·标准流程SOP",
+   "type": "docx",
+   "node_token": "QKQewMvWji50TPkRT1VcP5NvnOc",
+   "obj_token": "VVzEdreWCozwwwx9PmccVHlPnsf",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "全员必修：深度复盘第一课",
+   "type": "docx",
+   "node_token": "SnH7wy7f6ibnOLknEZFcQ4yBn3d",
+   "obj_token": "F1xVd2nb6o41nUxDCeXcs9etnif",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "🎯AI落地Live 87·蓝鱼：素人上手搭AI知识体系",
+   "type": "docx",
+   "node_token": "XOnYw5nWQibLWUkXNDrcgV0QnRb",
+   "obj_token": "Bdwed8nVHo5XZnx859Uc4ioqn1c",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "🎯一堂行动营：刻意练习AI落地篇",
+   "type": "docx",
+   "node_token": "WF91wwLuhivXrykHrxhcdEC2nIb",
+   "obj_token": "Z3BBd9gEeoxYq1xSC5jc8Frtnge",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "全员必修：重新理解「科学理念」",
+   "type": "docx",
+   "node_token": "Ph5YwaJ2YidEBLk8qgOcetvBnvb",
+   "obj_token": "L93Sd1qWVom4SSx1tmHcNi8MnLd",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "全员必修：重新理解解放思想",
+   "type": "docx",
+   "node_token": "HdffwZXZqiwLTqkQVluc4hyWnzh",
+   "obj_token": "Kpb5de79doh1pNxal4Kcv090neW",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 2/2",
+   "type": "docx",
+   "node_token": "DWH1we7TbieZWFkiw8kc4sXtnqV",
+   "obj_token": "FOAZdaFL2oFibIxJNdDcWvQYnLe",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 1/2",
+   "type": "docx",
+   "node_token": "Ewn5wHtnei4uMHkQu47cIkgJnRe",
+   "obj_token": "WmXTdAXBvoJTMzxwazNcRSWxnde",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "知识库",
+   "type": "docx",
+   "node_token": "K5rBwcrcYiLUIQkjErUcRCJznkg",
+   "obj_token": "LWOIdU300ozn2VxqWkzcyiVpnUf",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "16 AI场景如何落地-截图笔记",
+   "type": "docx",
+   "node_token": "HUwYw2yqWiGDJEkkVgucl4wLnVY",
+   "obj_token": "XtYodEbxioaT3exNgcWc90x8noc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "17 如何把汇报打磨成一个好案例-截图笔记",
+   "type": "docx",
+   "node_token": "TA7PwVjtmibhJUkdDFscQQQ6nje",
+   "obj_token": "CF3Vdk7XwoNSvdxOvbPc8AEsnmb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "08 双三角思考-截图笔记",
+   "type": "docx",
+   "node_token": "SRtLwl1Fji54IFkyLXecineqnie",
+   "obj_token": "YwucdLh5VoBG0Oxo92ucDAz6nSe",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "12 AI内容工业化生产-截图笔记",
+   "type": "docx",
+   "node_token": "JKv6wXxqZiKZkQknbdkcwdZsn1f",
+   "obj_token": "IweNdvH5eoZzEKxGfqXcmstXnlb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "18 AI落地-探索AI协作新范式-截图笔记",
+   "type": "docx",
+   "node_token": "XNqnweSSOi4QtgkqxjgcjeoDnzd",
+   "obj_token": "Sf41dITEeo0kxsxrpIBcgQg9n3d",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "09 如何设计 partner-截图笔记",
+   "type": "docx",
+   "node_token": "BsVyw7MoQidfOgkWSYic5KOCnQh",
+   "obj_token": "Bk8ndLSpHonPThxE60jcZCy5nJe",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "19 一堂的信-截图笔记",
+   "type": "docx",
+   "node_token": "VrRswHkEniXU7okVguLcEuYBnLd",
+   "obj_token": "Kz03dIA7uoBfHXxtIN6civSXn48",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "10 一堂 X探月-截图笔记",
+   "type": "docx",
+   "node_token": "UvPVwLXdtis3nLknoLqcf9N3noc",
+   "obj_token": "XV2NdSlH7oceAmxqWZncyZ6InSh",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "13 AI设计实践-截图笔记",
+   "type": "docx",
+   "node_token": "SzDmwTRgXiQ9YMkVfmxcSRhnnic",
+   "obj_token": "JsXddfLEEoUus6xnWQWccMrDn6f",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "20 如何写一篇文章-截图笔记",
+   "type": "docx",
+   "node_token": "QhHswcOZbimKo8ka8MzcfIW7nOd",
+   "obj_token": "EVFUdGYV5o4lsbxmldjckJwcnIb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "21 龙虾员工实践-截图笔记",
+   "type": "docx",
+   "node_token": "SB1lwdZT4iU4YskLhrPcMoezngh",
+   "obj_token": "W5LrdaJaYoxodBxztY6cZvSzngd",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "22 7.14 一堂五步法-截图笔记",
+   "type": "docx",
+   "node_token": "B7wswuywAicyNwkpqXLcJSR4n4e",
+   "obj_token": "IqDddR6W9okp3sxtF4Ycg74Pn1T",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "23 7.14 暑假完整介绍-截图笔记",
+   "type": "docx",
+   "node_token": "V5jKwXW0ciswf2k57tLcCpqfndg",
+   "obj_token": "DkvTdkJo2ohA43xYMZNciu9Dnzc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "24 7.14 低成本验证之MVP-截图笔记",
+   "type": "docx",
+   "node_token": "Ddn1wv33BiO0CckNqKactz23nRc",
+   "obj_token": "GD12dhu76ospdex0ey7cXne2nPc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "25 7.15 需求侦探之旅-截图笔记",
+   "type": "docx",
+   "node_token": "B5eQwRbMkiiW11kD30mcqJIonOf",
+   "obj_token": "Sru2dBDvLotlAkxnnGQcE5cfnPd",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "26 7.15 把好想法变成真事-截图笔记",
+   "type": "docx",
+   "node_token": "Tn7cwlqqFiOdgskf50Lc7jV5nUh",
+   "obj_token": "UrXKdsWfCokUsZxoj7YcexzKn9c",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "27 7.16 调研黑客-截图笔记",
+   "type": "docx",
+   "node_token": "AePDwqvlMinUb3kva7fcdFxqnVd",
+   "obj_token": "UlsEd76r2oiEBPxnCmDcpgtWnpg",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "28 7.17 需求洞察-截图笔记",
+   "type": "docx",
+   "node_token": "LFxtwwKSdiJNpJkupU3cs2SWnLf",
+   "obj_token": "G7rgdhQoJoUMJmxRoYzc7TI6ntg",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "29 7.20 一堂五步法-截图笔记",
+   "type": "docx",
+   "node_token": "TFPLwTKsGiGUI5k1jp2cb3R5nif",
+   "obj_token": "KUVyd2EtxoeUIlxOe3IcMvk5nKf",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "30 7.21 一堂五步法-截图笔记",
+   "type": "docx",
+   "node_token": "S6g5wowEeiCfjtkXMuwc65gVnpf",
+   "obj_token": "L1zxdkIBYoPVOSxhIN4cqpwjnAc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "31 7.21 低成本验证-截图笔记",
+   "type": "docx",
+   "node_token": "C45tw2QAeiA4zLk0oTuc3Nnynze",
+   "obj_token": "KP8ldZ2C2oo5d8xSvn0c0KJ2nZc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "32 7.22 青少年mvp验证课-截图笔记",
+   "type": "docx",
+   "node_token": "J7Gjw4fCGimGpGkphGSc296HnFg",
+   "obj_token": "F7FZdvBETobKF3x3HYtcG5glnxd",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "33 7.22 需求分析-截图笔记",
+   "type": "docx",
+   "node_token": "U1dTwuPKjiDPL5kNHEycB4kGnhd",
+   "obj_token": "Dlr4daZmDomG8DxAV8cciJzFnMe",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "34 7.23 产品内核-截图笔记",
+   "type": "docx",
+   "node_token": "Jhg8wxrdki7BfXkrX2TcWPkzn0b",
+   "obj_token": "VurGdjC5Io8P2DxxkIack5kFnIa",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "35 7.24 一堂五步法-截图笔记",
+   "type": "docx",
+   "node_token": "KUG3wVr64irerGkhTXVc7Ph9n5f",
+   "obj_token": "MH9qd5TNHotInvxEkeccCd8ynjB",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "36 7.26 产品内核-截图笔记",
+   "type": "docx",
+   "node_token": "JWGbwEeFpiKPCDkX5rJcvYg3nob",
+   "obj_token": "ZVHxdeej2obdvfxebpOcbDTgnPf",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "37 7.27 AI双三角-截图笔记",
+   "type": "docx",
+   "node_token": "BJEhwcxObiakWQkfuuecjjbDned",
+   "obj_token": "G9oLdXlujozQ8hxPQBYcY6KjnWc",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "38 7.27 科学决策-截图笔记",
+   "type": "docx",
+   "node_token": "G7oKwe8SViGNLukjw5Bcozk0nEd",
+   "obj_token": "DSUodXFs3oqM9oxDY1UcB4bhnCf",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "39 7.28 重新理解领导力-截图笔记",
+   "type": "docx",
+   "node_token": "DXCqwFHO7iuIrDkvOZJc8sConMZ",
+   "obj_token": "IeapdRDfHoafnTxmrxqcHnvnn4c",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "40 7.30 泛产品设计-截图笔记",
+   "type": "docx",
+   "node_token": "SNQCwIM4uinuQXk8yxDcOe5NnCf",
+   "obj_token": "Bf6EdOjDLoByxTxLlnQcEP55nTf",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "41 7.31 AI时代的领导力-截图笔记",
+   "type": "docx",
+   "node_token": "OOHgwo8Oii1qmbkLL7AcSpdEn8d",
+   "obj_token": "TCIudJfN7ojLPGxLddGcdpt2nud",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "42 8.14 人生红点-截图笔记",
+   "type": "docx",
+   "node_token": "NJERw1PNSiUlrFkVsF8ckKDon0A",
+   "obj_token": "KArvdHAjOoukX7xOKj9cPwx0nNb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "43 8.4 AI双三角-截图笔记",
+   "type": "docx",
+   "node_token": "Z46dwY32liIm2vkoIJMct16onvf",
+   "obj_token": "YAQEdJGSwogRkExpbFxcI8UKnTh",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "44 8.6 泛产品设计-截图笔记",
+   "type": "docx",
+   "node_token": "HXwVwTaEzibVYZkN2pfclUD8nsg",
+   "obj_token": "ApvvdZA36ozcfixVRmWc5LG6nfb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "45 8.7 AI双三角-截图笔记",
+   "type": "docx",
+   "node_token": "McPGwqeMLit4taks60zczcBlnRf",
+   "obj_token": "NmQ4degyUoWVG1xnhgJcWXn8nLd",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "46 8.7 领导力-截图笔记",
+   "type": "docx",
+   "node_token": "XPUzwsaXuiItELkPE8ecZhCsnZc",
+   "obj_token": "XaVrdxa7ao69dxxSZjacOGLanch",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "47 IPO1-截图笔记",
+   "type": "docx",
+   "node_token": "LNWVwtWv2iR4mqkptbic2ZH9nqh",
+   "obj_token": "UEJMdKCM3oituExWbagcyUVAnq0",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "48 IPO2-截图笔记",
+   "type": "docx",
+   "node_token": "Iub5w4IpziWH3Mk2PV7c9oGCnWh",
+   "obj_token": "NpJfdlEPuo6xswxIaU9cI9YfnLb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "49 人生红点-截图笔记",
+   "type": "docx",
+   "node_token": "Lc7zwqy9aiGMaDkkIaacAOJMnle",
+   "obj_token": "Ysa4dazmBow1lFxzIHZcvRr9njh",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "50 时间管理-截图笔记",
+   "type": "docx",
+   "node_token": "Guh1wfETriMaC7kiy2IcAvycnIh",
+   "obj_token": "PaWUdif3XoIpGDxz7w4cRoqJnjb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "51 知识管理-截图笔记",
+   "type": "docx",
+   "node_token": "GMqHw2elziXkCtke9pkcllLNnHd",
+   "obj_token": "HfPWdeQ7Lo4YbWxkTnUcbXi0n3g",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "52 刻意练习1-截图笔记",
+   "type": "docx",
+   "node_token": "VRJrwGs29iBSsEkqauXc4LQpnob",
+   "obj_token": "SDludXLbHozt90xS0nQcKnZ6nAb",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "53 刻意练习2-截图笔记",
+   "type": "docx",
+   "node_token": "Yn6CwwfoBib5tZkWxJ7c2AeQn0e",
+   "obj_token": "L81IdL6s2oKkRjxkaN0csy8enRg",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "54 从交叉到交付，从新设计你的自我介绍-截图笔记",
+   "type": "docx",
+   "node_token": "Swsuwanwbin9G5kz7aecXN4XnAh",
+   "obj_token": "AthzdpuoKoHiAxxAIWrcTMhZnUh",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "11 做课培训-截图笔记",
+   "type": "docx",
+   "node_token": "VIkqworIgiEpC3kojK3cNNksnKf",
+   "obj_token": "WwkTdqkwfoN9EnxPKqRcDzzfnPa",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "14 AI制作ppt-截图笔记",
+   "type": "docx",
+   "node_token": "S1mCwfBhzivz9rko7BxcCmxgn5b",
+   "obj_token": "Zzrsdr8u5oRfwPxONb4cNX3Yn3c",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "15 AI自动化生成网感视频-截图笔记",
+   "type": "docx",
+   "node_token": "ASKRwPdQciqtfvk9GtGcGiYRn0c",
+   "obj_token": "ESM2d5rHhoRoI7xwP7pce5rqnpg",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "08 我用一堂做一堂-战略笃定篇-截图笔记",
+   "type": "docx",
+   "node_token": "RTUbwC8EWiFJLKkBhREcCcDsnNd",
+   "obj_token": "K7bYdjhIUoQy46xT714cH6Keng3",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "09 调研-爆炸式调研-截图笔记",
+   "type": "docx",
+   "node_token": "NU4sw9VPjipOqPkNMh1cVC0snic",
+   "obj_token": "FAqDdBoDvo9vgvxq9vIcaDchnpg",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "10 十指讲香模型-截图笔记",
+   "type": "docx",
+   "node_token": "V6a0wnkKYi6rm4kxkmxcu8ESnih",
+   "obj_token": "InRudpxCXoK3PJxPvVkcQGuYnqf",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "11 调研-武器篇-截图笔记",
+   "type": "docx",
+   "node_token": "IgwqwbRkqi4xMrklHEJcXv9Wnjc",
+   "obj_token": "Xl1hdgt4Yo18n2xybNjcUrpDnbe",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "12 调研黑客5部曲认知篇-截图笔记",
+   "type": "docx",
+   "node_token": "YSIGwDeGhiXneGkuENCcW6mzntf",
+   "obj_token": "GnoOdetPwowW7DxXkyHcCnGmnfb",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "12 调研黑客5部曲认知篇-截图笔记",
+   "type": "docx",
+   "node_token": "ZePSwuOKBiIQpDkvBRucR54vn4d",
+   "obj_token": "US4NdKefkofWZLxCyu4cYzgPnft",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "13 调研黑客5部曲实操篇-截图笔记",
+   "type": "docx",
+   "node_token": "Z0LYwkLaCibBrGkBL13cQb0Nnpe",
+   "obj_token": "KOTndphmYo8wb7xcBbBcegW2n7f",
+   "has_child": true,
+   "parent": ""
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 2/2（阅读优化版）",
+   "type": "docx",
+   "node_token": "Tmm1w45NPi7YDFkZiXKcebZ5npc",
+   "obj_token": "VqNCdOhPHoDW6sxYrNJcu8g9nYG",
+   "has_child": false,
+   "parent": ""
+  },
+  {
+   "title": "26 秋马：AI 十倍速成长 1/2（阅读优化版）",
+   "type": "docx",
+   "node_token": "VO8xwhCbuivqgQkY5CwcIAA4nrd",
+   "obj_token": "UgltdHuxvoMVH2xbwb7c7pprnVb",
+   "has_child": false,
+   "parent": ""
+  }
+ ],
+ "children": {
+  "XNQpwKCstiPjBokygypchl1knFe": [
+   {
+    "title": "预热思考题",
+    "type": "docx",
+    "node_token": "CTcwwmqrPi1wZhkCUfHclK7enYd",
+    "obj_token": "DfdadDq9EohYZpxw1TQcRB1Wnwf",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "课程大纲",
+    "type": "docx",
+    "node_token": "L3Fzw5RSwiqQZPkguzccPbFInEf",
+    "obj_token": "DhGsdfBBdozoSQxbjEhce1Wqn0g",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "02 有体感（上）：业务与公司 AI 数据",
+    "type": "docx",
+    "node_token": "EQnYwzPgDiuTUMkdGvqc3SgDn2e",
+    "obj_token": "BAlkdfBXUol5PQxr5EOcjqdHnbd",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "02 有体感（下）：个人 AI 数据",
+    "type": "docx",
+    "node_token": "WLAswYuXGipsTFkkxdyc2eztnob",
+    "obj_token": "XMafdUbpgoJDeFxl6Kec5QwqnZb",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "03 破傲慢：AI数据底层理解",
+    "type": "docx",
+    "node_token": "OwLrwPqr6i83Ojkcv4LcYN2vnnh",
+    "obj_token": "Jk30dmXHkoqE5wxhBfYcf6aVn5f",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "04 建体系：AI数据工作框架",
+    "type": "docx",
+    "node_token": "UAn3wSmtQiE0a8kuenhcqO2CnJT",
+    "obj_token": "RzB6d1xxWoulKaxKL9KczCsknFh",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   },
+   {
+    "title": "05 开始练：十倍进步的开始",
+    "type": "docx",
+    "node_token": "ItTHw0aC5igD6mkWlIrczJLRnte",
+    "obj_token": "JiIqdwbRWoeRkixbA88cbn3Nn5d",
+    "has_child": false,
+    "parent": "XNQpwKCstiPjBokygypchl1knFe"
+   }
+  ],
+  "LbSnwy1iViZWZvk76tscZ1Hnnze": [
+   {
+    "title": "01 开篇：为何要学+预热+划重点+开篇热身",
+    "type": "docx",
+    "node_token": "NZlzw7vjLiO5emkn5JhcIKI7n47",
+    "obj_token": "UQ1idcxk1ojBYDxP8XhcRIDBnjd",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   },
+   {
+    "title": "02 第一次飞跃：从手敲到语音",
+    "type": "docx",
+    "node_token": "N9EFwEk8SieaNrk88nAcaKecnTe",
+    "obj_token": "DjJWdAJzHo4kF2xrZFZcIuEEnmc",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   },
+   {
+    "title": "03 第二次飞跃：从被动到主动",
+    "type": "docx",
+    "node_token": "T9yIw9PAAi1W4EkJqTjcgOp9nHd",
+    "obj_token": "Xk21dblg3o0Id6xlIAbcAt4anUe",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   },
+   {
+    "title": "04 第三次飞跃：从简短到拉满",
+    "type": "docx",
+    "node_token": "TaIGwd4ekiG39gkIzy8cKn9Onad",
+    "obj_token": "FEZzde31DoPIzCxw7AycIhpynqT",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   },
+   {
+    "title": "05 第四次飞跃：从单项到流淌",
+    "type": "docx",
+    "node_token": "V7K7wMx8Ki12iokOoBNcZ0edn3g",
+    "obj_token": "XfBgdBdEtoqqrWx0k0ucIehJnnf",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   },
+   {
+    "title": "06 第五次飞跃+重新理解口喷",
+    "type": "docx",
+    "node_token": "S5cNwGdaZidvVPkPH9Kc9mRAnoh",
+    "obj_token": "WCLmdA0uoo5mguxqQI1cavgWnDb",
+    "has_child": false,
+    "parent": "LbSnwy1iViZWZvk76tscZ1Hnnze"
+   }
+  ],
+  "Z7cYwquPJiIbKtkgf48cbPo9nBg": [
+   {
+    "title": "01 开篇+建立体感",
+    "type": "docx",
+    "node_token": "XQuhwqdnAimBBTkgT5Fcw3qLnYf",
+    "obj_token": "J3gtd3d5Iokx7VxYWhFcvSignRc",
+    "has_child": false,
+    "parent": "Z7cYwquPJiIbKtkgf48cbPo9nBg"
+   },
+   {
+    "title": "02 实操体系+场景落地",
+    "type": "docx",
+    "node_token": "Y60SwSdrPiCu8YkLtFxcmMjUnrb",
+    "obj_token": "Fw9oduVkcoCZPbxq2RUcojsknrk",
+    "has_child": false,
+    "parent": "Z7cYwquPJiIbKtkgf48cbPo9nBg"
+   }
+  ],
+  "KLzpw8O74iSLujkcRMcc5pWLn0c": [
+   {
+    "title": "01-开篇.md",
+    "type": "file",
+    "node_token": "CzEQw9vK6iixB2ktjl9cL2XpnQc",
+    "obj_token": "VrNsb5TfJoep0fxbPwZcRdoTncg",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "02-热身.md",
+    "type": "file",
+    "node_token": "RhebwXawrikDzSkDuc4cjV90nXc",
+    "obj_token": "GxgQbaHOxosxwCxJxDdcz1N4n9c",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "03-框架.md",
+    "type": "file",
+    "node_token": "CrPKwaWlTiNJRSkyxzRcLui5n6b",
+    "obj_token": "Xgtcb1piYoWNnyxjEAaceJ4Qngd",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "04-实操.md",
+    "type": "file",
+    "node_token": "Xu1AwvbFYiTHzhkMGBKcUEzNnHh",
+    "obj_token": "NB6EbbIgponZ4bxDbFmc7DzBnwg",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "05-回顾与作业.md",
+    "type": "file",
+    "node_token": "U68gwUXzHiuW0pkkPX7ctc1hnHb",
+    "obj_token": "DxhHbzMrDomnBqxjZnycEmPMnzd",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "06-双三角拆解.md",
+    "type": "file",
+    "node_token": "DSpwwNHuQiUoXhkEDYJcmihwn3o",
+    "obj_token": "Rbywbtp2Bo95PGxzCT3cuVU2nLh",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "07-战略画布.md",
+    "type": "file",
+    "node_token": "IBmnwSBPfiQ6SckLq9bcuQd5nhd",
+    "obj_token": "Qkzabjw2CoyrL4xoxKHcxIrUnZe",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "08-双三角画布.md",
+    "type": "file",
+    "node_token": "BIQZwDrzdiBgnhkM183cCn9knGe",
+    "obj_token": "MabcbJ840o8n0Tx2yUdcRtGynK5",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   },
+   {
+    "title": "09-partner怎么使用.md",
+    "type": "file",
+    "node_token": "BJSGwMwHtimaLKkPWkQcqgJrnkf",
+    "obj_token": "UBWGbm0GdoBTnExV9u6cJEkmntD",
+    "has_child": false,
+    "parent": "KLzpw8O74iSLujkcRMcc5pWLn0c"
+   }
+  ],
+  "EGpTwAGomiWD0wkQzx1chLdYnMc": [
+   {
+    "title": "01 热身篇：课程引入与预热思考（截图01-05）",
+    "type": "docx",
+    "node_token": "T9mdwDshniWP1skZZ3bcGauHnob",
+    "obj_token": "HCXGdR1weoF5bKxWs3Ucb7bOnSg",
+    "has_child": false,
+    "parent": "EGpTwAGomiWD0wkQzx1chLdYnMc"
+   },
+   {
+    "title": "02 STAR矩阵：AI场景探索框架（截图06-08）",
+    "type": "docx",
+    "node_token": "GdWiw152TiAUdIkqgtycLb0snRg",
+    "obj_token": "ZpbHdTpvYobgsoxXb0lcN46snDf",
+    "has_child": false,
+    "parent": "EGpTwAGomiWD0wkQzx1chLdYnMc"
+   },
+   {
+    "title": "03 个人场景篇：提速A与探索S（截图09-11）",
+    "type": "docx",
+    "node_token": "LaL1wVl3xiGWTWkGpG6cUZXBnoc",
+    "obj_token": "Q7ggdDGsRoUX3nxKCCxcK2o5nbc",
+    "has_child": false,
+    "parent": "EGpTwAGomiWD0wkQzx1chLdYnMc"
+   },
+   {
+    "title": "04 组织场景篇：落地R与变革T（截图12-13）",
+    "type": "docx",
+    "node_token": "INNQwfjsjiFB7Skpz83c0K0xn5g",
+    "obj_token": "LzMQdgv2aoRj78xIjB8cwaoBnMg",
+    "has_child": false,
+    "parent": "EGpTwAGomiWD0wkQzx1chLdYnMc"
+   },
+   {
+    "title": "05 总结篇：重新理解AI场景与全景框架（截图14）",
+    "type": "docx",
+    "node_token": "IEXFwIiS1i5vPZkxQVucxRqinWe",
+    "obj_token": "IvymdSWJ0oblElxmWBccl3QCns6",
+    "has_child": false,
+    "parent": "EGpTwAGomiWD0wkQzx1chLdYnMc"
+   }
+  ],
+  "HUwYw2yqWiGDJEkkVgucl4wLnVY": [
+   {
+    "title": "01 AI场景落地训战营介绍（截图01）",
+    "type": "docx",
+    "node_token": "WUfxwi2wHiJ9trkRefkc1JTqn6f",
+    "obj_token": "IGCqdy3HMo8ViPxqMkicLrNAnHh",
+    "has_child": false,
+    "parent": "HUwYw2yqWiGDJEkkVgucl4wLnVY"
+   }
+  ],
+  "TA7PwVjtmibhJUkdDFscQQQ6nje": [
+   {
+    "title": "01 为什么打磨案例+四个标准+事实复盘（截图00-01）",
+    "type": "docx",
+    "node_token": "DULJwQ4waiCpktkz49Dc5DqPnic",
+    "obj_token": "M0rQdQv8SoSFFxx9OJAcyIhznmb",
+    "has_child": false,
+    "parent": "TA7PwVjtmibhJUkdDFscQQQ6nje"
+   },
+   {
+    "title": "02 选定魂儿+挖专业度（截图02-03）",
+    "type": "docx",
+    "node_token": "PMwYwJyjfil2wmkqqfocDb9jn9f",
+    "obj_token": "Qf3cdOS3NojBPoxbf75cTKX3n7k",
+    "has_child": false,
+    "parent": "TA7PwVjtmibhJUkdDFscQQQ6nje"
+   },
+   {
+    "title": "03 打磨表达+写在最后（截图04）",
+    "type": "docx",
+    "node_token": "NPdUwxv0xiDeJVkyAeocl4mmncf",
+    "obj_token": "HkcSdojvGoZx3ixMhwacH9h9nGh",
+    "has_child": false,
+    "parent": "TA7PwVjtmibhJUkdDFscQQQ6nje"
+   }
+  ],
+  "SRtLwl1Fji54IFkyLXecineqnie": [
+   {
+    "title": "01 双三角模型本体（截图01-03）",
+    "type": "docx",
+    "node_token": "BUXLwxqiWiJbX9kZrbjc3AjYnuf",
+    "obj_token": "K35KdE01kocYOJxaRl2chrGRnVe",
+    "has_child": false,
+    "parent": "SRtLwl1Fji54IFkyLXecineqnie"
+   },
+   {
+    "title": "02 学员案例·企业与知识管理篇（截图04-07）",
+    "type": "docx",
+    "node_token": "JFG3wqfYji1nplkjpmjcIUdOn6f",
+    "obj_token": "MCSvdteNYoPFpExUBNIc9q5jnRd",
+    "has_child": false,
+    "parent": "SRtLwl1Fji54IFkyLXecineqnie"
+   },
+   {
+    "title": "03 学员案例·内容与服务篇（截图09-14）",
+    "type": "docx",
+    "node_token": "B6CawIFd9iFbGvkGtBXchMTGn8e",
+    "obj_token": "BDsvdhMU7owCq7x9ougcu1zPnqd",
+    "has_child": false,
+    "parent": "SRtLwl1Fji54IFkyLXecineqnie"
+   },
+   {
+    "title": "04 学员案例·业务破局与新业务篇（截图15-19）",
+    "type": "docx",
+    "node_token": "TrDkwdtmWiAoNEkpyNicQAgmneh",
+    "obj_token": "FNabdzNSeoKXyux1ENwcvR90n6g",
+    "has_child": false,
+    "parent": "SRtLwl1Fji54IFkyLXecineqnie"
+   }
+  ],
+  "JKv6wXxqZiKZkQknbdkcwdZsn1f": [
+   {
+    "title": "01 开篇与定义（截图01）",
+    "type": "docx",
+    "node_token": "UHrgwCRdpilDxYkT9jqcFzsgnsf",
+    "obj_token": "NFW3dTqQno6QgXxGvItcihocntf",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   },
+   {
+    "title": "02 原始阶段：手工作坊（截图02-03）",
+    "type": "docx",
+    "node_token": "Ky8iwe1nIiUO4GkZ9gmcOUVxnOf",
+    "obj_token": "IxBedj6c9o1Jalx1UCPcLvFdnFD",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   },
+   {
+    "title": "03 第二阶段：写稿 agent V1-V8 迭代（截图04，agent双三角V1-V8）",
+    "type": "docx",
+    "node_token": "M4sJwuRtdiCdt3k813DcDjB5n5p",
+    "obj_token": "WjFkdbgt4oHJjGxtCSocmxSinng",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   },
+   {
+    "title": "04 第三阶段 YAI 知识库与第四阶段 Codex（截图05-06，YAI画布）",
+    "type": "docx",
+    "node_token": "ZakBwzfCpiYgcqkOJ63cfwKFnRd",
+    "obj_token": "HuezdUDDJovBc0x0H4Qc1AJYnqd",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   },
+   {
+    "title": "05 第五阶段多partner裂变与第六阶段多维表格闭环（截图07-08，多partner/最终画布）",
+    "type": "docx",
+    "node_token": "PJccwLO49iv5VVk0JFZcelYRnyK",
+    "obj_token": "KmVMdrnlQob3iTxyre4cq03Knph",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   },
+   {
+    "title": "06 补充资料：封面排版研究与选题池/对标账号（截图09-12）",
+    "type": "docx",
+    "node_token": "RtcVwdCFqitMaVkviJbckjFon9D",
+    "obj_token": "EZqrd0HXAoAc8yx8Fl1c5oJGn3f",
+    "has_child": false,
+    "parent": "JKv6wXxqZiKZkQknbdkcwdZsn1f"
+   }
+  ],
+  "XNqnweSSOi4QtgkqxjgcjeoDnzd": [
+   {
+    "title": "01 预热思考+一堂AI协作过程复盘（截图00-01）",
+    "type": "docx",
+    "node_token": "O6smw2RlQiQBb3kuFRBcUoHmnUd",
+    "obj_token": "Yc1hdvn2So4XBbxc4xEcNQNgnMx",
+    "has_child": false,
+    "parent": "XNqnweSSOi4QtgkqxjgcjeoDnzd"
+   },
+   {
+    "title": "02 高效协同+为何选Obsidian（截图02-03）",
+    "type": "docx",
+    "node_token": "VV5FwZi7Ii9dKEkvpErcha5Snld",
+    "obj_token": "QZ5LdD4pWonXIcxu3lmc57mcnfe",
+    "has_child": false,
+    "parent": "XNqnweSSOi4QtgkqxjgcjeoDnzd"
+   },
+   {
+    "title": "03 LLM Wiki+总结（截图04-05）",
+    "type": "docx",
+    "node_token": "TR3owOCRQicIlLk5fsActNyenDc",
+    "obj_token": "Eq1tdSPELoyT1hxSjqpcmlMwngh",
+    "has_child": false,
+    "parent": "XNqnweSSOi4QtgkqxjgcjeoDnzd"
+   }
+  ],
+  "BsVyw7MoQidfOgkWSYic5KOCnQh": [
+   {
+    "title": "01 营介绍与段位地图（截图00-04）",
+    "type": "docx",
+    "node_token": "LNAow3K2xiDFNNkXeJxcaa6Wnju",
+    "obj_token": "AHawdPzbvoCIsQxpTwtcMDCznvc",
+    "has_child": false,
+    "parent": "BsVyw7MoQidfOgkWSYic5KOCnQh"
+   },
+   {
+    "title": "02 调用知识库与团队协作（截图05-08）",
+    "type": "docx",
+    "node_token": "SjGWwOLLKia0sdkSi2pcxs1DnDb",
+    "obj_token": "ErrcdRgpzoWkwjxYJFScvpuoneb",
+    "has_child": false,
+    "parent": "BsVyw7MoQidfOgkWSYic5KOCnQh"
+   },
+   {
+    "title": "03 方法论武器库与三层进阶（截图09-14）",
+    "type": "docx",
+    "node_token": "XwiawiB6DiREuMkR5KWcRm2unjg",
+    "obj_token": "SZyWdalFbo3SIoxKM0pcNYafnCb",
+    "has_child": false,
+    "parent": "BsVyw7MoQidfOgkWSYic5KOCnQh"
+   }
+  ],
+  "VrRswHkEniXU7okVguLcEuYBnLd": [
+   {
+    "title": "01 守住底线期待惊喜+必经之路+悲观的乐观主义者（截图01-03）",
+    "type": "docx",
+    "node_token": "MCcWwGusViU2O6kd9Cfc9RxKnee",
+    "obj_token": "GTw0dnNrWozDw7xu1v7cctt6npb",
+    "has_child": false,
+    "parent": "VrRswHkEniXU7okVguLcEuYBnLd"
+   },
+   {
+    "title": "02 蓄力+必修课三板斧+陪伴（截图04-06）",
+    "type": "docx",
+    "node_token": "VxX4w9bPXiAnc3kboOncguWVnfP",
+    "obj_token": "MWURdcleXo0OHxxGRlJcdBa2nov",
+    "has_child": false,
+    "parent": "VrRswHkEniXU7okVguLcEuYBnLd"
+   },
+   {
+    "title": "03 一堂两年+2022春+三周年（截图07-09）",
+    "type": "docx",
+    "node_token": "Jnsdw2pFeibGa9khomwchSQXnyh",
+    "obj_token": "QONTdl4BaozI4xxKdkrcuILUnuc",
+    "has_child": false,
+    "parent": "VrRswHkEniXU7okVguLcEuYBnLd"
+   },
+   {
+    "title": "04 十年+上场（截图10-11）",
+    "type": "docx",
+    "node_token": "Xg78wtn5sifmCmkTO4Bc15wKnLg",
+    "obj_token": "TpH8dBApbo0noBx7tNDcUx26nSh",
+    "has_child": false,
+    "parent": "VrRswHkEniXU7okVguLcEuYBnLd"
+   }
+  ],
+  "UvPVwLXdtis3nLknoLqcf9N3noc": [
+   {
+    "title": "01 启动会开场与三个共识（截图00-01）",
+    "type": "docx",
+    "node_token": "OMukwTtXciHxnIkHzEwcHxaNnRd",
+    "obj_token": "YOoUdevTfoco3nxhZYAc5ciknvk",
+    "has_child": false,
+    "parent": "UvPVwLXdtis3nLknoLqcf9N3noc"
+   },
+   {
+    "title": "02 三个待验证假设与实验计划（截图02-03）",
+    "type": "docx",
+    "node_token": "Yp4hwM4R3iFYpAktZircCMr1n3e",
+    "obj_token": "PdBYd4LSfowq4VxqBrVcnSaJnBd",
+    "has_child": false,
+    "parent": "UvPVwLXdtis3nLknoLqcf9N3noc"
+   },
+   {
+    "title": "03 线上线下报名与回归初心（截图04-06）",
+    "type": "docx",
+    "node_token": "BJx6w0yOkiU20gkUEWycnCMCnAf",
+    "obj_token": "NSqfds01jowL0CxobAdcPgYfnZe",
+    "has_child": false,
+    "parent": "UvPVwLXdtis3nLknoLqcf9N3noc"
+   }
+  ],
+  "SzDmwTRgXiQ9YMkVfmxcSRhnnic": [
+   {
+    "title": "01 LEO 文创小人从 0-1：调研、棉花娃娃与电商白底图（截图01）",
+    "type": "docx",
+    "node_token": "TBgow6KOJiFLjbkqq9pcHvdgnHg",
+    "obj_token": "RZQtd4Jq1oJ47WxVviJcSpQbnzc",
+    "has_child": false,
+    "parent": "SzDmwTRgXiQ9YMkVfmxcSRhnnic"
+   },
+   {
+    "title": "02 新媒体运营物料与拼贴海报提示词模板（截图02）",
+    "type": "docx",
+    "node_token": "NBaEwqZi7i8485k9oN5cmOCpnpg",
+    "obj_token": "OAhHduwcUouTTtx5NqUc0b10n6f",
+    "has_child": false,
+    "parent": "SzDmwTRgXiQ9YMkVfmxcSRhnnic"
+   },
+   {
+    "title": "03 物理落地、核心心法、分层建议与作业（截图03-04）",
+    "type": "docx",
+    "node_token": "FxLQwclwSiRNeRkC7wZc4D3Yneh",
+    "obj_token": "U7cXdugVzo0NhExIpZjcqYREnoh",
+    "has_child": false,
+    "parent": "SzDmwTRgXiQ9YMkVfmxcSRhnnic"
+   }
+  ],
+  "QhHswcOZbimKo8ka8MzcfIW7nOd": [
+   {
+    "title": "01 双三角征文：我的一个AI落地实践（截图01-02）",
+    "type": "docx",
+    "node_token": "GF3Ow5HAAiSJEVkp1rjcItjAnvb",
+    "obj_token": "S3SId97s8opz2YxeiXHcdL8cnke",
+    "has_child": false,
+    "parent": "QhHswcOZbimKo8ka8MzcfIW7nOd"
+   }
+  ],
+  "SB1lwdZT4iU4YskLhrPcMoezngh": [
+   {
+    "title": "01 为什么开始+快速启动（截图01-02）",
+    "type": "docx",
+    "node_token": "MsPew2esvihyuukqw6icKEw9nBf",
+    "obj_token": "Wh6cdGDybohoAQxt5Frczod3nad",
+    "has_child": false,
+    "parent": "SB1lwdZT4iU4YskLhrPcMoezngh"
+   },
+   {
+    "title": "02 数字员工是怎么长出来的（截图03）",
+    "type": "docx",
+    "node_token": "LKk3wChWAilEIZk6TR6cqyhdnxe",
+    "obj_token": "BX1VdiwjTo0Ys6xPCKIcVjnBnkh",
+    "has_child": false,
+    "parent": "SB1lwdZT4iU4YskLhrPcMoezngh"
+   },
+   {
+    "title": "03 回到AIGC视频+复盘（截图04-05）",
+    "type": "docx",
+    "node_token": "UxwbwJqFniqeodkCtoGcuNIkn3d",
+    "obj_token": "Z4xndVMuPoZ9rGxnYcJcHKRFnJn",
+    "has_child": false,
+    "parent": "SB1lwdZT4iU4YskLhrPcMoezngh"
+   }
+  ],
+  "B7wswuywAicyNwkpqXLcJSR4n4e": [
+   {
+    "title": "01 开场与卖冰棍的故事（截图00-02）",
+    "type": "docx",
+    "node_token": "DS5dwIz9diQyLtkjaVcckm5ln0b",
+    "obj_token": "BKOldey1CoaY84xd1kecmiTpneg",
+    "has_child": false,
+    "parent": "B7wswuywAicyNwkpqXLcJSR4n4e"
+   },
+   {
+    "title": "02 一堂五步法画布与壁垒讨论（截图03-04）",
+    "type": "docx",
+    "node_token": "SxMMw3LYRiGVt3kjpCAcBPMQnph",
+    "obj_token": "T3S7dobYJoLYH7xLFApceC86n9d",
+    "has_child": false,
+    "parent": "B7wswuywAicyNwkpqXLcJSR4n4e"
+   },
+   {
+    "title": "03 回顾总结与课后作业（截图05-06）",
+    "type": "docx",
+    "node_token": "BBNwwFwSaiRfwEkQHuocQKfcnGh",
+    "obj_token": "WaVndxkadoG3xSxazwBcH0kCnM9",
+    "has_child": false,
+    "parent": "B7wswuywAicyNwkpqXLcJSR4n4e"
+   }
+  ],
+  "V5jKwXW0ciswf2k57tLcCpqfndg": [
+   {
+    "title": "01 开营寄语：守住底线，期待惊喜（截图01-02）",
+    "type": "docx",
+    "node_token": "RKKcw2br4i8ZcxkWHwkcMuQ0nmh",
+    "obj_token": "A1YAdsq9QobIBvxOvCicLtQSnvg",
+    "has_child": false,
+    "parent": "V5jKwXW0ciswf2k57tLcCpqfndg"
+   }
+  ],
+  "Ddn1wv33BiO0CckNqKactz23nRc": [
+   {
+    "title": "01 为什么要讲精益思维（截图01-02）",
+    "type": "docx",
+    "node_token": "E6TBwGt6Oi5cyDkZiAoc2J8jn2D",
+    "obj_token": "TCnhdlFncoxiT3x9Q6qc6VHinqf",
+    "has_child": false,
+    "parent": "Ddn1wv33BiO0CckNqKactz23nRc"
+   },
+   {
+    "title": "02 为什么不能一次做对与MVP概念（截图03-04）",
+    "type": "docx",
+    "node_token": "Ku7dw8otmi2SfykQ3OZcB8ufn2f",
+    "obj_token": "YhcGdPKH8oLErvxVS9Uc9BUKnpd",
+    "has_child": false,
+    "parent": "Ddn1wv33BiO0CckNqKactz23nRc"
+   },
+   {
+    "title": "03 五种心态与MVP实操+课程总结（截图05-07）",
+    "type": "docx",
+    "node_token": "TnXYw9tE4iSN8ek54SXcH0NCncd",
+    "obj_token": "S0Q2dzCkFo0cpOxPWuyc1JUTnnf",
+    "has_child": false,
+    "parent": "Ddn1wv33BiO0CckNqKactz23nRc"
+   }
+  ],
+  "B5eQwRbMkiiW11kD30mcqJIonOf": [
+   {
+    "title": "01 引子：一张卷子三层世界+方法论大地图（截图01-03）",
+    "type": "docx",
+    "node_token": "U6NvwyBlLiKSE2kvF9Lc4IqXneb",
+    "obj_token": "Ebt5dHZW9oqAG5xfLsWcr234neQ",
+    "has_child": false,
+    "parent": "B5eQwRbMkiiW11kD30mcqJIonOf"
+   },
+   {
+    "title": "02 拆推评与说清需求+总结（截图04-06）",
+    "type": "docx",
+    "node_token": "VojZweYcLic2VKk4tAAcdTyjn4f",
+    "obj_token": "MKU1dyrsEo3kVDxQV9Eci665nCd",
+    "has_child": false,
+    "parent": "B5eQwRbMkiiW11kD30mcqJIonOf"
+   }
+  ],
+  "Tn7cwlqqFiOdgskf50Lc7jV5nUh": [
+   {
+    "title": "01 开场+找宝藏+造武器+算金币（截图01-02）",
+    "type": "docx",
+    "node_token": "GtEnwmkp4i9xWJk3pO3c32MqnZg",
+    "obj_token": "P3qQd05oQoAUeoxhSV0cOcAwn5g",
+    "has_child": false,
+    "parent": "Tn7cwlqqFiOdgskf50Lc7jV5nUh"
+   },
+   {
+    "title": "02 喊队友+守城堡+总结（截图03-04）",
+    "type": "docx",
+    "node_token": "Y0cAwH379iqEHXk699Gc774mnDe",
+    "obj_token": "D0p9dSQhCofPV5xkMxTccepFn9e",
+    "has_child": false,
+    "parent": "Tn7cwlqqFiOdgskf50Lc7jV5nUh"
+   }
+  ],
+  "AePDwqvlMinUb3kva7fcdFxqnVd": [
+   {
+    "title": "01 调研黑客：OSCAR 模型（截图01-02）",
+    "type": "docx",
+    "node_token": "OwK0wI43Di5tsJkXyc0chYNDnuf",
+    "obj_token": "P8pidwSOWoAJv2xmU3mcZK0fn2b",
+    "has_child": false,
+    "parent": "AePDwqvlMinUb3kva7fcdFxqnVd"
+   }
+  ],
+  "LFxtwwKSdiJNpJkupU3cs2SWnLf": [
+   {
+    "title": "01 开篇+义卖摆摊背景（截图01-02）",
+    "type": "docx",
+    "node_token": "RNu5wDz9xiCjpfk0e1JccjBQnh5",
+    "obj_token": "I81Pdf3p2oeg3UxohKacTA1Anpd",
+    "has_child": false,
+    "parent": "LFxtwwKSdiJNpJkupU3cs2SWnLf"
+   },
+   {
+    "title": "02 四位同学摆摊实录（截图03-06）",
+    "type": "docx",
+    "node_token": "SoijwunyGivGmJkstYUcAv0knEe",
+    "obj_token": "XMw0dq8i4o0NbnxvJYUc2KzVnqc",
+    "has_child": false,
+    "parent": "LFxtwwKSdiJNpJkupU3cs2SWnLf"
+   },
+   {
+    "title": "03 ABCD大PK复盘（截图07）",
+    "type": "docx",
+    "node_token": "SbyNwbRiFi40n2kWONhc4B2znwg",
+    "obj_token": "TwewdMWYDoUvWNxeypZcr6wUnTe",
+    "has_child": false,
+    "parent": "LFxtwwKSdiJNpJkupU3cs2SWnLf"
+   },
+   {
+    "title": "04 进阶公式+回顾总结（截图08-09）",
+    "type": "docx",
+    "node_token": "M5sgwCuDfilKYzk5FifcGCyFn2f",
+    "obj_token": "Fs1ld8HzaodJJ3xHEkKcV7TenKE",
+    "has_child": false,
+    "parent": "LFxtwwKSdiJNpJkupU3cs2SWnLf"
+   }
+  ],
+  "TFPLwTKsGiGUI5k1jp2cb3R5nif": [
+   {
+    "title": "01 开篇提出问题：一个拿到MVP的项目（截图01）",
+    "type": "docx",
+    "node_token": "GvLywyLz0ix2TikLx33cMpwvnsh",
+    "obj_token": "YpkYdqMaFoZxfpxu67YcHSnmnYg",
+    "has_child": false,
+    "parent": "TFPLwTKsGiGUI5k1jp2cb3R5nif"
+   },
+   {
+    "title": "02 打开地图：商业判断的五个问题（截图02）",
+    "type": "docx",
+    "node_token": "JwUOweFeDi5Qf0klHDXcEQnInob",
+    "obj_token": "G8FRdZPzVolsd2xFaHGcDSWdnQf",
+    "has_child": false,
+    "parent": "TFPLwTKsGiGUI5k1jp2cb3R5nif"
+   },
+   {
+    "title": "03 实战：需求原点与解决方案（截图03-04）",
+    "type": "docx",
+    "node_token": "JXLWw0g77itKjukhUwicF1z0nHk",
+    "obj_token": "JIyTdkFC8orfPVxfQowcEzX1ncg",
+    "has_child": false,
+    "parent": "TFPLwTKsGiGUI5k1jp2cb3R5nif"
+   },
+   {
+    "title": "04 实战：商业模式、业务增长与项目壁垒（截图05-07）",
+    "type": "docx",
+    "node_token": "BOdcwDSUxi1pSLkaPS9csnhbnId",
+    "obj_token": "Ox5Mdnsl6oHQAcxy4q5cO3l3nCe",
+    "has_child": false,
+    "parent": "TFPLwTKsGiGUI5k1jp2cb3R5nif"
+   },
+   {
+    "title": "05 判读纠偏+迁移练习+课程总结（截图08-11）",
+    "type": "docx",
+    "node_token": "GSi4wyOBdiT0XIkfC3CcVr1Ynnb",
+    "obj_token": "LbvmdcKCworrkJx8nPBcONbXn8B",
+    "has_child": false,
+    "parent": "TFPLwTKsGiGUI5k1jp2cb3R5nif"
+   }
+  ],
+  "S6g5wowEeiCfjtkXMuwc65gVnpf": [
+   {
+    "title": "01 一堂五步法：做成一件事之前先问自己5个问题（截图00-03）",
+    "type": "docx",
+    "node_token": "Og69wQVuwiQqsOk3TOucODpLnqd",
+    "obj_token": "DTvgdiE0aoZOuaxHxZycF1M4nVg",
+    "has_child": false,
+    "parent": "S6g5wowEeiCfjtkXMuwc65gVnpf"
+   }
+  ],
+  "C45tw2QAeiA4zLk0oTuc3Nnynze": [
+   {
+    "title": "01 为什么要学+两种致命浪费（截图00-02）",
+    "type": "docx",
+    "node_token": "Bi8xwRqxHiKJc2kNnEPcJSJQnCg",
+    "obj_token": "ThlcdqH2woEvxoxcckvc22Vwnec",
+    "has_child": false,
+    "parent": "C45tw2QAeiA4zLk0oTuc3Nnynze"
+   },
+   {
+    "title": "02 三个基础原则+回顾作业（截图03-05）",
+    "type": "docx",
+    "node_token": "E0x2wp5yKikbhVkNTt5cR1iSn8f",
+    "obj_token": "JKn4dCmuBoNzMLxtKYZc2XinnMb",
+    "has_child": false,
+    "parent": "C45tw2QAeiA4zLk0oTuc3Nnynze"
+   }
+  ],
+  "J7Gjw4fCGimGpGkphGSc296HnFg": [
+   {
+    "title": "01 开场+Leo画师初体验（截图00-02）",
+    "type": "docx",
+    "node_token": "T9Kxwq3ENiyf4BkzbtZcKC5uned",
+    "obj_token": "TW7AdOIE2oijzkx5E6jcl0FsnSQ",
+    "has_child": false,
+    "parent": "J7Gjw4fCGimGpGkphGSc296HnFg"
+   },
+   {
+    "title": "02 方法提炼+迁移案例（截图03-04）",
+    "type": "docx",
+    "node_token": "VgNswiaw7its1gk3VNycGEx4nld",
+    "obj_token": "HGckdjV4lo7vlfxYo6rctJoingf",
+    "has_child": false,
+    "parent": "J7Gjw4fCGimGpGkphGSc296HnFg"
+   },
+   {
+    "title": "03 终局挑战+总结作业（截图05-06）",
+    "type": "docx",
+    "node_token": "MBLxw8KAfi3ScMkZOCWcnKkRnIf",
+    "obj_token": "PR0RdYCNVoJ54ZxzoabcCtkTnxf",
+    "has_child": false,
+    "parent": "J7Gjw4fCGimGpGkphGSc296HnFg"
+   }
+  ],
+  "U1dTwuPKjiDPL5kNHEycB4kGnhd": [
+   {
+    "title": "01 开场+20万案例+拆解方法基础版（截图00-02）",
+    "type": "docx",
+    "node_token": "LGxDwilH0ip6DikeY8gcwkn1noe",
+    "obj_token": "SBakdpVxqoyyM9xusfIcHJnyn5v",
+    "has_child": false,
+    "parent": "U1dTwuPKjiDPL5kNHEycB4kGnhd"
+   },
+   {
+    "title": "02 进阶版方法+案例复盘+课后练习（截图03-05）",
+    "type": "docx",
+    "node_token": "XzUjwdekjiDAj0kqLCMclpAZnRa",
+    "obj_token": "UCfNdq9iaoPn8Ux7yeRc0Ncznkg",
+    "has_child": false,
+    "parent": "U1dTwuPKjiDPL5kNHEycB4kGnhd"
+   }
+  ],
+  "Jhg8wxrdki7BfXkrX2TcWPkzn0b": [
+   {
+    "title": "01 产品内核：用户为什么会买我的产品？（截图00-03）",
+    "type": "docx",
+    "node_token": "PnoJwOPitihS3TkmFvGc3qjqnaf",
+    "obj_token": "UxWFdxeYmoU1QqxgKSsc70Wfn3g",
+    "has_child": false,
+    "parent": "Jhg8wxrdki7BfXkrX2TcWPkzn0b"
+   }
+  ],
+  "KUG3wVr64irerGkhTXVc7Ph9n5f": [
+   {
+    "title": "01 开场设计+从消费者到创业者视角（截图00-01）",
+    "type": "docx",
+    "node_token": "TDO8w1queiOHJakUvhZc26zin4d",
+    "obj_token": "Qqi8dETtSomlGuxdyaccxmAcnOb",
+    "has_child": false,
+    "parent": "KUG3wVr64irerGkhTXVc7Ph9n5f"
+   },
+   {
+    "title": "02 内容讲解：一堂五步法详解（截图02-03）",
+    "type": "docx",
+    "node_token": "FMqvwQF7Oiti8UkfWAmcgbhInHe",
+    "obj_token": "DxpEdVtAEod3GVxc1a6ccC2Tnid",
+    "has_child": false,
+    "parent": "KUG3wVr64irerGkhTXVc7Ph9n5f"
+   },
+   {
+    "title": "03 Labubu案例+假设验证+作业（截图04-06）",
+    "type": "docx",
+    "node_token": "R2ZYwhciWi7XrikUK4bcvWjLn3e",
+    "obj_token": "PStkdBdSvorvsax2o5yc5VTFnTd",
+    "has_child": false,
+    "parent": "KUG3wVr64irerGkhTXVc7Ph9n5f"
+   }
+  ],
+  "JWGbwEeFpiKPCDkX5rJcvYg3nob": [
+   {
+    "title": "01 开篇与小小产品设计师（截图00-03）",
+    "type": "docx",
+    "node_token": "MsjrwawKqiOVPVkMNmRcQJ6Cn0d",
+    "obj_token": "AOT0dCoH3o7KA1xcAGxcxaUVnkb",
+    "has_child": false,
+    "parent": "JWGbwEeFpiKPCDkX5rJcvYg3nob"
+   },
+   {
+    "title": "02 消费者小侦探（截图04）",
+    "type": "docx",
+    "node_token": "TP6UwXN0TieqpUkmdpzcACIRnfg",
+    "obj_token": "LmDbdR4d6opZOzxwzeDcv2lyn8d",
+    "has_child": false,
+    "parent": "JWGbwEeFpiKPCDkX5rJcvYg3nob"
+   },
+   {
+    "title": "03 小小惊喜策划师（截图05）",
+    "type": "docx",
+    "node_token": "EfM4wB15VijLyOkasurcVnlfnvd",
+    "obj_token": "SS2LdgpNLoZq8XxlXHHcMcLMnbf",
+    "has_child": false,
+    "parent": "JWGbwEeFpiKPCDkX5rJcvYg3nob"
+   },
+   {
+    "title": "04 秘密武器与结尾（截图06-07）",
+    "type": "docx",
+    "node_token": "NNwwweHUUimk0pkukebcFWb1nCb",
+    "obj_token": "GfNjdNYNKoD4XpxKkxdcy9eNned",
+    "has_child": false,
+    "parent": "JWGbwEeFpiKPCDkX5rJcvYg3nob"
+   }
+  ],
+  "BJEhwcxObiakWQkfuuecjjbDned": [
+   {
+    "title": "01 开场+人类三角+AI三角（截图01-03）",
+    "type": "docx",
+    "node_token": "XWkvwrmDEioMvlkF4OFcqaqxntg",
+    "obj_token": "Vc1xdEs07owP86xos2dcAlr5ngh",
+    "has_child": false,
+    "parent": "BJEhwcxObiakWQkfuuecjjbDned"
+   },
+   {
+    "title": "02 飞轮+四句话+闯关任务+作业（截图04-06）",
+    "type": "docx",
+    "node_token": "HC7twX4JniqSq0kaH1qcNsvznTd",
+    "obj_token": "VykkdsRdJonN7SxzZNSc3otyn9d",
+    "has_child": false,
+    "parent": "BJEhwcxObiakWQkfuuecjjbDned"
+   }
+  ],
+  "G7oKwe8SViGNLukjw5Bcozk0nEd": [
+   {
+    "title": "01 为什么学决策与纠结场景（截图01-02）",
+    "type": "docx",
+    "node_token": "XvuVw53ONir5adkqdwOcTwwXnac",
+    "obj_token": "UNdIdEyw0ogjpjxO8SQcgPb5nec",
+    "has_child": false,
+    "parent": "G7oKwe8SViGNLukjw5Bcozk0nEd"
+   },
+   {
+    "title": "02 四格决策表与科学决策三角形（截图03-05）",
+    "type": "docx",
+    "node_token": "Y3s4wchrnis6FFk51Fac6rQSnFe",
+    "obj_token": "PDqqdgFOKoNudwxP8V0cdP6CnAd",
+    "has_child": false,
+    "parent": "G7oKwe8SViGNLukjw5Bcozk0nEd"
+   },
+   {
+    "title": "03 三个真实故事与向上看（截图06）",
+    "type": "docx",
+    "node_token": "Qme0wdGJHinDCQk8eoOcgX9OnPc",
+    "obj_token": "UiLbdUrpGogu7gxJUmtcCHrVnZd",
+    "has_child": false,
+    "parent": "G7oKwe8SViGNLukjw5Bcozk0nEd"
+   },
+   {
+    "title": "04 现场练习与把方法带走（截图07-08）",
+    "type": "docx",
+    "node_token": "AFmxwqR6iiX7qkkH1r6cw79xnOe",
+    "obj_token": "AI1yd0QLbomgvexZPHKcvRd3nyd",
+    "has_child": false,
+    "parent": "G7oKwe8SViGNLukjw5Bcozk0nEd"
+   }
+  ],
+  "DXCqwFHO7iuIrDkvOZJc8sConMZ": [
+   {
+    "title": "01 为什么要学+三个案例建立审美（截图01-03）",
+    "type": "docx",
+    "node_token": "L83Kw3b2riijPRkda5KcuG1unrh",
+    "obj_token": "KGTKduojxoueiqxrR6PcPIyrn8t",
+    "has_child": false,
+    "parent": "DXCqwFHO7iuIrDkvOZJc8sConMZ"
+   },
+   {
+    "title": "02 三轮解读+练习框架领导力跃迁（截图04-05）",
+    "type": "docx",
+    "node_token": "K0XYw1S8wiEuSWkEDUdczN6Gnyb",
+    "obj_token": "KIordKHoqobLSqxlWigc1IR5nRg",
+    "has_child": false,
+    "parent": "DXCqwFHO7iuIrDkvOZJc8sConMZ"
+   }
+  ],
+  "SNQCwIM4uinuQXk8yxDcOe5NnCf": [
+   {
+    "title": "01 开场+重新定义产品（截图00-01）",
+    "type": "docx",
+    "node_token": "LRX7wXmSuiKB2lk85yicJwl8nBn",
+    "obj_token": "UVa3dY04koXeZgx9tKMcfhgUnGh",
+    "has_child": false,
+    "parent": "SNQCwIM4uinuQXk8yxDcOe5NnCf"
+   },
+   {
+    "title": "02 四步法总览+明确任务+看齐高手（截图02-04）",
+    "type": "docx",
+    "node_token": "SquTw34ymihDGXkhGpzc3wnXnkN",
+    "obj_token": "NtYRdL5yaoEgdmxZCKAcfctfnwc",
+    "has_child": false,
+    "parent": "SNQCwIM4uinuQXk8yxDcOe5NnCf"
+   },
+   {
+    "title": "03 多出几招+打磨通关+迁移+总结作业（截图05-08）",
+    "type": "docx",
+    "node_token": "PIxPwu508ikTtYki5yKcoD1onLc",
+    "obj_token": "SOTtdnCTEoDM3CxhFQKcATu2n5g",
+    "has_child": false,
+    "parent": "SNQCwIM4uinuQXk8yxDcOe5NnCf"
+   }
+  ],
+  "OOHgwo8Oii1qmbkLL7AcSpdEn8d": [
+   {
+    "title": "01 为啥要学+第一二关（截图01-03）",
+    "type": "docx",
+    "node_token": "XGY8wCO2DiDWZdkZod5c8shrnu6",
+    "obj_token": "Gaendg1vxoYQDExpbCccT5sQnsg",
+    "has_child": false,
+    "parent": "OOHgwo8Oii1qmbkLL7AcSpdEn8d"
+   },
+   {
+    "title": "02 第三四五关（截图04-05）",
+    "type": "docx",
+    "node_token": "N8qrwDVphiNpZXkXEIlcWMw3n5g",
+    "obj_token": "R7GwdTc6doym33x7DZRcaKpcnkd",
+    "has_child": false,
+    "parent": "OOHgwo8Oii1qmbkLL7AcSpdEn8d"
+   },
+   {
+    "title": "03 课程回顾与课后作业（截图06）",
+    "type": "docx",
+    "node_token": "BL2Uwgmvjie1gmkZkLzcFNQjnQe",
+    "obj_token": "MgR3d5xBMo1nnKxSRH8cVRMTnlf",
+    "has_child": false,
+    "parent": "OOHgwo8Oii1qmbkLL7AcSpdEn8d"
+   }
+  ],
+  "NJERw1PNSiUlrFkVsF8ckKDon0A": [
+   {
+    "title": "01 四次迷路+小航处境+红点定义（截图01-03）",
+    "type": "docx",
+    "node_token": "TisNwtKnqieQRFkB50yc7392nZj",
+    "obj_token": "Pt5TdhlvjoLlNVxXvcpc4p0Gnzb",
+    "has_child": false,
+    "parent": "NJERw1PNSiUlrFkVsF8ckKDon0A"
+   },
+   {
+    "title": "02 六段位地图+十二问（截图04-05）",
+    "type": "docx",
+    "node_token": "T2UdwOieci75qdkqSBFcQCXjnhe",
+    "obj_token": "Pl3ndQVcMoTfeyxbecdc2jQKnbg",
+    "has_child": false,
+    "parent": "NJERw1PNSiUlrFkVsF8ckKDon0A"
+   },
+   {
+    "title": "03 方向试出来+After+收尾（截图06-08）",
+    "type": "docx",
+    "node_token": "LnT0wqgsDi7Eq9kLKRkcm3qunbd",
+    "obj_token": "F6WIdLheeoj3Uexs3p9c1Wpwnz0",
+    "has_child": false,
+    "parent": "NJERw1PNSiUlrFkVsF8ckKDon0A"
+   }
+  ],
+  "Z46dwY32liIm2vkoIJMct16onvf": [
+   {
+    "title": "01 开篇与共同任务（截图01-07）",
+    "type": "docx",
+    "node_token": "SeEuwkvwtiQviSkxiEMcDqeinxd",
+    "obj_token": "ScetdTWByotLZKxHYg5clKUanmf",
+    "has_child": false,
+    "parent": "Z46dwY32liIm2vkoIJMct16onvf"
+   },
+   {
+    "title": "02 ABC三种协作方式：A与B的诊断（截图08-14）",
+    "type": "docx",
+    "node_token": "PO87wjlx9itxmpkigHBcQjTTnnb",
+    "obj_token": "IOnkd52PdokVOhx65VzcDroanC9",
+    "has_child": false,
+    "parent": "Z46dwY32liIm2vkoIJMct16onvf"
+   },
+   {
+    "title": "03 C同学与双三角框架（截图15-23）",
+    "type": "docx",
+    "node_token": "HdNbwKWiuiWQcDkRJdncuaOenye",
+    "obj_token": "O9hUdQkJYodDgqxEyCecI7gZnpd",
+    "has_child": false,
+    "parent": "Z46dwY32liIm2vkoIJMct16onvf"
+   },
+   {
+    "title": "04 案例一：复习网页三轮补角（截图24-31）",
+    "type": "docx",
+    "node_token": "QfPzwEzYQiKgPSke2Pvcei0Jn6e",
+    "obj_token": "KUQ3dQd7roznIFxU69fc8y4Anmc",
+    "has_child": false,
+    "parent": "Z46dwY32liIm2vkoIJMct16onvf"
+   },
+   {
+    "title": "05 案例二：海报预装六角与迁移总结（截图32-41）",
+    "type": "docx",
+    "node_token": "G5V4wU2KPibiFik50HkcSq3knJg",
+    "obj_token": "S84ZdYXnLo9u2dxjzTxcnumGnmc",
+    "has_child": false,
+    "parent": "Z46dwY32liIm2vkoIJMct16onvf"
+   }
+  ],
+  "HXwVwTaEzibVYZkN2pfclUD8nsg": [
+   {
+    "title": "01 开篇·为什么学与框架总览（截图01-03）",
+    "type": "docx",
+    "node_token": "KeTzwKB4OirOGnkaisAcP2EZnHd",
+    "obj_token": "P2EHdUerEo2yW9xolSkcMZbynAb",
+    "has_child": false,
+    "parent": "HXwVwTaEzibVYZkN2pfclUD8nsg"
+   },
+   {
+    "title": "02 出牌练习2-3+三层思维+总结作业（截图04-07）",
+    "type": "docx",
+    "node_token": "Yb2uw69M2it9aZkSJMpc4kUrnPe",
+    "obj_token": "UCm4drCiuoHg7SxW2LTcgOwKnEf",
+    "has_child": false,
+    "parent": "HXwVwTaEzibVYZkN2pfclUD8nsg"
+   }
+  ],
+  "McPGwqeMLit4taks60zczcBlnRf": [
+   {
+    "title": "01 开场神灯许愿+一句话做游戏卡住（截图01-02）",
+    "type": "docx",
+    "node_token": "IXqJwOzs1ix5WukZ9L1c1hM4nPe",
+    "obj_token": "T5sidEyVloifSTxqKCVcrd3JnPb",
+    "has_child": false,
+    "parent": "McPGwqeMLit4taks60zczcBlnRf"
+   },
+   {
+    "title": "02 三轮迭代：审美+体系+数据（截图03-05）",
+    "type": "docx",
+    "node_token": "DUqWwHaJziwfMHkV7d6c1qHyn7n",
+    "obj_token": "AhFddYGrmoKguPxhciMclf3Hn2d",
+    "has_child": false,
+    "parent": "McPGwqeMLit4taks60zczcBlnRf"
+   },
+   {
+    "title": "03 场景+创造力+双三角模型总览（截图06-08）",
+    "type": "docx",
+    "node_token": "Pm74wIndoiQO2nkESm9cC6WinTf",
+    "obj_token": "UJpPdme2eo4qAEx0Dsicob4nn3b",
+    "has_child": false,
+    "parent": "McPGwqeMLit4taks60zczcBlnRf"
+   },
+   {
+    "title": "04 双三角套进作文+数学+四阶段总结（截图09-11）",
+    "type": "docx",
+    "node_token": "KdhpwAND6iaG8YkWqi5cayjEngf",
+    "obj_token": "FrjYdRcBDoXHnqxASVxcTKOInDc",
+    "has_child": false,
+    "parent": "McPGwqeMLit4taks60zczcBlnRf"
+   }
+  ],
+  "XPUzwsaXuiItELkPE8ecZhCsnZc": [
+   {
+    "title": "01 希希篮球+先知道自己是谁（截图01-02）",
+    "type": "docx",
+    "node_token": "GiZqwemoFiZYsaknoWQcQxDQnhc",
+    "obj_token": "LBjrd32aioPv2mxcJuZcteLunkb",
+    "has_child": false,
+    "parent": "XPUzwsaXuiItELkPE8ecZhCsnZc"
+   },
+   {
+    "title": "02 四个动作实战+让别人变好+带回生活（截图03-05）",
+    "type": "docx",
+    "node_token": "L4ZEwHWxRiRYF0kJpxKcjeajnyd",
+    "obj_token": "Mkn6dlrOro3kHJxGD2Rc40yBnxd",
+    "has_child": false,
+    "parent": "XPUzwsaXuiItELkPE8ecZhCsnZc"
+   }
+  ],
+  "LNWVwtWv2iR4mqkptbic2ZH9nqh": [
+   {
+    "title": "01 开篇预热+理解IPO（截图01-03）",
+    "type": "docx",
+    "node_token": "LIFZwt6OZiWrnOk2uCZcaL63n4e",
+    "obj_token": "U2IfdL9dFojcCNx3xQdcf72enOe",
+    "has_child": false,
+    "parent": "LNWVwtWv2iR4mqkptbic2ZH9nqh"
+   },
+   {
+    "title": "02 三板斧·输入与处理（截图04-05）",
+    "type": "docx",
+    "node_token": "Frq6wXVicioYIGkiA28cPXrwnob",
+    "obj_token": "J18ydKnuxogS6exgX9McK2i0ntc",
+    "has_child": false,
+    "parent": "LNWVwtWv2iR4mqkptbic2ZH9nqh"
+   },
+   {
+    "title": "03 三板斧·输出反馈+回顾课后（截图06-07）",
+    "type": "docx",
+    "node_token": "QZA8wY8ViiRSy6kuxQEcsxy8nld",
+    "obj_token": "HntFdsgxKoTTLTxkWxTcNOrinxh",
+    "has_child": false,
+    "parent": "LNWVwtWv2iR4mqkptbic2ZH9nqh"
+   }
+  ],
+  "Iub5w4IpziWH3Mk2PV7c9oGCnWh": [
+   {
+    "title": "01 建立期待+学习实验+IPO全景（截图01-02）",
+    "type": "docx",
+    "node_token": "Oec2wMSJui8S8Ik47S3cLrIbnMd",
+    "obj_token": "L2OZdq8tsoBUDOxhMTccOIMCnQe",
+    "has_child": false,
+    "parent": "Iub5w4IpziWH3Mk2PV7c9oGCnWh"
+   },
+   {
+    "title": "02 小林案例+Goal/Input/Process（截图03-05）",
+    "type": "docx",
+    "node_token": "NTCzwMuPtiUnWgktmaYcoQjunCf",
+    "obj_token": "TvkGdwvxWo1HIexPpbicJt7rn7Y",
+    "has_child": false,
+    "parent": "Iub5w4IpziWH3Mk2PV7c9oGCnWh"
+   },
+   {
+    "title": "03 Output/Feedback+两种模式+收尾（截图05-08）",
+    "type": "docx",
+    "node_token": "VxH5wUJ09i11iZkEaA4caQ9JnSd",
+    "obj_token": "KO4wds6BjoIlXPxlZc5cjW0xnfe",
+    "has_child": false,
+    "parent": "Iub5w4IpziWH3Mk2PV7c9oGCnWh"
+   }
+  ],
+  "Lc7zwqy9aiGMaDkkIaacAOJMnle": [
+   {
+    "title": "01 人生红点：九种卡牌与小小测试（截图01-03）",
+    "type": "docx",
+    "node_token": "VrSFwTG2hivLWwkx2XlclzilnPd",
+    "obj_token": "BQbcdMiq9oSMtyxQmZFci7HTnce",
+    "has_child": false,
+    "parent": "Lc7zwqy9aiGMaDkkIaacAOJMnle"
+   }
+  ],
+  "Guh1wfETriMaC7kiy2IcAvycnIh": [
+   {
+    "title": "01 什么是时间管理+为什么学+了解任务（截图01-02）",
+    "type": "docx",
+    "node_token": "RVCCwbrq5iB7hOkfMydcL5pAnMb",
+    "obj_token": "EW0JdkL0ZoE2gSxiWyacJf23nae",
+    "has_child": false,
+    "parent": "Guh1wfETriMaC7kiy2IcAvycnIh"
+   },
+   {
+    "title": "02 了解自己+动手匹配+回顾展望（截图03-05）",
+    "type": "docx",
+    "node_token": "WtmJwZsCyiWurhkVbi4cOnUUnqG",
+    "obj_token": "CEuidxcc2oqAlLxb1XfcS7NsnHQ",
+    "has_child": false,
+    "parent": "Guh1wfETriMaC7kiy2IcAvycnIh"
+   }
+  ],
+  "GMqHw2elziXkCtke9pkcllLNnHd": [
+   {
+    "title": "01 打脸实验+一场奇怪的考试（截图01-02）",
+    "type": "docx",
+    "node_token": "SpkuwV6eKi6RuVkQ2kmcyLcWnXe",
+    "obj_token": "HIaHdZXYToRyOuxEH5Lc2odcnNg",
+    "has_child": false,
+    "parent": "GMqHw2elziXkCtke9pkcllLNnHd"
+   },
+   {
+    "title": "02 四个角度拆案+三个工具（截图03-05）",
+    "type": "docx",
+    "node_token": "WuUSwJh7CivdCYkNSnZc9a9HnOd",
+    "obj_token": "Dqz4dqlegoJGZmxIebTcW2Qwn3e",
+    "has_child": false,
+    "parent": "GMqHw2elziXkCtke9pkcllLNnHd"
+   },
+   {
+    "title": "03 落地方案+开放实验（截图06-07）",
+    "type": "docx",
+    "node_token": "HPLewT26wiDzgEkhZr9cXKYZnEy",
+    "obj_token": "X0YZdjFUuoa0vqxk9HycxCDvnlZ",
+    "has_child": false,
+    "parent": "GMqHw2elziXkCtke9pkcllLNnHd"
+   }
+  ],
+  "VRJrwGs29iBSsEkqauXc4LQpnob": [
+   {
+    "title": "01 为什么要学+什么是刻意练习（截图01-03）",
+    "type": "docx",
+    "node_token": "NBWpwF5HFiOdggkZGmhcwYuUn4d",
+    "obj_token": "QqLJdfUB3ojULXxunYbcQCvHnUg",
+    "has_child": false,
+    "parent": "VRJrwGs29iBSsEkqauXc4LQpnob"
+   },
+   {
+    "title": "02 综合案例拆解+上路训练（截图04-05）",
+    "type": "docx",
+    "node_token": "HDcCw5UYYiY7GckSAazcp40wnaf",
+    "obj_token": "HhvudmlbYoPGeoxAR0zcxFbnnnb",
+    "has_child": false,
+    "parent": "VRJrwGs29iBSsEkqauXc4LQpnob"
+   }
+  ],
+  "Yn6CwwfoBib5tZkWxJ7c2AeQn0e": [
+   {
+    "title": "01 为什么练很久还在原地（截图01-02）",
+    "type": "docx",
+    "node_token": "HrhVw6p8Ai4XFPkBeN3cGW5Anrh",
+    "obj_token": "UBn6dfPjtoEKUCxc3hKcSk5hnic",
+    "has_child": false,
+    "parent": "Yn6CwwfoBib5tZkWxJ7c2AeQn0e"
+   },
+   {
+    "title": "02 刻意练习1+4+四个动作（截图03-05）",
+    "type": "docx",
+    "node_token": "JVRbwEaO1iUavhkDUGLcR2JAnYe",
+    "obj_token": "H2ANdCuHHoX75ZxA0ujcQyFcnJg",
+    "has_child": false,
+    "parent": "Yn6CwwfoBib5tZkWxJ7c2AeQn0e"
+   },
+   {
+    "title": "03 计划1.0升2.0+课后作业（截图06-08）",
+    "type": "docx",
+    "node_token": "VGVlwIzi8ifZaEkvm2JcMnGYnig",
+    "obj_token": "T8OldLPa7oRvCXxl9NKcibhknOf",
+    "has_child": false,
+    "parent": "Yn6CwwfoBib5tZkWxJ7c2AeQn0e"
+   }
+  ],
+  "Swsuwanwbin9G5kz7aecXN4XnAh": [
+   {
+    "title": "01 为啥要学+15岁礼物+18岁社团竞选（截图01-03）",
+    "type": "docx",
+    "node_token": "MqIiwU1AHiSM6UkPKHrc6UIkn6c",
+    "obj_token": "HNnudHnI4oxigNxRkuocFXGonme",
+    "has_child": false,
+    "parent": "Swsuwanwbin9G5kz7aecXN4XnAh"
+   },
+   {
+    "title": "02 高频自我介绍+课程总结（截图04-05）",
+    "type": "docx",
+    "node_token": "SshewbYq2iEcmWkkF2ZciUPnnPg",
+    "obj_token": "FLEZd5lvsosguOxDnUVc7e0yn3g",
+    "has_child": false,
+    "parent": "Swsuwanwbin9G5kz7aecXN4XnAh"
+   }
+  ],
+  "VIkqworIgiEpC3kojK3cNNksnKf": [
+   {
+    "title": "01 三类难题与选定课题（截图01-05）",
+    "type": "docx",
+    "node_token": "YZHlwRkvqilR1ukvDLrcAfvGnwc",
+    "obj_token": "TxQkdu45ZotrsyxQirdcvqSHn5b",
+    "has_child": false,
+    "parent": "VIkqworIgiEpC3kojK3cNNksnKf"
+   },
+   {
+    "title": "02 第二类难题转译与做课四技巧（截图06-10）",
+    "type": "docx",
+    "node_token": "LIyowyGLkiyOJ1kNeWrck82hn2c",
+    "obj_token": "Gpn7dto99oI6Djx9VW4cWZR9n5b",
+    "has_child": false,
+    "parent": "VIkqworIgiEpC3kojK3cNNksnKf"
+   },
+   {
+    "title": "03 第三类难题线上交付与四个交付技巧（截图11-14）",
+    "type": "docx",
+    "node_token": "C1jNwZOvYiRfj5k3LBkcqF5Yndc",
+    "obj_token": "RST6dDv2Mop66mxfGM6cSPaLnKe",
+    "has_child": false,
+    "parent": "VIkqworIgiEpC3kojK3cNNksnKf"
+   },
+   {
+    "title": "04 逐字稿、写在最后与本次作业（截图15-17）",
+    "type": "docx",
+    "node_token": "CwFOw5AtniUpBLklXSNc21AMn4g",
+    "obj_token": "GD5ydN2TBo2GAAxJphUcItDgnAe",
+    "has_child": false,
+    "parent": "VIkqworIgiEpC3kojK3cNNksnKf"
+   }
+  ],
+  "S1mCwfBhzivz9rko7BxcCmxgn5b": [
+   {
+    "title": "01 课程前言与 HTML 版 PPT 入门（截图00-01）",
+    "type": "docx",
+    "node_token": "H6N6wKNjfiOxn3kJzWNcvn1dnxh",
+    "obj_token": "PyACdT53ToQCLqxVhuNcrX5AnLf",
+    "has_child": false,
+    "parent": "S1mCwfBhzivz9rko7BxcCmxgn5b"
+   },
+   {
+    "title": "02 HTML 版 PPT 实战八步：查看、换风格、改页、导出与沉淀（截图02-03）",
+    "type": "docx",
+    "node_token": "Rzutw9ARDiGtxKkfK8pcPNYqnIf",
+    "obj_token": "DyLbd4gDoolgXqxX69kc2GmHnG3",
+    "has_child": false,
+    "parent": "S1mCwfBhzivz9rko7BxcCmxgn5b"
+   },
+   {
+    "title": "03 Image版PPT工作流（截图04-06）",
+    "type": "docx",
+    "node_token": "AFjqwEgQkiSBO4k8rmlcXtdlnFd",
+    "obj_token": "OReld8OmJoSYFTxDLm5cuA8NnEf",
+    "has_child": false,
+    "parent": "S1mCwfBhzivz9rko7BxcCmxgn5b"
+   },
+   {
+    "title": "04 收尾与总结（截图07-08）",
+    "type": "docx",
+    "node_token": "RjTswjsIZiCnsVkCEK5cpucdnVb",
+    "obj_token": "IcuadFFatoGYv9xQ4hFce9rTnMg",
+    "has_child": false,
+    "parent": "S1mCwfBhzivz9rko7BxcCmxgn5b"
+   }
+  ],
+  "ASKRwPdQciqtfvk9GtGcGiYRn0c": [
+   {
+    "title": "01 故事开始与痛点账单（截图00-01）",
+    "type": "docx",
+    "node_token": "Z6F5wzZddiKVRykDHJictKadnid",
+    "obj_token": "U1EQd79eQofIRqx4pExc9bBpnSf",
+    "has_child": false,
+    "parent": "ASKRwPdQciqtfvk9GtGcGiYRn0c"
+   },
+   {
+    "title": "02 调研建审美：300 条参考视频归纳九类（截图02-03）",
+    "type": "docx",
+    "node_token": "Mp2vwsOPrioguIkWohGc9maEnEb",
+    "obj_token": "QNikdytsgo2JsPxLvZpc80AUn4b",
+    "has_child": false,
+    "parent": "ASKRwPdQciqtfvk9GtGcGiYRn0c"
+   },
+   {
+    "title": "03 从工具到方案：四类工具调研与网感组件（截图04-06）",
+    "type": "docx",
+    "node_token": "M5Obwlh6bi3X0pkYLprctVm1ndb",
+    "obj_token": "AS8QdsKzXokn8ZxDOdTcrei8nnd",
+    "has_child": false,
+    "parent": "ASKRwPdQciqtfvk9GtGcGiYRn0c"
+   },
+   {
+    "title": "04 从方案到 MVP 与认知复盘（截图07-08）",
+    "type": "docx",
+    "node_token": "Od62w45fUiwIYOkxbNQc3rzGnid",
+    "obj_token": "Jq7FdSahRorFTFx0FpqcUO0xnGe",
+    "has_child": false,
+    "parent": "ASKRwPdQciqtfvk9GtGcGiYRn0c"
+   }
+  ],
+  "RTUbwC8EWiFJLKkBhREcCcDsnNd": [
+   {
+    "title": "01 开篇：战略笃定的由来与预热（截图01-03）",
+    "type": "docx",
+    "node_token": "CkBWwjPXsiWL2jkKdyzceK0gnuh",
+    "obj_token": "Cye1d7IBWoLmpTxglqIcdLUdnvc",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   },
+   {
+    "title": "02 初始手牌：365天前后的对比（截图04-05）",
+    "type": "docx",
+    "node_token": "WiVowqMVRiBuwRkGNB6cR7mKnLf",
+    "obj_token": "ZJ1Sd7eOmoXhVRxILQxcTFzNnNe",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   },
+   {
+    "title": "03 第一轮·第二轮推演：是否下场与是否亲征（截图06-07）",
+    "type": "docx",
+    "node_token": "OXRqwhacTiaOSjkaRxacPbAwnic",
+    "obj_token": "Hq9Cdwiq8oGk3cxeoJkcV3gznQg",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   },
+   {
+    "title": "04 第三轮·第四轮推演：如何做课与如何入门（截图08-09）",
+    "type": "docx",
+    "node_token": "Ebdow3UONi2q9lk5jSyckKWunuf",
+    "obj_token": "XHdVdADNxo6j2RxKyfbcHwzwnVh",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   },
+   {
+    "title": "05 第五轮·第六轮推演：如何练习与AI产品方向（截图10-11）",
+    "type": "docx",
+    "node_token": "KcugwxG9MifczvkIEfPccYxWnpf",
+    "obj_token": "KVZVdMq8NodHQvxW1XqcBIZhnzc",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   },
+   {
+    "title": "06 第七轮推演与回顾：带人还是带AI（截图12-13）",
+    "type": "docx",
+    "node_token": "OgaVwyQJNiOhcqkMaRac7ybNnYc",
+    "obj_token": "PZIsdJ2r7oxmWMxzWtTcAVVynWg",
+    "has_child": false,
+    "parent": "RTUbwC8EWiFJLKkBhREcCcDsnNd"
+   }
+  ],
+  "NU4sw9VPjipOqPkNMh1cVC0snic": [
+   {
+    "title": "01 开篇：为什么需要爆炸式调研（截图01-02）",
+    "type": "docx",
+    "node_token": "EtZQwLMQViMWQVkY5YXcJhL0n1L",
+    "obj_token": "Zg6JdoCmwo5xi6xRgD9cK2RBnHe",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   },
+   {
+    "title": "02 建立体感：从点外卖到爆款标题（截图03-04）",
+    "type": "docx",
+    "node_token": "D7OZwWcayiqqBukwylecF2fDnjg",
+    "obj_token": "MSeMdHDL7oB1SYxphaAcwBxWnGb",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   },
+   {
+    "title": "03 建立体感：系统入门AI（截图05）",
+    "type": "docx",
+    "node_token": "SCJEwbSDXiUcyukcxwVcmqvGn2f",
+    "obj_token": "SadFdPEJhoVvnixRSpYclGCQn6j",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   },
+   {
+    "title": "04 建立体感：A品牌商业策略（截图06-07）",
+    "type": "docx",
+    "node_token": "ElkMw4RTkiLgIUkEGuDcBy0AnIh",
+    "obj_token": "T4Xld1vdDo38BYxoxoKcETU7nMe",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   },
+   {
+    "title": "05 核心框架与AI加速（截图08-09）",
+    "type": "docx",
+    "node_token": "VvuAwL380ieCjHkQT09cFWRjnDa",
+    "obj_token": "MRuUdbnruoliLJxHf5HceE2qn3G",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   },
+   {
+    "title": "06 高水平AI协作与回顾作业（截图10-11）",
+    "type": "docx",
+    "node_token": "NGEnwyMHrixTrNkbkJDcK8aonLg",
+    "obj_token": "Dtdpdwq6po0hqbxV26nclvADnCh",
+    "has_child": false,
+    "parent": "NU4sw9VPjipOqPkNMh1cVC0snic"
+   }
+  ],
+  "V6a0wnkKYi6rm4kxkmxcu8ESnih": [
+   {
+    "title": "01 开篇：为什么要学讲香基本功（截图00-03）",
+    "type": "docx",
+    "node_token": "FrYmwvCeBi6jqNknEfTclT8Yn9e",
+    "obj_token": "Y0KxdogzcoekF1xJ1GCcjW0ynJf",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "02 建立审美：天幕阳台与一堂CLI（截图04-07）",
+    "type": "docx",
+    "node_token": "QNA0w7pQri3gBEkQVBEcpBDfnXf",
+    "obj_token": "HJCSd2UUAocH5CxZQTXccqHtnA7",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "03 背后框架：十指模型与三大原则（截图08-10）",
+    "type": "docx",
+    "node_token": "BlZ7woGkTi8nV9kHuTWcETWUnpc",
+    "obj_token": "Xgg6dyG8ool4l6xLTGrcqfmmnMe",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "04 练习实操：场景化与口语化（截图11-13）",
+    "type": "docx",
+    "node_token": "EWg9w8g4NiVN5WkLJRacm3h3nCe",
+    "obj_token": "VpYudMxguobvJUxsgnUce0rInbd",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "05 练习实操：数字化、故事化与素材化（截图14-16）",
+    "type": "docx",
+    "node_token": "EdmCwwJnciK4Lgk76ovcauZ7nMd",
+    "obj_token": "YEfadUOfPomf7Bx9j5qca6Ozn0g",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "06 练习实操：比喻化、情绪化与金句化（截图17-19）",
+    "type": "docx",
+    "node_token": "VdQrwpFNKiGNBDkkAjWcKUJrnEb",
+    "obj_token": "PQkjdjEr8o6pyoxVfINcASSNnhb",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   },
+   {
+    "title": "07 练习实操：冲突化、升华化与回顾总结（截图20-22）",
+    "type": "docx",
+    "node_token": "QCifw9EDniyHvik1cbRc7FI8nae",
+    "obj_token": "EMBCd2gB7oQQrbx1ztqcMQXsnMd",
+    "has_child": false,
+    "parent": "V6a0wnkKYi6rm4kxkmxcu8ESnih"
+   }
+  ],
+  "IgwqwbRkqi4xMrklHEJcXv9Wnjc": [
+   {
+    "title": "01 避免系统性失败与调研雷达（截图01-04）",
+    "type": "docx",
+    "node_token": "KQWlwJ5pMicb10kHtjfcM7Lfnwc",
+    "obj_token": "Jlr8dcQ8Doi2nmxLRegceRRpnUc",
+    "has_child": false,
+    "parent": "IgwqwbRkqi4xMrklHEJcXv9Wnjc"
+   },
+   {
+    "title": "02 全景策略地图与信息分层（截图05-06）",
+    "type": "docx",
+    "node_token": "F38qwIICYiX8ObkJ8Wfc1onInGE",
+    "obj_token": "FpsSdmOF1oq7FcxvBW0c3AvKn1f",
+    "has_child": false,
+    "parent": "IgwqwbRkqi4xMrklHEJcXv9Wnjc"
+   },
+   {
+    "title": "03 调研武器库：框架、三端调研与内线调研（截图07-08_9）",
+    "type": "docx",
+    "node_token": "PaX2wKm2Bi7sNxkX977c5R5Lnbc",
+    "obj_token": "Zx3kdjV20oTfi5x527mcCXFQnpb",
+    "has_child": false,
+    "parent": "IgwqwbRkqi4xMrklHEJcXv9Wnjc"
+   },
+   {
+    "title": "04 外线调研与AI工具（截图08_10-08_14）",
+    "type": "docx",
+    "node_token": "Si8cwwlpziXRDhkUQQFcK3pwnXe",
+    "obj_token": "RMWFdB7btomNMUxm849cy81PnKb",
+    "has_child": false,
+    "parent": "IgwqwbRkqi4xMrklHEJcXv9Wnjc"
+   }
+  ],
+  "ZePSwuOKBiIQpDkvBRucR54vn4d": [
+   {
+    "title": "01 开篇与回顾：为什么需要系统式调研（截图01-02）",
+    "type": "docx",
+    "node_token": "GA0swIVj6isgl6kWdz2cqsQhn3j",
+    "obj_token": "A6AZdFjFDouziKxSXq0coKeDnyf",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "02 三个真实案例与背后的三大难题（截图03-04）",
+    "type": "docx",
+    "node_token": "JfcAwHwmciZCo1k1lBKcBXRDnRc",
+    "obj_token": "CRHydsZDcoVTmAxoBUCcXfuAnRh",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "03 OSCAR模型：五步法与里程碑逻辑（截图05-06）",
+    "type": "docx",
+    "node_token": "YvMpwFsuWiySI8kZYQRc882Tnfg",
+    "obj_token": "NfnodULawoaktKxDxbqcErwbnKB",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "04 里程碑不能跳步与如何练习（截图07-08）",
+    "type": "docx",
+    "node_token": "D4WhwOwoEirxMHk6rMect78WnKf",
+    "obj_token": "CMOod7Wfio7bw5x2Kqacj6OdnGb",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "05 案例推演：自习室项目调研（截图09-10）",
+    "type": "docx",
+    "node_token": "JQi3wCLcNiWUcmkgIhVcYz6dnyf",
+    "obj_token": "Pg9OdpI1mo1dnbxUaB0cqZHInSc",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "06 最佳实践：养老院调研（截图11）",
+    "type": "docx",
+    "node_token": "KR1BwC272ilnP7knnekcb8DtnDb",
+    "obj_token": "ANSFd5W9AoS0b2xIiTYcsC87nEo",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "07 最佳实践：瑞幸做空调研（截图12-13）",
+    "type": "docx",
+    "node_token": "S3TBwTrFyiPxhnkg7hKcfLV1nvd",
+    "obj_token": "FQ7qdQPG0oe1e3xGtc5cxO21n7d",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   },
+   {
+    "title": "08 总结：重新理解系统式调研与降龙十八掌（截图14+调研18掌）",
+    "type": "docx",
+    "node_token": "VWoYw8NuDi5yDpkuc4vcIfm0nJe",
+    "obj_token": "CgKEd3YJVojQOtx25SUcYooGnJd",
+    "has_child": false,
+    "parent": "ZePSwuOKBiIQpDkvBRucR54vn4d"
+   }
+  ],
+  "Z0LYwkLaCibBrGkBL13cQb0Nnpe": [
+   {
+    "title": "01 开篇与为什么学（截图00-02）",
+    "type": "docx",
+    "node_token": "TP5ewDldTivj2Pkb59fcX5Sonff",
+    "obj_token": "A7GsdU9JuolU55xLP17c16fVnhf",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "02 必知必会回顾（截图04-05）",
+    "type": "docx",
+    "node_token": "BWTbwpMeAiTdxrkxXhXcIGJindb",
+    "obj_token": "B4z4d6tDcom4Jxxc7p4cA46mnde",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "04 OSCAR（一）明确目标 O（核心心法/目标/颗粒度/题型分类）",
+    "type": "docx",
+    "node_token": "S69xwery0i3v4kkY51rcWAE6nuf",
+    "obj_token": "IYkxdHTB7oaVC1xsflpc1lC2nQd",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "05 OSCAR（二）四大题型解法与 AI 团队（方案1-4 + AI团队）",
+    "type": "docx",
+    "node_token": "GLSewMbaWiZss9kUwNocKA5CnEb",
+    "obj_token": "NDQXdJBr0oWSpIxmmOFctzsCnbd",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "06 OSCAR（三）缩小范围 S（为何缩小/内核边界/宏中微观/科学模型）",
+    "type": "docx",
+    "node_token": "XV9OwOP1fiHkgtk9C4JckNginVh",
+    "obj_token": "URzWdiuaPogzfbx5kstcZN1onUg",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "07 OSCAR（四）罗列清单 C（核心执行心法/设定标签/竞争象限/二维定位/按图索骥/数量预期）",
+    "type": "docx",
+    "node_token": "WpGcwM0b5i3PzekhKVmcgbRcnye",
+    "obj_token": "YGGhdRpWjomgeAxB5Pbc9hQZnoe",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "08 OSCAR（五）获取情报 A（地图在手/穷尽手段）",
+    "type": "docx",
+    "node_token": "OKgowZiqii8IpOkqiAWcYqZInyN",
+    "obj_token": "E6bjdL53Wow0RexxsKLcXsufneb",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "09 OSCAR（六）完成判断 R（判断开场/事实优先/定量建模/交叉验证/深度归因）",
+    "type": "docx",
+    "node_token": "Jq30w9o70iPtZwkZ6O4cI0uqnRc",
+    "obj_token": "DI0ddEWa3oaC8XxCjz8cSHUmnKa",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "10 降龙十八掌 18 张招式卡牌（100 卡牌）",
+    "type": "docx",
+    "node_token": "U2JqwC3GjiPgE5kUYbOcdfmenxD",
+    "obj_token": "ZbI5dup7fofiR3xapjVcsyFwn6c",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "11 实操案例（一）一堂 Credential 战略设计·调研报告（c05 报告）",
+    "type": "docx",
+    "node_token": "P9rWwwL6liPvGpkszK0cxUx9nFe",
+    "obj_token": "UG99dR8MKofSaRxJKxBcEqI5nig",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "12 实操案例（二）一堂 Credential 战略设计·AI 对话全程（c05 对话）",
+    "type": "docx",
+    "node_token": "OlrowUV1YiGLl9kw4EzcD0pNncg",
+    "obj_token": "PRywdXAZRoLkXDxuIoCcnRzUnFd",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "13 实操案例（三）东南亚小件家具出海·调研报告（c06 报告）",
+    "type": "docx",
+    "node_token": "Wak2wn751iNRfvkhRCQcHVmcn3d",
+    "obj_token": "JoPTdlwcCoyuApx4gpYcw834nxd",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "14 实操案例（四）东南亚小件家具出海·AI 对话全程（c06 对话）",
+    "type": "docx",
+    "node_token": "RlPDwUWh6iq0lekQoHxc6wdPnLf",
+    "obj_token": "FesEd7jfRosiGfxQs90cTUN5nNe",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "15 实操案例（五）AI 时间管理 App·调研报告（c07 报告）",
+    "type": "docx",
+    "node_token": "Drp2wJdooigWCnkjqhwcGLucnkb",
+    "obj_token": "Fee0dRmdaomMXMxmD4gcF7nunOM",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "16 实操案例（六）AI 时间管理 App·AI 对话全程（c07 对话）",
+    "type": "docx",
+    "node_token": "POSVw29B8iC568k66iXcaAabnCe",
+    "obj_token": "UxXHdSoEfoYNqpxBvJGcOXPwn8f",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "17 实操案例（七）新人 Landing 体系·调研报告（c11 报告）",
+    "type": "docx",
+    "node_token": "CozDwY5wyiRc7fkp3Y6cSQdUnLd",
+    "obj_token": "BfrIdJi4soYDBUxO4jBcSIbCnVh",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "18 实操案例（八）新人 Landing 体系·AI 对话全程（c11 对话）",
+    "type": "docx",
+    "node_token": "UJUuwfCttiHyzXkFOsZcO2fTnef",
+    "obj_token": "EgOHdVz9DoLlVjx5RSOcDbp8nrf",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "19 实操案例（九）AI 行动营产品·调研报告（c12 报告）",
+    "type": "docx",
+    "node_token": "MlXQweZMWi59vxkjkQVckTyxnfh",
+    "obj_token": "BWt5djFnqoSna5xmxqVcWtHinkh",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "20 实操案例（十）AI 行动营产品·AI 对话全程（c12 对话）",
+    "type": "docx",
+    "node_token": "C0Xrwr9BmigyjQkHvi5chwCynVb",
+    "obj_token": "Bl5ydb9s7oEqx4xzZEqc6LC1nAe",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   },
+   {
+    "title": "03 AI Partner 与 AI 调研新范式（截图05/09/10/13）",
+    "type": "docx",
+    "node_token": "AvrewhK1viSVFBkl1YScLVFmnrh",
+    "obj_token": "J7JSdtNImolSecxXXJIcbXLynmg",
+    "has_child": false,
+    "parent": "Z0LYwkLaCibBrGkBL13cQb0Nnpe"
+   }
+  ]
+ }
+}

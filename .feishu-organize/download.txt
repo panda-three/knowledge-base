@@ -1,0 +1,1 @@
+{"code":0,"data":{"space":{"description":"沉淀自己对AI教育的认知","name":"AI教育课","open_sharing":"closed","space_id":"7669431379494440158","space_type":"team","visibility":"public"}},"msg":"success"}

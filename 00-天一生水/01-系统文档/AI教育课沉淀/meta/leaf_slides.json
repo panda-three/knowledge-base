@@ -1,0 +1,20 @@
+[
+  {
+    "obj_token": "EW5KsgDGFlcKXadnIEHcC9xPnsc",
+    "node_token": "LVDwwcXgViRdz5kBVc5cNhJ2nbc",
+    "title": "AI时代的数据计算",
+    "obj_type": "slides",
+    "has_child": false,
+    "path": "AI时代的数据计算",
+    "parent_node_token": ""
+  },
+  {
+    "obj_token": "CbJSsVbzKlete2dnkVccK65VnUe",
+    "node_token": "SCTewDlYfitfU1kwbcHcD6vSnxh",
+    "title": "AI时代的数据计算（互动精简版）",
+    "obj_type": "slides",
+    "has_child": false,
+    "path": "AI时代的数据计算（互动精简版）",
+    "parent_node_token": ""
+  }
+]

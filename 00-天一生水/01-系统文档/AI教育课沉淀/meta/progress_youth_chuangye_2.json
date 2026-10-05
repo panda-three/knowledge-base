@@ -1,0 +1,31 @@
+{
+  "batch": "youth_chuangye_2",
+  "topic": "青少年营·创业必修批2（29/30/31/32/33/34/35/36/38）",
+  "template": "/Users/panda/Desktop/knowledge-base/00-天一生水/02-工具标准/模板：清单体课程笔记.md",
+  "transcribed_at": "2026-09-16",
+  "total": 21,
+  "done": 21,
+  "items": [
+    { "obj_token": "LbvmdcKCworrkJx8nPBcONbXn8B", "title": "05 判读纠偏+迁移练习+课程总结", "top_dir": "29 7.20 一堂五步法", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/01 关键假设/青少年营/05 判读纠偏+迁移练习+课程总结.md", "status": "done" },
+    { "obj_token": "DTvgdiE0aoZOuaxHxZycF1M4nVg", "title": "01 一堂五步法：做成一件事之前先问自己5个问题", "top_dir": "30 7.21 一堂五步法", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/01 关键假设/青少年营/01 一堂五步法：做成一件事之前先问自己5个问题.md", "status": "done" },
+    { "obj_token": "ThlcdqH2woEvxoxcckvc22Vwnec", "title": "01 为什么要学+两种致命浪费", "top_dir": "31 7.21 低成本验证", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/06 精益实验/青少年营/01 为什么要学+两种致命浪费.md", "status": "done" },
+    { "obj_token": "JKn4dCmuBoNzMLxtKYZc2XinnMb", "title": "02 三个基础原则+回顾作业", "top_dir": "31 7.21 低成本验证", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/06 精益实验/青少年营/02 三个基础原则+回顾作业.md", "status": "done" },
+    { "obj_token": "TW7AdOIE2oijzkx5E6jcl0FsnSQ", "title": "01 开场+Leo画师初体验", "top_dir": "32 7.22 青少年mvp验证课", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/06 精益实验/青少年营/01 开场+Leo画师初体验.md", "status": "done" },
+    { "obj_token": "HGckdjV4lo7vlfxYo6rctJoingf", "title": "02 方法提炼+迁移案例", "top_dir": "32 7.22 青少年mvp验证课", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/06 精益实验/青少年营/02 方法提炼+迁移案例.md", "status": "done" },
+    { "obj_token": "PR0RdYCNVoJ54ZxzoabcCtkTnxf", "title": "03 终局挑战+总结作业", "top_dir": "32 7.22 青少年mvp验证课", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/06 精益实验/青少年营/03 终局挑战+总结作业.md", "status": "done" },
+    { "obj_token": "SBakdpVxqoyyM9xusfIcHJnyn5v", "title": "01 开场+20万案例+拆解方法基础版", "top_dir": "33 7.22 需求分析", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/02 需求分析/青少年营/01 开场+20万案例+拆解方法基础版.md", "status": "done" },
+    { "obj_token": "UCfNdq9iaoPn8Ux7yeRc0Ncznkg", "title": "02 进阶版方法+案例复盘+课后练习", "top_dir": "33 7.22 需求分析", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/02 需求分析/青少年营/02 进阶版方法+案例复盘+课后练习.md", "status": "done" },
+    { "obj_token": "UxWFdxeYmoU1QqxgKSsc70Wfn3g", "title": "01 产品内核：用户为什么会买我的产品？", "top_dir": "34 7.23 产品内核", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/03 产品内核/青少年营/01 产品内核：用户为什么会买我的产品？.md", "status": "done" },
+    { "obj_token": "Qqi8dETtSomlGuxdyaccxmAcnOb", "title": "01 开场设计+从消费者到创业者视角", "top_dir": "35 7.24 一堂五步法", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/01 关键假设/青少年营/01 开场设计+从消费者到创业者视角.md", "status": "done" },
+    { "obj_token": "DxpEdVtAEod3GVxc1a6ccC2Tnid", "title": "02 内容讲解：一堂五步法详解", "top_dir": "35 7.24 一堂五步法", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/01 关键假设/青少年营/02 内容讲解：一堂五步法详解.md", "status": "done" },
+    { "obj_token": "PStkdBdSvorvsax2o5yc5VTFnTd", "title": "03 Labubu案例+假设验证+作业", "top_dir": "35 7.24 一堂五步法", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/01 关键假设/青少年营/03 Labubu案例+假设验证+作业.md", "status": "done" },
+    { "obj_token": "AOT0dCoH3o7KA1xcAGxcxaUVnkb", "title": "01 开篇与小小产品设计师", "top_dir": "36 7.26 产品内核", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/03 产品内核/青少年营/01 开篇与小小产品设计师.md", "status": "done" },
+    { "obj_token": "LmDbdR4d6opZOzxwzeDcv2lyn8d", "title": "02 消费者小侦探", "top_dir": "36 7.26 产品内核", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/03 产品内核/青少年营/02 消费者小侦探.md", "status": "done" },
+    { "obj_token": "SS2LdgpNLoZq8XxlXHHcMcLMnbf", "title": "03 小小惊喜策划师", "top_dir": "36 7.26 产品内核", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/03 产品内核/青少年营/03 小小惊喜策划师.md", "status": "done" },
+    { "obj_token": "GfNjdNYNKoD4XpxKkxdcy9eNned", "title": "04 秘密武器与结尾", "top_dir": "36 7.26 产品内核", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/创业必修/02 起盘阶段/03 产品内核/青少年营/04 秘密武器与结尾.md", "status": "done" },
+    { "obj_token": "UNdIdEyw0ogjpjxO8SQcgPb5nec", "title": "01 为什么学决策与纠结场景", "top_dir": "38 7.27 科学决策", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/管理必修/03 管业务/03 做决策/青少年营/01 为什么学决策与纠结场景.md", "status": "done" },
+    { "obj_token": "PDqqdgFOKoNudwxP8V0cdP6CnAd", "title": "02 四格决策表与科学决策三角形", "top_dir": "38 7.27 科学决策", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/管理必修/03 管业务/03 做决策/青少年营/02 四格决策表与科学决策三角形.md", "status": "done" },
+    { "obj_token": "UiLbdUrpGogu7gxJUmtcCHrVnZd", "title": "03 三个真实故事与向上看", "top_dir": "38 7.27 科学决策", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/管理必修/03 管业务/03 做决策/青少年营/03 三个真实故事与向上看.md", "status": "done" },
+    { "obj_token": "AI1yd0QLbomgvexZPHKcvRd3nyd", "title": "04 现场练习与把方法带走", "top_dir": "38 7.27 科学决策", "target_path": "/Users/panda/Desktop/knowledge-base/01-实事求是/管理必修/03 管业务/03 做决策/青少年营/04 现场练习与把方法带走.md", "status": "done" }
+  ]
+}
