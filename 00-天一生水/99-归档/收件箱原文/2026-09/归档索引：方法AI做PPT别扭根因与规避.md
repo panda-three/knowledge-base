@@ -5,7 +5,7 @@ date: 2026-09-19
 source: 收件箱成品（2026-09-16 下载，miaoda.doubao.com，5页2.6MB）
 audience: 自己
 tags: [归档区, 索引, 成品特例, AI, PPT]
-related: [[02-解放思想/01-AI思考]]
+related: [[02-解放思想/01-AI思考/方法：AI做PPT别扭根因与规避.pdf|01-AI思考]]
 ---
 # 归档索引：方法·AI做PPT别扭根因与规避（成品特例）
 

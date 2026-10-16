@@ -5,7 +5,7 @@ date: 2026-09-19
 source: 收件箱成品（已转录课程文档，7章 md + 153 图）
 audience: 自己
 tags: [归档区, 索引, 成品特例, VibeCoding, ClaudeCode]
-related: [[02-解放思想/vibecoding]]
+related: [[02-解放思想/vibecoding/01-软件产品生态|vibecoding]]
 ---
 # 归档索引：VibeCoding-项目构建（成品特例）
 

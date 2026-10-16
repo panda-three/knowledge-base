@@ -6,7 +6,7 @@ source: X/Twitter @geekcatx（AI 图像提示词创作者，gemnana/gptimage2pro
 audience: 自己
 tags: [AI图像, 提示词, X链接, 待验证]
 related:
-  - "[[02-解放思想/01-AI思考/00-AI思考_Home]]"
+  - "[[02-解放思想_Home|01-AI思考]]"
 ---
 # 思考：X推文-GeekCatX（AI图像提示词创作者）
 
