@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f8a9fdb47feb7459",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdef5790742e54f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8998b8fd9afca986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI双三角-课程文档/AI双三角-课程文档（06-10）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI双三角-课程文档（06-10）"
+            }
+          },
+          {
+            "id": "e1978331d7ce8c4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "07 框架-AI 竞争力.png"
+              },
+              "icon": "lucide-image",
+              "title": "07 框架-AI 竞争力"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "262172bd7a826ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bf50c2649c32f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d2301f907350b3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "441fcfa07cd85f2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1922bebe996286c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82f374a908347e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "f09c6d5be5d0ec9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1950428f7907f1ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI双三角-课程文档/AI双三角-课程文档（06-10）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8721a8e30d9e8966",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI双三角-课程文档/AI双三角-课程文档（06-10）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "d2015ef983759a8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c197e0877aca58df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9159da5c3126ad51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI双三角-课程文档/AI双三角-课程文档（06-10）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8998b8fd9afca986",
+  "lastOpenFiles": [
+    "07 框架-AI 竞争力.png",
+    "06 框架-人类竞争力.png",
+    "AI双三角-课程文档/AI双三角-课程文档（11-15）.md",
+    "AI双三角-课程文档/AI双三角-课程文档（06-10）.md",
+    "AI双三角-课程文档/AI双三角-课程文档（00-04）.md",
+    "AI双三角-课程文档/images/14-06.png",
+    "AI双三角-课程文档/images/14-05.png",
+    "AI双三角-课程文档/images/13-06.png",
+    "AI双三角-课程文档/images/13-05.png",
+    "AI双三角-课程文档/images/13-04.png",
+    "AI双三角-课程文档/images/13-03.png",
+    "AI双三角-课程文档/images/14-04.png",
+    "AI双三角-课程文档/images/14-03.png"
+  ]
+}
