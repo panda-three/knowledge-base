@@ -14,7 +14,7 @@ VAULT = "/Users/panda/Desktop/knowledge-base"
 OUT_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/知识库体检")
 META_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/AI教育课沉淀/meta")
 TODAY = datetime.date.today().isoformat()
-ENGINE_VERSION = "2.1 (2026-10-29 竞态容错)"
+ENGINE_VERSION = "2.3 (2026-10-29 非md目标存在性+vault根解析)"
 READ_ERRORS = []
 
 def all_md():
@@ -90,6 +90,15 @@ def main():
             total_links += 1
             name = strip_trailing_md(l.strip().split("/")[-1])
             if name not in names:
+                # v2.2：链接目标若非 .md（如 .pdf 附件），按 vault 根相对路径实测存在则不算断链
+                if re.search(r"\.[a-zA-Z0-9]{1,5}$", name) and name not in {os.path.basename(x) for x in files}:
+                    tgt = os.path.normpath(os.path.join(os.path.dirname(f), l))
+                    if os.path.exists(tgt):
+                        continue
+                    # v2.3：若文件目录拼接不存在，再按 vault 根解析（库内存在 vault 根路径风格链接，如归档索引指向上层目录附件）
+                    tgt2 = os.path.normpath(os.path.join(VAULT, l))
+                    if os.path.exists(tgt2):
+                        continue
                 broken.append((rel(f), l))
     broken_rate = len(broken) / max(total_links, 1) * 100
 
