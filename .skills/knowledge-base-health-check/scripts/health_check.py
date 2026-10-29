@@ -14,7 +14,7 @@ VAULT = "/Users/panda/Desktop/knowledge-base"
 OUT_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/知识库体检")
 META_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/AI教育课沉淀/meta")
 TODAY = datetime.date.today().isoformat()
-ENGINE_VERSION = "2.0 (2026-09-18 P0)"
+ENGINE_VERSION = "2.1 (2026-10-29 竞态容错)"
 READ_ERRORS = []
 
 def all_md():
@@ -63,6 +63,9 @@ def levenshtein(a, b):
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     files = all_md()
+    # 容错（v2.1）：glob 收集与后续处理之间可能有文件被移动/删除（竞态，如整目录被移走），
+    # 剔除已不存在的幽灵文件，避免 getmtime/getsize 崩溃；这些文件在扫描时确已不存在，不应计入。
+    files = [f for f in files if os.path.exists(f)]
     n = len(files)
     names = {os.path.basename(f).replace(".md",""): f for f in files}
 
@@ -153,7 +156,10 @@ def main():
     cutoff90 = datetime.datetime.now().timestamp() - 90*86400
     cutoff30 = datetime.datetime.now().timestamp() - 30*86400
     for f in files:
-        m = os.path.getmtime(f)
+        try:
+            m = os.path.getmtime(f)
+        except OSError:
+            continue  # 扫描期间被移走（竞态），跳过
         if m < cutoff90: stale.append((rel(f), datetime.date.fromtimestamp(m).isoformat()))
         if "05-收件箱" in f and m < cutoff30: inbox_stale.append(rel(f))
 
@@ -161,8 +167,18 @@ def main():
     recent = []
     cutoff14 = datetime.datetime.now().timestamp() - 14*86400
     for f in files:
-        if os.path.getmtime(f) > cutoff14: recent.append(rel(f))
-    valuable_orphans = [rel(f) for f in files if inlinks[f]==0 and os.path.getsize(f) > 5*1024]
+        try:
+            if os.path.getmtime(f) > cutoff14: recent.append(rel(f))
+        except OSError:
+            continue
+    valuable_orphans = []
+    for f in files:
+        if inlinks[f] == 0:
+            try:
+                if os.path.getsize(f) > 5*1024:
+                    valuable_orphans.append(rel(f))
+            except OSError:
+                pass
 
     # 7. 结构分布
     dirs = {}
