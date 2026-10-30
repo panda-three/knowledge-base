@@ -3,9 +3,9 @@
 """
 fetch_messages.py — 拉取「知识库输入」飞书群消息（确定性步骤）
 
-用途：知识库输入归档流水线的第 1 步。调用 lark-cli im +chat-messages-list 拉取
-飞书「知识库输入」群消息，自动绕过本地代理（127.0.0.1:7890 未开启时会
-proxyconnect connection refused），输出结构化消息列表供后续分拣。
+用途：**手动接收工具**——仅当用户明确说「把群里的也收了」时调用（分拣 skill 默认不做群拉取）。
+调用 lark-cli im +chat-messages-list 拉取飞书「知识库输入」群消息，自动绕过本地代理
+（127.0.0.1:7890 未开启时会 proxyconnect connection refused），输出结构化消息列表供后续分拣。
 
 用法：
     python3 fetch_messages.py                 # 默认拉最近 30 条
