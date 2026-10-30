@@ -14,7 +14,7 @@ VAULT = "/Users/panda/Desktop/knowledge-base"
 OUT_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/知识库体检")
 META_DIR = os.path.join(VAULT, "00-天一生水/01-系统文档/AI教育课沉淀/meta")
 TODAY = datetime.date.today().isoformat()
-ENGINE_VERSION = "2.3 (2026-10-29 非md目标存在性+vault根解析)"
+ENGINE_VERSION = "2.5 (2026-10-30 根目录散文件检查扩展为全类型：html 等非 md 不再漏检)"
 READ_ERRORS = []
 
 def all_md():
@@ -105,13 +105,26 @@ def main():
     # 2. 入链/出链（孤儿 & 枢纽）
     inlinks = {f: 0 for f in files}
     outlinks = {f: 0 for f in files}
+    # v2.4：重名 basename 集合。纯 basename 链接遇到重名时归属不确定，不计入任何文件（歧义交由报告同名清单人工确认），
+    # 避免重名文件（如探月课程模板 01-总览/课后作业）入链被全部叠加到首个同名文件、其余被误判孤儿。
+    conflict_names = {k for k, _, _ in name_conflicts}
     for f in files:
         text = link_clean_text(read(f))
         ls = extract_links(text)
         outlinks[f] = len(ls)
         for l in ls:
-            name = strip_trailing_md(l.strip().split("/")[-1])
-            if name in names:
+            l2 = l.strip()
+            # v2.4：含路径的链接先按 vault 根精确解析（Obsidian 全路径链接可直接命中，含 .md 与不含 .md 两种写法）
+            if "/" in l2:
+                tgt = os.path.normpath(os.path.join(VAULT, l2))
+                if os.path.exists(tgt):
+                    inlinks[tgt] += 1
+                    continue
+                if not tgt.endswith(".md") and os.path.exists(tgt + ".md"):
+                    inlinks[tgt + ".md"] += 1
+                    continue
+            name = strip_trailing_md(l2.split("/")[-1])
+            if name in names and name not in conflict_names:
                 inlinks[names[name]] += 1
     orphans = [rel(f) for f in files if inlinks[f]==0 and outlinks[f]==0]
     hubs = sorted(files, key=lambda f: -inlinks[f])[:10]
@@ -196,6 +209,14 @@ def main():
         dirs[top] = dirs.get(top, 0) + 1
     root_files = [rel(f) for f in files if rel(f).count("/")==0]
 
+    # 7.1 根目录散文件（全类型，2026-10-30 防再犯：html 等非 md 曾漏检落根）
+    VAULT_TOP_DIRS = ["00-天一生水", "01-实事求是", "02-解放思想", "03-知行合一", "04-作品出口", "05-收件箱"]
+    SYSTEM_TOP_ENTRIES = {".git", ".obsidian", ".skills", ".feishu-organize", ".DS_Store", ".gitignore"}
+    root_scatter_all = sorted(
+        e for e in os.listdir(VAULT)
+        if e not in VAULT_TOP_DIRS and e not in SYSTEM_TOP_ENTRIES and not e.startswith(".")
+    )
+
     # 评分
     score = 100.0
     score -= min(broken_rate * 3, 30)          # 结构
@@ -225,7 +246,11 @@ def main():
     L.append("")
     L.append(f"- 双链总数：{total_links}，断链：**{len(broken)}**（断链率 **{broken_rate:.1f}%**）" + (" 🔴 超红线 5%" if broken_rate > 5 else ""))
     L.append(f"- 孤儿笔记（无入链无出链）：{len(orphans)}")
-    L.append(f"- 根目录散文件：{len(root_files)}")
+    L.append(f"- 根目录散 .md：{len(root_files)}")
+    if root_scatter_all:
+        L.append(f"- 根目录散文件（全类型，需落位）：{len(root_scatter_all)} → " + "、".join(root_scatter_all[:10]) + (" 等" if len(root_scatter_all) > 10 else ""))
+    else:
+        L.append("- 根目录散文件（全类型）：0 ✓")
     if name_conflicts:
         L.append(f"- 同名文件 {len(name_conflicts)} 处（链接有歧义，需人工确认）：")
         for k, p1, p2 in name_conflicts[:10]:
