@@ -1,3 +1,9 @@
 .DS_Store
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# 知识库过程垃圾（2026-10-30 补）
+.venv*/
+**/.venv/
+**/.tmp_seg/
+**/__pycache__/
