@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>for 循环学生讲义 V4 · Web Slideshow</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Noto+Sans+SC:wght@400;500;700;900&family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet">
+    <style>
+
+/* ===========================================
+   CSS CUSTOM PROPERTIES (THEME)
+   修改这里即可调整整套代码黑板风格
+   =========================================== */
+:root {
+    --stage-bg: #050807;
+    --slide-bg: #07100d;
+    --ink: #e8f6ed;
+    --muted: #8ea69a;
+    --dim: #50655b;
+    --green: #5cff9d;
+    --amber: #ffd166;
+    --red: #ff5c7a;
+    --cyan: #5ddcff;
+    --panel: rgba(10, 25, 19, 0.88);
+    --panel-2: rgba(13, 36, 27, 0.82);
+    --line: rgba(92, 255, 157, 0.24);
+    --shadow: rgba(0, 0, 0, 0.42);
+    --font-display: 'ZCOOL QingKe HuangYou', 'Noto Sans SC', sans-serif;
+    --font-body: 'Noto Sans SC', sans-serif;
+    --font-code: 'JetBrains Mono', monospace;
+    --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ===========================================
+   BASE RESET
+   全局盒模型与字体基础设置
+   =========================================== */
+* { box-sizing: border-box; }
+
+/* ===========================================
+   FIXED 16:9 STAGE: MANDATORY BASE STYLES
+   Include this ENTIRE file in every presentation.
+   Slides are authored at 1920×1080 and scaled as a whole.
+   =========================================== */
+
+/* 1. Lock the browser viewport */
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background: var(--stage-bg, #000);
+}
+
+/* 2. Full-window deck viewport */
+.deck-viewport {
+    position: fixed;
+    inset: 0;
+    overflow: hidden;
+    background: var(--stage-bg, #000);
+}
+
+/* 3. Fixed 16:9 design canvas.
+   JavaScript sets transform: translate(...) scale(...). */
+.deck-stage {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    transform-origin: 0 0;
+    background: var(--slide-bg, #fff);
+}
+
+/* 4. Slides stack inside the fixed stage.
+   Content must be laid out at 1920×1080, not reflowed per device. */
+.slide {
+    position: absolute;
+    inset: 0;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+    background: var(--slide-bg, #fff);
+}
+
+.slide.active,
+.slide.visible {
+    visibility: visible;
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 1;
+}
+
+/* 5. Keep media inside authored slide bounds */
+img,
+video,
+canvas,
+svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* 6. Presentation chrome stays outside the slide design system */
+.deck-controls {
+    position: fixed;
+    left: 50%;
+    bottom: 22px;
+    transform: translateX(-50%);
+    z-index: 1000;
+}
+
+/* 7. Print one fixed-size slide per page */
+@media print {
+    html,
+    body {
+        width: 1920px;
+        height: auto;
+        overflow: visible;
+        background: #fff;
+    }
+
+    .deck-viewport {
+        position: static;
+        overflow: visible;
+        background: #fff;
+    }
+
+    .deck-stage {
+        position: static;
+        width: auto;
+        height: auto;
+        transform: none !important;
+        background: none;
+    }
+
+    .slide {
+        position: relative;
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        width: 1920px;
+        height: 1080px;
+        break-after: page;
+        page-break-after: always;
+    }
+
+    .slide:last-child {
+        break-after: auto;
+        page-break-after: auto;
+    }
+
+    .deck-controls {
+        display: none !important;
+    }
+}
+
+/* 8. Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.2s !important;
+    }
+}
+
+/* ===========================================
+   ATMOSPHERE BACKGROUND
+   代码黑板的网格、扫描线与发光氛围
+   =========================================== */
+.slide::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(circle at 16% 18%, rgba(92,255,157,.12), transparent 30%),
+        radial-gradient(circle at 86% 12%, rgba(93,220,255,.09), transparent 28%),
+        linear-gradient(rgba(92,255,157,.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(92,255,157,.035) 1px, transparent 1px);
+    background-size: auto, auto, 56px 56px, 56px 56px;
+    pointer-events: none;
+}
+.slide::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(0deg, rgba(255,255,255,.018), rgba(255,255,255,.018) 1px, transparent 1px, transparent 5px);
+    opacity: .45;
+    pointer-events: none;
+}
+
+/* ===========================================
+   SLIDE TYPOGRAPHY AND LAYOUT
+   固定舞台上的标题、页眉、页码和内容区
+   =========================================== */
+.slide-inner {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    padding: 76px 92px 84px;
+    color: var(--ink);
+    font-family: var(--font-body);
+}
+.kicker {
+    font: 700 25px/1 var(--font-code);
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--green);
+    margin-bottom: 34px;
+    text-shadow: 0 0 22px rgba(92,255,157,.45);
+}
+h1, h2 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    margin: 0;
+    letter-spacing: .02em;
+}
+h1 { font-size: 136px; line-height: .94; max-width: 1360px; }
+h2 { font-size: 82px; line-height: 1.08; max-width: 1480px; }
+.subtitle { font-size: 45px; color: var(--muted); margin-top: 36px; }
+.content { margin-top: 54px; }
+.page-num {
+    position: absolute;
+    right: 92px;
+    top: 76px;
+    font: 700 24px/1 var(--font-code);
+    color: var(--dim);
+}
+code, pre { font-family: var(--font-code); }
+strong { color: var(--amber); }
+
+/* ===========================================
+   ANIMATIONS
+   active slide 加 visible 后触发逐层进入
+   =========================================== */
+.reveal {
+    opacity: 0;
+    transform: translateY(34px);
+    transition: opacity .62s var(--ease-out-expo), transform .62s var(--ease-out-expo), filter .62s var(--ease-out-expo);
+    filter: blur(4px);
+}
+.slide.visible .reveal { opacity: 1; transform: translateY(0); filter: blur(0); }
+.slide.visible .reveal:nth-child(2) { transition-delay: .09s; }
+.slide.visible .reveal:nth-child(3) { transition-delay: .18s; }
+.slide.visible .reveal:nth-child(4) { transition-delay: .27s; }
+.slide.visible .reveal:nth-child(5) { transition-delay: .36s; }
+
+/* ===========================================
+   COMPONENTS: CODE AND TERMINAL
+   代码窗口、终端输出与对比代码块
+   =========================================== */
+.code-window, .terminal, .hero-code {
+    border: 1px solid var(--line);
+    background: linear-gradient(135deg, rgba(5,14,11,.96), rgba(13,30,24,.92));
+    box-shadow: 0 28px 80px var(--shadow), inset 0 0 0 1px rgba(255,255,255,.035);
+    border-radius: 22px;
+    overflow: hidden;
+}
+.code-window { width: 1180px; }
+.code-window.large { width: 1280px; }
+.code-window pre, .terminal pre, .hero-code {
+    margin: 0;
+    padding: 38px 44px;
+    color: #d9ffe7;
+    font-size: 31px;
+    line-height: 1.48;
+    white-space: pre-wrap;
+}
+.code-window.danger { border-color: rgba(255,92,122,.5); box-shadow: 0 0 70px rgba(255,92,122,.13); }
+.terminal { width: 650px; }
+.terminal.big { width: 720px; }
+.terminal.mini { position: absolute; right: 120px; bottom: 120px; width: 460px; }
+.terminal .bar {
+    height: 48px;
+    padding: 14px 22px;
+    font: 700 16px/1 var(--font-code);
+    letter-spacing: .12em;
+    color: var(--green);
+    background: rgba(92,255,157,.08);
+    border-bottom: 1px solid var(--line);
+}
+.hero-code {
+    display: inline-block;
+    margin-top: 56px;
+    color: #d9ffe7;
+    font: 500 42px/1.5 var(--font-code);
+}
+.hero-code span { color: var(--green); text-shadow: 0 0 22px rgba(92,255,157,.6); }
+.compare-code { display: flex; align-items: center; gap: 46px; }
+.compare-code pre {
+    min-width: 440px;
+    padding: 42px;
+    margin: 0;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    background: var(--panel);
+    color: #d9ffe7;
+    font-size: 44px;
+}
+.compare-code span { font-size: 78px; color: var(--amber); }
+
+/* ===========================================
+   COMPONENTS: TEACHING CARDS
+   四问、路线、角色卡、任务框和总结组件
+   =========================================== */
+.big-line { max-width: 1320px; font-size: 48px; line-height: 1.38; color: var(--ink); }
+.note { max-width: 1180px; font-size: 33px; line-height: 1.55; color: var(--muted); }
+.route, .road, .flow {
+    display: flex;
+    align-items: stretch;
+    gap: 20px;
+    margin-top: 30px;
+}
+.route div, .road span, .flow div {
+    flex: 1;
+    min-height: 150px;
+    padding: 34px 24px;
+    border: 1px solid var(--line);
+    border-radius: 22px;
+    background: var(--panel);
+    color: var(--ink);
+    font-size: 34px;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    position: relative;
+}
+.route div:not(:last-child)::after, .road span:not(:last-child)::after, .flow div:not(:last-child)::after {
+    content: "→";
+    position: absolute;
+    right: -29px;
+    color: var(--green);
+    z-index: 2;
+}
+.four-questions, .answer-grid, .chip-grid, .pulse-grid, .submit {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+}
+.four-questions div, .answer-grid div, .chip-grid span, .pulse-grid span, .submit span {
+    min-height: 210px;
+    padding: 34px;
+    border: 1px solid var(--line);
+    border-radius: 26px;
+    background: var(--panel);
+    box-shadow: 0 18px 60px rgba(0,0,0,.25);
+}
+.four-questions div {
+    font: 700 88px/1 var(--font-code);
+    color: var(--green);
+}
+.four-questions span {
+    display: block;
+    margin-top: 28px;
+    color: var(--ink);
+    font: 500 34px/1.25 var(--font-body);
+}
+.answer-grid { grid-template-columns: repeat(2, 1fr); }
+.answer-grid div { min-height: 190px; }
+.answer-grid b { display: block; color: var(--green); font-size: 32px; margin-bottom: 24px; }
+.answer-grid span { font-size: 42px; line-height: 1.25; }
+.task-box, .ask-card, .rule, .answer {
+    border: 1px solid var(--line);
+    border-radius: 30px;
+    background: var(--panel-2);
+    padding: 46px 56px;
+    font-size: 54px;
+    line-height: 1.34;
+    max-width: 1280px;
+}
+.answer.huge { font: 700 210px/1 var(--font-code); color: var(--amber); background: transparent; border: 0; padding: 0; }
+.chip-grid span { min-height: 150px; display: grid; place-items: center; font-size: 35px; color: var(--ink); }
+
+/* ===========================================
+   COMPONENTS: TABLES AND ROLES
+   教学矩阵、变量分工与错误提示
+   =========================================== */
+.matrix {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+    border-radius: 24px;
+    border: 1px solid var(--line);
+    background: var(--panel);
+    font-size: 27px;
+}
+.matrix th, .matrix td { padding: 25px 28px; border-bottom: 1px solid rgba(92,255,157,.14); border-right: 1px solid rgba(92,255,157,.14); text-align: left; }
+.matrix th { color: var(--green); font-size: 24px; letter-spacing: .08em; background: rgba(92,255,157,.08); }
+.matrix tr:last-child td { border-bottom: 0; }
+.matrix th:last-child, .matrix td:last-child { border-right: 0; }
+.role-list { display: grid; gap: 18px; max-width: 1300px; }
+.role-list div, .two-roles div, .three-stack div, .brace-box div, .digit-box span {
+    border: 1px solid var(--line);
+    border-radius: 22px;
+    background: var(--panel);
+    padding: 25px 32px;
+}
+.role-list code { display: inline-block; width: 260px; color: var(--green); font-size: 32px; }
+.role-list span { font-size: 30px; color: var(--ink); }
+.two-roles, .three-stack, .brace-box, .digit-box { display: grid; gap: 24px; }
+.two-roles { grid-template-columns: repeat(2, 1fr); max-width: 1120px; }
+.three-stack { grid-template-columns: repeat(3, 1fr); }
+.two-roles code, .three-stack code { display: block; color: var(--green); font-size: 66px; margin-bottom: 24px; }
+.two-roles span, .three-stack span, .brace-box div, .digit-box span { font-size: 36px; line-height: 1.35; }
+.brace-box { grid-template-columns: repeat(2, 1fr); }
+.digit-box { grid-template-columns: repeat(3, 1fr); margin-top: 44px; max-width: 1100px; }
+.formula { font: 500 56px/1.3 var(--font-code); color: var(--ink); margin-top: 46px; }
+.formula span { color: var(--amber); font-size: 92px; }
+.explain { position: absolute; right: 120px; top: 360px; width: 800px; font-size: 37px; line-height: 1.46; }
+.contrast, .two-col { display: grid; grid-template-columns: repeat(2, 1fr); gap: 34px; max-width: 1250px; }
+.contrast div, .panel { border: 1px solid var(--line); border-radius: 28px; padding: 42px; background: var(--panel); }
+.contrast b, .panel h3 { display: block; color: var(--green); font-size: 40px; margin: 0 0 20px; }
+.contrast span, .panel li { font-size: 32px; line-height: 1.45; }
+.panel.bad { border-color: rgba(255,92,122,.35); }
+.panel.good { border-color: rgba(92,255,157,.45); }
+.panel ul { margin: 0; padding-left: 34px; }
+
+/* ===========================================
+   SPECIAL SLIDE TREATMENTS
+   封面、陈述页和结尾页的大视觉
+   =========================================== */
+.title-slide h1 { color: var(--green); text-shadow: 0 0 46px rgba(92,255,157,.34); }
+.title-slide .slide-inner, .closing-slide .slide-inner { padding-top: 124px; }
+.statement-slide h2, .mantra-slide h2, .closing-slide h2 { font-size: 100px; max-width: 1550px; color: var(--ink); }
+.problem-slide .code-window { float: left; }
+.problem-slide .ask-card { position: absolute; right: 110px; bottom: 165px; width: 560px; font-size: 40px; }
+
+/* ===========================================
+   DECK CONTROLS
+   舞台外页码进度与编辑按钮
+   =========================================== */
+.deck-controls {
+    font: 700 14px/1 var(--font-code);
+    color: rgba(232,246,237,.78);
+    background: rgba(0,0,0,.52);
+    border: 1px solid rgba(92,255,157,.25);
+    border-radius: 999px;
+    padding: 12px 18px;
+    backdrop-filter: blur(10px);
+}
+.progress-track { position: fixed; left: 0; right: 0; bottom: 0; height: 4px; background: rgba(255,255,255,.08); z-index: 1000; }
+.progress-bar { width: 0; height: 100%; background: linear-gradient(90deg, var(--green), var(--amber)); transition: width .25s ease; }
+.edit-hotzone { position: fixed; top: 0; left: 0; width: 90px; height: 90px; z-index: 10000; cursor: pointer; }
+.edit-toggle {
+    position: fixed; top: 18px; left: 18px; z-index: 10001;
+    opacity: 0; pointer-events: none; transition: opacity .25s ease, transform .25s ease;
+    border: 1px solid rgba(92,255,157,.35); border-radius: 999px;
+    background: rgba(0,0,0,.68); color: var(--ink); padding: 12px 16px;
+    font: 700 14px/1 var(--font-code); cursor: pointer;
+}
+.edit-toggle.show, .edit-toggle.active { opacity: 1; pointer-events: auto; transform: translateY(0); }
+body.editing [contenteditable="true"] { outline: 2px dashed rgba(255,209,102,.85); outline-offset: 6px; cursor: text; }
+.save-toast {
+    position: fixed; right: 26px; top: 26px; z-index: 10002;
+    opacity: 0; transform: translateY(-8px); transition: .25s ease;
+    background: rgba(0,0,0,.72); color: var(--ink); border: 1px solid rgba(92,255,157,.35);
+    padding: 14px 18px; border-radius: 14px; font: 700 14px/1 var(--font-code);
+}
+.save-toast.show { opacity: 1; transform: translateY(0); }
+
+    </style>
+</head>
+<body>
+    <div class="deck-viewport">
+        <main class="deck-stage" id="deckStage" aria-label="for 循环学生讲义 V4 Web Slideshow">
+            <section class="slide title-slide active visible" aria-label="Slide 1: for 循环">
+                <div class="slide-inner">
+                    <div class="page-num">01</div>
+                    <div class="kicker reveal">C Language · 实操课</div>
+                    <h1 class="reveal">for 循环</h1>
+                    <p class="subtitle reveal">把重复劳动交给电脑</p>
+                    <div class="content">
+                        <div class="hero-code reveal"><span>for</span> (从哪开始; 到哪结束; 每次怎么变) {<br>&nbsp;&nbsp;重复做什么;<br>}</div><p class="note reveal">不用先背死格式，先学会问四个问题。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide map-slide" aria-label="Slide 2: 这节课只走一条主线">
+                <div class="slide-inner">
+                    <div class="page-num">02</div>
+                    <div class="kicker reveal">Today's Route</div>
+                    <h2 class="reveal">这节课只走一条主线</h2>
+                    
+                    <div class="content">
+                        <div class="route reveal"><div>重复劳动</div><div>for 四问</div><div>执行追踪</div><div>边界控制</div><div>累加 / 计数</div></div><p class="big-line reveal">最后能说清楚：i 从几开始、到哪停、每次怎么变、循环体重复做什么。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide check-slide" aria-label="Slide 3: 开始前，默认你已经会这些">
+                <div class="slide-inner">
+                    <div class="page-num">03</div>
+                    <div class="kicker reveal">0 · 课前基础</div>
+                    <h2 class="reveal">开始前，默认你已经会这些</h2>
+                    
+                    <div class="content">
+                        <div class="chip-grid reveal"><span>变量</span><span>printf / scanf</span><span>if / switch</span><span>+ - * / %</span></div><div class="terminal reveal"><div class="bar">minimum target</div><pre><code>for (i = 1; i &lt;= 5; i++) {
+    printf("%d\n", i);
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide problem-slide" aria-label="Slide 4: 如果要打印 5 遍，可以复制 5 行">
+                <div class="slide-inner">
+                    <div class="page-num">04</div>
+                    <div class="kicker reveal">1 · 为什么需要循环</div>
+                    <h2 class="reveal">如果要打印 5 遍，可以复制 5 行</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    printf("我爱 C 语言!\n");
+    printf("我爱 C 语言!\n");
+    printf("我爱 C 语言!\n");
+    printf("我爱 C 语言!\n");
+    printf("我爱 C 语言!\n");
+    return 0;
+}</code></pre></div><div class="ask-card reveal">结果是对的。<br><strong>但如果是 50 遍、100 遍呢？</strong></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide statement-slide" aria-label="Slide 5: 重复不是错误，重复是信号。">
+                <div class="slide-inner">
+                    <div class="page-num">05</div>
+                    <div class="kicker reveal">Signal</div>
+                    <h2 class="reveal">重复不是错误，重复是信号。</h2>
+                    
+                    <div class="content">
+                        <p class="big-line reveal">它在提醒你：这里有结构，可以交给循环。</p><div class="contrast reveal"><div><b>不用循环</b><span>人做重复劳动</span></div><div><b>使用循环</b><span>电脑替你重复做</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide contrast-slide" aria-label="Slide 6: 循环 = 控制重复">
+                <div class="slide-inner">
+                    <div class="page-num">06</div>
+                    <div class="kicker reveal">Loop Mindset</div>
+                    <h2 class="reveal">循环 = 控制重复</h2>
+                    
+                    <div class="content">
+                        <div class="two-col reveal"><div class="panel bad"><h3>不用循环</h3><ul><li>代码很长</li><li>修改麻烦</li><li>容易复制错</li><li>次数不好控制</li></ul></div><div class="panel good"><h3>用循环</h3><ul><li>代码更短</li><li>逻辑更清楚</li><li>次数可以控制</li><li>让电脑重复做</li></ul></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide model-slide" aria-label="Slide 7: 不要先背格式，先问四句话">
+                <div class="slide-inner">
+                    <div class="page-num">07</div>
+                    <div class="kicker reveal">2 · 核心模型</div>
+                    <h2 class="reveal">不要先背格式，先问四句话</h2>
+                    
+                    <div class="content">
+                        <div class="four-questions reveal"><div>1<span>从哪开始？</span></div><div>2<span>到哪结束？</span></div><div>3<span>每次怎么变？</span></div><div>4<span>重复做什么？</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide syntax-slide" aria-label="Slide 8: 把四问填进 for 的三个位置">
+                <div class="slide-inner">
+                    <div class="page-num">08</div>
+                    <div class="kicker reveal">Syntax</div>
+                    <h2 class="reveal">把四问填进 for 的三个位置</h2>
+                    
+                    <div class="content">
+                        <div class="code-window large reveal"><pre><code>int i;
+for (初始化语句; 条件判断语句; 条件控制语句) {
+    循环体语句;
+}</code></pre></div><div class="code-window ghost reveal"><pre><code>for (从哪开始; 到哪结束; 每次怎么变) {
+    重复做什么;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide table-slide" aria-label="Slide 9: 四问解释表">
+                <div class="slide-inner">
+                    <div class="page-num">09</div>
+                    <div class="kicker reveal">Four Questions</div>
+                    <h2 class="reveal">四问解释表</h2>
+                    
+                    <div class="content">
+                        <table class="matrix reveal"><tr><th>四问</th><th>for 中的位置</th><th>例子</th><th>常见错误</th></tr><tr><td>从哪开始？</td><td>初始化语句</td><td><code>i = 1</code></td><td>初始值写错</td></tr><tr><td>到哪结束？</td><td>条件判断语句</td><td><code>i &lt;= 5</code></td><td><code>&lt;</code> / <code>&lt;=</code> 混乱</td></tr><tr><td>每次怎么变？</td><td>条件控制语句</td><td><code>i++</code></td><td>忘记变化，死循环</td></tr><tr><td>重复做什么？</td><td>循环体</td><td><code>printf(...)</code></td><td>大括号放错</td></tr></table>
+                    </div>
+                </div>
+            </section>
+            <section class="slide mantra-slide" aria-label="Slide 10: 先定起点，再定终点；每轮变一次，身体做重复。">
+                <div class="slide-inner">
+                    <div class="page-num">10</div>
+                    <div class="kicker reveal">口诀</div>
+                    <h2 class="reveal">先定起点，再定终点；每轮变一次，身体做重复。</h2>
+                    
+                    <div class="content">
+                        <div class="road reveal"><span>起点</span><span>判断</span><span>执行</span><span>变化</span><span>再判断</span></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide task-slide" aria-label="Slide 11: 需求：打印 1 到 5">
+                <div class="slide-inner">
+                    <div class="page-num">11</div>
+                    <div class="kicker reveal">3 · 示例 1</div>
+                    <h2 class="reveal">需求：打印 1 到 5</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">打印数字：<strong>1 2 3 4 5</strong></div><p class="big-line reveal">先不写代码，先填四问。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide qa-slide" aria-label="Slide 12: 打印 1 到 5：四问先行">
+                <div class="slide-inner">
+                    <div class="page-num">12</div>
+                    <div class="kicker reveal">Example 1</div>
+                    <h2 class="reveal">打印 1 到 5：四问先行</h2>
+                    
+                    <div class="content">
+                        <div class="answer-grid reveal"><div><b>从哪开始？</b><span><code>i = 1</code></span></div><div><b>到哪结束？</b><span><code>i &lt;= 5</code></span></div><div><b>每次怎么变？</b><span><code>i++</code></span></div><div><b>重复做什么？</b><span>打印当前的 <code>i</code></span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 13: 代码不是凭空写出来的，是四问填出来的">
+                <div class="slide-inner">
+                    <div class="page-num">13</div>
+                    <div class="kicker reveal">Example 1</div>
+                    <h2 class="reveal">代码不是凭空写出来的，是四问填出来的</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int i;
+
+    for (i = 1; i &lt;= 5; i++) {
+        printf("%d\n", i);
+    }
+
+    return 0;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide output-slide" aria-label="Slide 14: 预期输出">
+                <div class="slide-inner">
+                    <div class="page-num">14</div>
+                    <div class="kicker reveal">Expected Output</div>
+                    <h2 class="reveal">预期输出</h2>
+                    
+                    <div class="content">
+                        <div class="terminal big reveal"><div class="bar">output</div><pre><code>1
+2
+3
+4
+5</code></pre></div><p class="note reveal">每一轮，i 走到哪里，就打印哪里。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide role-slide" aria-label="Slide 15: 这 5 个位置分别在做什么">
+                <div class="slide-inner">
+                    <div class="page-num">15</div>
+                    <div class="kicker reveal">Code Reading</div>
+                    <h2 class="reveal">这 5 个位置分别在做什么</h2>
+                    
+                    <div class="content">
+                        <div class="role-list reveal"><div><code>int i;</code><span>定义循环变量，负责一轮一轮地走。</span></div><div><code>i = 1</code><span>从 1 开始。</span></div><div><code>i &lt;= 5</code><span>只要 i 没有超过 5，就继续。</span></div><div><code>i++</code><span>每一轮结束后，往前走一步。</span></div><div><code>printf</code><span>每一轮都打印当前的 i。</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide tension-slide" aria-label="Slide 16: 把 &lt;= 改成 &lt;，会少哪个数？">
+                <div class="slide-inner">
+                    <div class="page-num">16</div>
+                    <div class="kicker reveal">Think</div>
+                    <h2 class="reveal">把 <= 改成 <，会少哪个数？</h2>
+                    
+                    <div class="content">
+                        <div class="compare-code reveal"><pre><code>i &lt;= 5</code></pre><span>→</span><pre><code>i &lt; 5</code></pre></div><div class="answer reveal">答案：会少 <strong>5</strong></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide statement-slide" aria-label="Slide 17: 循环里最容易出错的，不是语法，是边界。">
+                <div class="slide-inner">
+                    <div class="page-num">17</div>
+                    <div class="kicker reveal">Boundary</div>
+                    <h2 class="reveal">循环里最容易出错的，不是语法，是边界。</h2>
+                    
+                    <div class="content">
+                        <p class="big-line reveal">一个等号，就可能少处理一个数据。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide flow-slide" aria-label="Slide 18: for 不是从左到右走一遍">
+                <div class="slide-inner">
+                    <div class="page-num">18</div>
+                    <div class="kicker reveal">4 · 执行流程追踪</div>
+                    <h2 class="reveal">for 不是从左到右走一遍</h2>
+                    
+                    <div class="content">
+                        <div class="flow reveal"><div>起点<br><code>i = 1</code></div><div>判断<br><code>i &lt;= 3</code></div><div>身体<br><code>printf</code></div><div>变化<br><code>i++</code></div><div>回到判断</div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 19: 先猜：会打印几行？最后 i 是几？">
+                <div class="slide-inner">
+                    <div class="page-num">19</div>
+                    <div class="kicker reveal">Trace Code</div>
+                    <h2 class="reveal">先猜：会打印几行？最后 i 是几？</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int i;
+
+    for (i = 1; i &lt;= 3; i++) {
+        printf("i = %d\n", i);
+    }
+
+    printf("结束时 i = %d\n", i);
+    return 0;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide trace-slide" aria-label="Slide 20: 最容易忽略的是最后的 4">
+                <div class="slide-inner">
+                    <div class="page-num">20</div>
+                    <div class="kicker reveal">Output</div>
+                    <h2 class="reveal">最容易忽略的是最后的 4</h2>
+                    
+                    <div class="content">
+                        <div class="terminal reveal"><div class="bar">output</div><pre><code>i = 1
+i = 2
+i = 3
+结束时 i = 4</code></pre></div><div class="explain reveal"><p>打印完 3 后，i 还会先执行一次 <code>i++</code>。</p><p>i 变成 4，再判断 <code>4 &lt;= 3</code> 不成立，循环才结束。</p></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide mantra-slide" aria-label="Slide 21: 起点一次，判断多次，身体多次，变化多次。">
+                <div class="slide-inner">
+                    <div class="page-num">21</div>
+                    <div class="kicker reveal">执行顺序</div>
+                    <h2 class="reveal">起点一次，判断多次，身体多次，变化多次。</h2>
+                    
+                    <div class="content">
+                        <div class="pulse-grid reveal"><span>起点一次</span><span>判断多次</span><span>身体多次</span><span>变化多次</span></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide task-slide" aria-label="Slide 22: 需求：反向输出 5 到 1">
+                <div class="slide-inner">
+                    <div class="page-num">22</div>
+                    <div class="kicker reveal">5 · 示例 3</div>
+                    <h2 class="reveal">需求：反向输出 5 到 1</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">打印数字：<strong>5 4 3 2 1</strong></div><p class="big-line reveal">这题没有新语法，只有方向变了。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide qa-slide" aria-label="Slide 23: 反向输出：四问也要反过来">
+                <div class="slide-inner">
+                    <div class="page-num">23</div>
+                    <div class="kicker reveal">Reverse Loop</div>
+                    <h2 class="reveal">反向输出：四问也要反过来</h2>
+                    
+                    <div class="content">
+                        <div class="answer-grid reveal"><div><b>从哪开始？</b><span><code>i = 5</code></span></div><div><b>到哪结束？</b><span><code>i &gt;= 1</code></span></div><div><b>每次怎么变？</b><span><code>i--</code></span></div><div><b>重复做什么？</b><span>打印当前的 <code>i</code></span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 24: 反向输出完整代码">
+                <div class="slide-inner">
+                    <div class="page-num">24</div>
+                    <div class="kicker reveal">Reverse Code</div>
+                    <h2 class="reveal">反向输出完整代码</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int i;
+
+    for (i = 5; i &gt;= 1; i--) {
+        printf("%d ", i);
+    }
+
+    return 0;
+}</code></pre></div><div class="terminal mini reveal"><pre><code>5 4 3 2 1</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide bug-slide" aria-label="Slide 25: 方向反了，循环一开始就不会执行">
+                <div class="slide-inner">
+                    <div class="page-num">25</div>
+                    <div class="kicker reveal">Common Bug</div>
+                    <h2 class="reveal">方向反了，循环一开始就不会执行</h2>
+                    
+                    <div class="content">
+                        <div class="code-window danger reveal"><pre><code>for (i = 5; i &lt;= 1; i--)</code></pre></div><p class="big-line reveal">因为一开始 <code>5 &lt;= 1</code> 就不成立。</p><div class="rule reveal">起点、终点、变化方向必须是一套。</div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide task-slide" aria-label="Slide 26: 需求：求 1 到 5 的和">
+                <div class="slide-inner">
+                    <div class="page-num">26</div>
+                    <div class="kicker reveal">6 · 示例 4</div>
+                    <h2 class="reveal">需求：求 1 到 5 的和</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">1 + 2 + 3 + 4 + 5 = ?</div><p class="big-line reveal">这一次不只是打印，还要“装起来”。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide role-slide" aria-label="Slide 27: 先区分两个变量">
+                <div class="slide-inner">
+                    <div class="page-num">27</div>
+                    <div class="kicker reveal">Variable Roles</div>
+                    <h2 class="reveal">先区分两个变量</h2>
+                    
+                    <div class="content">
+                        <div class="two-roles reveal"><div><code>i</code><span>负责一个一个走</span></div><div><code>sum</code><span>负责把每个数装起来</span></div></div><div class="code-window ghost reveal"><pre><code>sum = sum + i;</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 28: 求和完整代码">
+                <div class="slide-inner">
+                    <div class="page-num">28</div>
+                    <div class="kicker reveal">Sum Code</div>
+                    <h2 class="reveal">求和完整代码</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int i;
+    int sum = 0;
+
+    for (i = 1; i &lt;= 5; i++) {
+        sum = sum + i;
+    }
+
+    printf("sum = %d\n", sum);
+    return 0;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide table-slide" aria-label="Slide 29: 每来一个 i，就放进 sum 这个篮子">
+                <div class="slide-inner">
+                    <div class="page-num">29</div>
+                    <div class="kicker reveal">Trace Table</div>
+                    <h2 class="reveal">每来一个 i，就放进 sum 这个篮子</h2>
+                    
+                    <div class="content">
+                        <table class="matrix reveal"><tr><th>轮次</th><th>i</th><th>本轮之前 sum</th><th>执行后</th></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>2</td><td>2</td><td>1</td><td>3</td></tr><tr><td>3</td><td>3</td><td>3</td><td>6</td></tr><tr><td>4</td><td>4</td><td>6</td><td>10</td></tr><tr><td>5</td><td>5</td><td>10</td><td>15</td></tr></table>
+                    </div>
+                </div>
+            </section>
+            <section class="slide think-slide" aria-label="Slide 30: 第三轮结束后，sum 是多少？">
+                <div class="slide-inner">
+                    <div class="page-num">30</div>
+                    <div class="kicker reveal">Think</div>
+                    <h2 class="reveal">第三轮结束后，sum 是多少？</h2>
+                    
+                    <div class="content">
+                        <div class="answer huge reveal">6</div><p class="big-line reveal">以后遇到求和，先想：我要让谁走？我要用谁装？</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide task-slide" aria-label="Slide 31: 条件统计：范围里有多少个数满足条件？">
+                <div class="slide-inner">
+                    <div class="page-num">31</div>
+                    <div class="kicker reveal">7 · 练习</div>
+                    <h2 class="reveal">条件统计：范围里有多少个数满足条件？</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">输入 <code>start</code> 和 <code>end</code>，统计范围中既能被 6 整除，又能被 8 整除的数字个数。</div><p class="note reveal">刚开始觉得输入麻烦，可以先把范围固定成 1 到 100。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide qa-slide" aria-label="Slide 32: 统计题，本质还是四问">
+                <div class="slide-inner">
+                    <div class="page-num">32</div>
+                    <div class="kicker reveal">Count Task</div>
+                    <h2 class="reveal">统计题，本质还是四问</h2>
+                    
+                    <div class="content">
+                        <div class="answer-grid reveal"><div><b>从哪开始？</b><span><code>i = start</code></span></div><div><b>到哪结束？</b><span><code>i &lt;= end</code></span></div><div><b>每次怎么变？</b><span><code>i++</code></span></div><div><b>重复做什么？</b><span>判断条件，满足就 <code>count++</code></span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 33: 条件统计完整代码">
+                <div class="slide-inner">
+                    <div class="page-num">33</div>
+                    <div class="kicker reveal">Count Code</div>
+                    <h2 class="reveal">条件统计完整代码</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int start, end;
+    int i;
+    int count = 0;
+
+    printf("请输入范围的开始和结束：");
+    scanf("%d %d", &amp;start, &amp;end);
+
+    for (i = start; i &lt;= end; i++) {
+        if (i % 6 == 0 &amp;&amp; i % 8 == 0) {
+            count++;
+        }
+    }
+
+    printf("满足条件的数字个数是：%d\n", count);
+    return 0;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide model-slide" aria-label="Slide 34: 复杂题通常只是三件事叠起来">
+                <div class="slide-inner">
+                    <div class="page-num">34</div>
+                    <div class="kicker reveal">Pattern</div>
+                    <h2 class="reveal">复杂题通常只是三件事叠起来</h2>
+                    
+                    <div class="content">
+                        <div class="three-stack reveal"><div><code>for</code><span>一个个试</span></div><div><code>if</code><span>负责判断</span></div><div><code>count</code><span>负责记录</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide tension-slide" aria-label="Slide 35: count++ 应该放在 if 里面，还是外面？">
+                <div class="slide-inner">
+                    <div class="page-num">35</div>
+                    <div class="kicker reveal">Key Question</div>
+                    <h2 class="reveal">count++ 应该放在 if 里面，还是外面？</h2>
+                    
+                    <div class="content">
+                        <div class="answer reveal">放在 <code>if</code> 里面。</div><p class="big-line reveal">因为只有满足条件的数字才应该被计数。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide challenge-slide" aria-label="Slide 36: 水仙花数">
+                <div class="slide-inner">
+                    <div class="page-num">36</div>
+                    <div class="kicker reveal">8 · 进阶挑战</div>
+                    <h2 class="reveal">水仙花数</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">打印 100 到 999 之间所有水仙花数。</div><div class="formula reveal"><span>153</span> = 1*1*1 + 5*5*5 + 3*3*3</div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide qa-slide" aria-label="Slide 37: 水仙花数也没有脱离四问">
+                <div class="slide-inner">
+                    <div class="page-num">37</div>
+                    <div class="kicker reveal">Narcissus Number</div>
+                    <h2 class="reveal">水仙花数也没有脱离四问</h2>
+                    
+                    <div class="content">
+                        <div class="answer-grid reveal"><div><b>从哪开始？</b><span><code>i = 100</code></span></div><div><b>到哪结束？</b><span><code>i &lt;= 999</code></span></div><div><b>每次怎么变？</b><span><code>i++</code></span></div><div><b>重复做什么？</b><span>拆数字 + 判断</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 38: 关键动作：拆出个位、十位、百位">
+                <div class="slide-inner">
+                    <div class="page-num">38</div>
+                    <div class="kicker reveal">Digit Split</div>
+                    <h2 class="reveal">关键动作：拆出个位、十位、百位</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>int ge = i % 10;        // 个位
+int shi = i / 10 % 10;  // 十位
+int bai = i / 100;      // 百位</code></pre></div><div class="digit-box reveal"><span>百位 bai</span><span>十位 shi</span><span>个位 ge</span></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide code-slide" aria-label="Slide 39: 水仙花数完整代码">
+                <div class="slide-inner">
+                    <div class="page-num">39</div>
+                    <div class="kicker reveal">Challenge Code</div>
+                    <h2 class="reveal">水仙花数完整代码</h2>
+                    
+                    <div class="content">
+                        <div class="code-window reveal"><pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    int i;
+
+    for (i = 100; i &lt;= 999; i++) {
+        int ge = i % 10;
+        int shi = i / 10 % 10;
+        int bai = i / 100;
+
+        if (bai*bai*bai + shi*shi*shi + ge*ge*ge == i) {
+            printf("%d\n", i);
+        }
+    }
+
+    return 0;
+}</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide output-slide" aria-label="Slide 40: 预期输出">
+                <div class="slide-inner">
+                    <div class="page-num">40</div>
+                    <div class="kicker reveal">Expected Output</div>
+                    <h2 class="reveal">预期输出</h2>
+                    
+                    <div class="content">
+                        <div class="terminal big reveal"><div class="bar">output</div><pre><code>153
+370
+371
+407</code></pre></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide errors-slide" aria-label="Slide 41: 错误 1：分不清 &lt; 和 &lt;=">
+                <div class="slide-inner">
+                    <div class="page-num">41</div>
+                    <div class="kicker reveal">9 · 常见错误</div>
+                    <h2 class="reveal">错误 1：分不清 < 和 <=</h2>
+                    
+                    <div class="content">
+                        <div class="code-window danger reveal"><pre><code>for (i = 1; i &lt; 5; i++)</code></pre></div><p class="big-line reveal">判断方法：最后一个数要不要处理？</p><div class="rule reveal">要处理最后一个数：常用 <code>&lt;=</code> 或 <code>&gt;=</code></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide errors-slide" aria-label="Slide 42: 错误 2：忘记 i++ 或 i--">
+                <div class="slide-inner">
+                    <div class="page-num">42</div>
+                    <div class="kicker reveal">Common Error</div>
+                    <h2 class="reveal">错误 2：忘记 i++ 或 i--</h2>
+                    
+                    <div class="content">
+                        <div class="code-window danger reveal"><pre><code>for (i = 1; i &lt;= 5; ) {
+    printf("%d\n", i);
+}</code></pre></div><p class="big-line reveal">循环变量不变化，就像人在原地踏步，永远到不了终点。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide errors-slide" aria-label="Slide 43: 错误 3：把代码放错大括号">
+                <div class="slide-inner">
+                    <div class="page-num">43</div>
+                    <div class="kicker reveal">Common Error</div>
+                    <h2 class="reveal">错误 3：把代码放错大括号</h2>
+                    
+                    <div class="content">
+                        <div class="brace-box reveal"><div>每一轮都要做 → 放进 <code>{}</code></div><div>只做一次 → 放在循环外</div></div><p class="note reveal">判断一句代码要不要进循环体，先问：这件事是不是每一轮都要做？</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide errors-slide" aria-label="Slide 44: 错误 4：把 sum = sum + i 写成 sum = i">
+                <div class="slide-inner">
+                    <div class="page-num">44</div>
+                    <div class="kicker reveal">Common Error</div>
+                    <h2 class="reveal">错误 4：把 sum = sum + i 写成 sum = i</h2>
+                    
+                    <div class="content">
+                        <div class="compare-code reveal"><pre><code>sum = i;</code></pre><span>≠</span><pre><code>sum = sum + i;</code></pre></div><p class="big-line reveal"><code>sum = i</code> 会覆盖原来的结果，只留下这一次的 i。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide summary-slide" aria-label="Slide 45: 写 for 循环，先问四句话">
+                <div class="slide-inner">
+                    <div class="page-num">45</div>
+                    <div class="kicker reveal">10 · 本节总结</div>
+                    <h2 class="reveal">写 for 循环，先问四句话</h2>
+                    
+                    <div class="content">
+                        <div class="four-questions reveal"><div>1<span>从哪开始？</span></div><div>2<span>到哪结束？</span></div><div>3<span>每次怎么变？</span></div><div>4<span>重复做什么？</span></div></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide summary-slide" aria-label="Slide 46: 再记住三个角色">
+                <div class="slide-inner">
+                    <div class="page-num">46</div>
+                    <div class="kicker reveal">Roles</div>
+                    <h2 class="reveal">再记住三个角色</h2>
+                    
+                    <div class="content">
+                        <div class="three-stack reveal"><div><code>i</code><span>负责走</span></div><div><code>sum / count</code><span>负责装</span></div><div><code>if</code><span>负责判断</span></div></div><p class="big-line reveal">打印、求和、统计、水仙花数，其实都在一条线上。</p>
+                    </div>
+                </div>
+            </section>
+            <section class="slide homework-slide" aria-label="Slide 47: 求 1 到 n 之间所有奇数的和">
+                <div class="slide-inner">
+                    <div class="page-num">47</div>
+                    <div class="kicker reveal">11 · 课后练习</div>
+                    <h2 class="reveal">求 1 到 n 之间所有奇数的和</h2>
+                    
+                    <div class="content">
+                        <div class="task-box reveal">键盘录入一个正整数 <code>n</code>，求 1 到 n 之间所有奇数的和。</div><div class="submit reveal"><span>提交 1：四问表</span><span>提交 2：完整代码</span><span>提交 3：运行截图 / 输出结果</span></div>
+                    </div>
+                </div>
+            </section>
+            <section class="slide hint-slide" aria-label="Slide 48: 课后练习四问提示">
+                <div class="slide-inner">
+                    <div class="page-num">48</div>
+                    <div class="kicker reveal">Homework Hint</div>
+                    <h2 class="reveal">课后练习四问提示</h2>
+                    
+                    <div class="content">
+                        <table class="matrix reveal"><tr><th>四问</th><th>提示</th></tr><tr><td>从哪开始？</td><td><code>i = 1</code></td></tr><tr><td>到哪结束？</td><td><code>i &lt;= n</code></td></tr><tr><td>每次怎么变？</td><td><code>i++</code> 后用 if，或 <code>i += 2</code></td></tr><tr><td>重复做什么？</td><td>把奇数加到 <code>sum</code> 里</td></tr></table>
+                    </div>
+                </div>
+            </section>
+            <section class="slide closing-slide" aria-label="Slide 49: for 循环真正难的不是括号。">
+                <div class="slide-inner">
+                    <div class="page-num">49</div>
+                    <div class="kicker reveal">Closing</div>
+                    <h2 class="reveal">for 循环真正难的不是括号。</h2>
+                    
+                    <div class="content">
+                        <p class="big-line reveal">难的是：能不能从题目里找出这四件事。</p><div class="hero-code reveal"><span>for</span> (起点; 终点; 变化) {<br>&nbsp;&nbsp;重复动作;<br>}</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    <div class="deck-controls" id="slideCounter" aria-live="polite">01 / 49</div>
+    <div class="progress-track" aria-hidden="true"><div class="progress-bar" id="progressBar"></div></div>
+    <div class="edit-hotzone" aria-hidden="true"></div>
+    <button class="edit-toggle" id="editToggle" title="Edit mode (E)">EDIT</button>
+    <div class="save-toast" id="saveToast" role="status" aria-live="polite"></div>
+    <script>
+
+/* ===========================================
+   SLIDE PRESENTATION CONTROLLER
+   键盘、触摸、滚轮导航以及 1920×1080 舞台缩放
+   =========================================== */
+class SlidePresentation {
+    constructor() {
+        this.slides = Array.from(document.querySelectorAll('.slide'));
+        this.currentSlide = 0;
+        this.stage = document.getElementById('deckStage');
+        this.counter = document.getElementById('slideCounter');
+        this.progress = document.getElementById('progressBar');
+        this.lastWheel = 0;
+        this.setupStageScale();
+        this.setupKeyboardNav();
+        this.setupTouchNav();
+        this.setupWheelNav();
+        this.showSlide(0);
+    }
+
+    setupStageScale() {
+        const scale = () => {
+            const factor = Math.min(window.innerWidth / 1920, window.innerHeight / 1080);
+            const x = (window.innerWidth - 1920 * factor) / 2;
+            const y = (window.innerHeight - 1080 * factor) / 2;
+            this.stage.style.transform = `translate(${x}px, ${y}px) scale(${factor})`;
+        };
+        scale();
+        window.addEventListener('resize', scale);
+    }
+
+    setupKeyboardNav() {
+        document.addEventListener('keydown', (e) => {
+            if (e.target && e.target.getAttribute('contenteditable') === 'true') {
+                if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 's') e.preventDefault();
+                return;
+            }
+            if (['ArrowRight', ' ', 'PageDown'].includes(e.key)) { e.preventDefault(); this.next(); }
+            if (['ArrowLeft', 'PageUp'].includes(e.key)) { e.preventDefault(); this.prev(); }
+            if (e.key === 'Home') { e.preventDefault(); this.showSlide(0); }
+            if (e.key === 'End') { e.preventDefault(); this.showSlide(this.slides.length - 1); }
+        });
+    }
+
+    setupTouchNav() {
+        let startX = 0;
+        let startY = 0;
+        this.stage.addEventListener('touchstart', (e) => {
+            startX = e.touches[0].clientX;
+            startY = e.touches[0].clientY;
+        }, { passive: true });
+        this.stage.addEventListener('touchend', (e) => {
+            const dx = e.changedTouches[0].clientX - startX;
+            const dy = e.changedTouches[0].clientY - startY;
+            if (Math.abs(dx) > 48 && Math.abs(dx) > Math.abs(dy)) dx < 0 ? this.next() : this.prev();
+            else if (Math.abs(dx) < 12 && Math.abs(dy) < 12) this.next();
+        }, { passive: true });
+    }
+
+    setupWheelNav() {
+        window.addEventListener('wheel', (e) => {
+            const now = Date.now();
+            if (now - this.lastWheel < 650) return;
+            if (Math.abs(e.deltaY) > 24) {
+                e.deltaY > 0 ? this.next() : this.prev();
+                this.lastWheel = now;
+            }
+        }, { passive: true });
+    }
+
+    showSlide(index) {
+        this.currentSlide = Math.max(0, Math.min(index, this.slides.length - 1));
+        this.slides.forEach((slide, i) => {
+            slide.classList.toggle('active', i === this.currentSlide);
+            slide.classList.toggle('visible', i === this.currentSlide);
+        });
+        this.counter.textContent = `${String(this.currentSlide + 1).padStart(2, '0')} / ${String(this.slides.length).padStart(2, '0')}`;
+        this.progress.style.width = `${((this.currentSlide + 1) / this.slides.length) * 100}%`;
+    }
+
+    next() { this.showSlide(this.currentSlide + 1); }
+    prev() { this.showSlide(this.currentSlide - 1); }
+}
+
+/* ===========================================
+   INLINE EDITOR
+   E 键进入编辑；Ctrl/Cmd+S 下载保存当前 HTML
+   =========================================== */
+class InlineEditor {
+    constructor() {
+        this.isActive = false;
+        this.toggle = document.getElementById('editToggle');
+        this.toast = document.getElementById('saveToast');
+        this.setupInteractions();
+        this.restoreEdits();
+    }
+
+    setupInteractions() {
+        this.toggle.addEventListener('click', () => this.toggleEditMode());
+        document.addEventListener('keydown', (e) => {
+            const editable = e.target && e.target.getAttribute('contenteditable') === 'true';
+            if ((e.key === 'e' || e.key === 'E') && !editable) this.toggleEditMode();
+            if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 's') {
+                e.preventDefault();
+                this.saveToLocalStorage();
+                this.downloadHtml();
+            }
+        });
+        document.querySelectorAll('.slide-inner h1, .slide-inner h2, .slide-inner p, .slide-inner div, .slide-inner span, .slide-inner td, .slide-inner th, .slide-inner code, .slide-inner li').forEach((el, i) => {
+            if (!el.closest('pre')) el.dataset.editId = `editable-${i}`;
+        });
+    }
+
+    toggleEditMode() {
+        this.isActive = !this.isActive;
+        document.body.classList.toggle('editing', this.isActive);
+        this.toggle.classList.toggle('active', this.isActive);
+        this.toggle.textContent = this.isActive ? 'DONE' : 'EDIT';
+        document.querySelectorAll('[data-edit-id]').forEach(el => {
+            el.setAttribute('contenteditable', this.isActive ? 'true' : 'false');
+        });
+        if (!this.isActive) this.saveToLocalStorage();
+    }
+
+    saveToLocalStorage() {
+        const data = {};
+        document.querySelectorAll('[data-edit-id]').forEach(el => data[el.dataset.editId] = el.innerHTML);
+        localStorage.setItem('for-loop-v4-web-slideshow-edits', JSON.stringify(data));
+        this.showToast('Saved locally');
+    }
+
+    restoreEdits() {
+        try {
+            const raw = localStorage.getItem('for-loop-v4-web-slideshow-edits');
+            if (!raw) return;
+            const data = JSON.parse(raw);
+            document.querySelectorAll('[data-edit-id]').forEach(el => {
+                if (data[el.dataset.editId]) el.innerHTML = data[el.dataset.editId];
+            });
+        } catch (_) { /* ignore corrupt local edits */ }
+    }
+
+    downloadHtml() {
+        const clone = document.documentElement.cloneNode(true);
+        clone.querySelectorAll('[contenteditable]').forEach(el => el.setAttribute('contenteditable', 'false'));
+        clone.querySelector('body').classList.remove('editing');
+        const html = '<!DOCTYPE html>\n' + clone.outerHTML;
+        const blob = new Blob([html], { type: 'text/html' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'for-loop-v4-web-slideshow-edited.html';
+        a.click();
+        URL.revokeObjectURL(url);
+        this.showToast('HTML downloaded');
+    }
+
+    showToast(text) {
+        this.toast.textContent = text;
+        this.toast.classList.add('show');
+        setTimeout(() => this.toast.classList.remove('show'), 1500);
+    }
+}
+
+/* ===========================================
+   EDIT TOGGLE HOTZONE
+   左上角热区悬停显示编辑按钮，带 400ms 容错
+   =========================================== */
+const presentation = new SlidePresentation();
+const editor = new InlineEditor();
+const hotzone = document.querySelector('.edit-hotzone');
+const editToggle = document.getElementById('editToggle');
+let hideTimeout = null;
+hotzone.addEventListener('mouseenter', () => { clearTimeout(hideTimeout); editToggle.classList.add('show'); });
+hotzone.addEventListener('mouseleave', () => { hideTimeout = setTimeout(() => { if (!editor.isActive) editToggle.classList.remove('show'); }, 400); });
+editToggle.addEventListener('mouseenter', () => clearTimeout(hideTimeout));
+editToggle.addEventListener('mouseleave', () => { hideTimeout = setTimeout(() => { if (!editor.isActive) editToggle.classList.remove('show'); }, 400); });
+hotzone.addEventListener('click', () => editor.toggleEditMode());
+
+    </script>
+</body>
+</html>
