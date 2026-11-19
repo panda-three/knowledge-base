@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1917264237621974424",
+    "display_title": "专注于可控事项，其余交由AI发挥",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-01T21:37:27+08:00",
+      "edited_at": "2026-08-01T21:37:49.351+08:00",
+      "record_updated_at": "2026-08-01T21:37:49.356+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1917264237621974500,
+    "note_id": "1917264237621974424",
+    "title": "专注于可控事项，其余交由AI发挥",
+    "content": "控制自己能控制的：第一，明确自己要做什么；第二，明确自己要做什么。剩下的交给AI，让AI尽情发挥想象力即可。适用于PPT制作。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182708265",
+        "name": "时间管理",
+        "type": "ai"
+      },
+      {
+        "id": "507712204",
+        "name": "AI协作",
+        "type": "ai"
+      },
+      {
+        "id": "555890512",
+        "name": "工作方法",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-01 21:37:27",
+    "updated_at": "2026-08-01 21:37:49"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1917264237621974424",
+        "display_title": "专注于可控事项，其余交由AI发挥",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-08-01T21:37:27+08:00",
+          "edited_at": "2026-08-01T21:37:49.351+08:00",
+          "record_updated_at": "2026-08-01T21:37:49.356+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1917264237621974500,
+        "note_id": "1917264237621974424",
+        "title": "专注于可控事项，其余交由AI发挥",
+        "content": "控制自己能控制的：第一，明确自己要做什么；第二，明确自己要做什么。剩下的交给AI，让AI尽情发挥想象力即可。适用于PPT制作。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "182708265",
+            "name": "时间管理",
+            "type": "ai"
+          },
+          {
+            "id": "507712204",
+            "name": "AI协作",
+            "type": "ai"
+          },
+          {
+            "id": "555890512",
+            "name": "工作方法",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202608012137%2Fnotesaudio_1a9b7daa801202c8HWGROqJX.mp3?Expires=1793004310&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=JXqab%2FZjWXF4iLqgXalaNNfwnn0%3D",
+            "title": "",
+            "duration": 15912
+          }
+        ],
+        "audio": {
+          "original": "控制自己能控制的就是我第一要做什么，第二要做什么，你知道吗？剩下的交给ai，让ai尽情地发挥自己的想象力就可以了。对ppt。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "7gvqkZX34Ydee",
+        "version": 4,
+        "created_at": "2026-08-01 21:37:27",
+        "updated_at": "2026-08-01 21:37:49"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572310,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c1569b0a53001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1917264237621974424",
+    "display_title": "专注于可控事项，其余交由AI发挥",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-01T21:37:27+08:00",
+      "edited_at": "2026-08-01T21:37:49.351+08:00",
+      "record_updated_at": "2026-08-01T21:37:49.356+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1917264237621974500,
+    "note_id": "1917264237621974424",
+    "title": "专注于可控事项，其余交由AI发挥",
+    "content": "控制自己能控制的：第一，明确自己要做什么；第二，明确自己要做什么。剩下的交给AI，让AI尽情发挥想象力即可。适用于PPT制作。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182708265",
+        "name": "时间管理",
+        "type": "ai"
+      },
+      {
+        "id": "507712204",
+        "name": "AI协作",
+        "type": "ai"
+      },
+      {
+        "id": "555890512",
+        "name": "工作方法",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202608012137%2Fnotesaudio_1a9b7daa801202c8HWGROqJX.mp3?Expires=1793004310&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=JXqab%2FZjWXF4iLqgXalaNNfwnn0%3D",
+        "title": "",
+        "duration": 15912
+      }
+    ],
+    "audio": {
+      "original": "控制自己能控制的就是我第一要做什么，第二要做什么，你知道吗？剩下的交给ai，让ai尽情地发挥自己的想象力就可以了。对ppt。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "7gvqkZX34Ydee",
+    "version": 4,
+    "created_at": "2026-08-01 21:37:27",
+    "updated_at": "2026-08-01 21:37:49"
+  },
+  "original": "控制自己能控制的就是我第一要做什么，第二要做什么，你知道吗？剩下的交给ai，让ai尽情地发挥自己的想象力就可以了。对ppt。"
+}

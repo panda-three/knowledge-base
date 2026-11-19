@@ -1,0 +1,39 @@
+【2022年盐城市普通高校对口单招高三年级第一次调研考试】
+
+79、阅读下列程序，写出程序运行结果
+
+#include <stdio.h>
+
+int main( )
+
+{    char k;
+
+     int i;
+
+     int a[6]={9,10,20,30,40,50};
+
+     for(i=0;i<6;i++)
+
+     {
+
+         switch(a[i]/10)
+
+         {    case 0: printf("I ");
+
+              case 1: printf("love ");break;
+
+              case 2: printf("BeiJing.\n");break;
+
+              case 3: printf("BeiJing ");break;
+
+              case 4: printf("Olympic ");break;
+
+              case 5: printf("Games!");break;
+
+         }
+
+     }
+
+}
+
+

@@ -1,0 +1,275 @@
+{
+  "summary": {
+    "id": 1911744766561761000,
+    "note_id": "1911744766561760912",
+    "title": "一堂AI时代竞争力双三角模型武器库及实践案例",
+    "content": "# 核心模型：AI时代双三角竞争力\n\n双三角核心逻辑：**人类三角 × AI三角**，正向循环：人变强了，**调教更强AI**；有了强AI，**辅助人变得更强**。人类侧持续让自己变强，AI侧持续使用AI更强。\n\n### 人类三角（人类核心竞争力）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **创造力** | 敢于提出新解法、新设想，善于高水平创新 | 基础：敢于跳出旧道路，提出新解法<br>- 批判性思维：不要迷信，主动思考合理性<br>- 学会提问：多追求WHY，提出新的好问题<br>进阶：使用假设思维探索解法<br>- 关键假设思维：用确定性的前提假设，去解决**高难度**的业务问题<br>- 假设验证循环：目标/加-法/减法/验证/调整<br>高阶：高水平创新和科学探索<br>- 第一性原理：遵循本质和底层原理做事<br>- 分层自洽：追求下层规律和上层规则统一<br>- 辩证思维：找到规律的矛盾性，寻找更统一的更好规律 | - 解放思想：大胆提出创造性假设<br>- 分层自洽：上下分层可推理，左右自洽可辩证<br>- 敢于想象：有自己的独特想象力和设想 |\n| **审美** | 对于结果和过程建立高水平判断力 | 基础：有基本的判断<br>- 有感觉：对于好坏优劣有基本的分辨<br>- 有案例：最佳实践清单整理<br>- 有打分：20分很差，40分不够，60分可用，80分优秀，99分无懈可击<br>进阶：能讲出维度和评分<br>- 有定量：综合加权打分机制<br>- 有维度：建立雷达图评估角度<br>- 正负表：正负评价checklist<br>- 有方法：有专业的细节体感和方法<br>高阶：能持续push到最佳实践<br>- 有超越：基于最佳实践再次突破<br>- 有引领：引领更多人的Top审美 | - 重视审美：主动积累专家级别的Top判断<br>- 训练审美：设法培养最佳实践细节判断力<br>- 无限追求：对于最佳实践的追求永不设限 |\n| **体系** | 解决一类问题，有成熟的、稳定的思考和执行框架 | 基础：基础的执行工作流/SOP<br>- 工作流：解决某类问题的固定流程/方法<br>- 清单：解决某一类问题的清单/禁止清单<br>进阶：有稳定决策框架<br>- 拆目标：目标的稳定拆解（基本框架）<br>- 方法论：稳定的方法论体系（框架）<br>高阶：有完备、本质的工作框架<br>- MECE：逻辑完备的结构<br>- 逻辑递进MECE：高阶里程碑模型 | - 准确的定义：对于复杂概念有基本统一的定义<br>- 完备MECE：逻辑完备，不重不漏<br>- 科学工作流：稳定高效的做事流程和里程碑 |\n\n### AI三角（AI能力建设）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **场景** | 发掘高匹配的细分场景，本身就是AI能力进步的重要维度 | 基础：有**场景就是生产力**的意识<br>- 需求捕捉：寻找痛苦的/吸气的/不得不做的关键场景<br>- 颗粒度拆解：复杂工作拆解到“AI可辅助”的小场景<br>进阶：大胆提出场景假设<br>- 大胆假设：在这个场景下发挥足够大的价值<br>- **STAR模型**：个人和组织，上限和下限<br>高阶：善于评估场景可行性<br>- **AI匹配：AI优劣特性和场景匹配<br>- **评估ROI：考虑3-5个维度，多场景对比 | - 强敏感性：持续保持场景敏感性<br>- 大胆假设：积极提出场景假设<br>- 细分场景：找到高价值的细分场景 |\n| **基本功** | 练习使用各种AI工具，善于使用AI工具和特性解决问题 | 基础：高频使用LLM提示词<br>- 提示词框架：提示词三圆环结构化框架（12原则）<br>- 封装提示词：系统提示词，YAI-partner，提示词库<br>进阶：使用更多更丰富工具<br>- 封装自动化：工作流，智能体，Skill，OpenClaw<br>- 多工具创造：多模态，VibeCoding<br>高阶：模型微调/训练，多Agent编排<br>- 有算法：看底层算法/模型论文<br>- 有协同：AI和人类组织分工和协同<br>武器库：打造自己的AI分层武器库<br>- 有匹配：不同场景使用什么工具<br>- 有理解：最小核心特性（Feature） | - 既不迷信：任何工具都有局限性<br>- 也不排斥：任何工具都值得尝试<br>- 刻意练习：任何AI都是刻意练出来的 |\n| **数据** | 高水平的结果需要高水平的数据，主动搜集和积累高质量数据 | 基础：准备几个高质量案例（FewShot）<br>- 正面案例：可参考的正面案例<br>- 负面案例：提醒AI警惕的负面案例<br>进阶：打造高质量的数据包包（Datapack）<br>- 维度：非结构化数据，结构化数据，形成资产<br>- 预判：哪些是最值钱的数据资产<br>高阶：构建系统的数据体系（System）<br>- 采集收集：记录敏感性，及时标记、录音、存储<br>- 数据处理：AI生成，保存，Markdown，打标签，向量化<br>- 数据使用：Obsidian，RAG知识库，数据图谱<br>- 数据飞轮：主动构建一个数据飞轮 | - 数据敏感：对于业务数据有敏感性<br>- 资产思维：形成长期的Domain-Knowledge<br>- 复利思维：用10年的心态去设计和建设数据 |\n\n核心灵魂拷问：\n- 人类侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- AI侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n# 双三角模型的各行业实践案例\n---\n## 案例1：天末·别墅设计AI商业级交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n开创式摸索人机协作边界\n挑战AI生图的确定性上限\n探索AI参与商业交付的**新业务模式**\n\n### 场景（AI三角）\n\nAI辅助精细化调研\nAI完善设计生图提示词\nAI直出设计效果图\n\n### 审美（人类三角）\n\n室内设计风格/品味/审美\n设计图可落地性的判断力\nAI出图质量的审美判断\n\n### 体系（人类三角）\n\n室内设计交付工作流\n软装配比体系\n材质与施工评估\n造价与预算等等\n\n### 基本功（AI三角）\n\nLLM对话/深度研究\n结构化提示词\nRAG知识库\n\n### 数据（AI三角）\n\n调研访谈记录\n大量最佳实践对标参考\n现场实景照片\n---\n## 案例2：一堂·作业洞察和特别表白\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n洞察本质：纠结和自洽\n\n### 场景（AI三角）\n\n新年礼：全量作业洞察\n表白墙：反向表白\n复盘营：毕业礼物（exp）\n\n### 审美（人类三角）\n\n基准线：同行的报告水准\n想象力：美好作品想象\n\n### 体系（人类三角）\n\nAI建模：洞察指南\n项目管理里程碑\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（TRAE）\n文档工具（Obsidian）\n\n### 数据（AI三角）\n\n顶层理解和最终意图\n同行最佳案例×10\n历史创作的信×10\n一堂价值观解读×30条\n---\n## 案例3：冷遇兵·贝壳云管家业务第一次AI落地破局\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n加\"人味\"：\n1. 带口音的AI\n2. AI让用户说普通话\n3. 键盘声、语气词\n\n### 场景（AI三角）\n\n给原有出租业主报盘\n\n### 审美（人类三角）\n\n基础：业务负责人判断\n微观：优秀骨干细节体感\n\n### 体系（人类三角）\n\n110细分场景\n260个出口\n\n### 基本功（AI三角）\n\n基础提示词\n意图识别\n智能体\n自适应工作流\n\n### 数据（AI三角）\n\n几百万条历史通话数据\nAI实测数据\n地区差异数据\n处理：文本化、打标签\n---\n## 案例4：赵飞·AI赋能婚姻陪跑新业务\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n敢于跳出旧诉讼思路\n使用\"婚姻陪跑\"假设思维\n追求婚姻规律的科学探索\n\n### 场景（AI三角）\n\n大胆提出AI介入婚姻咨询假设\n\n### 审美（人类三角）\n\n基本的法律和心理判断\n能讲出维度(法理情)和评分\n持续push行业最佳实践\n\n### 体系（人类三角）\n\n法律咨询执行工作流\n加法提问与验证模型\n民法典知识框架体系\n\n### 基本功（AI三角）\n\n基础提示词\nRAG 知识库工具\n\n### 数据（AI三角）\n\n律所自有经典案例\n民法典法条和司法解释\n外部大数据判决案例\n咨询原始录音录像\n咨询常见问题库\n---\n## 案例5：阿豪·电商推广选品百倍提效\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n内网穿透+本地部署快速上线\n数据打标解决AI幻觉\n全AI自动化选品/诊断完整方案\n\n### 场景（AI三角）\n\n识别高频、高价值场景\n使用START模型（提效降本）\n\n### 审美（人类三角）\n\n判断AI方向是否合理\n看懂AI分析结果\n最佳实践的评判标杆\n\n### 体系（人类三角）\n\n用飞书/文档梳理经验\n项目管理里程碑\n成熟业务体系+AI改造落地\n\n### 基本功（AI三角）\n\n基础提示词\n工作流、RPA、Python\n工程化部署\n\n### 数据（AI三角）\n\n电商多平台数据来源采集\n数据库+知识库\n---\n## 案例6：劉衞·硬件研发大厂AI专利超额交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n通过梳理SOP找AI场景\n用AI反向激发工程师创新点\n\n### 场景（AI三角）\n\nAI专利\n\n### 审美（人类三角）\n\n专利内容的判断\n组织内部阻力感知\n对AI技术边界的认知\n\n### 体系（人类三角）\n\n二维矩阵：价值&可行性\n组织三角：技术+专利+AI\n专利8阶段21节点拆解\n人机边界：三种分工方式处理\n\n### 基本功（AI三角）\n\n基础提示词\n垂类AI工具\nAgent工作流\n人在环：人与AI协作\n\n### 数据（AI三角）\n\n持续收集bad case\n过往优秀专利参考\n各种专利撰写规则\n数据安全：资料分级\n---\n## 案例7：Vikki·IP选题智能体挑战交付上限\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n能跳出AI工具，回到业务视角\n遇到卡点不断提新的假设\n\n### 场景（AI三角）\n\nIP内容的AI场景假设池\n需求最刚的假设先行\n\n### 审美（人类三角）\n\n什么是好的选题\n什么是好的问题\n什么是好的产品设计\n\n### 体系（人类三角）\n\n选题四象限方法论\n内容讲香方法论\n商业分析思维体系\n结构化提问\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（Coze）\n结构化提示词\n知识库\n\n### 数据（AI三角）\n\n方法论数据包\n爆款选题案例集\n选题文案模板库\n过往咨询案例最佳实践\n---\n来源：一堂·2026春季马拉松，带领10000+人用10小时击穿1个课题",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525327827",
+        "name": "AI竞争力",
+        "type": "ai"
+      },
+      {
+        "id": "525327828",
+        "name": "双三角模型",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-03 09:44:18",
+    "updated_at": "2026-06-03 09:44:18"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1911744766561761000,
+        "note_id": "1911744766561760912",
+        "title": "一堂AI时代竞争力双三角模型武器库及实践案例",
+        "content": "# 核心模型：AI时代双三角竞争力\n\n双三角核心逻辑：**人类三角 × AI三角**，正向循环：人变强了，**调教更强AI**；有了强AI，**辅助人变得更强**。人类侧持续让自己变强，AI侧持续使用AI更强。\n\n### 人类三角（人类核心竞争力）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **创造力** | 敢于提出新解法、新设想，善于高水平创新 | 基础：敢于跳出旧道路，提出新解法<br>- 批判性思维：不要迷信，主动思考合理性<br>- 学会提问：多追求WHY，提出新的好问题<br>进阶：使用假设思维探索解法<br>- 关键假设思维：用确定性的前提假设，去解决**高难度**的业务问题<br>- 假设验证循环：目标/加-法/减法/验证/调整<br>高阶：高水平创新和科学探索<br>- 第一性原理：遵循本质和底层原理做事<br>- 分层自洽：追求下层规律和上层规则统一<br>- 辩证思维：找到规律的矛盾性，寻找更统一的更好规律 | - 解放思想：大胆提出创造性假设<br>- 分层自洽：上下分层可推理，左右自洽可辩证<br>- 敢于想象：有自己的独特想象力和设想 |\n| **审美** | 对于结果和过程建立高水平判断力 | 基础：有基本的判断<br>- 有感觉：对于好坏优劣有基本的分辨<br>- 有案例：最佳实践清单整理<br>- 有打分：20分很差，40分不够，60分可用，80分优秀，99分无懈可击<br>进阶：能讲出维度和评分<br>- 有定量：综合加权打分机制<br>- 有维度：建立雷达图评估角度<br>- 正负表：正负评价checklist<br>- 有方法：有专业的细节体感和方法<br>高阶：能持续push到最佳实践<br>- 有超越：基于最佳实践再次突破<br>- 有引领：引领更多人的Top审美 | - 重视审美：主动积累专家级别的Top判断<br>- 训练审美：设法培养最佳实践细节判断力<br>- 无限追求：对于最佳实践的追求永不设限 |\n| **体系** | 解决一类问题，有成熟的、稳定的思考和执行框架 | 基础：基础的执行工作流/SOP<br>- 工作流：解决某类问题的固定流程/方法<br>- 清单：解决某一类问题的清单/禁止清单<br>进阶：有稳定决策框架<br>- 拆目标：目标的稳定拆解（基本框架）<br>- 方法论：稳定的方法论体系（框架）<br>高阶：有完备、本质的工作框架<br>- MECE：逻辑完备的结构<br>- 逻辑递进MECE：高阶里程碑模型 | - 准确的定义：对于复杂概念有基本统一的定义<br>- 完备MECE：逻辑完备，不重不漏<br>- 科学工作流：稳定高效的做事流程和里程碑 |\n\n### AI三角（AI能力建设）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **场景** | 发掘高匹配的细分场景，本身就是AI能力进步的重要维度 | 基础：有**场景就是生产力**的意识<br>- 需求捕捉：寻找痛苦的/吸气的/不得不做的关键场景<br>- 颗粒度拆解：复杂工作拆解到“AI可辅助”的小场景<br>进阶：大胆提出场景假设<br>- 大胆假设：在这个场景下发挥足够大的价值<br>- **STAR模型**：个人和组织，上限和下限<br>高阶：善于评估场景可行性<br>- **AI匹配：AI优劣特性和场景匹配<br>- **评估ROI：考虑3-5个维度，多场景对比 | - 强敏感性：持续保持场景敏感性<br>- 大胆假设：积极提出场景假设<br>- 细分场景：找到高价值的细分场景 |\n| **基本功** | 练习使用各种AI工具，善于使用AI工具和特性解决问题 | 基础：高频使用LLM提示词<br>- 提示词框架：提示词三圆环结构化框架（12原则）<br>- 封装提示词：系统提示词，YAI-partner，提示词库<br>进阶：使用更多更丰富工具<br>- 封装自动化：工作流，智能体，Skill，OpenClaw<br>- 多工具创造：多模态，VibeCoding<br>高阶：模型微调/训练，多Agent编排<br>- 有算法：看底层算法/模型论文<br>- 有协同：AI和人类组织分工和协同<br>武器库：打造自己的AI分层武器库<br>- 有匹配：不同场景使用什么工具<br>- 有理解：最小核心特性（Feature） | - 既不迷信：任何工具都有局限性<br>- 也不排斥：任何工具都值得尝试<br>- 刻意练习：任何AI都是刻意练出来的 |\n| **数据** | 高水平的结果需要高水平的数据，主动搜集和积累高质量数据 | 基础：准备几个高质量案例（FewShot）<br>- 正面案例：可参考的正面案例<br>- 负面案例：提醒AI警惕的负面案例<br>进阶：打造高质量的数据包包（Datapack）<br>- 维度：非结构化数据，结构化数据，形成资产<br>- 预判：哪些是最值钱的数据资产<br>高阶：构建系统的数据体系（System）<br>- 采集收集：记录敏感性，及时标记、录音、存储<br>- 数据处理：AI生成，保存，Markdown，打标签，向量化<br>- 数据使用：Obsidian，RAG知识库，数据图谱<br>- 数据飞轮：主动构建一个数据飞轮 | - 数据敏感：对于业务数据有敏感性<br>- 资产思维：形成长期的Domain-Knowledge<br>- 复利思维：用10年的心态去设计和建设数据 |\n\n核心灵魂拷问：\n- 人类侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- AI侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n# 双三角模型的各行业实践案例\n---\n## 案例1：天末·别墅设计AI商业级交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n开创式摸索人机协作边界\n挑战AI生图的确定性上限\n探索AI参与商业交付的**新业务模式**\n\n### 场景（AI三角）\n\nAI辅助精细化调研\nAI完善设计生图提示词\nAI直出设计效果图\n\n### 审美（人类三角）\n\n室内设计风格/品味/审美\n设计图可落地性的判断力\nAI出图质量的审美判断\n\n### 体系（人类三角）\n\n室内设计交付工作流\n软装配比体系\n材质与施工评估\n造价与预算等等\n\n### 基本功（AI三角）\n\nLLM对话/深度研究\n结构化提示词\nRAG知识库\n\n### 数据（AI三角）\n\n调研访谈记录\n大量最佳实践对标参考\n现场实景照片\n---\n## 案例2：一堂·作业洞察和特别表白\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n洞察本质：纠结和自洽\n\n### 场景（AI三角）\n\n新年礼：全量作业洞察\n表白墙：反向表白\n复盘营：毕业礼物（exp）\n\n### 审美（人类三角）\n\n基准线：同行的报告水准\n想象力：美好作品想象\n\n### 体系（人类三角）\n\nAI建模：洞察指南\n项目管理里程碑\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（TRAE）\n文档工具（Obsidian）\n\n### 数据（AI三角）\n\n顶层理解和最终意图\n同行最佳案例×10\n历史创作的信×10\n一堂价值观解读×30条\n---\n## 案例3：冷遇兵·贝壳云管家业务第一次AI落地破局\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n加\"人味\"：\n1. 带口音的AI\n2. AI让用户说普通话\n3. 键盘声、语气词\n\n### 场景（AI三角）\n\n给原有出租业主报盘\n\n### 审美（人类三角）\n\n基础：业务负责人判断\n微观：优秀骨干细节体感\n\n### 体系（人类三角）\n\n110细分场景\n260个出口\n\n### 基本功（AI三角）\n\n基础提示词\n意图识别\n智能体\n自适应工作流\n\n### 数据（AI三角）\n\n几百万条历史通话数据\nAI实测数据\n地区差异数据\n处理：文本化、打标签\n---\n## 案例4：赵飞·AI赋能婚姻陪跑新业务\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n敢于跳出旧诉讼思路\n使用\"婚姻陪跑\"假设思维\n追求婚姻规律的科学探索\n\n### 场景（AI三角）\n\n大胆提出AI介入婚姻咨询假设\n\n### 审美（人类三角）\n\n基本的法律和心理判断\n能讲出维度(法理情)和评分\n持续push行业最佳实践\n\n### 体系（人类三角）\n\n法律咨询执行工作流\n加法提问与验证模型\n民法典知识框架体系\n\n### 基本功（AI三角）\n\n基础提示词\nRAG 知识库工具\n\n### 数据（AI三角）\n\n律所自有经典案例\n民法典法条和司法解释\n外部大数据判决案例\n咨询原始录音录像\n咨询常见问题库\n---\n## 案例5：阿豪·电商推广选品百倍提效\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n内网穿透+本地部署快速上线\n数据打标解决AI幻觉\n全AI自动化选品/诊断完整方案\n\n### 场景（AI三角）\n\n识别高频、高价值场景\n使用START模型（提效降本）\n\n### 审美（人类三角）\n\n判断AI方向是否合理\n看懂AI分析结果\n最佳实践的评判标杆\n\n### 体系（人类三角）\n\n用飞书/文档梳理经验\n项目管理里程碑\n成熟业务体系+AI改造落地\n\n### 基本功（AI三角）\n\n基础提示词\n工作流、RPA、Python\n工程化部署\n\n### 数据（AI三角）\n\n电商多平台数据来源采集\n数据库+知识库\n---\n## 案例6：劉衞·硬件研发大厂AI专利超额交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n通过梳理SOP找AI场景\n用AI反向激发工程师创新点\n\n### 场景（AI三角）\n\nAI专利\n\n### 审美（人类三角）\n\n专利内容的判断\n组织内部阻力感知\n对AI技术边界的认知\n\n### 体系（人类三角）\n\n二维矩阵：价值&可行性\n组织三角：技术+专利+AI\n专利8阶段21节点拆解\n人机边界：三种分工方式处理\n\n### 基本功（AI三角）\n\n基础提示词\n垂类AI工具\nAgent工作流\n人在环：人与AI协作\n\n### 数据（AI三角）\n\n持续收集bad case\n过往优秀专利参考\n各种专利撰写规则\n数据安全：资料分级\n---\n## 案例7：Vikki·IP选题智能体挑战交付上限\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n能跳出AI工具，回到业务视角\n遇到卡点不断提新的假设\n\n### 场景（AI三角）\n\nIP内容的AI场景假设池\n需求最刚的假设先行\n\n### 审美（人类三角）\n\n什么是好的选题\n什么是好的问题\n什么是好的产品设计\n\n### 体系（人类三角）\n\n选题四象限方法论\n内容讲香方法论\n商业分析思维体系\n结构化提问\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（Coze）\n结构化提示词\n知识库\n\n### 数据（AI三角）\n\n方法论数据包\n爆款选题案例集\n选题文案模板库\n过往咨询案例最佳实践\n---\n来源：一堂·2026春季马拉松，带领10000+人用10小时击穿1个课题",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "525327827",
+            "name": "AI竞争力",
+            "type": "ai"
+          },
+          {
+            "id": "525327828",
+            "name": "双三角模型",
+            "type": "ai"
+          },
+          {
+            "id": "525427391",
+            "name": "一堂",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b000351bc0RvHezqHK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=BMoKAr0afOeZPnQsowJrYxzG%2FxY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b000351bc0RvHezqHK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=5u0rNg%2FoK6hxnPVn7ch7q9YSG6c%3D",
+            "title": "02_双三角模型+6 个点.png",
+            "size": 603002
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040049460D9yWhfoY.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=uftpiB00RAI1YyLZu7kTIRJi7%2BY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040049460D9yWhfoY.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=PpM1va%2B4oaYaipRKRbsdXWbM10s%3D",
+            "title": "03_双三角模型.png",
+            "size": 539760
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0401419c84xRGy6rK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=q%2BbA3BU4rBGgbEk4XLFgbnhzgTc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0401419c84xRGy6rK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=3n%2BBIYHTJYvSR6%2F45iUt8D1JDO8%3D",
+            "title": "13_04_1.天末的双三角.png",
+            "size": 1094555
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040149460kpQJEsSl.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mHo0v066%2B1hlneMvWHJGHjIG%2FSo%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040149460kpQJEsSl.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qLX6eDyfwhPBKS81dehEVRFR2vM%3D",
+            "title": "14_01_4.作业洞察双三角.png",
+            "size": 976903
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0400419c8KfrKQtmn.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=8frcokVDei%2FUEpeKtD6HrxuUTmk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0400419c8KfrKQtmn.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mJQld9Y81WxOajmmfvLLKxuQuh8%3D",
+            "title": "15_08_1 双三角.png",
+            "size": 5940843
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040249460Fqd0OjDE.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=YE1cspC7q7zmZdNq9kZwe6zse90%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040249460Fqd0OjDE.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=2UNnz%2BBOZ9D2UOPz%2Fjve2bu9uM8%3D",
+            "title": "16_03_1.赵飞双三角.png",
+            "size": 1084430
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040051bc0X6qrokPu.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=BKM6BKVMQMD2Lzty6t9fpgDvBiY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040051bc0X6qrokPu.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qVyBaykaiaJu8on%2B6HAp5jXIgA8%3D",
+            "title": "17_05_2.阿豪的双三角.png",
+            "size": 1044332
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040151bc04BwJUEYh.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=YSYwZmoZ6wyKoiTUZJcrQGXqYq0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040151bc04BwJUEYh.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=RGm7dLS7gARX5qPjcel1SLrWuQk%3D",
+            "title": "18_09_1 双三角.png",
+            "size": 6551405
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040251bc07HVCqfXC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pFlmedHUCWt1x5cqDNssdNrvoL8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040251bc07HVCqfXC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=LtWm9Ti3h0mGjowIHGumiBt%2BKfc%3D",
+            "title": "19_02_10.vikkie 双三角模型.png",
+            "size": 1069506
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "5Jw7BogrQRgX7",
+        "version": 1,
+        "created_at": "2026-06-03 09:44:18",
+        "updated_at": "2026-06-03 09:44:18"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676414
+    },
+    "request_id": "100fd524f5e52001"
+  },
+  "detail": {
+    "id": 1911744766561761000,
+    "note_id": "1911744766561760912",
+    "title": "一堂AI时代竞争力双三角模型武器库及实践案例",
+    "content": "# 核心模型：AI时代双三角竞争力\n\n双三角核心逻辑：**人类三角 × AI三角**，正向循环：人变强了，**调教更强AI**；有了强AI，**辅助人变得更强**。人类侧持续让自己变强，AI侧持续使用AI更强。\n\n### 人类三角（人类核心竞争力）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **创造力** | 敢于提出新解法、新设想，善于高水平创新 | 基础：敢于跳出旧道路，提出新解法<br>- 批判性思维：不要迷信，主动思考合理性<br>- 学会提问：多追求WHY，提出新的好问题<br>进阶：使用假设思维探索解法<br>- 关键假设思维：用确定性的前提假设，去解决**高难度**的业务问题<br>- 假设验证循环：目标/加-法/减法/验证/调整<br>高阶：高水平创新和科学探索<br>- 第一性原理：遵循本质和底层原理做事<br>- 分层自洽：追求下层规律和上层规则统一<br>- 辩证思维：找到规律的矛盾性，寻找更统一的更好规律 | - 解放思想：大胆提出创造性假设<br>- 分层自洽：上下分层可推理，左右自洽可辩证<br>- 敢于想象：有自己的独特想象力和设想 |\n| **审美** | 对于结果和过程建立高水平判断力 | 基础：有基本的判断<br>- 有感觉：对于好坏优劣有基本的分辨<br>- 有案例：最佳实践清单整理<br>- 有打分：20分很差，40分不够，60分可用，80分优秀，99分无懈可击<br>进阶：能讲出维度和评分<br>- 有定量：综合加权打分机制<br>- 有维度：建立雷达图评估角度<br>- 正负表：正负评价checklist<br>- 有方法：有专业的细节体感和方法<br>高阶：能持续push到最佳实践<br>- 有超越：基于最佳实践再次突破<br>- 有引领：引领更多人的Top审美 | - 重视审美：主动积累专家级别的Top判断<br>- 训练审美：设法培养最佳实践细节判断力<br>- 无限追求：对于最佳实践的追求永不设限 |\n| **体系** | 解决一类问题，有成熟的、稳定的思考和执行框架 | 基础：基础的执行工作流/SOP<br>- 工作流：解决某类问题的固定流程/方法<br>- 清单：解决某一类问题的清单/禁止清单<br>进阶：有稳定决策框架<br>- 拆目标：目标的稳定拆解（基本框架）<br>- 方法论：稳定的方法论体系（框架）<br>高阶：有完备、本质的工作框架<br>- MECE：逻辑完备的结构<br>- 逻辑递进MECE：高阶里程碑模型 | - 准确的定义：对于复杂概念有基本统一的定义<br>- 完备MECE：逻辑完备，不重不漏<br>- 科学工作流：稳定高效的做事流程和里程碑 |\n\n### AI三角（AI能力建设）\n\n| 维度 | 核心内容 | 分级要求 | 自我修养 |\n| ---- | ---- | ---- | ---- |\n| **场景** | 发掘高匹配的细分场景，本身就是AI能力进步的重要维度 | 基础：有**场景就是生产力**的意识<br>- 需求捕捉：寻找痛苦的/吸气的/不得不做的关键场景<br>- 颗粒度拆解：复杂工作拆解到“AI可辅助”的小场景<br>进阶：大胆提出场景假设<br>- 大胆假设：在这个场景下发挥足够大的价值<br>- **STAR模型**：个人和组织，上限和下限<br>高阶：善于评估场景可行性<br>- **AI匹配：AI优劣特性和场景匹配<br>- **评估ROI：考虑3-5个维度，多场景对比 | - 强敏感性：持续保持场景敏感性<br>- 大胆假设：积极提出场景假设<br>- 细分场景：找到高价值的细分场景 |\n| **基本功** | 练习使用各种AI工具，善于使用AI工具和特性解决问题 | 基础：高频使用LLM提示词<br>- 提示词框架：提示词三圆环结构化框架（12原则）<br>- 封装提示词：系统提示词，YAI-partner，提示词库<br>进阶：使用更多更丰富工具<br>- 封装自动化：工作流，智能体，Skill，OpenClaw<br>- 多工具创造：多模态，VibeCoding<br>高阶：模型微调/训练，多Agent编排<br>- 有算法：看底层算法/模型论文<br>- 有协同：AI和人类组织分工和协同<br>武器库：打造自己的AI分层武器库<br>- 有匹配：不同场景使用什么工具<br>- 有理解：最小核心特性（Feature） | - 既不迷信：任何工具都有局限性<br>- 也不排斥：任何工具都值得尝试<br>- 刻意练习：任何AI都是刻意练出来的 |\n| **数据** | 高水平的结果需要高水平的数据，主动搜集和积累高质量数据 | 基础：准备几个高质量案例（FewShot）<br>- 正面案例：可参考的正面案例<br>- 负面案例：提醒AI警惕的负面案例<br>进阶：打造高质量的数据包包（Datapack）<br>- 维度：非结构化数据，结构化数据，形成资产<br>- 预判：哪些是最值钱的数据资产<br>高阶：构建系统的数据体系（System）<br>- 采集收集：记录敏感性，及时标记、录音、存储<br>- 数据处理：AI生成，保存，Markdown，打标签，向量化<br>- 数据使用：Obsidian，RAG知识库，数据图谱<br>- 数据飞轮：主动构建一个数据飞轮 | - 数据敏感：对于业务数据有敏感性<br>- 资产思维：形成长期的Domain-Knowledge<br>- 复利思维：用10年的心态去设计和建设数据 |\n\n核心灵魂拷问：\n- 人类侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- AI侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n# 双三角模型的各行业实践案例\n---\n## 案例1：天末·别墅设计AI商业级交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n开创式摸索人机协作边界\n挑战AI生图的确定性上限\n探索AI参与商业交付的**新业务模式**\n\n### 场景（AI三角）\n\nAI辅助精细化调研\nAI完善设计生图提示词\nAI直出设计效果图\n\n### 审美（人类三角）\n\n室内设计风格/品味/审美\n设计图可落地性的判断力\nAI出图质量的审美判断\n\n### 体系（人类三角）\n\n室内设计交付工作流\n软装配比体系\n材质与施工评估\n造价与预算等等\n\n### 基本功（AI三角）\n\nLLM对话/深度研究\n结构化提示词\nRAG知识库\n\n### 数据（AI三角）\n\n调研访谈记录\n大量最佳实践对标参考\n现场实景照片\n---\n## 案例2：一堂·作业洞察和特别表白\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n洞察本质：纠结和自洽\n\n### 场景（AI三角）\n\n新年礼：全量作业洞察\n表白墙：反向表白\n复盘营：毕业礼物（exp）\n\n### 审美（人类三角）\n\n基准线：同行的报告水准\n想象力：美好作品想象\n\n### 体系（人类三角）\n\nAI建模：洞察指南\n项目管理里程碑\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（TRAE）\n文档工具（Obsidian）\n\n### 数据（AI三角）\n\n顶层理解和最终意图\n同行最佳案例×10\n历史创作的信×10\n一堂价值观解读×30条\n---\n## 案例3：冷遇兵·贝壳云管家业务第一次AI落地破局\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n加\"人味\"：\n1. 带口音的AI\n2. AI让用户说普通话\n3. 键盘声、语气词\n\n### 场景（AI三角）\n\n给原有出租业主报盘\n\n### 审美（人类三角）\n\n基础：业务负责人判断\n微观：优秀骨干细节体感\n\n### 体系（人类三角）\n\n110细分场景\n260个出口\n\n### 基本功（AI三角）\n\n基础提示词\n意图识别\n智能体\n自适应工作流\n\n### 数据（AI三角）\n\n几百万条历史通话数据\nAI实测数据\n地区差异数据\n处理：文本化、打标签\n---\n## 案例4：赵飞·AI赋能婚姻陪跑新业务\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n敢于跳出旧诉讼思路\n使用\"婚姻陪跑\"假设思维\n追求婚姻规律的科学探索\n\n### 场景（AI三角）\n\n大胆提出AI介入婚姻咨询假设\n\n### 审美（人类三角）\n\n基本的法律和心理判断\n能讲出维度(法理情)和评分\n持续push行业最佳实践\n\n### 体系（人类三角）\n\n法律咨询执行工作流\n加法提问与验证模型\n民法典知识框架体系\n\n### 基本功（AI三角）\n\n基础提示词\nRAG 知识库工具\n\n### 数据（AI三角）\n\n律所自有经典案例\n民法典法条和司法解释\n外部大数据判决案例\n咨询原始录音录像\n咨询常见问题库\n---\n## 案例5：阿豪·电商推广选品百倍提效\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n内网穿透+本地部署快速上线\n数据打标解决AI幻觉\n全AI自动化选品/诊断完整方案\n\n### 场景（AI三角）\n\n识别高频、高价值场景\n使用START模型（提效降本）\n\n### 审美（人类三角）\n\n判断AI方向是否合理\n看懂AI分析结果\n最佳实践的评判标杆\n\n### 体系（人类三角）\n\n用飞书/文档梳理经验\n项目管理里程碑\n成熟业务体系+AI改造落地\n\n### 基本功（AI三角）\n\n基础提示词\n工作流、RPA、Python\n工程化部署\n\n### 数据（AI三角）\n\n电商多平台数据来源采集\n数据库+知识库\n---\n## 案例6：劉衞·硬件研发大厂AI专利超额交付\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n通过梳理SOP找AI场景\n用AI反向激发工程师创新点\n\n### 场景（AI三角）\n\nAI专利\n\n### 审美（人类三角）\n\n专利内容的判断\n组织内部阻力感知\n对AI技术边界的认知\n\n### 体系（人类三角）\n\n二维矩阵：价值&可行性\n组织三角：技术+专利+AI\n专利8阶段21节点拆解\n人机边界：三种分工方式处理\n\n### 基本功（AI三角）\n\n基础提示词\n垂类AI工具\nAgent工作流\n人在环：人与AI协作\n\n### 数据（AI三角）\n\n持续收集bad case\n过往优秀专利参考\n各种专利撰写规则\n数据安全：资料分级\n---\n## 案例7：Vikki·IP选题智能体挑战交付上限\n> 案例背后的AI核心策略和稀缺竞争力\n\n### 创造力（人类三角）\n\n能跳出AI工具，回到业务视角\n遇到卡点不断提新的假设\n\n### 场景（AI三角）\n\nIP内容的AI场景假设池\n需求最刚的假设先行\n\n### 审美（人类三角）\n\n什么是好的选题\n什么是好的问题\n什么是好的产品设计\n\n### 体系（人类三角）\n\n选题四象限方法论\n内容讲香方法论\n商业分析思维体系\n结构化提问\n\n### 基本功（AI三角）\n\n基础提示词\nAgent工具（Coze）\n结构化提示词\n知识库\n\n### 数据（AI三角）\n\n方法论数据包\n爆款选题案例集\n选题文案模板库\n过往咨询案例最佳实践\n---\n来源：一堂·2026春季马拉松，带领10000+人用10小时击穿1个课题",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525327827",
+        "name": "AI竞争力",
+        "type": "ai"
+      },
+      {
+        "id": "525327828",
+        "name": "双三角模型",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b000351bc0RvHezqHK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=BMoKAr0afOeZPnQsowJrYxzG%2FxY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b000351bc0RvHezqHK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=5u0rNg%2FoK6hxnPVn7ch7q9YSG6c%3D",
+        "title": "02_双三角模型+6 个点.png",
+        "size": 603002
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040049460D9yWhfoY.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=uftpiB00RAI1YyLZu7kTIRJi7%2BY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040049460D9yWhfoY.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=PpM1va%2B4oaYaipRKRbsdXWbM10s%3D",
+        "title": "03_双三角模型.png",
+        "size": 539760
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0401419c84xRGy6rK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=q%2BbA3BU4rBGgbEk4XLFgbnhzgTc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0401419c84xRGy6rK.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=3n%2BBIYHTJYvSR6%2F45iUt8D1JDO8%3D",
+        "title": "13_04_1.天末的双三角.png",
+        "size": 1094555
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040149460kpQJEsSl.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mHo0v066%2B1hlneMvWHJGHjIG%2FSo%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040149460kpQJEsSl.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qLX6eDyfwhPBKS81dehEVRFR2vM%3D",
+        "title": "14_01_4.作业洞察双三角.png",
+        "size": 976903
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0400419c8KfrKQtmn.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=8frcokVDei%2FUEpeKtD6HrxuUTmk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b0400419c8KfrKQtmn.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mJQld9Y81WxOajmmfvLLKxuQuh8%3D",
+        "title": "15_08_1 双三角.png",
+        "size": 5940843
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040249460Fqd0OjDE.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=YE1cspC7q7zmZdNq9kZwe6zse90%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040249460Fqd0OjDE.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=2UNnz%2BBOZ9D2UOPz%2Fjve2bu9uM8%3D",
+        "title": "16_03_1.赵飞双三角.png",
+        "size": 1084430
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040051bc0X6qrokPu.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=BKM6BKVMQMD2Lzty6t9fpgDvBiY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040051bc0X6qrokPu.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qVyBaykaiaJu8on%2B6HAp5jXIgA8%3D",
+        "title": "17_05_2.阿豪的双三角.png",
+        "size": 1044332
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040151bc04BwJUEYh.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=YSYwZmoZ6wyKoiTUZJcrQGXqYq0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040151bc04BwJUEYh.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=RGm7dLS7gARX5qPjcel1SLrWuQk%3D",
+        "title": "18_09_1 双三角.png",
+        "size": 6551405
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040251bc07HVCqfXC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pFlmedHUCWt1x5cqDNssdNrvoL8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030943%2Fgetnotes_img_1a87e1b040251bc07HVCqfXC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=LtWm9Ti3h0mGjowIHGumiBt%2BKfc%3D",
+        "title": "19_02_10.vikkie 双三角模型.png",
+        "size": 1069506
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "5Jw7BogrQRgX7",
+    "version": 1,
+    "created_at": "2026-06-03 09:44:18",
+    "updated_at": "2026-06-03 09:44:18"
+  },
+  "original": null
+}

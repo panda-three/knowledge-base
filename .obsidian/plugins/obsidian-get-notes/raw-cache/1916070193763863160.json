@@ -1,0 +1,119 @@
+{
+  "summary": {
+    "id": 1916070193763863000,
+    "note_id": "1916070193763863160",
+    "title": "今天想到一个好点子",
+    "content": "我今天想到一个非常好的点。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "537367994",
+        "name": "灵感",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-07-20 00:43:37",
+    "updated_at": "2026-07-20 00:43:48"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1916070193763863000,
+        "note_id": "1916070193763863160",
+        "title": "今天想到一个好点子",
+        "content": "我今天想到一个非常好的点。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "537367994",
+            "name": "灵感",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202607200043%2Fnotesaudio_1a973faf40128fb0aPCeR461.mp3?Expires=1784911460&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=A%2F2OhppWJkLZknql9kRyBSc5xdw%3D",
+            "title": "",
+            "duration": 3132
+          }
+        ],
+        "audio": {
+          "original": "啊啊我今天想到一个非常好的点然后。"
+        },
+        "version": 0,
+        "created_at": "2026-07-20 00:43:37",
+        "updated_at": "2026-07-20 00:43:48"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1784479460
+    },
+    "request_id": "fb37da459a52001"
+  },
+  "detail": {
+    "id": 1916070193763863000,
+    "note_id": "1916070193763863160",
+    "title": "今天想到一个好点子",
+    "content": "我今天想到一个非常好的点。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "537367994",
+        "name": "灵感",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202607200043%2Fnotesaudio_1a973faf40128fb0aPCeR461.mp3?Expires=1784911460&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=A%2F2OhppWJkLZknql9kRyBSc5xdw%3D",
+        "title": "",
+        "duration": 3132
+      }
+    ],
+    "audio": {
+      "original": "啊啊我今天想到一个非常好的点然后。"
+    },
+    "version": 0,
+    "created_at": "2026-07-20 00:43:37",
+    "updated_at": "2026-07-20 00:43:48"
+  },
+  "original": "啊啊我今天想到一个非常好的点然后。"
+}

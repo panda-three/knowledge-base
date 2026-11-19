@@ -1,0 +1,190 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1911977147914585408",
+    "display_title": "每堂课都值得进行生成式学习",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-05T21:51:02+08:00",
+      "edited_at": "2026-06-05T21:51:22.884+08:00",
+      "record_updated_at": "2026-06-05T21:51:22.891+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1911977147914585300,
+    "note_id": "1911977147914585408",
+    "title": "每堂课都值得进行生成式学习",
+    "content": "我觉得每堂课都值得再用生成式学习一遍。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "544601393",
+        "name": "生成式学习",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-05 21:51:02",
+    "updated_at": "2026-06-05 21:51:22"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1911977147914585408",
+        "display_title": "每堂课都值得进行生成式学习",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-05T21:51:02+08:00",
+          "edited_at": "2026-06-05T21:51:22.884+08:00",
+          "record_updated_at": "2026-06-05T21:51:22.891+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1911977147914585300,
+        "note_id": "1911977147914585408",
+        "title": "每堂课都值得进行生成式学习",
+        "content": "我觉得每堂课都值得再用生成式学习一遍。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "544601393",
+            "name": "生成式学习",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606052151%2Fnotesaudio_1a88b51480049460GgNvglVH.mp3?Expires=1793004695&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ymH1V%2BaNrzNDMqpsv58R9Xz4p5Q%3D",
+            "title": "",
+            "duration": 10152
+          }
+        ],
+        "audio": {
+          "original": "生成式学习。我觉得一堂的每个课都值得再生成式学习一遍。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "v7pvl2evWw6pl",
+        "version": 5,
+        "created_at": "2026-06-05 21:51:02",
+        "updated_at": "2026-06-05 21:51:22"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572695,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16e1aae59001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1911977147914585408",
+    "display_title": "每堂课都值得进行生成式学习",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-05T21:51:02+08:00",
+      "edited_at": "2026-06-05T21:51:22.884+08:00",
+      "record_updated_at": "2026-06-05T21:51:22.891+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1911977147914585300,
+    "note_id": "1911977147914585408",
+    "title": "每堂课都值得进行生成式学习",
+    "content": "我觉得每堂课都值得再用生成式学习一遍。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "544601393",
+        "name": "生成式学习",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606052151%2Fnotesaudio_1a88b51480049460GgNvglVH.mp3?Expires=1793004695&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ymH1V%2BaNrzNDMqpsv58R9Xz4p5Q%3D",
+        "title": "",
+        "duration": 10152
+      }
+    ],
+    "audio": {
+      "original": "生成式学习。我觉得一堂的每个课都值得再生成式学习一遍。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "v7pvl2evWw6pl",
+    "version": 5,
+    "created_at": "2026-06-05 21:51:02",
+    "updated_at": "2026-06-05 21:51:22"
+  },
+  "original": "生成式学习。我觉得一堂的每个课都值得再生成式学习一遍。"
+}

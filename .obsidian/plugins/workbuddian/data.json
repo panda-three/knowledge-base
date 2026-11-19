@@ -1,0 +1,26 @@
+{
+  "conversations": [
+    {
+      "id": "6995484d-b06c-4341-8465-b4a22940b3b6",
+      "title": "nihao",
+      "sessionId": "f93171f1-47f9-41ba-b8c2-55a68a0f987e",
+      "messages": [
+        {
+          "id": "0674e286-3d9d-40f3-9f0d-662eb61bdd20",
+          "role": "user",
+          "content": "nihao",
+          "timestamp": 1794880983569
+        },
+        {
+          "id": "70f89e6d-1f8b-4fcb-8a8e-1bf3930bb1fa",
+          "role": "assistant",
+          "content": "WorkBuddy HTTP 401",
+          "timestamp": 1794880983571,
+          "isError": true
+        }
+      ],
+      "createdAt": 1794880964864,
+      "updatedAt": 1794880985987
+    }
+  ]
+}

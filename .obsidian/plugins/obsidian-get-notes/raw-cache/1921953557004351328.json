@@ -1,0 +1,214 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1921953557004351328",
+    "display_title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-21T10:45:35.342+08:00",
+      "edited_at": "2026-09-21T10:45:35.342+08:00",
+      "record_updated_at": "2026-10-21T16:36:31.923+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1921953557004351200,
+    "note_id": "1921953557004351328",
+    "title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+    "content": "| 月份 | 课程主题 | 模块名称 | 课程内容 | 天数 | 授课日期 | 讲师 |\n| ---- | -------- | -------- | -------- | ---- | -------- | ---- |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 产品搭建与低代码开发实现 | 软件产品生态、AI创业产品设计、AI生成产品原型与UI、AI辅助代码生成、数据库与接口设计 | 2 | 10月16日-10月17日 | 李登攀 |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 测试、部署与商业模式 | 产品测试与联调、商业模式初探 | 1 | 10月23日 | 李登攀 |",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "599265204",
+        "name": "AI产品开发课程",
+        "type": "ai"
+      },
+      {
+        "id": "599265205",
+        "name": "智能体构建",
+        "type": "ai"
+      },
+      {
+        "id": "599265206",
+        "name": "李登攀",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-21 10:45:35",
+    "updated_at": "2026-09-21 10:45:35"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1921953557004351328",
+        "display_title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-21T10:45:35.342+08:00",
+          "edited_at": "2026-09-21T10:45:35.342+08:00",
+          "record_updated_at": "2026-10-21T16:36:31.923+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1921953557004351200,
+        "note_id": "1921953557004351328",
+        "title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+        "content": "| 月份 | 课程主题 | 模块名称 | 课程内容 | 天数 | 授课日期 | 讲师 |\n| ---- | -------- | -------- | -------- | ---- | -------- | ---- |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 产品搭建与低代码开发实现 | 软件产品生态、AI创业产品设计、AI生成产品原型与UI、AI辅助代码生成、数据库与接口设计 | 2 | 10月16日-10月17日 | 李登攀 |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 测试、部署与商业模式 | 产品测试与联调、商业模式初探 | 1 | 10月23日 | 李登攀 |",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "599265204",
+            "name": "AI产品开发课程",
+            "type": "ai"
+          },
+          {
+            "id": "599265205",
+            "name": "智能体构建",
+            "type": "ai"
+          },
+          {
+            "id": "599265206",
+            "name": "李登攀",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202609211045%2Fgetnotes_img_1aac269240642500BE6LlBEa.png?Expires=1795163791&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=tL1OU4CPtlyfD8jUY%2Fv8X8UUqXA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202609211045%2Fgetnotes_img_1aac269240642500BE6LlBEa.png?Expires=1795163791&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pwNshyvGNWUB5I7NX8EpztW2Dmg%3D",
+            "title": "企业微信截图_17881686944233.png",
+            "size": 15837
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMnlvbBXM7WJ",
+        "version": 1,
+        "created_at": "2026-09-21 10:45:35",
+        "updated_at": "2026-09-21 10:45:35"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572079,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c14881c032001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1921953557004351328",
+    "display_title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-21T10:45:35.342+08:00",
+      "edited_at": "2026-09-21T10:45:35.342+08:00",
+      "record_updated_at": "2026-10-21T16:36:31.923+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1921953557004351200,
+    "note_id": "1921953557004351328",
+    "title": "10月智能体构建：AI产品开发与商业化验证课程安排",
+    "content": "| 月份 | 课程主题 | 模块名称 | 课程内容 | 天数 | 授课日期 | 讲师 |\n| ---- | -------- | -------- | -------- | ---- | -------- | ---- |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 产品搭建与低代码开发实现 | 软件产品生态、AI创业产品设计、AI生成产品原型与UI、AI辅助代码生成、数据库与接口设计 | 2 | 10月16日-10月17日 | 李登攀 |\n| 10月 | 智能体构建：AI产品开发与商业化验证 | 测试、部署与商业模式 | 产品测试与联调、商业模式初探 | 1 | 10月23日 | 李登攀 |",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "599265204",
+        "name": "AI产品开发课程",
+        "type": "ai"
+      },
+      {
+        "id": "599265205",
+        "name": "智能体构建",
+        "type": "ai"
+      },
+      {
+        "id": "599265206",
+        "name": "李登攀",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202609211045%2Fgetnotes_img_1aac269240642500BE6LlBEa.png?Expires=1795163791&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=tL1OU4CPtlyfD8jUY%2Fv8X8UUqXA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202609211045%2Fgetnotes_img_1aac269240642500BE6LlBEa.png?Expires=1795163791&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pwNshyvGNWUB5I7NX8EpztW2Dmg%3D",
+        "title": "企业微信截图_17881686944233.png",
+        "size": 15837
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMnlvbBXM7WJ",
+    "version": 1,
+    "created_at": "2026-09-21 10:45:35",
+    "updated_at": "2026-09-21 10:45:35"
+  },
+  "original": null
+}

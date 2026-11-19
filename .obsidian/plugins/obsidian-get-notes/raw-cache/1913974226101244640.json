@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "id": 1913974226101244700,
+    "note_id": "1913974226101244640",
+    "title": "计算机应用专业综合理论试卷编程题：统计子串出现次数并保留第一次出现的子串",
+    "content": "```c\n{\n    int b;\n    for(b=1;b<=5;b+=2)\n    {\n        a=a+b;\n        f1(a);\n    }\n}\n```76. 下面程序的功能是统计子串 substr 在字符串 str 中出现的次数,并在主串中只保留第一次出现的子串。\n\n例如:\n输入主串:you are are student are\n输入子串:are\n共出现3次,分别为:\n4－6\n8－10\n17－19\n只剩第一个子串的结果为:\nyou are student\n\n例如:\n输入主串:abdrgabddabdrgabdd\n输入子串:ab\n共出现4次,分别为:\n0－1\n5－6\n7－8\n10－11\n---\n计算机应用专业综合理论试卷 第9页(共16页)",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "app",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "524986740",
+        "name": "C语言编程题",
+        "type": "ai"
+      },
+      {
+        "id": "533868878",
+        "name": "计算机专业试卷",
+        "type": "ai"
+      },
+      {
+        "id": "524984196",
+        "name": "计算机应用专业",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-27 10:30:04",
+    "updated_at": "2026-06-27 10:30:04"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913974226101244700,
+        "note_id": "1913974226101244640",
+        "title": "计算机应用专业综合理论试卷编程题：统计子串出现次数并保留第一次出现的子串",
+        "content": "```c\n{\n    int b;\n    for(b=1;b<=5;b+=2)\n    {\n        a=a+b;\n        f1(a);\n    }\n}\n```76. 下面程序的功能是统计子串 substr 在字符串 str 中出现的次数,并在主串中只保留第一次出现的子串。\n\n例如:\n输入主串:you are are student are\n输入子串:are\n共出现3次,分别为:\n4－6\n8－10\n17－19\n只剩第一个子串的结果为:\nyou are student\n\n例如:\n输入主串:abdrgabddabdrgabdd\n输入子串:ab\n共出现4次,分别为:\n0－1\n5－6\n7－8\n10－11\n---\n计算机应用专业综合理论试卷 第9页(共16页)",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "524986740",
+            "name": "C语言编程题",
+            "type": "ai"
+          },
+          {
+            "id": "533868878",
+            "name": "计算机专业试卷",
+            "type": "ai"
+          },
+          {
+            "id": "524984196",
+            "name": "计算机应用专业",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606271029%2Fgetnotes_img_1a8fcd69406292e8P8FYfVDb.jpeg?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=do2K9ulghbbbDD83XsEUw1mfT2o%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606271029%2Fgetnotes_img_1a8fcd69406292e8P8FYfVDb.jpeg?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=G4V9pNhps5UudhwJVzZJCuOFJ4k%3D",
+            "title": "image_picker_22B66238-4438-4A6B-9312-91F42D8C51A3-21684-000009A76F15DC6F.jpg",
+            "size": 3195315
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "1qnKolZPbPmdJ",
+        "version": 1,
+        "created_at": "2026-06-27 10:30:04",
+        "updated_at": "2026-06-27 10:30:04"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676073
+    },
+    "request_id": "100fd3d7ba652002"
+  },
+  "detail": {
+    "id": 1913974226101244700,
+    "note_id": "1913974226101244640",
+    "title": "计算机应用专业综合理论试卷编程题：统计子串出现次数并保留第一次出现的子串",
+    "content": "```c\n{\n    int b;\n    for(b=1;b<=5;b+=2)\n    {\n        a=a+b;\n        f1(a);\n    }\n}\n```76. 下面程序的功能是统计子串 substr 在字符串 str 中出现的次数,并在主串中只保留第一次出现的子串。\n\n例如:\n输入主串:you are are student are\n输入子串:are\n共出现3次,分别为:\n4－6\n8－10\n17－19\n只剩第一个子串的结果为:\nyou are student\n\n例如:\n输入主串:abdrgabddabdrgabdd\n输入子串:ab\n共出现4次,分别为:\n0－1\n5－6\n7－8\n10－11\n---\n计算机应用专业综合理论试卷 第9页(共16页)",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "524986740",
+        "name": "C语言编程题",
+        "type": "ai"
+      },
+      {
+        "id": "533868878",
+        "name": "计算机专业试卷",
+        "type": "ai"
+      },
+      {
+        "id": "524984196",
+        "name": "计算机应用专业",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606271029%2Fgetnotes_img_1a8fcd69406292e8P8FYfVDb.jpeg?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=do2K9ulghbbbDD83XsEUw1mfT2o%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606271029%2Fgetnotes_img_1a8fcd69406292e8P8FYfVDb.jpeg?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=G4V9pNhps5UudhwJVzZJCuOFJ4k%3D",
+        "title": "image_picker_22B66238-4438-4A6B-9312-91F42D8C51A3-21684-000009A76F15DC6F.jpg",
+        "size": 3195315
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "1qnKolZPbPmdJ",
+    "version": 1,
+    "created_at": "2026-06-27 10:30:04",
+    "updated_at": "2026-06-27 10:30:04"
+  },
+  "original": null
+}

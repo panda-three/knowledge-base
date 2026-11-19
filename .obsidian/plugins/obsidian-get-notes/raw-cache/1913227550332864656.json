@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913227550332864656",
+    "display_title": "关于年龄和手术建议的讨论",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T09:18:18+08:00",
+      "edited_at": "2026-06-19T09:20:14.455+08:00",
+      "record_updated_at": "2026-06-19T09:20:14.464+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913227550332864800,
+    "note_id": "1913227550332864656",
+    "title": "关于年龄和手术建议的讨论",
+    "content": "你今年龄比较大了，如果年轻一点可以考虑手术补起来。现在你要注意自我保护，平时怎么保护呢？可以用岭南的绑起来，防止它变大。你现在还有没有症状？不要随便处理。如果是腰间盘突出，可以适当活动。其他没什么问题，暂时不建议手术。如果实在变大了再考虑。现在情况还可以，回家注意观察。如果有变化再来复查。动脉粥样硬化是正常的，不用太担心。好了，洗一下就可以走了，我就放心了。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "552014335",
+        "name": "医疗建议",
+        "type": "ai"
+      },
+      {
+        "id": "552014336",
+        "name": "年龄与手术",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-19 09:18:18",
+    "updated_at": "2026-06-19 09:20:14"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913227550332864656",
+        "display_title": "关于年龄和手术建议的讨论",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-19T09:18:18+08:00",
+          "edited_at": "2026-06-19T09:20:14.455+08:00",
+          "record_updated_at": "2026-06-19T09:20:14.464+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913227550332864800,
+        "note_id": "1913227550332864656",
+        "title": "关于年龄和手术建议的讨论",
+        "content": "你今年龄比较大了，如果年轻一点可以考虑手术补起来。现在你要注意自我保护，平时怎么保护呢？可以用岭南的绑起来，防止它变大。你现在还有没有症状？不要随便处理。如果是腰间盘突出，可以适当活动。其他没什么问题，暂时不建议手术。如果实在变大了再考虑。现在情况还可以，回家注意观察。如果有变化再来复查。动脉粥样硬化是正常的，不用太担心。好了，洗一下就可以走了，我就放心了。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "552014335",
+            "name": "医疗建议",
+            "type": "ai"
+          },
+          {
+            "id": "552014336",
+            "name": "年龄与手术",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606190920%2Fnotesaudio_1a8d265240029100EriTBCHS.mp3?Expires=1793004575&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=Vslx4rNvWEKFyfKP%2FBwSb6z9oQE%3D",
+            "title": "",
+            "duration": 109512
+          }
+        ],
+        "audio": {
+          "original": "等一下，你今年龄这么大了，要是年轻一点的可以开刀给补起来。你大呢，你现在就有自己保护一下，平时怎么保护呢？送岭南的给他勒起来，给你给我点个赞，你给我站着要围起来，听不听懂？我听不懂就懂，就失踪了，带着给他绑绑起来，就是防止它变大的似的。一来自一拿，你看现在还有没有症状？你不要处理，不要处理。还有那个，行，你松进来，或者是人家那个腰间盘突出了呢，负负，一点行行，行行行好嘞好嘞。其他没什么，还能开导，你这大岁数叫你开刀，你先开刀，如果要是实在。变大买了还不给我看？对这好，你待，行行好的，可以拿下来就着，吐不出来，它会越来越大，越来越大。价格下来回不去了，你回家开通了你开，看么，全部都是过了对。啊，对对的，回来一，和一模一样的，那还有几个叫什么什么，这个什么，这个动脉粥样精华是还是这个疾病似的，正常的啊，啊，行行行，好的，洗一哈，嗯嗯嗯，走了啊差我就放心了",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "5Jwma8Yv73WBy",
+        "version": 4,
+        "created_at": "2026-06-19 09:18:18",
+        "updated_at": "2026-06-19 09:20:14"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572575,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c166c79e52001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913227550332864656",
+    "display_title": "关于年龄和手术建议的讨论",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T09:18:18+08:00",
+      "edited_at": "2026-06-19T09:20:14.455+08:00",
+      "record_updated_at": "2026-06-19T09:20:14.464+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913227550332864800,
+    "note_id": "1913227550332864656",
+    "title": "关于年龄和手术建议的讨论",
+    "content": "你今年龄比较大了，如果年轻一点可以考虑手术补起来。现在你要注意自我保护，平时怎么保护呢？可以用岭南的绑起来，防止它变大。你现在还有没有症状？不要随便处理。如果是腰间盘突出，可以适当活动。其他没什么问题，暂时不建议手术。如果实在变大了再考虑。现在情况还可以，回家注意观察。如果有变化再来复查。动脉粥样硬化是正常的，不用太担心。好了，洗一下就可以走了，我就放心了。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "552014335",
+        "name": "医疗建议",
+        "type": "ai"
+      },
+      {
+        "id": "552014336",
+        "name": "年龄与手术",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606190920%2Fnotesaudio_1a8d265240029100EriTBCHS.mp3?Expires=1793004575&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=Vslx4rNvWEKFyfKP%2FBwSb6z9oQE%3D",
+        "title": "",
+        "duration": 109512
+      }
+    ],
+    "audio": {
+      "original": "等一下，你今年龄这么大了，要是年轻一点的可以开刀给补起来。你大呢，你现在就有自己保护一下，平时怎么保护呢？送岭南的给他勒起来，给你给我点个赞，你给我站着要围起来，听不听懂？我听不懂就懂，就失踪了，带着给他绑绑起来，就是防止它变大的似的。一来自一拿，你看现在还有没有症状？你不要处理，不要处理。还有那个，行，你松进来，或者是人家那个腰间盘突出了呢，负负，一点行行，行行行好嘞好嘞。其他没什么，还能开导，你这大岁数叫你开刀，你先开刀，如果要是实在。变大买了还不给我看？对这好，你待，行行好的，可以拿下来就着，吐不出来，它会越来越大，越来越大。价格下来回不去了，你回家开通了你开，看么，全部都是过了对。啊，对对的，回来一，和一模一样的，那还有几个叫什么什么，这个什么，这个动脉粥样精华是还是这个疾病似的，正常的啊，啊，行行行，好的，洗一哈，嗯嗯嗯，走了啊差我就放心了",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "5Jwma8Yv73WBy",
+    "version": 4,
+    "created_at": "2026-06-19 09:18:18",
+    "updated_at": "2026-06-19 09:20:14"
+  },
+  "original": "等一下，你今年龄这么大了，要是年轻一点的可以开刀给补起来。你大呢，你现在就有自己保护一下，平时怎么保护呢？送岭南的给他勒起来，给你给我点个赞，你给我站着要围起来，听不听懂？我听不懂就懂，就失踪了，带着给他绑绑起来，就是防止它变大的似的。一来自一拿，你看现在还有没有症状？你不要处理，不要处理。还有那个，行，你松进来，或者是人家那个腰间盘突出了呢，负负，一点行行，行行行好嘞好嘞。其他没什么，还能开导，你这大岁数叫你开刀，你先开刀，如果要是实在。变大买了还不给我看？对这好，你待，行行好的，可以拿下来就着，吐不出来，它会越来越大，越来越大。价格下来回不去了，你回家开通了你开，看么，全部都是过了对。啊，对对的，回来一，和一模一样的，那还有几个叫什么什么，这个什么，这个动脉粥样精华是还是这个疾病似的，正常的啊，啊，行行行，好的，洗一哈，嗯嗯嗯，走了啊差我就放心了"
+}

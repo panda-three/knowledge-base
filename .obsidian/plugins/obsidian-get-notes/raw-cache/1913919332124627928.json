@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913919332124627928",
+    "display_title": "明天验证partner及相关任务安排",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-26T20:17:14+08:00",
+      "edited_at": "2026-06-26T20:18:03.629+08:00",
+      "record_updated_at": "2026-06-26T20:18:03.635+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913919332124628000,
+    "note_id": "1913919332124627928",
+    "title": "明天验证partner及相关任务安排",
+    "content": "明天我要去验证这个partner，验证完后如有需要修改的地方，再让当前的b来修改。\n\n任务列表：\n1. 验证partner并根据需要让b修改\n2. 换一个AI进行测试，看看是否可行\n3. 帕乐乐如何迭代，有没有更好的方法",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "547490465",
+        "name": "产品迭代",
+        "type": "ai"
+      },
+      {
+        "id": "555768257",
+        "name": "任务安排",
+        "type": "ai"
+      },
+      {
+        "id": "555768258",
+        "name": "AI测试",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-26 20:17:14",
+    "updated_at": "2026-06-26 20:18:03"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913919332124627928",
+        "display_title": "明天验证partner及相关任务安排",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-26T20:17:14+08:00",
+          "edited_at": "2026-06-26T20:18:03.629+08:00",
+          "record_updated_at": "2026-06-26T20:18:03.635+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913919332124628000,
+        "note_id": "1913919332124627928",
+        "title": "明天验证partner及相关任务安排",
+        "content": "明天我要去验证这个partner，验证完后如有需要修改的地方，再让当前的b来修改。\n\n任务列表：\n1. 验证partner并根据需要让b修改\n2. 换一个AI进行测试，看看是否可行\n3. 帕乐乐如何迭代，有没有更好的方法",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "547490465",
+            "name": "产品迭代",
+            "type": "ai"
+          },
+          {
+            "id": "555768257",
+            "name": "任务安排",
+            "type": "ai"
+          },
+          {
+            "id": "555768258",
+            "name": "AI测试",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606262018%2Fnotesaudio_1a8f9b7e00228fb0UyXDWC92.mp3?Expires=1793004469&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=aUJ%2BuEjwwQSac9d0s%2FQ7o8QoF%2Bo%3D",
+            "title": "",
+            "duration": 44712
+          }
+        ],
+        "audio": {
+          "original": "明天我要去验证这个partner，然后验证完之后有需要修改的地方，再回过头来让当前的b上面来修改。这是第一个。第2个就是我换一个ai进行测试看看是否是可以的，然后。然后第3个是帕乐乐应该如何去迭代？有没有什么更好的方法？",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMblkrKLR4n3",
+        "version": 4,
+        "created_at": "2026-06-26 20:17:14",
+        "updated_at": "2026-06-26 20:18:03"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572469,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c160570ad2001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913919332124627928",
+    "display_title": "明天验证partner及相关任务安排",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-26T20:17:14+08:00",
+      "edited_at": "2026-06-26T20:18:03.629+08:00",
+      "record_updated_at": "2026-06-26T20:18:03.635+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913919332124628000,
+    "note_id": "1913919332124627928",
+    "title": "明天验证partner及相关任务安排",
+    "content": "明天我要去验证这个partner，验证完后如有需要修改的地方，再让当前的b来修改。\n\n任务列表：\n1. 验证partner并根据需要让b修改\n2. 换一个AI进行测试，看看是否可行\n3. 帕乐乐如何迭代，有没有更好的方法",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "547490465",
+        "name": "产品迭代",
+        "type": "ai"
+      },
+      {
+        "id": "555768257",
+        "name": "任务安排",
+        "type": "ai"
+      },
+      {
+        "id": "555768258",
+        "name": "AI测试",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606262018%2Fnotesaudio_1a8f9b7e00228fb0UyXDWC92.mp3?Expires=1793004469&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=aUJ%2BuEjwwQSac9d0s%2FQ7o8QoF%2Bo%3D",
+        "title": "",
+        "duration": 44712
+      }
+    ],
+    "audio": {
+      "original": "明天我要去验证这个partner，然后验证完之后有需要修改的地方，再回过头来让当前的b上面来修改。这是第一个。第2个就是我换一个ai进行测试看看是否是可以的，然后。然后第3个是帕乐乐应该如何去迭代？有没有什么更好的方法？",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMblkrKLR4n3",
+    "version": 4,
+    "created_at": "2026-06-26 20:17:14",
+    "updated_at": "2026-06-26 20:18:03"
+  },
+  "original": "明天我要去验证这个partner，然后验证完之后有需要修改的地方，再回过头来让当前的b上面来修改。这是第一个。第2个就是我换一个ai进行测试看看是否是可以的，然后。然后第3个是帕乐乐应该如何去迭代？有没有什么更好的方法？"
+}

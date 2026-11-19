@@ -1,0 +1,145 @@
+{
+  "summary": {
+    "id": 1915785754186128100,
+    "note_id": "1915785754186128112",
+    "title": "聊天记录+中国移动路由器与光猫设备铭牌信息",
+    "content": "### 聊天记录内容\n> 11\n>\n> 🐧，裙，106，279，7388，近\n>\n> 🐧，裙，106，279，7388，近\n>\n\n消息时间：22:53\n\n### 中国移动路由器铭牌信息RAX3000H\n\n| 信息项 | 内容 |\n| ------ | ---- |\n| 品牌运营商 | 中国移动 China Mobile |\n| 设备型号 | RAX3000H |\n| 制造商 | 聚信智能科技(北京)有限公司 |\n| 电源规格 | 12V=1A |\n| 本地管理地址 | 192.168.10.1 |\n| CMEE | 111161822724391 |\n| 默认配置帐号 | admin |\n| 默认配置密码 | admin |\n| 无线网络名称(2.4G) | CMCC-XXXX |\n| 无线网络名称(5G) | CMCC-XXXX-5G |\n| 无线网络密码 | 1234567898 |\n| MAC地址 | 78-78-AA-EB-DA-8F |\n| SN | 5V99H300011161802274381 |\n| 颜色 | 黑色 |\n| 生产日期 | 20251125 |\n| CMIT ID | 2024DJ1335S359 |\n| 备注 | 包含设备配置二维码、零配置二维码，底部提示「设备—码录入」\n\n### 下端光猫设备铭牌信息\n\n包含进网许可标识、CEC认证标识，多个二维码及设备条码，设备完整型号为`HG5G-ONU GONU`，生产相关信息可通过扫码获取。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "561782195",
+        "name": "聊天记录",
+        "type": "ai"
+      },
+      {
+        "id": "566577312",
+        "name": "网络设备信息",
+        "type": "ai"
+      },
+      {
+        "id": "566577313",
+        "name": "中国移动",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-07-16 23:08:41",
+    "updated_at": "2026-07-16 23:08:41"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1915785754186128100,
+        "note_id": "1915785754186128112",
+        "title": "聊天记录+中国移动路由器与光猫设备铭牌信息",
+        "content": "### 聊天记录内容\n> 11\n>\n> 🐧，裙，106，279，7388，近\n>\n> 🐧，裙，106，279，7388，近\n>\n\n消息时间：22:53\n\n### 中国移动路由器铭牌信息RAX3000H\n\n| 信息项 | 内容 |\n| ------ | ---- |\n| 品牌运营商 | 中国移动 China Mobile |\n| 设备型号 | RAX3000H |\n| 制造商 | 聚信智能科技(北京)有限公司 |\n| 电源规格 | 12V=1A |\n| 本地管理地址 | 192.168.10.1 |\n| CMEE | 111161822724391 |\n| 默认配置帐号 | admin |\n| 默认配置密码 | admin |\n| 无线网络名称(2.4G) | CMCC-XXXX |\n| 无线网络名称(5G) | CMCC-XXXX-5G |\n| 无线网络密码 | 1234567898 |\n| MAC地址 | 78-78-AA-EB-DA-8F |\n| SN | 5V99H300011161802274381 |\n| 颜色 | 黑色 |\n| 生产日期 | 20251125 |\n| CMIT ID | 2024DJ1335S359 |\n| 备注 | 包含设备配置二维码、零配置二维码，底部提示「设备—码录入」\n\n### 下端光猫设备铭牌信息\n\n包含进网许可标识、CEC认证标识，多个二维码及设备条码，设备完整型号为`HG5G-ONU GONU`，生产相关信息可通过扫码获取。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "561782195",
+            "name": "聊天记录",
+            "type": "ai"
+          },
+          {
+            "id": "566577312",
+            "name": "网络设备信息",
+            "type": "ai"
+          },
+          {
+            "id": "566577313",
+            "name": "中国移动",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202607162308%2Fgetnotes_img_1a963cfdc0c2f548TSNVKqQe.png?Expires=1786806535&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=toqrRJ09uccEr7hqfJldxrr3%2FLQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202607162308%2Fgetnotes_img_1a963cfdc0c2f548TSNVKqQe.png?Expires=1786806535&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=c0sanNQeSY51c%2BWwHghK5h%2BiM2o%3D",
+            "title": "image.png",
+            "size": 1169460
+          }
+        ],
+        "version": 0,
+        "created_at": "2026-07-16 23:08:41",
+        "updated_at": "2026-07-16 23:08:41"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1784479465
+    },
+    "request_id": "fb37da972a52002"
+  },
+  "detail": {
+    "id": 1915785754186128100,
+    "note_id": "1915785754186128112",
+    "title": "聊天记录+中国移动路由器与光猫设备铭牌信息",
+    "content": "### 聊天记录内容\n> 11\n>\n> 🐧，裙，106，279，7388，近\n>\n> 🐧，裙，106，279，7388，近\n>\n\n消息时间：22:53\n\n### 中国移动路由器铭牌信息RAX3000H\n\n| 信息项 | 内容 |\n| ------ | ---- |\n| 品牌运营商 | 中国移动 China Mobile |\n| 设备型号 | RAX3000H |\n| 制造商 | 聚信智能科技(北京)有限公司 |\n| 电源规格 | 12V=1A |\n| 本地管理地址 | 192.168.10.1 |\n| CMEE | 111161822724391 |\n| 默认配置帐号 | admin |\n| 默认配置密码 | admin |\n| 无线网络名称(2.4G) | CMCC-XXXX |\n| 无线网络名称(5G) | CMCC-XXXX-5G |\n| 无线网络密码 | 1234567898 |\n| MAC地址 | 78-78-AA-EB-DA-8F |\n| SN | 5V99H300011161802274381 |\n| 颜色 | 黑色 |\n| 生产日期 | 20251125 |\n| CMIT ID | 2024DJ1335S359 |\n| 备注 | 包含设备配置二维码、零配置二维码，底部提示「设备—码录入」\n\n### 下端光猫设备铭牌信息\n\n包含进网许可标识、CEC认证标识，多个二维码及设备条码，设备完整型号为`HG5G-ONU GONU`，生产相关信息可通过扫码获取。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "561782195",
+        "name": "聊天记录",
+        "type": "ai"
+      },
+      {
+        "id": "566577312",
+        "name": "网络设备信息",
+        "type": "ai"
+      },
+      {
+        "id": "566577313",
+        "name": "中国移动",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202607162308%2Fgetnotes_img_1a963cfdc0c2f548TSNVKqQe.png?Expires=1786806535&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=toqrRJ09uccEr7hqfJldxrr3%2FLQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202607162308%2Fgetnotes_img_1a963cfdc0c2f548TSNVKqQe.png?Expires=1786806535&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=c0sanNQeSY51c%2BWwHghK5h%2BiM2o%3D",
+        "title": "image.png",
+        "size": 1169460
+      }
+    ],
+    "version": 0,
+    "created_at": "2026-07-16 23:08:41",
+    "updated_at": "2026-07-16 23:08:41"
+  },
+  "original": null
+}

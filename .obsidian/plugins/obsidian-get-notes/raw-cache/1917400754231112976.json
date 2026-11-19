@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "id": 1917400754231113000,
+    "note_id": "1917400754231112976",
+    "title": "AI图像生成提示词撰写方法与好坏判断指南",
+    "content": "### 一、提示词好坏的核心判断标准\n\n很多人以为，好提示词就是写得越长越好。其实不是。一条提示词好不好，关键不是看它长不长，而是看它能不能让 AI 明白：你要做什么图、画面重点是什么、应该采用什么风格、信息应该怎么排、哪些地方不能乱改。\n\n### 二、好提示词的4个特点\n1. 📌 **有结构**\n- 不是一大坨文字，而是能看出主体、场景、风格、构图、文案等不同部分。\n2. 📌 **要素完整**\n- 比例、主题、风格、标题、卖点、排版方式说得越清楚，AI 越不容易乱猜。\n3. 📌 **重点明确**\n- 一张图里总要有重点。什么都想强调，最后画面就会乱。\n4. 📌 **方便修改**\n- 结构清楚，后续才知道是风格、构图、文字还是主体出了问题。\n\n### 三、坏提示词的4个常见问题\n\n坏提示词常见的问题是：太模糊、太主观、太混乱、无效词太多。\n比如「帮我做一张好看的海报」「做得有感觉一点」「顶级、震撼、极致、高级、爆款、超高清、大片感」这一类表达，看起来有要求，但 AI 很难准确执行。\n> 核心结论：好提示词不是更长，而是结构更清楚。\n\n### 四、AI更容易听懂的表达（4个关键词）\n\nAI 更容易听懂的是具体画面语言，简单来说就是 4 个关键词：**看得见、说得细、能执行、不靠猜**。\n1. 👁️ **看得见**\n- AI 更容易理解那些能直接出现在画面里的东西，比如人物、衣服、动作、表情、背景、颜色、光线、文字、位置。\n- 反面示例：不要只写「氛围感」\n- 正面示例：可以写成「一个人坐在窗边，桌上有一杯咖啡，窗外下着雨，画面是冷色调。」\n2. ✍️ **说得细**\n- 提示词越具体，AI 越不容易乱猜。\n- 反面示例：不要只写「一个女孩」\n- 正面示例：可以写成「一位穿白色衬衫的年轻女生，坐在书桌前，低头看电脑，表情专注。」\n3. ⚙️ **能执行**\n- AI 更容易听懂明确的动作和要求。\n- 示例：「主标题放在顶部」「背景使用蓝紫科技风」「中间放 3 个课程收获」「中文文字清晰可读」。\n4. 🎯 **不靠猜**\n- 好的提示词，不应该让 AI 猜。你要尽量把图片类型、画面比例、主题、风格、排版结构和文字要求都说出来。\n\n### 五、AI不太容易直接听懂的表达（4类模糊表达）\n\nAI 不太容易直接听懂的是一些模糊表达，尤其是下面 4 类：\n1. ❌ **看不见的词**\n- 比如：高级感、孤独感、氛围感、治愈感。这些词表达的是感受，但不是具体画面。\n2. ❌ **说不细的词**\n- 比如：好看一点、精致一点、大气一点。这些词的问题是，每个人理解都不一样。\n3. ❌ **不知道改哪里的词**\n- 比如：优化一下、丰富一点、做得更专业一点。你要告诉 AI 哪里不动、哪里要改、改成什么样。\n4. ❌ **听起来厉害但没信息的词**\n- 比如：高清、8K、爆款、极致美学、震撼视觉。这些词看起来很多，但不一定有效。\n> 一句话总结：少说感觉，多说画面；少让 AI 猜，多告诉 AI 怎么画。\n\n### 六、好提示词 vs 坏提示词对比（以游戏角色手机壁纸为例）\n\n同样都是让 AI 做一张角色壁纸，坏提示词和好提示词的区别，不在于字数多少，而在于有没有把六要素说清楚。\n\n#### 1. 好提示词示例\n\n先看一条相对完整的好提示词。它把**主体、场景、风格、光线、构图、文案 / 排版**都交代清楚。\n\n| 序号 | 类别 | 内容 |\n| ---- | ---- | ---- |\n| 1 | 主体 | 生成一张游戏角色手机壁纸海报。 |\n| 2 | 游戏名称 | 【填写，建议填写】 |\n| 3 | 角色名字 | 【必填】 |\n| 4 | 皮肤名字 | 【可留空，留空默认原皮】 |\n| 5 | 主题关键词 | 【可留空】 |\n| 7 | 场景 | 背景要融合角色或皮肤主题场景。 |\n| 8 | 风格 | 整体做成收藏级角色壁纸海报。 |\n| 9 | 光线 | 光效和特效要贴合角色和皮肤主题。 |\n| 10 | 构图 | 画面比例为 9:16 竖版，上方角色特写，中下部完整全身像。 |\n| 11 | 文案 / 排版 | 可加入少量标题装饰，但不要乱码。 |\n\n#### 2. 坏提示词示例\n\n坏提示词不是完全没有信息，而是信息很多，却全部混在一起，六要素分不清，还堆了很多 AI 不好执行的无效词。\n\n坏提示词原文：\n> 请帮我做一张超级好看的游戏角色手机壁纸，要高级感、梦幻感、电影感、收藏级、爆款、震撼视觉、极致美学、超高清 8K，角色要很帅 / 很美，最好有皮肤主题，背景要很华丽，有光效、有特效、有氛围，画面要精致一点，不要太普通，要像顶级海报一样，人物要完整，也要有特写，最好上面有脸，下面有全身，背景要符合角色感觉，颜色要高级，服装、道具、场景都要好看一点，可以加一点标题装饰，但不要乱，整体要适合做手机壁纸，不要脸崩、手崩、人物重复、比例失衡、背景杂乱，构图要大气，画面要有冲击力。\n\n这条提示词的问题不是信息太少，而是**信息没有分层、重点没有顺序、六要素没有区分、无效词太多**。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575070666",
+        "name": "AI提示词",
+        "type": "ai"
+      },
+      {
+        "id": "575070667",
+        "name": "图像生成",
+        "type": "ai"
+      },
+      {
+        "id": "575070668",
+        "name": "AI（人工智能）",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-03 08:56:47",
+    "updated_at": "2026-08-03 08:56:47"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1917400754231113000,
+        "note_id": "1917400754231112976",
+        "title": "AI图像生成提示词撰写方法与好坏判断指南",
+        "content": "### 一、提示词好坏的核心判断标准\n\n很多人以为，好提示词就是写得越长越好。其实不是。一条提示词好不好，关键不是看它长不长，而是看它能不能让 AI 明白：你要做什么图、画面重点是什么、应该采用什么风格、信息应该怎么排、哪些地方不能乱改。\n\n### 二、好提示词的4个特点\n1. 📌 **有结构**\n- 不是一大坨文字，而是能看出主体、场景、风格、构图、文案等不同部分。\n2. 📌 **要素完整**\n- 比例、主题、风格、标题、卖点、排版方式说得越清楚，AI 越不容易乱猜。\n3. 📌 **重点明确**\n- 一张图里总要有重点。什么都想强调，最后画面就会乱。\n4. 📌 **方便修改**\n- 结构清楚，后续才知道是风格、构图、文字还是主体出了问题。\n\n### 三、坏提示词的4个常见问题\n\n坏提示词常见的问题是：太模糊、太主观、太混乱、无效词太多。\n比如「帮我做一张好看的海报」「做得有感觉一点」「顶级、震撼、极致、高级、爆款、超高清、大片感」这一类表达，看起来有要求，但 AI 很难准确执行。\n> 核心结论：好提示词不是更长，而是结构更清楚。\n\n### 四、AI更容易听懂的表达（4个关键词）\n\nAI 更容易听懂的是具体画面语言，简单来说就是 4 个关键词：**看得见、说得细、能执行、不靠猜**。\n1. 👁️ **看得见**\n- AI 更容易理解那些能直接出现在画面里的东西，比如人物、衣服、动作、表情、背景、颜色、光线、文字、位置。\n- 反面示例：不要只写「氛围感」\n- 正面示例：可以写成「一个人坐在窗边，桌上有一杯咖啡，窗外下着雨，画面是冷色调。」\n2. ✍️ **说得细**\n- 提示词越具体，AI 越不容易乱猜。\n- 反面示例：不要只写「一个女孩」\n- 正面示例：可以写成「一位穿白色衬衫的年轻女生，坐在书桌前，低头看电脑，表情专注。」\n3. ⚙️ **能执行**\n- AI 更容易听懂明确的动作和要求。\n- 示例：「主标题放在顶部」「背景使用蓝紫科技风」「中间放 3 个课程收获」「中文文字清晰可读」。\n4. 🎯 **不靠猜**\n- 好的提示词，不应该让 AI 猜。你要尽量把图片类型、画面比例、主题、风格、排版结构和文字要求都说出来。\n\n### 五、AI不太容易直接听懂的表达（4类模糊表达）\n\nAI 不太容易直接听懂的是一些模糊表达，尤其是下面 4 类：\n1. ❌ **看不见的词**\n- 比如：高级感、孤独感、氛围感、治愈感。这些词表达的是感受，但不是具体画面。\n2. ❌ **说不细的词**\n- 比如：好看一点、精致一点、大气一点。这些词的问题是，每个人理解都不一样。\n3. ❌ **不知道改哪里的词**\n- 比如：优化一下、丰富一点、做得更专业一点。你要告诉 AI 哪里不动、哪里要改、改成什么样。\n4. ❌ **听起来厉害但没信息的词**\n- 比如：高清、8K、爆款、极致美学、震撼视觉。这些词看起来很多，但不一定有效。\n> 一句话总结：少说感觉，多说画面；少让 AI 猜，多告诉 AI 怎么画。\n\n### 六、好提示词 vs 坏提示词对比（以游戏角色手机壁纸为例）\n\n同样都是让 AI 做一张角色壁纸，坏提示词和好提示词的区别，不在于字数多少，而在于有没有把六要素说清楚。\n\n#### 1. 好提示词示例\n\n先看一条相对完整的好提示词。它把**主体、场景、风格、光线、构图、文案 / 排版**都交代清楚。\n\n| 序号 | 类别 | 内容 |\n| ---- | ---- | ---- |\n| 1 | 主体 | 生成一张游戏角色手机壁纸海报。 |\n| 2 | 游戏名称 | 【填写，建议填写】 |\n| 3 | 角色名字 | 【必填】 |\n| 4 | 皮肤名字 | 【可留空，留空默认原皮】 |\n| 5 | 主题关键词 | 【可留空】 |\n| 7 | 场景 | 背景要融合角色或皮肤主题场景。 |\n| 8 | 风格 | 整体做成收藏级角色壁纸海报。 |\n| 9 | 光线 | 光效和特效要贴合角色和皮肤主题。 |\n| 10 | 构图 | 画面比例为 9:16 竖版，上方角色特写，中下部完整全身像。 |\n| 11 | 文案 / 排版 | 可加入少量标题装饰，但不要乱码。 |\n\n#### 2. 坏提示词示例\n\n坏提示词不是完全没有信息，而是信息很多，却全部混在一起，六要素分不清，还堆了很多 AI 不好执行的无效词。\n\n坏提示词原文：\n> 请帮我做一张超级好看的游戏角色手机壁纸，要高级感、梦幻感、电影感、收藏级、爆款、震撼视觉、极致美学、超高清 8K，角色要很帅 / 很美，最好有皮肤主题，背景要很华丽，有光效、有特效、有氛围，画面要精致一点，不要太普通，要像顶级海报一样，人物要完整，也要有特写，最好上面有脸，下面有全身，背景要符合角色感觉，颜色要高级，服装、道具、场景都要好看一点，可以加一点标题装饰，但不要乱，整体要适合做手机壁纸，不要脸崩、手崩、人物重复、比例失衡、背景杂乱，构图要大气，画面要有冲击力。\n\n这条提示词的问题不是信息太少，而是**信息没有分层、重点没有顺序、六要素没有区分、无效词太多**。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "575070666",
+            "name": "AI提示词",
+            "type": "ai"
+          },
+          {
+            "id": "575070667",
+            "name": "图像生成",
+            "type": "ai"
+          },
+          {
+            "id": "575070668",
+            "name": "AI（人工智能）",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9cb001291a8y37Ou8Pu.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=R%2FZ%2FOSB7F%2BPrTuRM8UBiG4TJZr8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9cb001291a8y37Ou8Pu.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HyUDyQ7iupXreU8BCIclOGhEGXA%3D",
+            "title": "image.png",
+            "size": 346020
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ccc0001f68tUoEFzAy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=xSX2m6HTVKBad0Hzfw%2BhZh9aRMk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ccc0001f68tUoEFzAy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=nWlSL8YPdp28%2FYO3X73scoZSgbE%3D",
+            "title": "image.png",
+            "size": 323892
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ce800291a8kOON1BxW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=0TQpC0rp0EGO3ZM8vHJuS%2FgVa44%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ce800291a8kOON1BxW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=EExOELhS7UKlL8%2FolvMtrChykrk%3D",
+            "title": "image.png",
+            "size": 335942
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9d180101f68EmdByLFM.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=rpD8n9tRxnzkn8XOwd22S%2F7Iwio%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9d180101f68EmdByLFM.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jEAGK6vsiWPQ9UuG0lkO%2Fz6ZeWw%3D",
+            "title": "image.png",
+            "size": 583426
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "yeoQL9jXlWlBV",
+        "version": 1,
+        "created_at": "2026-08-03 08:56:47",
+        "updated_at": "2026-08-03 08:56:47"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1791681998
+    },
+    "request_id": "101ed124b9ad2002"
+  },
+  "detail": {
+    "id": 1917400754231113000,
+    "note_id": "1917400754231112976",
+    "title": "AI图像生成提示词撰写方法与好坏判断指南",
+    "content": "### 一、提示词好坏的核心判断标准\n\n很多人以为，好提示词就是写得越长越好。其实不是。一条提示词好不好，关键不是看它长不长，而是看它能不能让 AI 明白：你要做什么图、画面重点是什么、应该采用什么风格、信息应该怎么排、哪些地方不能乱改。\n\n### 二、好提示词的4个特点\n1. 📌 **有结构**\n- 不是一大坨文字，而是能看出主体、场景、风格、构图、文案等不同部分。\n2. 📌 **要素完整**\n- 比例、主题、风格、标题、卖点、排版方式说得越清楚，AI 越不容易乱猜。\n3. 📌 **重点明确**\n- 一张图里总要有重点。什么都想强调，最后画面就会乱。\n4. 📌 **方便修改**\n- 结构清楚，后续才知道是风格、构图、文字还是主体出了问题。\n\n### 三、坏提示词的4个常见问题\n\n坏提示词常见的问题是：太模糊、太主观、太混乱、无效词太多。\n比如「帮我做一张好看的海报」「做得有感觉一点」「顶级、震撼、极致、高级、爆款、超高清、大片感」这一类表达，看起来有要求，但 AI 很难准确执行。\n> 核心结论：好提示词不是更长，而是结构更清楚。\n\n### 四、AI更容易听懂的表达（4个关键词）\n\nAI 更容易听懂的是具体画面语言，简单来说就是 4 个关键词：**看得见、说得细、能执行、不靠猜**。\n1. 👁️ **看得见**\n- AI 更容易理解那些能直接出现在画面里的东西，比如人物、衣服、动作、表情、背景、颜色、光线、文字、位置。\n- 反面示例：不要只写「氛围感」\n- 正面示例：可以写成「一个人坐在窗边，桌上有一杯咖啡，窗外下着雨，画面是冷色调。」\n2. ✍️ **说得细**\n- 提示词越具体，AI 越不容易乱猜。\n- 反面示例：不要只写「一个女孩」\n- 正面示例：可以写成「一位穿白色衬衫的年轻女生，坐在书桌前，低头看电脑，表情专注。」\n3. ⚙️ **能执行**\n- AI 更容易听懂明确的动作和要求。\n- 示例：「主标题放在顶部」「背景使用蓝紫科技风」「中间放 3 个课程收获」「中文文字清晰可读」。\n4. 🎯 **不靠猜**\n- 好的提示词，不应该让 AI 猜。你要尽量把图片类型、画面比例、主题、风格、排版结构和文字要求都说出来。\n\n### 五、AI不太容易直接听懂的表达（4类模糊表达）\n\nAI 不太容易直接听懂的是一些模糊表达，尤其是下面 4 类：\n1. ❌ **看不见的词**\n- 比如：高级感、孤独感、氛围感、治愈感。这些词表达的是感受，但不是具体画面。\n2. ❌ **说不细的词**\n- 比如：好看一点、精致一点、大气一点。这些词的问题是，每个人理解都不一样。\n3. ❌ **不知道改哪里的词**\n- 比如：优化一下、丰富一点、做得更专业一点。你要告诉 AI 哪里不动、哪里要改、改成什么样。\n4. ❌ **听起来厉害但没信息的词**\n- 比如：高清、8K、爆款、极致美学、震撼视觉。这些词看起来很多，但不一定有效。\n> 一句话总结：少说感觉，多说画面；少让 AI 猜，多告诉 AI 怎么画。\n\n### 六、好提示词 vs 坏提示词对比（以游戏角色手机壁纸为例）\n\n同样都是让 AI 做一张角色壁纸，坏提示词和好提示词的区别，不在于字数多少，而在于有没有把六要素说清楚。\n\n#### 1. 好提示词示例\n\n先看一条相对完整的好提示词。它把**主体、场景、风格、光线、构图、文案 / 排版**都交代清楚。\n\n| 序号 | 类别 | 内容 |\n| ---- | ---- | ---- |\n| 1 | 主体 | 生成一张游戏角色手机壁纸海报。 |\n| 2 | 游戏名称 | 【填写，建议填写】 |\n| 3 | 角色名字 | 【必填】 |\n| 4 | 皮肤名字 | 【可留空，留空默认原皮】 |\n| 5 | 主题关键词 | 【可留空】 |\n| 7 | 场景 | 背景要融合角色或皮肤主题场景。 |\n| 8 | 风格 | 整体做成收藏级角色壁纸海报。 |\n| 9 | 光线 | 光效和特效要贴合角色和皮肤主题。 |\n| 10 | 构图 | 画面比例为 9:16 竖版，上方角色特写，中下部完整全身像。 |\n| 11 | 文案 / 排版 | 可加入少量标题装饰，但不要乱码。 |\n\n#### 2. 坏提示词示例\n\n坏提示词不是完全没有信息，而是信息很多，却全部混在一起，六要素分不清，还堆了很多 AI 不好执行的无效词。\n\n坏提示词原文：\n> 请帮我做一张超级好看的游戏角色手机壁纸，要高级感、梦幻感、电影感、收藏级、爆款、震撼视觉、极致美学、超高清 8K，角色要很帅 / 很美，最好有皮肤主题，背景要很华丽，有光效、有特效、有氛围，画面要精致一点，不要太普通，要像顶级海报一样，人物要完整，也要有特写，最好上面有脸，下面有全身，背景要符合角色感觉，颜色要高级，服装、道具、场景都要好看一点，可以加一点标题装饰，但不要乱，整体要适合做手机壁纸，不要脸崩、手崩、人物重复、比例失衡、背景杂乱，构图要大气，画面要有冲击力。\n\n这条提示词的问题不是信息太少，而是**信息没有分层、重点没有顺序、六要素没有区分、无效词太多**。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575070666",
+        "name": "AI提示词",
+        "type": "ai"
+      },
+      {
+        "id": "575070667",
+        "name": "图像生成",
+        "type": "ai"
+      },
+      {
+        "id": "575070668",
+        "name": "AI（人工智能）",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9cb001291a8y37Ou8Pu.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=R%2FZ%2FOSB7F%2BPrTuRM8UBiG4TJZr8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9cb001291a8y37Ou8Pu.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HyUDyQ7iupXreU8BCIclOGhEGXA%3D",
+        "title": "image.png",
+        "size": 346020
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ccc0001f68tUoEFzAy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=xSX2m6HTVKBad0Hzfw%2BhZh9aRMk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ccc0001f68tUoEFzAy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=nWlSL8YPdp28%2FYO3X73scoZSgbE%3D",
+        "title": "image.png",
+        "size": 323892
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ce800291a8kOON1BxW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=0TQpC0rp0EGO3ZM8vHJuS%2FgVa44%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9ce800291a8kOON1BxW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=EExOELhS7UKlL8%2FolvMtrChykrk%3D",
+        "title": "image.png",
+        "size": 335942
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9d180101f68EmdByLFM.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=rpD8n9tRxnzkn8XOwd22S%2F7Iwio%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030856%2Fgetnotes_img_1a9bf9d180101f68EmdByLFM.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jEAGK6vsiWPQ9UuG0lkO%2Fz6ZeWw%3D",
+        "title": "image.png",
+        "size": 583426
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "yeoQL9jXlWlBV",
+    "version": 1,
+    "created_at": "2026-08-03 08:56:47",
+    "updated_at": "2026-08-03 08:56:47"
+  },
+  "original": null
+}

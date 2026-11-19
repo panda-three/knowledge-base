@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "id": 1913959836887900700,
+    "note_id": "1913959836887900800",
+    "title": "我最想练成的能力填空",
+    "content": "**我最想练成的能力是__________。如果我练成了，我希望自己变成__________样子。**",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "555888135",
+        "name": "愿望记录",
+        "type": "ai"
+      },
+      {
+        "id": "555888136",
+        "name": "自我成长",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-27 06:46:43",
+    "updated_at": "2026-06-27 06:46:43"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913959836887900700,
+        "note_id": "1913959836887900800",
+        "title": "我最想练成的能力填空",
+        "content": "**我最想练成的能力是__________。如果我练成了，我希望自己变成__________样子。**",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "555888135",
+            "name": "愿望记录",
+            "type": "ai"
+          },
+          {
+            "id": "555888136",
+            "name": "自我成长",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270646%2Fgetnotes_img_1a8fc054800292e8XnBBrIBX.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=9s6Yl73unW5qcuHFWGgQ6%2BYv4eg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270646%2Fgetnotes_img_1a8fc054800292e8XnBBrIBX.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=O9IczSBaox4k7EstKtjZrC8j6BY%3D",
+            "title": "image.png",
+            "size": 24772
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBepNdnNYKdz",
+        "version": 1,
+        "created_at": "2026-06-27 06:46:43",
+        "updated_at": "2026-06-27 06:46:43"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676077
+    },
+    "request_id": "100fd3db8a252003"
+  },
+  "detail": {
+    "id": 1913959836887900700,
+    "note_id": "1913959836887900800",
+    "title": "我最想练成的能力填空",
+    "content": "**我最想练成的能力是__________。如果我练成了，我希望自己变成__________样子。**",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "555888135",
+        "name": "愿望记录",
+        "type": "ai"
+      },
+      {
+        "id": "555888136",
+        "name": "自我成长",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270646%2Fgetnotes_img_1a8fc054800292e8XnBBrIBX.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=9s6Yl73unW5qcuHFWGgQ6%2BYv4eg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270646%2Fgetnotes_img_1a8fc054800292e8XnBBrIBX.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=O9IczSBaox4k7EstKtjZrC8j6BY%3D",
+        "title": "image.png",
+        "size": 24772
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBepNdnNYKdz",
+    "version": 1,
+    "created_at": "2026-06-27 06:46:43",
+    "updated_at": "2026-06-27 06:46:43"
+  },
+  "original": null
+}

@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913307911317894600",
+    "display_title": "面试岗位及书籍处理建议",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-20T00:04:53+08:00",
+      "edited_at": "2026-06-20T06:07:32.862+08:00",
+      "record_updated_at": "2026-06-20T06:07:32.867+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913307911317894700,
+    "note_id": "1913307911317894600",
+    "title": "面试岗位及书籍处理建议",
+    "content": "面试的岗位，明明白白地拿走这本书，按照案例直接做好吗？这是最后一本。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "552305053",
+        "name": "面试",
+        "type": "ai"
+      },
+      {
+        "id": "552305054",
+        "name": "书籍处理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-20 00:04:53",
+    "updated_at": "2026-06-20 06:07:32"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913307911317894600",
+        "display_title": "面试岗位及书籍处理建议",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-20T00:04:53+08:00",
+          "edited_at": "2026-06-20T06:07:32.862+08:00",
+          "record_updated_at": "2026-06-20T06:07:32.867+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913307911317894700,
+        "note_id": "1913307911317894600",
+        "title": "面试岗位及书籍处理建议",
+        "content": "面试的岗位，明明白白地拿走这本书，按照案例直接做好吗？这是最后一本。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "552305053",
+            "name": "面试",
+            "type": "ai"
+          },
+          {
+            "id": "552305054",
+            "name": "书籍处理",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606200607%2Fnotesaudio_1a8d6f6700102a388yFKnXhn.mp3?Expires=1793004561&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=sUVfSba6Ta1IJNPaXzd71Wd2FjI%3D",
+            "title": "",
+            "duration": 6804
+          }
+        ],
+        "audio": {
+          "original": "面，面试的岗位。明明白白的，拿走这本书，按照案例直接做好吗?最后一本。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gB66b4JqwZVv",
+        "version": 5,
+        "created_at": "2026-06-20 00:04:53",
+        "updated_at": "2026-06-20 06:07:32"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572561,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c165ee6a53001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913307911317894600",
+    "display_title": "面试岗位及书籍处理建议",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-20T00:04:53+08:00",
+      "edited_at": "2026-06-20T06:07:32.862+08:00",
+      "record_updated_at": "2026-06-20T06:07:32.867+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913307911317894700,
+    "note_id": "1913307911317894600",
+    "title": "面试岗位及书籍处理建议",
+    "content": "面试的岗位，明明白白地拿走这本书，按照案例直接做好吗？这是最后一本。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "552305053",
+        "name": "面试",
+        "type": "ai"
+      },
+      {
+        "id": "552305054",
+        "name": "书籍处理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606200607%2Fnotesaudio_1a8d6f6700102a388yFKnXhn.mp3?Expires=1793004561&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=sUVfSba6Ta1IJNPaXzd71Wd2FjI%3D",
+        "title": "",
+        "duration": 6804
+      }
+    ],
+    "audio": {
+      "original": "面，面试的岗位。明明白白的，拿走这本书，按照案例直接做好吗?最后一本。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gB66b4JqwZVv",
+    "version": 5,
+    "created_at": "2026-06-20 00:04:53",
+    "updated_at": "2026-06-20 06:07:32"
+  },
+  "original": "面，面试的岗位。明明白白的，拿走这本书，按照案例直接做好吗?最后一本。"
+}

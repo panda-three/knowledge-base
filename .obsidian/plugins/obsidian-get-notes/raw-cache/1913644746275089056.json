@@ -1,0 +1,185 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913644746275089056",
+    "display_title": "空语音笔记",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-23T21:15:31+08:00",
+      "edited_at": "2026-06-23T21:15:31+08:00",
+      "record_updated_at": "2026-06-23T21:16:07.674+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913644746275089200,
+    "note_id": "1913644746275089056",
+    "title": "空语音笔记",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-06-23 21:15:31\n- **时长**：17 秒\n- **领域**：未明确\n\n#### 知识精讲\n本次课程无有效授课信息，录音时长为0分钟，无授课内容与可整理的知识要点，无可用的图片或文字资料补充教学内容。\n\n#### 📖 课堂实录\n[21:15:31](https://getnotes.seek:76531) **无有效授课内容**\n本次录音无有效转写内容，未记录任何知识讲解、互动或其他教学相关信息。\n[21:15:48](https://getnotes.seek:76548) **录音结束**\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n无有效考点信息，无内容可整理。\n\n#### 💡 核心概念\n无有效核心概念，无内容可整理。\n\n#### ✨ 课堂金句\n无内容。\n\n#### 📝 待办事项\n无内容。",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-23 21:15:31",
+    "updated_at": "2026-06-23 21:15:31"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913644746275089056",
+        "display_title": "空语音笔记",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-23T21:15:31+08:00",
+          "edited_at": "2026-06-23T21:15:31+08:00",
+          "record_updated_at": "2026-06-23T21:16:07.674+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913644746275089200,
+        "note_id": "1913644746275089056",
+        "title": "空语音笔记",
+        "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-06-23 21:15:31\n- **时长**：17 秒\n- **领域**：未明确\n\n#### 知识精讲\n本次课程无有效授课信息，录音时长为0分钟，无授课内容与可整理的知识要点，无可用的图片或文字资料补充教学内容。\n\n#### 📖 课堂实录\n[21:15:31](https://getnotes.seek:76531) **无有效授课内容**\n本次录音无有效转写内容，未记录任何知识讲解、互动或其他教学相关信息。\n[21:15:48](https://getnotes.seek:76548) **录音结束**\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n无有效考点信息，无内容可整理。\n\n#### 💡 核心概念\n无有效核心概念，无内容可整理。\n\n#### ✨ 课堂金句\n无内容。\n\n#### 📝 待办事项\n无内容。",
+        "ref_content": "",
+        "note_type": "class_audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606232115%2Fnotesaudio_1a8ea1c1803292e8ruLdXCp3.mp3?Expires=1793004516&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=i7Kmm%2FBl4kU2dlAhvc4bRnb%2B6lc%3D",
+            "title": "",
+            "duration": 17532
+          }
+        ],
+        "audio": {
+          "sentences": []
+        },
+        "timeline": {
+          "version": 1,
+          "schema_version": 2,
+          "moments": [],
+          "resources": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "5JwmbZw41P7P9",
+        "version": 1,
+        "created_at": "2026-06-23 21:15:31",
+        "updated_at": "2026-06-23 21:15:31"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572516,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c1632de43f001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913644746275089056",
+    "display_title": "空语音笔记",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-23T21:15:31+08:00",
+      "edited_at": "2026-06-23T21:15:31+08:00",
+      "record_updated_at": "2026-06-23T21:16:07.674+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913644746275089200,
+    "note_id": "1913644746275089056",
+    "title": "空语音笔记",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-06-23 21:15:31\n- **时长**：17 秒\n- **领域**：未明确\n\n#### 知识精讲\n本次课程无有效授课信息，录音时长为0分钟，无授课内容与可整理的知识要点，无可用的图片或文字资料补充教学内容。\n\n#### 📖 课堂实录\n[21:15:31](https://getnotes.seek:76531) **无有效授课内容**\n本次录音无有效转写内容，未记录任何知识讲解、互动或其他教学相关信息。\n[21:15:48](https://getnotes.seek:76548) **录音结束**\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n无有效考点信息，无内容可整理。\n\n#### 💡 核心概念\n无有效核心概念，无内容可整理。\n\n#### ✨ 课堂金句\n无内容。\n\n#### 📝 待办事项\n无内容。",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606232115%2Fnotesaudio_1a8ea1c1803292e8ruLdXCp3.mp3?Expires=1793004516&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=i7Kmm%2FBl4kU2dlAhvc4bRnb%2B6lc%3D",
+        "title": "",
+        "duration": 17532
+      }
+    ],
+    "audio": {
+      "sentences": []
+    },
+    "timeline": {
+      "version": 1,
+      "schema_version": 2,
+      "moments": [],
+      "resources": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "5JwmbZw41P7P9",
+    "version": 1,
+    "created_at": "2026-06-23 21:15:31",
+    "updated_at": "2026-06-23 21:15:31"
+  },
+  "original": null
+}

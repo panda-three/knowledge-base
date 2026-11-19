@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "id": 1919473798579600600,
+    "note_id": "1919473798579600600",
+    "title": "What Is 图解工具使用规范：用大图少字的 HTML 页面解释任何概念",
+    "content": "### **🤔 这个工具是做什么的，什么时候用？**\n\n它是一个**图片优先**的解释工具，用大图代替大段文字讲清概念。\n- **触发场景**：用户输入 `/whatis <topic>`，或询问「某物是什么 / 怎么运作」且更适合用图表说明时。\n- **目标读者**：对该主题**一无所知**的人。\n- **核心原则**：**big pictures and few words**（图大字少）。\n\n### **💻 输出形式有什么硬性要求？**\n\n必须输出**自包含 HTML 文件**，不能依赖外部资源。\n- **环境限制**：当前环境无 Artifact 工具 → 直接写完整 HTML 到临时目录（如 `$TMPDIR` 或 `/tmp`），再用 `open` 打开。\n- **依赖要求**：所有样式和图表都**内联**（inline SVG/CSS），**零外部依赖**。\n- **信息真实性**：上下文不足时先自行收集 → 图中每个节点都要有证据支撑，**严禁编造**。\n\n### **📐 图表该怎么画，有哪些类型可选？**\n\n用 SVG 画**真实图表**，类型自由组合，表达优先于模板。\n- **可选图表类型**：\n  - 流程类：flowchart（流程图）、sequence diagram（时序图）、state diagram（状态图）\n  - 结构类：architecture/block diagram（架构/框图）、C4、dependency graph（依赖图）、call graph（调用图）\n  - 数据类：ER diagram（实体关系图）、class diagram（类图）、DFD（数据流图）\n  - 组织类：swimlane（泳道图）、deployment diagram（部署图）、timeline（时间线）、Gantt（甘特图）、git graph（Git 图）\n  - 对比类：before/after comparison（前后对比）、bar/line chart（柱/折线图）、treemap（树状图）、heatmap（热力图）\n- **禁用情况**：表格只用于枚举，**不算图表**。\n- **自定义权限**：没有合适模板就自己设计 → **表达优先**。\n\n### **🎨 好图表的设计标准是什么？**\n\n**让结构一眼可见**，读者扫一眼就能抓住主干。\n- **形状语言**：boxes = 组成部分，arrows = 动作/交互，lanes = 参与角色，时间**单向流动**。\n  说白了，就是用大家眼熟的图形语言，不用看图例也能懂。\n- **双层阅读**：\n  - **远看（主干层）**：每框一个名字，每箭一个动词，一条清晰主路径。\n  - **近看（细节层）**：更小、更暗的注释，**不抢主干视线**。\n- **配色方案**：暖色调纸张背景 + 墨色文字线条 + **一种低饱和度强调色**；状态用标记和线宽区分，色调统一。\n- **单图原则**：一张图只讲**一个核心点** → 内容装不下就拆分或总结尾部，**绝不缩小字号**。\n- **检验标准**：只看图表和标题说明，就能读懂**全部内容**。\n\n### **📄 页面排版有什么要求？**\n\n宽内容栏 + 双侧边距，图表通栏、文字收窄。\n- **图表宽度**：每个 SVG 设 viewBox 和 `width:100%` → 随窗口**自适应缩放**，占满整栏。\n- **正文宽度**：散文文字在栏内**更窄的行宽**里，保证可读性。\n\n### **🌐 语言上要注意什么？**\n\n解释文字**匹配用户语言**，专业术语保留英文原文。\n- **技术名词**：API 名称、CLI 命令、精确错误字符串 → **一律原样保留英文**。",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "585714414",
+        "name": "What Is 工具规范",
+        "type": "ai"
+      },
+      {
+        "id": "585714415",
+        "name": "SVG 图表设计",
+        "type": "ai"
+      },
+      {
+        "id": "585714416",
+        "name": "图片优先解释",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-25 17:14:40",
+    "updated_at": "2026-08-25 17:14:40"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1919473798579600600,
+        "note_id": "1919473798579600600",
+        "title": "What Is 图解工具使用规范：用大图少字的 HTML 页面解释任何概念",
+        "content": "### **🤔 这个工具是做什么的，什么时候用？**\n\n它是一个**图片优先**的解释工具，用大图代替大段文字讲清概念。\n- **触发场景**：用户输入 `/whatis <topic>`，或询问「某物是什么 / 怎么运作」且更适合用图表说明时。\n- **目标读者**：对该主题**一无所知**的人。\n- **核心原则**：**big pictures and few words**（图大字少）。\n\n### **💻 输出形式有什么硬性要求？**\n\n必须输出**自包含 HTML 文件**，不能依赖外部资源。\n- **环境限制**：当前环境无 Artifact 工具 → 直接写完整 HTML 到临时目录（如 `$TMPDIR` 或 `/tmp`），再用 `open` 打开。\n- **依赖要求**：所有样式和图表都**内联**（inline SVG/CSS），**零外部依赖**。\n- **信息真实性**：上下文不足时先自行收集 → 图中每个节点都要有证据支撑，**严禁编造**。\n\n### **📐 图表该怎么画，有哪些类型可选？**\n\n用 SVG 画**真实图表**，类型自由组合，表达优先于模板。\n- **可选图表类型**：\n  - 流程类：flowchart（流程图）、sequence diagram（时序图）、state diagram（状态图）\n  - 结构类：architecture/block diagram（架构/框图）、C4、dependency graph（依赖图）、call graph（调用图）\n  - 数据类：ER diagram（实体关系图）、class diagram（类图）、DFD（数据流图）\n  - 组织类：swimlane（泳道图）、deployment diagram（部署图）、timeline（时间线）、Gantt（甘特图）、git graph（Git 图）\n  - 对比类：before/after comparison（前后对比）、bar/line chart（柱/折线图）、treemap（树状图）、heatmap（热力图）\n- **禁用情况**：表格只用于枚举，**不算图表**。\n- **自定义权限**：没有合适模板就自己设计 → **表达优先**。\n\n### **🎨 好图表的设计标准是什么？**\n\n**让结构一眼可见**，读者扫一眼就能抓住主干。\n- **形状语言**：boxes = 组成部分，arrows = 动作/交互，lanes = 参与角色，时间**单向流动**。\n  说白了，就是用大家眼熟的图形语言，不用看图例也能懂。\n- **双层阅读**：\n  - **远看（主干层）**：每框一个名字，每箭一个动词，一条清晰主路径。\n  - **近看（细节层）**：更小、更暗的注释，**不抢主干视线**。\n- **配色方案**：暖色调纸张背景 + 墨色文字线条 + **一种低饱和度强调色**；状态用标记和线宽区分，色调统一。\n- **单图原则**：一张图只讲**一个核心点** → 内容装不下就拆分或总结尾部，**绝不缩小字号**。\n- **检验标准**：只看图表和标题说明，就能读懂**全部内容**。\n\n### **📄 页面排版有什么要求？**\n\n宽内容栏 + 双侧边距，图表通栏、文字收窄。\n- **图表宽度**：每个 SVG 设 viewBox 和 `width:100%` → 随窗口**自适应缩放**，占满整栏。\n- **正文宽度**：散文文字在栏内**更窄的行宽**里，保证可读性。\n\n### **🌐 语言上要注意什么？**\n\n解释文字**匹配用户语言**，专业术语保留英文原文。\n- **技术名词**：API 名称、CLI 命令、精确错误字符串 → **一律原样保留英文**。",
+        "ref_content": "",
+        "note_type": "link",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "139424302",
+            "name": "AI链接笔记",
+            "type": "system"
+          },
+          {
+            "id": "585714414",
+            "name": "What Is 工具规范",
+            "type": "ai"
+          },
+          {
+            "id": "585714415",
+            "name": "SVG 图表设计",
+            "type": "ai"
+          },
+          {
+            "id": "585714416",
+            "name": "图片优先解释",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "link",
+            "url": "https://github.com/suyuan2022/suyuan-skill/blob/main/whatis/SKILL.md",
+            "title": "suyuan-skill/whatis/SKILL.md at main · suyuan2022/suyuan-skill",
+            "size": 100
+          }
+        ],
+        "web_page": {
+          "url": "https://github.com/suyuan2022/suyuan-skill/blob/main/whatis/SKILL.md",
+          "content": "| name | whatis |\n| --- |\n| description | What Is This — explain anything as a picture-first HTML page. Use when the user types /whatis <topic>, or asks what something is / how it works and would be better served by big diagrams than by paragraphs. |\n\nExplain like I'm someone who knows nothing about this topic, using an HTML page with big pictures and few words.\n\nNo Artifact tool in this environment: write a self-contained HTML file (inline SVG/CSS, no external deps) to a temp directory (e.g. `$TMPDIR` or `/tmp`), then `open` it.\n\nIf the current context is not enough to explain the topic, gather enough context yourself before drawing. Every node in a diagram must be backed by evidence; never fabricate.\n\nDraw real diagrams in SVG, freely picking and combining whatever fits: flowchart, sequence diagram, state diagram, architecture/block diagram, C4, dependency graph, call graph, ER diagram, class diagram, DFD, swimlane, deployment diagram, timeline, Gantt, git graph, before/after comparison, bar/line chart, treemap, heatmap... If none fits, design your own — expression comes before templates. Tables are for enumerations only and don't count as diagrams.\n\nA diagram exists to make structure visible: who talks to whom, what causes what, what changes when. Draw each one in the shape the reader's eye already knows — boxes for parts, arrows for actions, lanes for actors, time flowing one way. Make each diagram read at two distances: at a glance only the backbone shows — a name per box, a verb per arrow, one path the eye can follow; the detail lives in a quieter layer of smaller, dimmer annotations that never competes with the backbone. Color like a print magazine: warm paper background, ink for text and lines, one muted accent doing all the pointing; status reads from marks and line weight, tinted from the same palette. One diagram, one point: when the content outgrows the shape, split it or summarize the tail — shrinking the type is never the answer. The test: someone who reads only the diagrams and captions still gets the whole story.\n\nGive the page a wide content column with visible margins on both sides: diagrams span the column (each SVG gets a viewBox and `width:100%` so it scales with the window), prose sits in a narrower measure within it.\n\nMatch the user's language in the explanation. Keep technical terms, API names, CLI commands, and exact error strings verbatim in English."
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBRW4B683l2y",
+        "version": 1,
+        "created_at": "2026-08-25 17:14:40",
+        "updated_at": "2026-08-25 17:14:40"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676017
+    },
+    "request_id": "100fd3a18b652001"
+  },
+  "detail": {
+    "id": 1919473798579600600,
+    "note_id": "1919473798579600600",
+    "title": "What Is 图解工具使用规范：用大图少字的 HTML 页面解释任何概念",
+    "content": "### **🤔 这个工具是做什么的，什么时候用？**\n\n它是一个**图片优先**的解释工具，用大图代替大段文字讲清概念。\n- **触发场景**：用户输入 `/whatis <topic>`，或询问「某物是什么 / 怎么运作」且更适合用图表说明时。\n- **目标读者**：对该主题**一无所知**的人。\n- **核心原则**：**big pictures and few words**（图大字少）。\n\n### **💻 输出形式有什么硬性要求？**\n\n必须输出**自包含 HTML 文件**，不能依赖外部资源。\n- **环境限制**：当前环境无 Artifact 工具 → 直接写完整 HTML 到临时目录（如 `$TMPDIR` 或 `/tmp`），再用 `open` 打开。\n- **依赖要求**：所有样式和图表都**内联**（inline SVG/CSS），**零外部依赖**。\n- **信息真实性**：上下文不足时先自行收集 → 图中每个节点都要有证据支撑，**严禁编造**。\n\n### **📐 图表该怎么画，有哪些类型可选？**\n\n用 SVG 画**真实图表**，类型自由组合，表达优先于模板。\n- **可选图表类型**：\n  - 流程类：flowchart（流程图）、sequence diagram（时序图）、state diagram（状态图）\n  - 结构类：architecture/block diagram（架构/框图）、C4、dependency graph（依赖图）、call graph（调用图）\n  - 数据类：ER diagram（实体关系图）、class diagram（类图）、DFD（数据流图）\n  - 组织类：swimlane（泳道图）、deployment diagram（部署图）、timeline（时间线）、Gantt（甘特图）、git graph（Git 图）\n  - 对比类：before/after comparison（前后对比）、bar/line chart（柱/折线图）、treemap（树状图）、heatmap（热力图）\n- **禁用情况**：表格只用于枚举，**不算图表**。\n- **自定义权限**：没有合适模板就自己设计 → **表达优先**。\n\n### **🎨 好图表的设计标准是什么？**\n\n**让结构一眼可见**，读者扫一眼就能抓住主干。\n- **形状语言**：boxes = 组成部分，arrows = 动作/交互，lanes = 参与角色，时间**单向流动**。\n  说白了，就是用大家眼熟的图形语言，不用看图例也能懂。\n- **双层阅读**：\n  - **远看（主干层）**：每框一个名字，每箭一个动词，一条清晰主路径。\n  - **近看（细节层）**：更小、更暗的注释，**不抢主干视线**。\n- **配色方案**：暖色调纸张背景 + 墨色文字线条 + **一种低饱和度强调色**；状态用标记和线宽区分，色调统一。\n- **单图原则**：一张图只讲**一个核心点** → 内容装不下就拆分或总结尾部，**绝不缩小字号**。\n- **检验标准**：只看图表和标题说明，就能读懂**全部内容**。\n\n### **📄 页面排版有什么要求？**\n\n宽内容栏 + 双侧边距，图表通栏、文字收窄。\n- **图表宽度**：每个 SVG 设 viewBox 和 `width:100%` → 随窗口**自适应缩放**，占满整栏。\n- **正文宽度**：散文文字在栏内**更窄的行宽**里，保证可读性。\n\n### **🌐 语言上要注意什么？**\n\n解释文字**匹配用户语言**，专业术语保留英文原文。\n- **技术名词**：API 名称、CLI 命令、精确错误字符串 → **一律原样保留英文**。",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "585714414",
+        "name": "What Is 工具规范",
+        "type": "ai"
+      },
+      {
+        "id": "585714415",
+        "name": "SVG 图表设计",
+        "type": "ai"
+      },
+      {
+        "id": "585714416",
+        "name": "图片优先解释",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "link",
+        "url": "https://github.com/suyuan2022/suyuan-skill/blob/main/whatis/SKILL.md",
+        "title": "suyuan-skill/whatis/SKILL.md at main · suyuan2022/suyuan-skill",
+        "size": 100
+      }
+    ],
+    "web_page": {
+      "url": "https://github.com/suyuan2022/suyuan-skill/blob/main/whatis/SKILL.md",
+      "content": "| name | whatis |\n| --- |\n| description | What Is This — explain anything as a picture-first HTML page. Use when the user types /whatis <topic>, or asks what something is / how it works and would be better served by big diagrams than by paragraphs. |\n\nExplain like I'm someone who knows nothing about this topic, using an HTML page with big pictures and few words.\n\nNo Artifact tool in this environment: write a self-contained HTML file (inline SVG/CSS, no external deps) to a temp directory (e.g. `$TMPDIR` or `/tmp`), then `open` it.\n\nIf the current context is not enough to explain the topic, gather enough context yourself before drawing. Every node in a diagram must be backed by evidence; never fabricate.\n\nDraw real diagrams in SVG, freely picking and combining whatever fits: flowchart, sequence diagram, state diagram, architecture/block diagram, C4, dependency graph, call graph, ER diagram, class diagram, DFD, swimlane, deployment diagram, timeline, Gantt, git graph, before/after comparison, bar/line chart, treemap, heatmap... If none fits, design your own — expression comes before templates. Tables are for enumerations only and don't count as diagrams.\n\nA diagram exists to make structure visible: who talks to whom, what causes what, what changes when. Draw each one in the shape the reader's eye already knows — boxes for parts, arrows for actions, lanes for actors, time flowing one way. Make each diagram read at two distances: at a glance only the backbone shows — a name per box, a verb per arrow, one path the eye can follow; the detail lives in a quieter layer of smaller, dimmer annotations that never competes with the backbone. Color like a print magazine: warm paper background, ink for text and lines, one muted accent doing all the pointing; status reads from marks and line weight, tinted from the same palette. One diagram, one point: when the content outgrows the shape, split it or summarize the tail — shrinking the type is never the answer. The test: someone who reads only the diagrams and captions still gets the whole story.\n\nGive the page a wide content column with visible margins on both sides: diagrams span the column (each SVG gets a viewBox and `width:100%` so it scales with the window), prose sits in a narrower measure within it.\n\nMatch the user's language in the explanation. Keep technical terms, API names, CLI commands, and exact error strings verbatim in English."
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBRW4B683l2y",
+    "version": 1,
+    "created_at": "2026-08-25 17:14:40",
+    "updated_at": "2026-08-25 17:14:40"
+  },
+  "original": null
+}

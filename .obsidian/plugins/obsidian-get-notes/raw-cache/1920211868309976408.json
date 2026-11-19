@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1920211868309976408",
+    "display_title": "改善语言习惯的两个方法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-02T16:09:57+08:00",
+      "edited_at": "2026-09-02T16:11:09.008+08:00",
+      "record_updated_at": "2026-09-02T16:11:09.012+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1920211868309976300,
+    "note_id": "1920211868309976408",
+    "title": "改善语言习惯的两个方法",
+    "content": "我越来越意识到，我们的语言是有惯性的。我需要做的就是录下每节课的音，找出磕绊的地方，然后让AI进行分析哪里刻板，从而改善我的语言习惯。\n\n要杜绝这种语言习惯，有两个方法：\n1.  保证你要上的课，提前在心里面讲一遍。\n2.  通过练习来控场。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "507198489",
+        "name": "自我提升",
+        "type": "ai"
+      },
+      {
+        "id": "554453463",
+        "name": "教学方法",
+        "type": "ai"
+      },
+      {
+        "id": "589569308",
+        "name": "语言习惯",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-02 16:09:57",
+    "updated_at": "2026-09-02 16:11:09"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1920211868309976408",
+        "display_title": "改善语言习惯的两个方法",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-02T16:09:57+08:00",
+          "edited_at": "2026-09-02T16:11:09.008+08:00",
+          "record_updated_at": "2026-09-02T16:11:09.012+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1920211868309976300,
+        "note_id": "1920211868309976408",
+        "title": "改善语言习惯的两个方法",
+        "content": "我越来越意识到，我们的语言是有惯性的。我需要做的就是录下每节课的音，找出磕绊的地方，然后让AI进行分析哪里刻板，从而改善我的语言习惯。\n\n要杜绝这种语言习惯，有两个方法：\n1.  保证你要上的课，提前在心里面讲一遍。\n2.  通过练习来控场。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "507198489",
+            "name": "自我提升",
+            "type": "ai"
+          },
+          {
+            "id": "554453463",
+            "name": "教学方法",
+            "type": "ai"
+          },
+          {
+            "id": "589569308",
+            "name": "语言习惯",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202609021611%2Fnotesaudio_1aa5f68580042500AiHQPK9w.mp3?Expires=1793004245&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ZNiQ4f6w%2BbzDivNYg8vBM7o12zY%3D",
+            "title": "",
+            "duration": 64080
+          }
+        ],
+        "audio": {
+          "original": "然后我现在越来越意识到，我们的语言是有惯性的。然后，我我现在需要做的就是录下我每节课的音，然后呢，找出磕绊的地方。然后进行让ai进行分析哪里刻板，然后改善我的语言的习惯，这是第一个。第2个是要想去杜绝这种语言的习惯，那我们最好还是怎么样呢？就是最起码要保证你要上的课，你要提前在心里面讲一遍。然后，其次再去做控糖。控糖的话，也是通过练习来控糖",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "v7ppr1Nz8q3do",
+        "version": 4,
+        "created_at": "2026-09-02 16:09:57",
+        "updated_at": "2026-09-02 16:11:09"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572245,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c152a1e659003"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1920211868309976408",
+    "display_title": "改善语言习惯的两个方法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-02T16:09:57+08:00",
+      "edited_at": "2026-09-02T16:11:09.008+08:00",
+      "record_updated_at": "2026-09-02T16:11:09.012+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1920211868309976300,
+    "note_id": "1920211868309976408",
+    "title": "改善语言习惯的两个方法",
+    "content": "我越来越意识到，我们的语言是有惯性的。我需要做的就是录下每节课的音，找出磕绊的地方，然后让AI进行分析哪里刻板，从而改善我的语言习惯。\n\n要杜绝这种语言习惯，有两个方法：\n1.  保证你要上的课，提前在心里面讲一遍。\n2.  通过练习来控场。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "507198489",
+        "name": "自我提升",
+        "type": "ai"
+      },
+      {
+        "id": "554453463",
+        "name": "教学方法",
+        "type": "ai"
+      },
+      {
+        "id": "589569308",
+        "name": "语言习惯",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202609021611%2Fnotesaudio_1aa5f68580042500AiHQPK9w.mp3?Expires=1793004245&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ZNiQ4f6w%2BbzDivNYg8vBM7o12zY%3D",
+        "title": "",
+        "duration": 64080
+      }
+    ],
+    "audio": {
+      "original": "然后我现在越来越意识到，我们的语言是有惯性的。然后，我我现在需要做的就是录下我每节课的音，然后呢，找出磕绊的地方。然后进行让ai进行分析哪里刻板，然后改善我的语言的习惯，这是第一个。第2个是要想去杜绝这种语言的习惯，那我们最好还是怎么样呢？就是最起码要保证你要上的课，你要提前在心里面讲一遍。然后，其次再去做控糖。控糖的话，也是通过练习来控糖",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "v7ppr1Nz8q3do",
+    "version": 4,
+    "created_at": "2026-09-02 16:09:57",
+    "updated_at": "2026-09-02 16:11:09"
+  },
+  "original": "然后我现在越来越意识到，我们的语言是有惯性的。然后，我我现在需要做的就是录下我每节课的音，然后呢，找出磕绊的地方。然后进行让ai进行分析哪里刻板，然后改善我的语言的习惯，这是第一个。第2个是要想去杜绝这种语言的习惯，那我们最好还是怎么样呢？就是最起码要保证你要上的课，你要提前在心里面讲一遍。然后，其次再去做控糖。控糖的话，也是通过练习来控糖"
+}

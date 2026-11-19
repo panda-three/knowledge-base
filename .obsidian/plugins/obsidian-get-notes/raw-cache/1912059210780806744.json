@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912059210780806744",
+    "display_title": "积累前后版本数据以备后用",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-06T19:04:50+08:00",
+      "edited_at": "2026-06-06T19:05:10.487+08:00",
+      "record_updated_at": "2026-06-06T19:05:10.492+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912059210780806700,
+    "note_id": "1912059210780806744",
+    "title": "积累前后版本数据以备后用",
+    "content": "多积累一些前后版本的数据，方便以后使用。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "545005544",
+        "name": "数据积累",
+        "type": "ai"
+      },
+      {
+        "id": "545005545",
+        "name": "版本管理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-06 19:04:50",
+    "updated_at": "2026-06-06 19:05:10"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912059210780806744",
+        "display_title": "积累前后版本数据以备后用",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-06T19:04:50+08:00",
+          "edited_at": "2026-06-06T19:05:10.487+08:00",
+          "record_updated_at": "2026-06-06T19:05:10.492+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912059210780806700,
+        "note_id": "1912059210780806744",
+        "title": "积累前后版本数据以备后用",
+        "content": "多积累一些前后版本的数据，方便以后使用。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "545005544",
+            "name": "数据积累",
+            "type": "ai"
+          },
+          {
+            "id": "545005545",
+            "name": "版本管理",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606061905%2Fnotesaudio_1a88ffb740151bc0dulKHAJz.mp3?Expires=1793004687&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=bQE%2F3nUOQ9nmS7Iv3QIpT3y%2FHQI%3D",
+            "title": "",
+            "duration": 10008
+          }
+        ],
+        "audio": {
+          "original": "多积累一些前后版本的数据，方便以后做可。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBOWvBz37jll",
+        "version": 5,
+        "created_at": "2026-06-06 19:04:50",
+        "updated_at": "2026-06-06 19:05:10"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572687,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16d9d72d2001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912059210780806744",
+    "display_title": "积累前后版本数据以备后用",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-06T19:04:50+08:00",
+      "edited_at": "2026-06-06T19:05:10.487+08:00",
+      "record_updated_at": "2026-06-06T19:05:10.492+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912059210780806700,
+    "note_id": "1912059210780806744",
+    "title": "积累前后版本数据以备后用",
+    "content": "多积累一些前后版本的数据，方便以后使用。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "545005544",
+        "name": "数据积累",
+        "type": "ai"
+      },
+      {
+        "id": "545005545",
+        "name": "版本管理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606061905%2Fnotesaudio_1a88ffb740151bc0dulKHAJz.mp3?Expires=1793004687&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=bQE%2F3nUOQ9nmS7Iv3QIpT3y%2FHQI%3D",
+        "title": "",
+        "duration": 10008
+      }
+    ],
+    "audio": {
+      "original": "多积累一些前后版本的数据，方便以后做可。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBOWvBz37jll",
+    "version": 5,
+    "created_at": "2026-06-06 19:04:50",
+    "updated_at": "2026-06-06 19:05:10"
+  },
+  "original": "多积累一些前后版本的数据，方便以后做可。"
+}

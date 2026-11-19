@@ -1,0 +1,20 @@
+【2023年江苏省职业学校职教高考联盟第一轮复习调研测试】
+
+（1）fopen("d:\\fbin.dat","wb+");
+
+（2）&i,sizeof(int),1,ff
+
+（3）(k-1)*sizeof(int)
+
+（4）&x
+
+【2023年江苏省职业学校职教高考联盟第二轮复习调研测试】
+
+
+（1）return i
+
+（2）inte=fopen("c:integer.txt","r")
+
+（3）inte,"%d",&num[count++]
+
+（4）large(num,i,count)

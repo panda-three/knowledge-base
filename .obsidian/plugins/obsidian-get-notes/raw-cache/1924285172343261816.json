@@ -1,0 +1,237 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1924285172343261816",
+    "display_title": "约定周一上午打电话",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-10-16T13:54:54+08:00",
+      "edited_at": "2026-10-16T13:54:54+08:00",
+      "record_updated_at": "2026-10-16T13:57:29.071+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1924285172343261700,
+    "note_id": "1924285172343261816",
+    "title": "约定周一上午打电话",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-10-16 13:54:54\n- **时长**：2 分钟 2 秒\n- **领域**：私人预约安排\n\n#### 知识精讲\n本次课堂无正式教学内容，全程仅涉及私人通话预约沟通，约定了周一上午的电话沟通时间，未传递任何学科相关知识。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次无教学内容，无考点重点。\n\n#### 💡 核心概念\n本次无教学内容，无核心概念。\n\n#### ✨ 课堂金句\n本次无教学相关金句。\n\n#### 📝 待办事项\n- **预约安排**：约定周一上午进行电话沟通",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "610493936",
+        "name": "日程约定",
+        "type": "ai"
+      },
+      {
+        "id": "610493937",
+        "name": "沟通安排",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-10-16 13:54:54",
+    "updated_at": "2026-10-16 13:54:54"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1924285172343261816",
+        "display_title": "约定周一上午打电话",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-10-16T13:54:54+08:00",
+          "edited_at": "2026-10-16T13:54:54+08:00",
+          "record_updated_at": "2026-10-16T13:57:29.071+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1924285172343261700,
+        "note_id": "1924285172343261816",
+        "title": "约定周一上午打电话",
+        "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-10-16 13:54:54\n- **时长**：2 分钟 2 秒\n- **领域**：私人预约安排\n\n#### 知识精讲\n本次课堂无正式教学内容，全程仅涉及私人通话预约沟通，约定了周一上午的电话沟通时间，未传递任何学科相关知识。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次无教学内容，无考点重点。\n\n#### 💡 核心概念\n本次无教学内容，无核心概念。\n\n#### ✨ 课堂金句\n本次无教学相关金句。\n\n#### 📝 待办事项\n- **预约安排**：约定周一上午进行电话沟通",
+        "ref_content": "",
+        "note_type": "class_audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "610493936",
+            "name": "日程约定",
+            "type": "ai"
+          },
+          {
+            "id": "610493937",
+            "name": "沟通安排",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202610161356%2Fnotesaudio_1ab46f2a80141810wsmDtlQi.mp3?Expires=1793003982&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=lqdc5CFIQgRXqN8XR0el%2FfdsyYw%3D",
+            "title": "",
+            "duration": 122364
+          }
+        ],
+        "audio": {
+          "original": "🟢 说话人1 [00:00:46]\n嗯，那我周一上午给你打电话。哦，周一上午给你打电话。\n\n",
+          "sentences": [
+            {
+              "start_ms": 46220,
+              "end_ms": 73620,
+              "text": "嗯，那我周一上午给你打电话。哦，周一上午给你打电话。",
+              "speaker_id": 0,
+              "speaker_name": "",
+              "is_me": false,
+              "files": []
+            }
+          ]
+        },
+        "timeline": {
+          "version": 1,
+          "schema_version": 2,
+          "moments": [],
+          "resources": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "QxvgrrQM2486R",
+        "version": 1,
+        "created_at": "2026-10-16 13:54:54",
+        "updated_at": "2026-10-16 13:54:54"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792571982,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c14294f832002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1924285172343261816",
+    "display_title": "约定周一上午打电话",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-10-16T13:54:54+08:00",
+      "edited_at": "2026-10-16T13:54:54+08:00",
+      "record_updated_at": "2026-10-16T13:57:29.071+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1924285172343261700,
+    "note_id": "1924285172343261816",
+    "title": "约定周一上午打电话",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-10-16 13:54:54\n- **时长**：2 分钟 2 秒\n- **领域**：私人预约安排\n\n#### 知识精讲\n本次课堂无正式教学内容，全程仅涉及私人通话预约沟通，约定了周一上午的电话沟通时间，未传递任何学科相关知识。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次无教学内容，无考点重点。\n\n#### 💡 核心概念\n本次无教学内容，无核心概念。\n\n#### ✨ 课堂金句\n本次无教学相关金句。\n\n#### 📝 待办事项\n- **预约安排**：约定周一上午进行电话沟通",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "610493936",
+        "name": "日程约定",
+        "type": "ai"
+      },
+      {
+        "id": "610493937",
+        "name": "沟通安排",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202610161356%2Fnotesaudio_1ab46f2a80141810wsmDtlQi.mp3?Expires=1793003982&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=lqdc5CFIQgRXqN8XR0el%2FfdsyYw%3D",
+        "title": "",
+        "duration": 122364
+      }
+    ],
+    "audio": {
+      "original": "🟢 说话人1 [00:00:46]\n嗯，那我周一上午给你打电话。哦，周一上午给你打电话。\n\n",
+      "sentences": [
+        {
+          "start_ms": 46220,
+          "end_ms": 73620,
+          "text": "嗯，那我周一上午给你打电话。哦，周一上午给你打电话。",
+          "speaker_id": 0,
+          "speaker_name": "",
+          "is_me": false,
+          "files": []
+        }
+      ]
+    },
+    "timeline": {
+      "version": 1,
+      "schema_version": 2,
+      "moments": [],
+      "resources": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "QxvgrrQM2486R",
+    "version": 1,
+    "created_at": "2026-10-16 13:54:54",
+    "updated_at": "2026-10-16 13:54:54"
+  },
+  "original": "🟢 说话人1 [00:00:46]\n嗯，那我周一上午给你打电话。哦，周一上午给你打电话。\n\n"
+}

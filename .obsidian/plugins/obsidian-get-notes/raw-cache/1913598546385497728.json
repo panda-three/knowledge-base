@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913598546385497728",
+    "display_title": "思考前提与自我判断",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-23T09:18:19+08:00",
+      "edited_at": "2026-06-23T09:19:11.892+08:00",
+      "record_updated_at": "2026-06-23T09:19:11.892+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913598546385497600,
+    "note_id": "1913598546385497728",
+    "title": "思考前提与自我判断",
+    "content": "确保每次思考都有具体的依据，并参考一堂的审美。比如提示词",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "553632168",
+        "name": "思考方法",
+        "type": "ai"
+      },
+      {
+        "id": "553632169",
+        "name": "自我判断",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-23 09:18:19",
+    "updated_at": "2026-06-23 09:19:11"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913598546385497728",
+        "display_title": "思考前提与自我判断",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-23T09:18:19+08:00",
+          "edited_at": "2026-06-23T09:19:11.892+08:00",
+          "record_updated_at": "2026-06-23T09:19:11.892+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913598546385497600,
+        "note_id": "1913598546385497728",
+        "title": "思考前提与自我判断",
+        "content": "确保每次思考都有具体的依据，并参考一堂的审美。比如提示词",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "553632168",
+            "name": "思考方法",
+            "type": "ai"
+          },
+          {
+            "id": "553632169",
+            "name": "自我判断",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606230918%2Fnotesaudio_1a8e77bd402292e8mHB6UNQw.mp3?Expires=1793004525&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=oLa7Pxx2Hh%2FHnU27jkSIFXNnKWg%3D",
+            "title": "",
+            "duration": 24732
+          }
+        ],
+        "audio": {
+          "original": "思考一件事情的前提。判断自己。吃老确保自己的每次思考都。有具体的依据。参考你他们的审美。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMlpB1ABwqQo",
+        "version": 6,
+        "created_at": "2026-06-23 09:18:19",
+        "updated_at": "2026-06-23 09:19:11"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572525,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c163c4c032001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913598546385497728",
+    "display_title": "思考前提与自我判断",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-23T09:18:19+08:00",
+      "edited_at": "2026-06-23T09:19:11.892+08:00",
+      "record_updated_at": "2026-06-23T09:19:11.892+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913598546385497600,
+    "note_id": "1913598546385497728",
+    "title": "思考前提与自我判断",
+    "content": "确保每次思考都有具体的依据，并参考一堂的审美。比如提示词",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "553632168",
+        "name": "思考方法",
+        "type": "ai"
+      },
+      {
+        "id": "553632169",
+        "name": "自我判断",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606230918%2Fnotesaudio_1a8e77bd402292e8mHB6UNQw.mp3?Expires=1793004525&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=oLa7Pxx2Hh%2FHnU27jkSIFXNnKWg%3D",
+        "title": "",
+        "duration": 24732
+      }
+    ],
+    "audio": {
+      "original": "思考一件事情的前提。判断自己。吃老确保自己的每次思考都。有具体的依据。参考你他们的审美。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMlpB1ABwqQo",
+    "version": 6,
+    "created_at": "2026-06-23 09:18:19",
+    "updated_at": "2026-06-23 09:19:11"
+  },
+  "original": "思考一件事情的前提。判断自己。吃老确保自己的每次思考都。有具体的依据。参考你他们的审美。"
+}

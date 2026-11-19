@@ -1,0 +1,190 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1917263696456095128",
+    "display_title": "先建立展示内容，再看具体做法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-01T21:29:00+08:00",
+      "edited_at": "2026-08-01T21:29:25.747+08:00",
+      "record_updated_at": "2026-08-01T21:29:25.753+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1917263696456095200,
+    "note_id": "1917263696456095128",
+    "title": "先建立展示内容，再看具体做法",
+    "content": "先建立展示内容，然后看具体做法。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "534639610",
+        "name": "工作流程",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-01 21:29:00",
+    "updated_at": "2026-08-01 21:29:25"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1917263696456095128",
+        "display_title": "先建立展示内容，再看具体做法",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-08-01T21:29:00+08:00",
+          "edited_at": "2026-08-01T21:29:25.747+08:00",
+          "record_updated_at": "2026-08-01T21:29:25.753+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1917263696456095200,
+        "note_id": "1917263696456095128",
+        "title": "先建立展示内容，再看具体做法",
+        "content": "先建立展示内容，然后看具体做法。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "534639610",
+            "name": "工作流程",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202608012129%2Fnotesaudio_1a9b7d2a800291a8AI8cu3OE.mp3?Expires=1793004321&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=iZvVHM94Pm503DHK07xLc%2FzdhhY%3D",
+            "title": "",
+            "duration": 12564
+          }
+        ],
+        "audio": {
+          "original": "先建立什么，主要就是给他看，然后你看其中一个怎么做。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgM4j7Bw96VVo",
+        "version": 5,
+        "created_at": "2026-08-01 21:29:00",
+        "updated_at": "2026-08-01 21:29:25"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572321,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c15747de59001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1917263696456095128",
+    "display_title": "先建立展示内容，再看具体做法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-01T21:29:00+08:00",
+      "edited_at": "2026-08-01T21:29:25.747+08:00",
+      "record_updated_at": "2026-08-01T21:29:25.753+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1917263696456095200,
+    "note_id": "1917263696456095128",
+    "title": "先建立展示内容，再看具体做法",
+    "content": "先建立展示内容，然后看具体做法。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "534639610",
+        "name": "工作流程",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202608012129%2Fnotesaudio_1a9b7d2a800291a8AI8cu3OE.mp3?Expires=1793004321&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=iZvVHM94Pm503DHK07xLc%2FzdhhY%3D",
+        "title": "",
+        "duration": 12564
+      }
+    ],
+    "audio": {
+      "original": "先建立什么，主要就是给他看，然后你看其中一个怎么做。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgM4j7Bw96VVo",
+    "version": 5,
+    "created_at": "2026-08-01 21:29:00",
+    "updated_at": "2026-08-01 21:29:25"
+  },
+  "original": "先建立什么，主要就是给他看，然后你看其中一个怎么做。"
+}

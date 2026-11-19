@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "id": 1912629911002875000,
+    "note_id": "1912629911002874968",
+    "title": "",
+    "content": "怎么做session扫描\n\n建模是加杠杆最高的\n\n方法论最多5步\n\n交叉验证",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-12 22:43:33",
+    "updated_at": "2026-06-13 22:04:31"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1912629911002875000,
+        "note_id": "1912629911002874968",
+        "title": "",
+        "content": "怎么做session扫描\n\n建模是加杠杆最高的\n\n方法论最多5步\n\n交叉验证",
+        "ref_content": "",
+        "note_type": "plain_text",
+        "source": "app",
+        "entry_type": "manual",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [],
+        "version": 0,
+        "created_at": "2026-06-12 22:43:33",
+        "updated_at": "2026-06-13 22:04:31"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124554
+    },
+    "request_id": "f9f4d157aed1001"
+  },
+  "detail": {
+    "id": 1912629911002875000,
+    "note_id": "1912629911002874968",
+    "title": "",
+    "content": "怎么做session扫描\n\n建模是加杠杆最高的\n\n方法论最多5步\n\n交叉验证",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "entry_type": "manual",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [],
+    "version": 0,
+    "created_at": "2026-06-12 22:43:33",
+    "updated_at": "2026-06-13 22:04:31"
+  },
+  "original": null
+}

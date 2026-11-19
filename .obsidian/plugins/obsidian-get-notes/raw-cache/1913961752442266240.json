@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913961752442266240",
+    "display_title": "关于联系葛玉玉和安排人员的简要记录",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-25T16:34:51+08:00",
+      "edited_at": "2026-06-27T07:16:31.443+08:00",
+      "record_updated_at": "2026-06-27T07:16:31.448+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913961752442266000,
+    "note_id": "1913961752442266240",
+    "title": "关于联系葛玉玉和安排人员的简要记录",
+    "content": "- 他这个不可以装，不用请进去。\n- 跟那个，他也喊过来，隔一位。\n- 他现在在那生活，我也10月份了，买一口。\n- 跟那个老舅，两个人喊过来，就两个人，好嘞。\n- 讲的也是挺方便。\n- 可以给我打电话了。\n- 我给你打电话，喂，葛玉玉，你现在来一下。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "555893770",
+        "name": "语音整理",
+        "type": "ai"
+      },
+      {
+        "id": "555893771",
+        "name": "联系安排",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-25 16:34:51",
+    "updated_at": "2026-06-27 07:16:31"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913961752442266240",
+        "display_title": "关于联系葛玉玉和安排人员的简要记录",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-25T16:34:51+08:00",
+          "edited_at": "2026-06-27T07:16:31.443+08:00",
+          "record_updated_at": "2026-06-27T07:16:31.448+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913961752442266000,
+        "note_id": "1913961752442266240",
+        "title": "关于联系葛玉玉和安排人员的简要记录",
+        "content": "- 他这个不可以装，不用请进去。\n- 跟那个，他也喊过来，隔一位。\n- 他现在在那生活，我也10月份了，买一口。\n- 跟那个老舅，两个人喊过来，就两个人，好嘞。\n- 讲的也是挺方便。\n- 可以给我打电话了。\n- 我给你打电话，喂，葛玉玉，你现在来一下。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "555893770",
+            "name": "语音整理",
+            "type": "ai"
+          },
+          {
+            "id": "555893771",
+            "name": "联系安排",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606270716%2Fnotesaudio_1a8fc20e80028fb0y2gflUcT.mp3?Expires=1793004485&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=Hol3WloOU8BE7iyATLReqkCJidk%3D",
+            "title": "",
+            "duration": 55440
+          }
+        ],
+        "audio": {
+          "original": "hello啊。而且呢就。啊。他这个不可以装。不用请进去。哎，这个。跟那个他也喊过来，隔一位。他现在在那生活，我也10月份了，买一口。跟那个老舅两根指喊过来，哎，嗯，就两根指哦，好嘞，好。あの、そうね。嗯，讲的也是挺方便，也是挺方便。可以吗？可以给我打电话了呢。我给你打电话啊，喂，葛玉玉啊，你现在来一下，再。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "1qnKpQdPomzJ2",
+        "version": 5,
+        "created_at": "2026-06-25 16:34:51",
+        "updated_at": "2026-06-27 07:16:31"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572485,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16147b432002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913961752442266240",
+    "display_title": "关于联系葛玉玉和安排人员的简要记录",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-25T16:34:51+08:00",
+      "edited_at": "2026-06-27T07:16:31.443+08:00",
+      "record_updated_at": "2026-06-27T07:16:31.448+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913961752442266000,
+    "note_id": "1913961752442266240",
+    "title": "关于联系葛玉玉和安排人员的简要记录",
+    "content": "- 他这个不可以装，不用请进去。\n- 跟那个，他也喊过来，隔一位。\n- 他现在在那生活，我也10月份了，买一口。\n- 跟那个老舅，两个人喊过来，就两个人，好嘞。\n- 讲的也是挺方便。\n- 可以给我打电话了。\n- 我给你打电话，喂，葛玉玉，你现在来一下。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "555893770",
+        "name": "语音整理",
+        "type": "ai"
+      },
+      {
+        "id": "555893771",
+        "name": "联系安排",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606270716%2Fnotesaudio_1a8fc20e80028fb0y2gflUcT.mp3?Expires=1793004485&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=Hol3WloOU8BE7iyATLReqkCJidk%3D",
+        "title": "",
+        "duration": 55440
+      }
+    ],
+    "audio": {
+      "original": "hello啊。而且呢就。啊。他这个不可以装。不用请进去。哎，这个。跟那个他也喊过来，隔一位。他现在在那生活，我也10月份了，买一口。跟那个老舅两根指喊过来，哎，嗯，就两根指哦，好嘞，好。あの、そうね。嗯，讲的也是挺方便，也是挺方便。可以吗？可以给我打电话了呢。我给你打电话啊，喂，葛玉玉啊，你现在来一下，再。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "1qnKpQdPomzJ2",
+    "version": 5,
+    "created_at": "2026-06-25 16:34:51",
+    "updated_at": "2026-06-27 07:16:31"
+  },
+  "original": "hello啊。而且呢就。啊。他这个不可以装。不用请进去。哎，这个。跟那个他也喊过来，隔一位。他现在在那生活，我也10月份了，买一口。跟那个老舅两根指喊过来，哎，嗯，就两根指哦，好嘞，好。あの、そうね。嗯，讲的也是挺方便，也是挺方便。可以吗？可以给我打电话了呢。我给你打电话啊，喂，葛玉玉啊，你现在来一下，再。"
+}

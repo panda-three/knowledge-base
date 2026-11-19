@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912053082934670440",
+    "display_title": "学习的关键在于深入理解与专题笔记",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-06T17:29:41+08:00",
+      "edited_at": "2026-06-06T17:30:03.294+08:00",
+      "record_updated_at": "2026-06-06T17:30:03.299+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912053082934670300,
+    "note_id": "1912053082934670440",
+    "title": "学习的关键在于深入理解与专题笔记",
+    "content": "看书其实是没用的，本质上还是要深入理解某个主题，起专题笔记。一堂课程就是让你积累每一个专题的审美。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "544968826",
+        "name": "专题笔记",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-06 17:29:41",
+    "updated_at": "2026-06-06 17:30:03"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912053082934670440",
+        "display_title": "学习的关键在于深入理解与专题笔记",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-06T17:29:41+08:00",
+          "edited_at": "2026-06-06T17:30:03.294+08:00",
+          "record_updated_at": "2026-06-06T17:30:03.299+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912053082934670300,
+        "note_id": "1912053082934670440",
+        "title": "学习的关键在于深入理解与专题笔记",
+        "content": "看书其实是没用的，本质上还是要深入理解某个主题，起专题笔记。一堂课程就是让你积累每一个专题的审美。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "508933867",
+            "name": "学习方法",
+            "type": "ai"
+          },
+          {
+            "id": "544968826",
+            "name": "专题笔记",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606061730%2Fnotesaudio_1a88fa264004946052cmOqM9.mp3?Expires=1793004693&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=T71r5JjBGijKREs%2BeWWMgPjTZfU%3D",
+            "title": "",
+            "duration": 18648
+          }
+        ],
+        "audio": {
+          "original": "嗯，看书其实是没用的，那其实呃，本质上还是要拉满对某个主题的理解，那你本质上还是要起专题笔记，而一堂的课程就是呃，让你积累每一个专题的审美",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "1qnOWvv5Vmnqx",
+        "version": 4,
+        "created_at": "2026-06-06 17:29:41",
+        "updated_at": "2026-06-06 17:30:03"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572693,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16e006832001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912053082934670440",
+    "display_title": "学习的关键在于深入理解与专题笔记",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-06T17:29:41+08:00",
+      "edited_at": "2026-06-06T17:30:03.294+08:00",
+      "record_updated_at": "2026-06-06T17:30:03.299+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912053082934670300,
+    "note_id": "1912053082934670440",
+    "title": "学习的关键在于深入理解与专题笔记",
+    "content": "看书其实是没用的，本质上还是要深入理解某个主题，起专题笔记。一堂课程就是让你积累每一个专题的审美。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "544968826",
+        "name": "专题笔记",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606061730%2Fnotesaudio_1a88fa264004946052cmOqM9.mp3?Expires=1793004693&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=T71r5JjBGijKREs%2BeWWMgPjTZfU%3D",
+        "title": "",
+        "duration": 18648
+      }
+    ],
+    "audio": {
+      "original": "嗯，看书其实是没用的，那其实呃，本质上还是要拉满对某个主题的理解，那你本质上还是要起专题笔记，而一堂的课程就是呃，让你积累每一个专题的审美",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "1qnOWvv5Vmnqx",
+    "version": 4,
+    "created_at": "2026-06-06 17:29:41",
+    "updated_at": "2026-06-06 17:30:03"
+  },
+  "original": "嗯，看书其实是没用的，那其实呃，本质上还是要拉满对某个主题的理解，那你本质上还是要起专题笔记，而一堂的课程就是呃，让你积累每一个专题的审美"
+}

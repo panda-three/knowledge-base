@@ -1,0 +1,145 @@
+{
+  "summary": {
+    "id": 1914664067642045200,
+    "note_id": "1914664067642045272",
+    "title": "一堂双三角构建梳理画布（解释版）",
+    "content": "这是一个一堂AI双三角的梳理和预判画布，用于AI场景落地的潜力梳理准备和预判。\n\n| **A类（AHH双三角的A分区）** | 梳理问题 |\n| ---- | ---- |\n| **A. 场景** | 选定的细分场景、核心问题和边界剥离分别是什么 |\n| **A. 数据** | 有哪些相关的数据资产、正负案例和高价值的数据包可以有效提升最终交付质量 |\n| **A. 基本功** | 需要用到什么样的AI工具、技术特性(Feature)、AI高阶框架 |\n| **H. 审美** | 哪些方法和维度可以帮你建立更高水平交付的审美 |\n| **H. 体系** | 从全局到局部，有哪些确定性的流程、模型和框架 |\n| **H.创造力** | 有哪些创造性的新想法和新设想、跳出同行/历史经验的新思路和创新点 |\n\n使用提醒：\n- 提醒1：建议充分做加法/灵感闪现，多多填写。\n- 提醒2：排优先级，加法越多，越需要抓重点和主要矛盾。\n- 提醒3：初期执行从里面挑优先级最高的来执行和测试。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "560134538",
+        "name": "一堂双三角构建梳理画布",
+        "type": "ai"
+      },
+      {
+        "id": "560134922",
+        "name": "AI落地工具",
+        "type": "ai"
+      },
+      {
+        "id": "560134923",
+        "name": "梳理画布",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-07-04 20:57:49",
+    "updated_at": "2026-07-04 20:57:49"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1914664067642045200,
+        "note_id": "1914664067642045272",
+        "title": "一堂双三角构建梳理画布（解释版）",
+        "content": "这是一个一堂AI双三角的梳理和预判画布，用于AI场景落地的潜力梳理准备和预判。\n\n| **A类（AHH双三角的A分区）** | 梳理问题 |\n| ---- | ---- |\n| **A. 场景** | 选定的细分场景、核心问题和边界剥离分别是什么 |\n| **A. 数据** | 有哪些相关的数据资产、正负案例和高价值的数据包可以有效提升最终交付质量 |\n| **A. 基本功** | 需要用到什么样的AI工具、技术特性(Feature)、AI高阶框架 |\n| **H. 审美** | 哪些方法和维度可以帮你建立更高水平交付的审美 |\n| **H. 体系** | 从全局到局部，有哪些确定性的流程、模型和框架 |\n| **H.创造力** | 有哪些创造性的新想法和新设想、跳出同行/历史经验的新思路和创新点 |\n\n使用提醒：\n- 提醒1：建议充分做加法/灵感闪现，多多填写。\n- 提醒2：排优先级，加法越多，越需要抓重点和主要矛盾。\n- 提醒3：初期执行从里面挑优先级最高的来执行和测试。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "560134538",
+            "name": "一堂双三角构建梳理画布",
+            "type": "ai"
+          },
+          {
+            "id": "560134922",
+            "name": "AI落地工具",
+            "type": "ai"
+          },
+          {
+            "id": "560134923",
+            "name": "梳理画布",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202607042057%2Fgetnotes_img_1a9240cd001292e8jeWICGoD.png?Expires=1785761877&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qfmQRQ7U5nbaoMLEhKhATBI9Yrk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202607042057%2Fgetnotes_img_1a9240cd001292e8jeWICGoD.png?Expires=1785761877&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2F7iC2DxB78WPnEAISnNbIHI6YWU%3D",
+            "title": "2.png",
+            "size": 96494
+          }
+        ],
+        "version": 0,
+        "created_at": "2026-07-04 20:57:49",
+        "updated_at": "2026-07-04 20:57:49"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783244489
+    },
+    "request_id": "fa11699e9653001"
+  },
+  "detail": {
+    "id": 1914664067642045200,
+    "note_id": "1914664067642045272",
+    "title": "一堂双三角构建梳理画布（解释版）",
+    "content": "这是一个一堂AI双三角的梳理和预判画布，用于AI场景落地的潜力梳理准备和预判。\n\n| **A类（AHH双三角的A分区）** | 梳理问题 |\n| ---- | ---- |\n| **A. 场景** | 选定的细分场景、核心问题和边界剥离分别是什么 |\n| **A. 数据** | 有哪些相关的数据资产、正负案例和高价值的数据包可以有效提升最终交付质量 |\n| **A. 基本功** | 需要用到什么样的AI工具、技术特性(Feature)、AI高阶框架 |\n| **H. 审美** | 哪些方法和维度可以帮你建立更高水平交付的审美 |\n| **H. 体系** | 从全局到局部，有哪些确定性的流程、模型和框架 |\n| **H.创造力** | 有哪些创造性的新想法和新设想、跳出同行/历史经验的新思路和创新点 |\n\n使用提醒：\n- 提醒1：建议充分做加法/灵感闪现，多多填写。\n- 提醒2：排优先级，加法越多，越需要抓重点和主要矛盾。\n- 提醒3：初期执行从里面挑优先级最高的来执行和测试。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "560134538",
+        "name": "一堂双三角构建梳理画布",
+        "type": "ai"
+      },
+      {
+        "id": "560134922",
+        "name": "AI落地工具",
+        "type": "ai"
+      },
+      {
+        "id": "560134923",
+        "name": "梳理画布",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202607042057%2Fgetnotes_img_1a9240cd001292e8jeWICGoD.png?Expires=1785761877&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qfmQRQ7U5nbaoMLEhKhATBI9Yrk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202607042057%2Fgetnotes_img_1a9240cd001292e8jeWICGoD.png?Expires=1785761877&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2F7iC2DxB78WPnEAISnNbIHI6YWU%3D",
+        "title": "2.png",
+        "size": 96494
+      }
+    ],
+    "version": 0,
+    "created_at": "2026-07-04 20:57:49",
+    "updated_at": "2026-07-04 20:57:49"
+  },
+  "original": null
+}

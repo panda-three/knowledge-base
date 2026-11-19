@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913403215567815000",
+    "display_title": "围绕最佳实践进行系统搭建",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-21T06:46:29+08:00",
+      "edited_at": "2026-06-21T06:46:51.361+08:00",
+      "record_updated_at": "2026-06-21T06:46:51.367+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913403215567815000,
+    "note_id": "1913403215567815000",
+    "title": "围绕最佳实践进行系统搭建",
+    "content": "所有东西都可以围绕最佳实践。比如搭建系统时，网上肯定有最佳实践，可以按照网上的最佳实践来做。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "510367067",
+        "name": "最佳实践",
+        "type": "ai"
+      },
+      {
+        "id": "552661164",
+        "name": "系统搭建",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-21 06:46:29",
+    "updated_at": "2026-06-21 06:46:51"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913403215567815000",
+        "display_title": "围绕最佳实践进行系统搭建",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-21T06:46:29+08:00",
+          "edited_at": "2026-06-21T06:46:51.361+08:00",
+          "record_updated_at": "2026-06-21T06:46:51.367+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913403215567815000,
+        "note_id": "1913403215567815000",
+        "title": "围绕最佳实践进行系统搭建",
+        "content": "所有东西都可以围绕最佳实践。比如搭建系统时，网上肯定有最佳实践，可以按照网上的最佳实践来做。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "510367067",
+            "name": "最佳实践",
+            "type": "ai"
+          },
+          {
+            "id": "552661164",
+            "name": "系统搭建",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606210646%2Fnotesaudio_1a8dc6148004e158UhxGhrQ5.mp3?Expires=1793004537&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2FhXplvX8W4yBIV5J84UX1XNZ8pY%3D",
+            "title": "",
+            "duration": 11772
+          }
+        ],
+        "audio": {
+          "original": "所有东西都可以围绕着最佳实践。比如说搭建系统的时候，网上肯定有最佳实践，那你就按照网上的最佳实践来。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gB633NNYjwzy",
+        "version": 5,
+        "created_at": "2026-06-21 06:46:29",
+        "updated_at": "2026-06-21 06:46:51"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572537,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16476b259002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913403215567815000",
+    "display_title": "围绕最佳实践进行系统搭建",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-21T06:46:29+08:00",
+      "edited_at": "2026-06-21T06:46:51.361+08:00",
+      "record_updated_at": "2026-06-21T06:46:51.367+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913403215567815000,
+    "note_id": "1913403215567815000",
+    "title": "围绕最佳实践进行系统搭建",
+    "content": "所有东西都可以围绕最佳实践。比如搭建系统时，网上肯定有最佳实践，可以按照网上的最佳实践来做。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "510367067",
+        "name": "最佳实践",
+        "type": "ai"
+      },
+      {
+        "id": "552661164",
+        "name": "系统搭建",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606210646%2Fnotesaudio_1a8dc6148004e158UhxGhrQ5.mp3?Expires=1793004537&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2FhXplvX8W4yBIV5J84UX1XNZ8pY%3D",
+        "title": "",
+        "duration": 11772
+      }
+    ],
+    "audio": {
+      "original": "所有东西都可以围绕着最佳实践。比如说搭建系统的时候，网上肯定有最佳实践，那你就按照网上的最佳实践来。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gB633NNYjwzy",
+    "version": 5,
+    "created_at": "2026-06-21 06:46:29",
+    "updated_at": "2026-06-21 06:46:51"
+  },
+  "original": "所有东西都可以围绕着最佳实践。比如说搭建系统的时候，网上肯定有最佳实践，那你就按照网上的最佳实践来。"
+}

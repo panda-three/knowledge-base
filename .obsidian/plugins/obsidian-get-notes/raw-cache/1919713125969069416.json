@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1919713125969069416",
+    "display_title": "主题学习包含调研与知识树",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-28T07:09:10+08:00",
+      "edited_at": "2026-08-28T07:09:34.971+08:00",
+      "record_updated_at": "2026-08-28T07:09:34.975+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1919713125969069300,
+    "note_id": "1919713125969069416",
+    "title": "主题学习包含调研与知识树",
+    "content": "主题学习包含了很多内容，主要包括：\n- 调研\n- 知识树",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "181804684",
+        "name": "知识管理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-28 07:09:10",
+    "updated_at": "2026-08-28 07:09:34"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1919713125969069416",
+        "display_title": "主题学习包含调研与知识树",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-08-28T07:09:10+08:00",
+          "edited_at": "2026-08-28T07:09:34.971+08:00",
+          "record_updated_at": "2026-08-28T07:09:34.975+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1919713125969069300,
+        "note_id": "1919713125969069416",
+        "title": "主题学习包含调研与知识树",
+        "content": "主题学习包含了很多内容，主要包括：\n- 调研\n- 知识树",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "508933867",
+            "name": "学习方法",
+            "type": "ai"
+          },
+          {
+            "id": "181804684",
+            "name": "知识管理",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202608280709%2Fnotesaudio_1aa430e940122e10TqyjzrLT.mp3?Expires=1793004267&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=FezgzfNMkw6U9Ff3g%2BLoGSAhU1E%3D",
+            "title": "",
+            "duration": 11448
+          }
+        ],
+        "audio": {
+          "original": "主题学习里面，它其实包含了很多，第一个就包含了调研，第二个就包含了知识树。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "QxvBVMLNMRoPp",
+        "version": 5,
+        "created_at": "2026-08-28 07:09:10",
+        "updated_at": "2026-08-28 07:09:34"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572267,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c153fe1432001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1919713125969069416",
+    "display_title": "主题学习包含调研与知识树",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-28T07:09:10+08:00",
+      "edited_at": "2026-08-28T07:09:34.971+08:00",
+      "record_updated_at": "2026-08-28T07:09:34.975+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1919713125969069300,
+    "note_id": "1919713125969069416",
+    "title": "主题学习包含调研与知识树",
+    "content": "主题学习包含了很多内容，主要包括：\n- 调研\n- 知识树",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "181804684",
+        "name": "知识管理",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202608280709%2Fnotesaudio_1aa430e940122e10TqyjzrLT.mp3?Expires=1793004267&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=FezgzfNMkw6U9Ff3g%2BLoGSAhU1E%3D",
+        "title": "",
+        "duration": 11448
+      }
+    ],
+    "audio": {
+      "original": "主题学习里面，它其实包含了很多，第一个就包含了调研，第二个就包含了知识树。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "QxvBVMLNMRoPp",
+    "version": 5,
+    "created_at": "2026-08-28 07:09:10",
+    "updated_at": "2026-08-28 07:09:34"
+  },
+  "original": "主题学习里面，它其实包含了很多，第一个就包含了调研，第二个就包含了知识树。"
+}

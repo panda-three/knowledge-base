@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "id": 1913713397032181200,
+    "note_id": "1913713397032181216",
+    "title": "课程准备",
+    "content": "课程得抓紧准备",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-24 15:01:28",
+    "updated_at": "2026-06-24 15:01:28"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913713397032181200,
+        "note_id": "1913713397032181216",
+        "title": "课程准备",
+        "content": "课程得抓紧准备",
+        "ref_content": "",
+        "note_type": "plain_text",
+        "source": "app",
+        "entry_type": "manual",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [],
+        "version": 0,
+        "created_at": "2026-06-24 15:01:28",
+        "updated_at": "2026-06-24 15:01:28"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124486
+    },
+    "request_id": "f9f4cd30ee52001"
+  },
+  "detail": {
+    "id": 1913713397032181200,
+    "note_id": "1913713397032181216",
+    "title": "课程准备",
+    "content": "课程得抓紧准备",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "entry_type": "manual",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [],
+    "version": 0,
+    "created_at": "2026-06-24 15:01:28",
+    "updated_at": "2026-06-24 15:01:28"
+  },
+  "original": null
+}

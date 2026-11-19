@@ -1,0 +1,33 @@
+常见函数及用法
+
+#include <string.h>
+
+char str[20]="how are you!";
+
+char str2[  ]="abc\0def\n\t";
+
+strlen():求字符串的长度
+
+strcpy():字符串复制  =
+
+strcat():字符串连接
+
+strcmp():字符串比较  >  < ==
+
+gets():从键盘上接收一个字符串(可以包含空格)
+
+scanf("%s",str) ;//从键盘上接收一个字符串(不包含空格)
+
+printf("%s",str);//输出字符串
+
+puts(str):输出字符串,并且在末尾输出换行符；相当于printf("%s\n",str);
+
+sizeof:求字节数
+
+sizeof(str) ;//20
+
+strlen(str);//12
+
+sizeof(str2);//10
+
+strlen(str2);//3

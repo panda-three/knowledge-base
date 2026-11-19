@@ -1,0 +1,261 @@
+{
+  "summary": {
+    "id": 1913713237044811800,
+    "note_id": "1913713237044811840",
+    "title": "近期AI领域风口与项目动态汇总",
+    "content": "以下是整理自AI破局俱乐部等渠道的近期AI项目、赛道与认知分享汇总：\n\n### 📌 AI工具与平台项目动态\n\n| 项目名称 | 核心信息 |\n| ---- | ---- |\n| **HuskyApp** | AI驱动的无代码App生成工具，面向知识付费卖家，可将课程/PDF一键生成品牌独立App；卖家描述内容或粘贴材料后，HuskyIA自动生成结构化模块、视觉排版和封面图；支持内购、推送通知、社区互动，打通30+支付平台权限；官网数据显示已创建超2600个应用，服务超100万用户；付费套餐月费14美元到115美元不等，对应不同额度AI生成次数与用户容量；核心逻辑是将零散知识封装为高感知价值独立App，降低用户流失与退款率；国内可复刻方向：为微商、健身教练、育儿博主提供小程序版本，解决PDF/网盘交付体验差的问题 |\n| **小红书Skill功能** | 小红书已开放Skill上传功能，技能售卖实现合法化落地；创作者可上传技能类产品（如PPT模板工具）供用户使用，被认为是AI领域新的变现风口 |\n| **草莓拼豆生成器** | 针对拼豆玩家手动数色号配颜色的痛点，开发的AI小工具；用户上传照片后，可自动转成拼豆像素图、配好色号表、计算所需珠子数量；定价1.77元到9.86元，拍下自动发卡密跳转自助网站，支持无限次使用；累计获得11107条买家评价，好评率99%，冲上全国手工艺好评榜第1名；核心特点：AI开发门槛极低，精准切中小众刚需 |\n| **腾讯吐司** | 腾讯上线的AI应用生成平台，定位为\"应用生成及灵感共创平台\"；用户用自然语言描述想法，AI即可自动拆解功能、生成原型，一键打包成App安装到手机；安卓版已首发上线，iOS版本稍后推出；1.0版本核心能力：<br>1. 创造应用：输入想法→AI拆解功能点→多轮对话调整细节→一键打包为apk<br>2. 社交分享：通过链接/二维码/安装包分享应用<br>3. 灵感广场：公开应用可作为模板，他人可一键做同款，也能加灵感开启创意接力<br>4. 应用搜索：搜索他人发布的灵感，或描述需求让AI帮忙找；聚焦灵感实现与共创，让无代码基础用户也能将念头落地，形成\"想法→应用→分发→共创\"的闭环生态；公测期间限时免费开放，灵感共创是差异化亮点 |\n| **扣子编程支付Skill** | 扣子编程上线支付宝商家入驻Skill，同步升级支付宝支付集成Skill；开发者可在平台快速配置支付宝支付，一键打通变现环节；解决了传统支付接入需要申请资质、配置环境、调试接口的复杂流程问题，帮助AI开发者快速实现商业化 |\n| **字节番茄AI音乐赛道** | 字节番茄音乐官方正在推广AI音乐创作赛道，公开案例显示创作者半年营收可达20万元以上；目前平台正在大力招募AI音乐创作者，对比其他平台有两大优势：<br>1. 审核宽松，作为后起平台对版权要求较低<br>2. 内容要求不高，面向下沉人群，对音乐质量要求相对宽松 |\n| **阿里QoderWake** | 阿里巴巴发布的两款Agent产品：QoderWake与Qoder移动端，实现AI智能体生态全场景覆盖；QoderWake定位为安全可控的生产级数字员工，已上线数字程序员角色，在阿里内部深度应用；可自主完成代码变更简报整理、错误诊断、反馈分类、日志分析、根因定位，还能自动生成修复代码，实现代码修复全流程无人值守，仅需人类在关键决策环节确认，大幅提升研发运维自动化水平；Qoder移动端聚焦跨端协同与交流 |\n\n### 💡 AI内容创作认知分享\n- 做AI内容的核心认知转变：不要做技术老师，要做**信息翻译官**\n  - 用户刷内容核心需求是判断\"这个内容和我有什么关系\"，前三秒无法回答就会划走\n  - 不需要把AI工具讲得过于专业，只需要把圈内信息翻译成圈外人能听懂的话，讲清楚「这是什么、怎么用、能帮用户省什么钱、偷什么懒」\n- 认知转变后的运营调整：\n  1. **选题逻辑**：不再因为工具酷而做内容，而是先思考工具能打中什么情绪、受众规模够不够大，再决定是否做\n  2. **文案开头**：第一句话尽量叠加信息密度，比如一句话包含权威、数量、免费多层信息，第一时间留住用户",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "app",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "189816787",
+        "name": "AI破局俱乐部",
+        "type": "ai"
+      },
+      {
+        "id": "554425326",
+        "name": "AI行业动态",
+        "type": "ai"
+      },
+      {
+        "id": "554425327",
+        "name": "AI创业风口",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-24 14:58:59",
+    "updated_at": "2026-06-24 14:58:59"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913713237044811800,
+        "note_id": "1913713237044811840",
+        "title": "近期AI领域风口与项目动态汇总",
+        "content": "以下是整理自AI破局俱乐部等渠道的近期AI项目、赛道与认知分享汇总：\n\n### 📌 AI工具与平台项目动态\n\n| 项目名称 | 核心信息 |\n| ---- | ---- |\n| **HuskyApp** | AI驱动的无代码App生成工具，面向知识付费卖家，可将课程/PDF一键生成品牌独立App；卖家描述内容或粘贴材料后，HuskyIA自动生成结构化模块、视觉排版和封面图；支持内购、推送通知、社区互动，打通30+支付平台权限；官网数据显示已创建超2600个应用，服务超100万用户；付费套餐月费14美元到115美元不等，对应不同额度AI生成次数与用户容量；核心逻辑是将零散知识封装为高感知价值独立App，降低用户流失与退款率；国内可复刻方向：为微商、健身教练、育儿博主提供小程序版本，解决PDF/网盘交付体验差的问题 |\n| **小红书Skill功能** | 小红书已开放Skill上传功能，技能售卖实现合法化落地；创作者可上传技能类产品（如PPT模板工具）供用户使用，被认为是AI领域新的变现风口 |\n| **草莓拼豆生成器** | 针对拼豆玩家手动数色号配颜色的痛点，开发的AI小工具；用户上传照片后，可自动转成拼豆像素图、配好色号表、计算所需珠子数量；定价1.77元到9.86元，拍下自动发卡密跳转自助网站，支持无限次使用；累计获得11107条买家评价，好评率99%，冲上全国手工艺好评榜第1名；核心特点：AI开发门槛极低，精准切中小众刚需 |\n| **腾讯吐司** | 腾讯上线的AI应用生成平台，定位为\"应用生成及灵感共创平台\"；用户用自然语言描述想法，AI即可自动拆解功能、生成原型，一键打包成App安装到手机；安卓版已首发上线，iOS版本稍后推出；1.0版本核心能力：<br>1. 创造应用：输入想法→AI拆解功能点→多轮对话调整细节→一键打包为apk<br>2. 社交分享：通过链接/二维码/安装包分享应用<br>3. 灵感广场：公开应用可作为模板，他人可一键做同款，也能加灵感开启创意接力<br>4. 应用搜索：搜索他人发布的灵感，或描述需求让AI帮忙找；聚焦灵感实现与共创，让无代码基础用户也能将念头落地，形成\"想法→应用→分发→共创\"的闭环生态；公测期间限时免费开放，灵感共创是差异化亮点 |\n| **扣子编程支付Skill** | 扣子编程上线支付宝商家入驻Skill，同步升级支付宝支付集成Skill；开发者可在平台快速配置支付宝支付，一键打通变现环节；解决了传统支付接入需要申请资质、配置环境、调试接口的复杂流程问题，帮助AI开发者快速实现商业化 |\n| **字节番茄AI音乐赛道** | 字节番茄音乐官方正在推广AI音乐创作赛道，公开案例显示创作者半年营收可达20万元以上；目前平台正在大力招募AI音乐创作者，对比其他平台有两大优势：<br>1. 审核宽松，作为后起平台对版权要求较低<br>2. 内容要求不高，面向下沉人群，对音乐质量要求相对宽松 |\n| **阿里QoderWake** | 阿里巴巴发布的两款Agent产品：QoderWake与Qoder移动端，实现AI智能体生态全场景覆盖；QoderWake定位为安全可控的生产级数字员工，已上线数字程序员角色，在阿里内部深度应用；可自主完成代码变更简报整理、错误诊断、反馈分类、日志分析、根因定位，还能自动生成修复代码，实现代码修复全流程无人值守，仅需人类在关键决策环节确认，大幅提升研发运维自动化水平；Qoder移动端聚焦跨端协同与交流 |\n\n### 💡 AI内容创作认知分享\n- 做AI内容的核心认知转变：不要做技术老师，要做**信息翻译官**\n  - 用户刷内容核心需求是判断\"这个内容和我有什么关系\"，前三秒无法回答就会划走\n  - 不需要把AI工具讲得过于专业，只需要把圈内信息翻译成圈外人能听懂的话，讲清楚「这是什么、怎么用、能帮用户省什么钱、偷什么懒」\n- 认知转变后的运营调整：\n  1. **选题逻辑**：不再因为工具酷而做内容，而是先思考工具能打中什么情绪、受众规模够不够大，再决定是否做\n  2. **文案开头**：第一句话尽量叠加信息密度，比如一句话包含权威、数量、免费多层信息，第一时间留住用户",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "189816787",
+            "name": "AI破局俱乐部",
+            "type": "ai"
+          },
+          {
+            "id": "554425326",
+            "name": "AI行业动态",
+            "type": "ai"
+          },
+          {
+            "id": "554425327",
+            "name": "AI创业风口",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40428fb0dDNX0Ieu.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1pxOBTuovUoc1MCrLGsddd02kK0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40428fb0dDNX0Ieu.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=v0iyFEMjs9r6VjrLl1Rlir%2F1Xh4%3D",
+            "title": "image_picker_A2103A2D-63F5-4A4B-A96B-AB5C8990AD38-11985-0000045926616D4F.png",
+            "size": 687544
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40528fb0O5ODAgy3.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=NzRdAij5h8H%2BAQfnHZdCwQU8XXk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40528fb0O5ODAgy3.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=JRARUpUDUH4VRxYIcczWygGhc94%3D",
+            "title": "image_picker_1859B2EB-AE0E-49EF-BB0A-4B77976348EE-11985-0000045927B7DA40.png",
+            "size": 1193784
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40628fb0k4GMwccd.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=UE%2FszUFJc%2BsXUddjUBOfZp%2BixP8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40628fb0k4GMwccd.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1UVEbbKlMbg%2FPJhFSET3svr6Cv0%3D",
+            "title": "image_picker_15D28F4E-A0B3-44D4-A7A1-164F38365A44-11985-0000045926C1438F.png",
+            "size": 469975
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40728fb069wgh4Bp.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=KWfspAE98Q5DhssgIdi%2FxNxl0wI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40728fb069wgh4Bp.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=NStGE7w3kYs3Va6rIehlg7WQPxg%3D",
+            "title": "image_picker_D62A0AD1-8B7A-4C8D-B6F8-E6A0C1634774-11985-000004592725BD31.png",
+            "size": 755548
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40828fb0YKYAVsBU.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=wSJVVybvcPfqWi%2FiemzGoSZOC%2Bg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40828fb0YKYAVsBU.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jiMrQWaLtZwJnNyKh0nfF3ktetE%3D",
+            "title": "image_picker_48C07D0D-EF8B-44F5-A834-C9AC9E238973-11985-0000045927EEB5A2.png",
+            "size": 841751
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40928fb0MDYLuCFT.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=6Ao5tFtM55%2F7hMaAZ0%2B%2FwtMEEzE%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40928fb0MDYLuCFT.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=V08m6FDtQXnuD%2BOCEuGPtA5TYZA%3D",
+            "title": "image_picker_C8681C05-99E8-49D0-AF79-75A740B30F10-11985-00000459275D3F77.png",
+            "size": 856882
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40a28fb0cYaHDI0t.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=MLkbMChQI%2BI1bC6hQPeefmAkLjk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40a28fb0cYaHDI0t.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qblqX8AjgkV%2FXURHMkdLqh4GeHU%3D",
+            "title": "image_picker_7CBA2A0C-CC6C-45AF-9C4D-6256E6562F9E-11985-000004592691697D.png",
+            "size": 521428
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40b28fb0ymLGYvOy.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=cHzHyMcCQ3Bumu40uVzhV7fh%2Fs8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40b28fb0ymLGYvOy.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=GRHFPDvLQDdZq2WxsGGVz9Lq7bI%3D",
+            "title": "image_picker_B8978E6E-7D9F-4881-B15B-DBE8E74CFAF3-11985-0000045926EE415F.png",
+            "size": 479880
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "1qnK96A3pQj29",
+        "version": 1,
+        "created_at": "2026-06-24 14:58:59",
+        "updated_at": "2026-06-24 14:58:59"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676111
+    },
+    "request_id": "100fd3fcd22d2001"
+  },
+  "detail": {
+    "id": 1913713237044811800,
+    "note_id": "1913713237044811840",
+    "title": "近期AI领域风口与项目动态汇总",
+    "content": "以下是整理自AI破局俱乐部等渠道的近期AI项目、赛道与认知分享汇总：\n\n### 📌 AI工具与平台项目动态\n\n| 项目名称 | 核心信息 |\n| ---- | ---- |\n| **HuskyApp** | AI驱动的无代码App生成工具，面向知识付费卖家，可将课程/PDF一键生成品牌独立App；卖家描述内容或粘贴材料后，HuskyIA自动生成结构化模块、视觉排版和封面图；支持内购、推送通知、社区互动，打通30+支付平台权限；官网数据显示已创建超2600个应用，服务超100万用户；付费套餐月费14美元到115美元不等，对应不同额度AI生成次数与用户容量；核心逻辑是将零散知识封装为高感知价值独立App，降低用户流失与退款率；国内可复刻方向：为微商、健身教练、育儿博主提供小程序版本，解决PDF/网盘交付体验差的问题 |\n| **小红书Skill功能** | 小红书已开放Skill上传功能，技能售卖实现合法化落地；创作者可上传技能类产品（如PPT模板工具）供用户使用，被认为是AI领域新的变现风口 |\n| **草莓拼豆生成器** | 针对拼豆玩家手动数色号配颜色的痛点，开发的AI小工具；用户上传照片后，可自动转成拼豆像素图、配好色号表、计算所需珠子数量；定价1.77元到9.86元，拍下自动发卡密跳转自助网站，支持无限次使用；累计获得11107条买家评价，好评率99%，冲上全国手工艺好评榜第1名；核心特点：AI开发门槛极低，精准切中小众刚需 |\n| **腾讯吐司** | 腾讯上线的AI应用生成平台，定位为\"应用生成及灵感共创平台\"；用户用自然语言描述想法，AI即可自动拆解功能、生成原型，一键打包成App安装到手机；安卓版已首发上线，iOS版本稍后推出；1.0版本核心能力：<br>1. 创造应用：输入想法→AI拆解功能点→多轮对话调整细节→一键打包为apk<br>2. 社交分享：通过链接/二维码/安装包分享应用<br>3. 灵感广场：公开应用可作为模板，他人可一键做同款，也能加灵感开启创意接力<br>4. 应用搜索：搜索他人发布的灵感，或描述需求让AI帮忙找；聚焦灵感实现与共创，让无代码基础用户也能将念头落地，形成\"想法→应用→分发→共创\"的闭环生态；公测期间限时免费开放，灵感共创是差异化亮点 |\n| **扣子编程支付Skill** | 扣子编程上线支付宝商家入驻Skill，同步升级支付宝支付集成Skill；开发者可在平台快速配置支付宝支付，一键打通变现环节；解决了传统支付接入需要申请资质、配置环境、调试接口的复杂流程问题，帮助AI开发者快速实现商业化 |\n| **字节番茄AI音乐赛道** | 字节番茄音乐官方正在推广AI音乐创作赛道，公开案例显示创作者半年营收可达20万元以上；目前平台正在大力招募AI音乐创作者，对比其他平台有两大优势：<br>1. 审核宽松，作为后起平台对版权要求较低<br>2. 内容要求不高，面向下沉人群，对音乐质量要求相对宽松 |\n| **阿里QoderWake** | 阿里巴巴发布的两款Agent产品：QoderWake与Qoder移动端，实现AI智能体生态全场景覆盖；QoderWake定位为安全可控的生产级数字员工，已上线数字程序员角色，在阿里内部深度应用；可自主完成代码变更简报整理、错误诊断、反馈分类、日志分析、根因定位，还能自动生成修复代码，实现代码修复全流程无人值守，仅需人类在关键决策环节确认，大幅提升研发运维自动化水平；Qoder移动端聚焦跨端协同与交流 |\n\n### 💡 AI内容创作认知分享\n- 做AI内容的核心认知转变：不要做技术老师，要做**信息翻译官**\n  - 用户刷内容核心需求是判断\"这个内容和我有什么关系\"，前三秒无法回答就会划走\n  - 不需要把AI工具讲得过于专业，只需要把圈内信息翻译成圈外人能听懂的话，讲清楚「这是什么、怎么用、能帮用户省什么钱、偷什么懒」\n- 认知转变后的运营调整：\n  1. **选题逻辑**：不再因为工具酷而做内容，而是先思考工具能打中什么情绪、受众规模够不够大，再决定是否做\n  2. **文案开头**：第一句话尽量叠加信息密度，比如一句话包含权威、数量、免费多层信息，第一时间留住用户",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "189816787",
+        "name": "AI破局俱乐部",
+        "type": "ai"
+      },
+      {
+        "id": "554425326",
+        "name": "AI行业动态",
+        "type": "ai"
+      },
+      {
+        "id": "554425327",
+        "name": "AI创业风口",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40428fb0dDNX0Ieu.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1pxOBTuovUoc1MCrLGsddd02kK0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40428fb0dDNX0Ieu.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=v0iyFEMjs9r6VjrLl1Rlir%2F1Xh4%3D",
+        "title": "image_picker_A2103A2D-63F5-4A4B-A96B-AB5C8990AD38-11985-0000045926616D4F.png",
+        "size": 687544
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40528fb0O5ODAgy3.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=NzRdAij5h8H%2BAQfnHZdCwQU8XXk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40528fb0O5ODAgy3.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=JRARUpUDUH4VRxYIcczWygGhc94%3D",
+        "title": "image_picker_1859B2EB-AE0E-49EF-BB0A-4B77976348EE-11985-0000045927B7DA40.png",
+        "size": 1193784
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40628fb0k4GMwccd.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=UE%2FszUFJc%2BsXUddjUBOfZp%2BixP8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40628fb0k4GMwccd.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1UVEbbKlMbg%2FPJhFSET3svr6Cv0%3D",
+        "title": "image_picker_15D28F4E-A0B3-44D4-A7A1-164F38365A44-11985-0000045926C1438F.png",
+        "size": 469975
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40728fb069wgh4Bp.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=KWfspAE98Q5DhssgIdi%2FxNxl0wI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40728fb069wgh4Bp.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=NStGE7w3kYs3Va6rIehlg7WQPxg%3D",
+        "title": "image_picker_D62A0AD1-8B7A-4C8D-B6F8-E6A0C1634774-11985-000004592725BD31.png",
+        "size": 755548
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40828fb0YKYAVsBU.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=wSJVVybvcPfqWi%2FiemzGoSZOC%2Bg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40828fb0YKYAVsBU.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jiMrQWaLtZwJnNyKh0nfF3ktetE%3D",
+        "title": "image_picker_48C07D0D-EF8B-44F5-A834-C9AC9E238973-11985-0000045927EEB5A2.png",
+        "size": 841751
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40928fb0MDYLuCFT.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=6Ao5tFtM55%2F7hMaAZ0%2B%2FwtMEEzE%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40928fb0MDYLuCFT.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=V08m6FDtQXnuD%2BOCEuGPtA5TYZA%3D",
+        "title": "image_picker_C8681C05-99E8-49D0-AF79-75A740B30F10-11985-00000459275D3F77.png",
+        "size": 856882
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40a28fb0cYaHDI0t.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=MLkbMChQI%2BI1bC6hQPeefmAkLjk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40a28fb0cYaHDI0t.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=qblqX8AjgkV%2FXURHMkdLqh4GeHU%3D",
+        "title": "image_picker_7CBA2A0C-CC6C-45AF-9C4D-6256E6562F9E-11985-000004592691697D.png",
+        "size": 521428
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40b28fb0ymLGYvOy.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=cHzHyMcCQ3Bumu40uVzhV7fh%2Fs8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606241458%2Fgetnotes_img_1a8ee00a40b28fb0ymLGYvOy.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=GRHFPDvLQDdZq2WxsGGVz9Lq7bI%3D",
+        "title": "image_picker_B8978E6E-7D9F-4881-B15B-DBE8E74CFAF3-11985-0000045926EE415F.png",
+        "size": 479880
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "1qnK96A3pQj29",
+    "version": 1,
+    "created_at": "2026-06-24 14:58:59",
+    "updated_at": "2026-06-24 14:58:59"
+  },
+  "original": null
+}

@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "id": 1913959094932312000,
+    "note_id": "1913959094932311936",
+    "title": "AI能力框架手绘图",
+    "content": "```\n核心三个互相关联模块：\nAI实操 ←→ 泛产品设计\nAI实操 ←→ 建模能力\n泛产品设计 ←→ 建模能力\n\nAI实操\n  ├─ Vibe Coding\n  ├─ 口喷提示词\n  ├─ AI泛产品创新\n  ├─ AI互动建模\n  ├─ 多线程AI协作\n  └─ 龙虾Agent训练\n\n泛产品设计\n  ├─ 建立审美\n  ├─ 美好作品想象\n  ├─ 顶层设计\n  ├─ 攻坚会\n  ├─ 工业化生产\n  └─ ROI\n\n建模能力\n  ├─ 高阶笔记\n  ├─ MECE\n  ├─ 灵感闪现\n  ├─ 爆炸式研究\n  ├─ 本质提炼\n```",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525679187",
+        "name": "null ...",
+        "type": "ai"
+      },
+      {
+        "id": "555886335",
+        "name": "AI能力框架",
+        "type": "ai"
+      },
+      {
+        "id": "555886336",
+        "name": "AI实操",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-27 06:35:12",
+    "updated_at": "2026-06-27 06:35:12"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913959094932312000,
+        "note_id": "1913959094932311936",
+        "title": "AI能力框架手绘图",
+        "content": "```\n核心三个互相关联模块：\nAI实操 ←→ 泛产品设计\nAI实操 ←→ 建模能力\n泛产品设计 ←→ 建模能力\n\nAI实操\n  ├─ Vibe Coding\n  ├─ 口喷提示词\n  ├─ AI泛产品创新\n  ├─ AI互动建模\n  ├─ 多线程AI协作\n  └─ 龙虾Agent训练\n\n泛产品设计\n  ├─ 建立审美\n  ├─ 美好作品想象\n  ├─ 顶层设计\n  ├─ 攻坚会\n  ├─ 工业化生产\n  └─ ROI\n\n建模能力\n  ├─ 高阶笔记\n  ├─ MECE\n  ├─ 灵感闪现\n  ├─ 爆炸式研究\n  ├─ 本质提炼\n```",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "525679187",
+            "name": "null ...",
+            "type": "ai"
+          },
+          {
+            "id": "555886335",
+            "name": "AI能力框架",
+            "type": "ai"
+          },
+          {
+            "id": "555886336",
+            "name": "AI实操",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270635%2Fgetnotes_img_1a8fbfa68002f548w7hhcDgb.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AcMEA74LTK6npb26JxZAgORmBs8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270635%2Fgetnotes_img_1a8fbfa68002f548w7hhcDgb.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VQID0R%2FvqsHaQBPqhzAQecfHFq4%3D",
+            "title": "image.png",
+            "size": 596364
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "XJz2kYL3vQZMw",
+        "version": 1,
+        "created_at": "2026-06-27 06:35:12",
+        "updated_at": "2026-06-27 06:35:12"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676079
+    },
+    "request_id": "100fd3de192d1001"
+  },
+  "detail": {
+    "id": 1913959094932312000,
+    "note_id": "1913959094932311936",
+    "title": "AI能力框架手绘图",
+    "content": "```\n核心三个互相关联模块：\nAI实操 ←→ 泛产品设计\nAI实操 ←→ 建模能力\n泛产品设计 ←→ 建模能力\n\nAI实操\n  ├─ Vibe Coding\n  ├─ 口喷提示词\n  ├─ AI泛产品创新\n  ├─ AI互动建模\n  ├─ 多线程AI协作\n  └─ 龙虾Agent训练\n\n泛产品设计\n  ├─ 建立审美\n  ├─ 美好作品想象\n  ├─ 顶层设计\n  ├─ 攻坚会\n  ├─ 工业化生产\n  └─ ROI\n\n建模能力\n  ├─ 高阶笔记\n  ├─ MECE\n  ├─ 灵感闪现\n  ├─ 爆炸式研究\n  ├─ 本质提炼\n```",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525679187",
+        "name": "null ...",
+        "type": "ai"
+      },
+      {
+        "id": "555886335",
+        "name": "AI能力框架",
+        "type": "ai"
+      },
+      {
+        "id": "555886336",
+        "name": "AI实操",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270635%2Fgetnotes_img_1a8fbfa68002f548w7hhcDgb.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AcMEA74LTK6npb26JxZAgORmBs8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270635%2Fgetnotes_img_1a8fbfa68002f548w7hhcDgb.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VQID0R%2FvqsHaQBPqhzAQecfHFq4%3D",
+        "title": "image.png",
+        "size": 596364
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "XJz2kYL3vQZMw",
+    "version": 1,
+    "created_at": "2026-06-27 06:35:12",
+    "updated_at": "2026-06-27 06:35:12"
+  },
+  "original": null
+}

@@ -1,0 +1,43 @@
+【2022年盐城市普通高校对口单招高三年级第二次调研考试】
+
+79、阅读下列程序，写出程序运行结果
+
+#include <stdio.h>
+
+int main()
+
+{
+
+  int i,a[]={2,3,5,4,6,7};
+
+  for(i=0;i<4;i++)
+
+  switch(i%3)
+
+  {
+
+     case 0: switch(a[i]%2)
+
+        {
+
+           case 0:a[i]++; break;
+
+           case 1:a[i]--;
+
+        }
+
+     case 1: a[i]=0; continue;
+
+     case 2: a[i]+=2;
+
+  }
+
+  for(i=0;i<6;i++)
+
+  printf("%4d",a[i]);
+
+  printf("\n");
+
+  return 0;
+
+}

@@ -1,0 +1,289 @@
+{
+  "summary": {
+    "id": 1911744630195264000,
+    "note_id": "1911744630195264088",
+    "title": "一堂AI时代竞争力双三角模型：多案例落地解析",
+    "content": "# 一、AI时代竞争力双三角基础模型\n\n### 模型核心灵魂拷问\n- 左侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- 右侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n### 双三角模型结构\n```\n人类三角 × AI三角\n  ├─ 人类三角核心（持续让自己变强）：创造力，顶为创造力，底左为审美、底中为体系\n  |    ├─ 创造力要求：\n  |    │  理解底层规律\n  |    │  善于解放思想\n  |    │  提出创造假设\n  |    ├─ 审美要求：\n  |    │  专业见识\n  |    │  最佳实践\n  |    │  评价标准\n  |    └─ 体系要求：\n  |       科学体系思维\n  |       假设验证模型\n  |       稳定知识结构\n  └─ AI三角核心（持续使用AI更强）：场景，顶为场景，底右为数据、底中为基本功\n       ├─ 场景要求：\n       │  业务拆解\n       │  ROI预判\n       │  AI打磨\n       │  组织部署\n       ├─ 基本功要求：\n       │  基础：LLM提示词/智能体\n       │  宽度：多模态/AI工具库（∞）\n       │  深度：模型微调训练/工程化\n       └─ 数据要求：\n          非结构化数据\n          结构化数据\n          形成资产\n```\n### 双三角正向循环\n\n人变强了，**调教更强AI** → 有了强AI，**辅助人变得更强**，形成双向赋能的正向循环\n---\n# 二、各行业案例落地应用\n\n## 案例1：徐剑 AI企业经营数据分析\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 从\"因用找数\"到\"因数创用\"<br>从\"你问我答\"走向\"你说我做\"<br>深度挖掘企业经营数据应用场景 |\n| 场景（AI三角） | AI大规模数据标注<br>AI企业经营数据分析 |\n| 审美（人类三角） | 大规模商业数据价值洞察<br>用户核心需求的判断<br>多维度标签价值 |\n| 体系（人类三角） | 1481个商业标签标注映射体系<br>三要素：算法算力数据 |\n| 基本功（AI三角） | 提示词工程<br>RAG技术<br>自动化封装 |\n| 数据（AI三角） | 15TB企业经营数据<br>数据清洗与脱敏<br>高精度数据标注<br>构建商业数据飞轮 |\n---\n## 案例2：敏敏 AI标签审核落地全过程\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | \"白纸外包\"萃取知识<br>引入AI作为\"第三方裁判\"<br>招聘年轻新人成为\"AI翻译官\" |\n| 场景（AI三角） | AI辅助写沟通话术<br>AI提供审核建议<br>AI标签审核 |\n| 审美（人类三角） | 对AI切入点的精准判断<br>标签审核的know-how<br>沟通话术的精准拿捏 |\n| 体系（人类三角） | 构建最小闭环，MVP<br>AI在业务链逐步渗透<br>七级深度、几千个标签 |\n| 基本功（AI三角） | 基础提示词<br>构建知识库<br>Agent工作流 |\n| 数据（AI三角） | 过往优秀沟通话术<br>外包提问与老员工解答<br>人与AI审核结论不同的案例<br>业务动态过程中构建数据飞轮 |\n---\n## 案例3：D同学 AI帮提职场沟通管理能力\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 用两个AI从不同角度给人做加法<br>不断拓宽AI辅助人类沟通的边界<br>重新理解行业技术创新点 |\n| 场景（AI三角） | AI赋能职场沟通<br>在原以为是纯人类经验领域用AI解题 |\n| 审美（人类三角） | 把关专业技术问题<br>对AI输出做把关<br>人对报告做整合/兜底 |\n| 体系（人类三角） | 专业技术知识体系<br>职场沟通与管理认知<br>人机协作工作流 |\n| 基本功（AI三角） | 基础提示词<br>Agent/Coze |\n| 数据（AI三角） | 沟通信息留存敏感度<br>将AI输出沉淀成数据资产 |\n---\n## 案例4：陈天 6年知识管理进化范式升级\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 解放思想：AI合伙人<br>设计Soul.MD灵魂价值假设 |\n| 场景（AI三角） | 识别高频内容创作场景<br>全业务闭环（销售、课程、管理）<br>跨场景自动调度 |\n| 审美（人类三角） | 有\"人味\"的基本审美感<br>建立四层过滤评价机制 |\n| 体系（人类三角） | 基础的项目负责人制<br>意图驱动的工作流逻辑<br>五层组织架构的执行框架 |\n| 基本功（AI三角） | 提示词工程<br>Skills工程化与API调度<br>AI原生开发能力 |\n| 数据（AI三角） | 外部知识库导入<br>内部上下文实时处理<br>混合记忆系统 |\n---\n## 案例5：鲲特 AI创作虚拟艺人深度拆解\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 角色设定：双男性小鲜肉<br>远景视角：降低细节标准<br>剪辑特效：遮盖AI视频BUG<br>商业潜力：暗藏植入伏笔 |\n| 场景（AI三角） | AI虚拟数字艺人 |\n| 审美（人类三角） | 商业：深挖官方评选标准<br>商业：商业潜力调研分析<br>艺术：图片2%采用率<br>艺术：歌曲0.5%采用率<br>技术：资源投入在重要设计 |\n| 体系（人类三角） | 综艺舞台秀设计<br>项目执行里程碑<br>流行歌曲设计<br>视频剪辑工作流 |\n| 基本功（AI三角） | 提示词：多轮迭代<br>多模态：文生图/视频/音乐 |\n| 数据（AI三角） | 参考：流行歌曲风格<br>参考：官方舞台设计 |\n---\n## 案例6：半肥猫 数字化营销AI提效十倍\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 研究论文，反推平台底层算法<br>用敏感词投流测试来\"踩坑\" |\n| 场景（AI三角） | AI营销文案<br>数字人短视频 |\n| 审美（人类三角） | 营销内容的质量感知<br>大健康领域的专业性<br>通过平台数据分析判断 |\n| 体系（人类三角） | 数据工程方法论<br>营销内容生产流程<br>专业领域知识 |\n| 基本功（AI三角） | 基础提示词<br>Cherry Studio:300+Agent<br>RAG技术<br>数字人+TTS<br>封装自动化：工作流，Skills，OpenClaw |\n| 数据（AI三角） | Markdown+JSON<br>原子化数据拆分<br>多维度数据标注<br>知识库构建与关联<br>Obsidian：20万+卡片<br>2000+数字人形象 |\n---\n## 案例7：一堂 龙虾训练\"灵魂赋能\"实验\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 训练的本质就是几个文档<br>一次性拉满做到Max水平 |\n| 场景（AI三角） | 训虾派：Agent的角色配置\"灵魂赋能\" |\n| 审美（人类三角） | 高段位岗位审美<br>Top方法论审美<br>协作美好期待<br>过去配合最好的同事/下属 |\n| 体系（人类三角） | IPO模型<br>项目管理里程碑<br>入门进阶高阶段位 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（Antigravity）<br>文档工具（Obsidian）<br>一堂YAI（结构化知识萃取） |\n| 数据（AI三角） | 官方配置文档<br>全网搜索配置最佳实践<br>一堂/Truman数据包<br>一堂课程数据包 |\n---\n## 案例8：一堂 人生红点教练Partner探索\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 避免直接写<br>让AI自己学着写 |\n| 场景（AI三角） | 锁定\"第一红点\"细分场景 |\n| 审美（人类三角） | 基础：优秀教练评估<br>高阶：Truman微观体感 |\n| 体系（人类三角） | 出口式咨询三段论<br>项目管理里程碑 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（TRAE）<br>文档工具（Obsidian） |\n| 数据（AI三角） | 教练提示词：Human3.0<br>工程提示词：Mr. Ranedeer<br>课程资产包Datapack |\n---\n# 三、双三角模型核心总结\n\n如果你们想复刻类似的结果，抄一个流程、抄一个提示词是没用的，你得复刻一套类似的体系。\n\n用一个系统工程的角度，从两个三角、六个点做功，你才有机会达到、超越这个水准。\n\n大家感受到双三角的威力了么？\n\n这是操作系统：**无视表象+无限迁移+十年使用**\n\n它就像当初大家学习的\"一堂五步法\"或\"转化率\"，的确有点难有点抽象。但除此以外，全是巨大优势：\n1.  **无视表象**：你不用管是2C2B，是提示词还是工作流，是编程还是短剧，都是一样的。\n2.  **无限迁移**：你的哄娃Agent能力会叠加进你\"VibeCoding\"，你写歌儿练手还会加强你的公司AI落地。\n3.  **十年使用**：在真正实现全面AGI以前，这个模型都有有效，帮你建立核心竞争力。\n\n你们知道我半年前，基本也是个新手，但过去三个月，我用这套体系大概练习了50-100轮各种各样大大小小的项目，一路刻意练习，已经可以基本算个AI专家了。\n\n这么样，热身告一段落，有充分把大家的学习欲望激发、点燃么？\n\n【互动🙋‍♀️】欢迎大家认真想一想，这个对于大家未来的AI竞争力关联度：**关系不大，感兴趣，重要，非常重要，必经之路**\n---\n*以上案例均来自「一堂 ·2026春季马拉松」：带领10000+人用10小时击穿1个课题*",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525327827",
+        "name": "AI竞争力",
+        "type": "ai"
+      },
+      {
+        "id": "525327828",
+        "name": "双三角模型",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-03 09:42:11",
+    "updated_at": "2026-06-03 09:42:11"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1911744630195264000,
+        "note_id": "1911744630195264088",
+        "title": "一堂AI时代竞争力双三角模型：多案例落地解析",
+        "content": "# 一、AI时代竞争力双三角基础模型\n\n### 模型核心灵魂拷问\n- 左侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- 右侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n### 双三角模型结构\n```\n人类三角 × AI三角\n  ├─ 人类三角核心（持续让自己变强）：创造力，顶为创造力，底左为审美、底中为体系\n  |    ├─ 创造力要求：\n  |    │  理解底层规律\n  |    │  善于解放思想\n  |    │  提出创造假设\n  |    ├─ 审美要求：\n  |    │  专业见识\n  |    │  最佳实践\n  |    │  评价标准\n  |    └─ 体系要求：\n  |       科学体系思维\n  |       假设验证模型\n  |       稳定知识结构\n  └─ AI三角核心（持续使用AI更强）：场景，顶为场景，底右为数据、底中为基本功\n       ├─ 场景要求：\n       │  业务拆解\n       │  ROI预判\n       │  AI打磨\n       │  组织部署\n       ├─ 基本功要求：\n       │  基础：LLM提示词/智能体\n       │  宽度：多模态/AI工具库（∞）\n       │  深度：模型微调训练/工程化\n       └─ 数据要求：\n          非结构化数据\n          结构化数据\n          形成资产\n```\n### 双三角正向循环\n\n人变强了，**调教更强AI** → 有了强AI，**辅助人变得更强**，形成双向赋能的正向循环\n---\n# 二、各行业案例落地应用\n\n## 案例1：徐剑 AI企业经营数据分析\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 从\"因用找数\"到\"因数创用\"<br>从\"你问我答\"走向\"你说我做\"<br>深度挖掘企业经营数据应用场景 |\n| 场景（AI三角） | AI大规模数据标注<br>AI企业经营数据分析 |\n| 审美（人类三角） | 大规模商业数据价值洞察<br>用户核心需求的判断<br>多维度标签价值 |\n| 体系（人类三角） | 1481个商业标签标注映射体系<br>三要素：算法算力数据 |\n| 基本功（AI三角） | 提示词工程<br>RAG技术<br>自动化封装 |\n| 数据（AI三角） | 15TB企业经营数据<br>数据清洗与脱敏<br>高精度数据标注<br>构建商业数据飞轮 |\n---\n## 案例2：敏敏 AI标签审核落地全过程\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | \"白纸外包\"萃取知识<br>引入AI作为\"第三方裁判\"<br>招聘年轻新人成为\"AI翻译官\" |\n| 场景（AI三角） | AI辅助写沟通话术<br>AI提供审核建议<br>AI标签审核 |\n| 审美（人类三角） | 对AI切入点的精准判断<br>标签审核的know-how<br>沟通话术的精准拿捏 |\n| 体系（人类三角） | 构建最小闭环，MVP<br>AI在业务链逐步渗透<br>七级深度、几千个标签 |\n| 基本功（AI三角） | 基础提示词<br>构建知识库<br>Agent工作流 |\n| 数据（AI三角） | 过往优秀沟通话术<br>外包提问与老员工解答<br>人与AI审核结论不同的案例<br>业务动态过程中构建数据飞轮 |\n---\n## 案例3：D同学 AI帮提职场沟通管理能力\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 用两个AI从不同角度给人做加法<br>不断拓宽AI辅助人类沟通的边界<br>重新理解行业技术创新点 |\n| 场景（AI三角） | AI赋能职场沟通<br>在原以为是纯人类经验领域用AI解题 |\n| 审美（人类三角） | 把关专业技术问题<br>对AI输出做把关<br>人对报告做整合/兜底 |\n| 体系（人类三角） | 专业技术知识体系<br>职场沟通与管理认知<br>人机协作工作流 |\n| 基本功（AI三角） | 基础提示词<br>Agent/Coze |\n| 数据（AI三角） | 沟通信息留存敏感度<br>将AI输出沉淀成数据资产 |\n---\n## 案例4：陈天 6年知识管理进化范式升级\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 解放思想：AI合伙人<br>设计Soul.MD灵魂价值假设 |\n| 场景（AI三角） | 识别高频内容创作场景<br>全业务闭环（销售、课程、管理）<br>跨场景自动调度 |\n| 审美（人类三角） | 有\"人味\"的基本审美感<br>建立四层过滤评价机制 |\n| 体系（人类三角） | 基础的项目负责人制<br>意图驱动的工作流逻辑<br>五层组织架构的执行框架 |\n| 基本功（AI三角） | 提示词工程<br>Skills工程化与API调度<br>AI原生开发能力 |\n| 数据（AI三角） | 外部知识库导入<br>内部上下文实时处理<br>混合记忆系统 |\n---\n## 案例5：鲲特 AI创作虚拟艺人深度拆解\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 角色设定：双男性小鲜肉<br>远景视角：降低细节标准<br>剪辑特效：遮盖AI视频BUG<br>商业潜力：暗藏植入伏笔 |\n| 场景（AI三角） | AI虚拟数字艺人 |\n| 审美（人类三角） | 商业：深挖官方评选标准<br>商业：商业潜力调研分析<br>艺术：图片2%采用率<br>艺术：歌曲0.5%采用率<br>技术：资源投入在重要设计 |\n| 体系（人类三角） | 综艺舞台秀设计<br>项目执行里程碑<br>流行歌曲设计<br>视频剪辑工作流 |\n| 基本功（AI三角） | 提示词：多轮迭代<br>多模态：文生图/视频/音乐 |\n| 数据（AI三角） | 参考：流行歌曲风格<br>参考：官方舞台设计 |\n---\n## 案例6：半肥猫 数字化营销AI提效十倍\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 研究论文，反推平台底层算法<br>用敏感词投流测试来\"踩坑\" |\n| 场景（AI三角） | AI营销文案<br>数字人短视频 |\n| 审美（人类三角） | 营销内容的质量感知<br>大健康领域的专业性<br>通过平台数据分析判断 |\n| 体系（人类三角） | 数据工程方法论<br>营销内容生产流程<br>专业领域知识 |\n| 基本功（AI三角） | 基础提示词<br>Cherry Studio:300+Agent<br>RAG技术<br>数字人+TTS<br>封装自动化：工作流，Skills，OpenClaw |\n| 数据（AI三角） | Markdown+JSON<br>原子化数据拆分<br>多维度数据标注<br>知识库构建与关联<br>Obsidian：20万+卡片<br>2000+数字人形象 |\n---\n## 案例7：一堂 龙虾训练\"灵魂赋能\"实验\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 训练的本质就是几个文档<br>一次性拉满做到Max水平 |\n| 场景（AI三角） | 训虾派：Agent的角色配置\"灵魂赋能\" |\n| 审美（人类三角） | 高段位岗位审美<br>Top方法论审美<br>协作美好期待<br>过去配合最好的同事/下属 |\n| 体系（人类三角） | IPO模型<br>项目管理里程碑<br>入门进阶高阶段位 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（Antigravity）<br>文档工具（Obsidian）<br>一堂YAI（结构化知识萃取） |\n| 数据（AI三角） | 官方配置文档<br>全网搜索配置最佳实践<br>一堂/Truman数据包<br>一堂课程数据包 |\n---\n## 案例8：一堂 人生红点教练Partner探索\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 避免直接写<br>让AI自己学着写 |\n| 场景（AI三角） | 锁定\"第一红点\"细分场景 |\n| 审美（人类三角） | 基础：优秀教练评估<br>高阶：Truman微观体感 |\n| 体系（人类三角） | 出口式咨询三段论<br>项目管理里程碑 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（TRAE）<br>文档工具（Obsidian） |\n| 数据（AI三角） | 教练提示词：Human3.0<br>工程提示词：Mr. Ranedeer<br>课程资产包Datapack |\n---\n# 三、双三角模型核心总结\n\n如果你们想复刻类似的结果，抄一个流程、抄一个提示词是没用的，你得复刻一套类似的体系。\n\n用一个系统工程的角度，从两个三角、六个点做功，你才有机会达到、超越这个水准。\n\n大家感受到双三角的威力了么？\n\n这是操作系统：**无视表象+无限迁移+十年使用**\n\n它就像当初大家学习的\"一堂五步法\"或\"转化率\"，的确有点难有点抽象。但除此以外，全是巨大优势：\n1.  **无视表象**：你不用管是2C2B，是提示词还是工作流，是编程还是短剧，都是一样的。\n2.  **无限迁移**：你的哄娃Agent能力会叠加进你\"VibeCoding\"，你写歌儿练手还会加强你的公司AI落地。\n3.  **十年使用**：在真正实现全面AGI以前，这个模型都有有效，帮你建立核心竞争力。\n\n你们知道我半年前，基本也是个新手，但过去三个月，我用这套体系大概练习了50-100轮各种各样大大小小的项目，一路刻意练习，已经可以基本算个AI专家了。\n\n这么样，热身告一段落，有充分把大家的学习欲望激发、点燃么？\n\n【互动🙋‍♀️】欢迎大家认真想一想，这个对于大家未来的AI竞争力关联度：**关系不大，感兴趣，重要，非常重要，必经之路**\n---\n*以上案例均来自「一堂 ·2026春季马拉松」：带领10000+人用10小时击穿1个课题*",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "525327827",
+            "name": "AI竞争力",
+            "type": "ai"
+          },
+          {
+            "id": "525327828",
+            "name": "双三角模型",
+            "type": "ai"
+          },
+          {
+            "id": "525427391",
+            "name": "一堂",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800c9460SSapBCBL.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=yXcaIPwc6dw0NEvY9gOPADuiLtM%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800c9460SSapBCBL.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=3d2pizB11%2FJL7%2BWmR6ogyZfhdKM%3D",
+            "title": "01_双三角模型.png",
+            "size": 584628
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800419c8soCjglwP.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pYAvBcnldrjkMEOQmtCiUWg7GO8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800419c8soCjglwP.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=DGr4Epzqiqg7x%2B%2FZ1igS%2B301USs%3D",
+            "title": "04_11_1 双三角.png",
+            "size": 6905093
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980051bc0Uy0T4pwq.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=j%2BfDcZeU10M91bqCY%2BaGPjuv51Q%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980051bc0Uy0T4pwq.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=TJ48A5FPRz6mJv7n0HjpLH3vNo0%3D",
+            "title": "05_10_1 双三角.png",
+            "size": 7107904
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980151bc0wsDoKBN6.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=zaeRM9Z7ZK7c5KZel94We%2F9dsqI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980151bc0wsDoKBN6.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=yaBP9m6%2F19%2F2ZUk0VPj4XuIxtNY%3D",
+            "title": "06_13_1 双三角模型.png",
+            "size": 2675054
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801419c8N4honbOV.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2BwsRZ%2FBGUXh8BzOzJ419syl5iII%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801419c8N4honbOV.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=8N9LbQklTJiUmEKZj9%2BXzI%2FWuds%3D",
+            "title": "07_12_1 双三角.png",
+            "size": 6377306
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801c94602CEJRWfy.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ppZRmLqtIqevRz9DL4bNQIRhBO0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801c94602CEJRWfy.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Nb6SFEYFErcX2taEKCiZSG%2FcaK8%3D",
+            "title": "08_双三角模型的使用方式.png",
+            "size": 801101
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179802c9460bdPRwBCZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=OLQ8Sh8I2g32%2BQnFSnx7iuKQcCk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179802c9460bdPRwBCZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AH1IGh66KTYEbBuR0FEUq7TU6NE%3D",
+            "title": "09_02_4.錕特双三角.png",
+            "size": 1107536
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803419c8BxF7VmWZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=G5uwAYl8jcF0kXgxTqM3RjMEJus%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803419c8BxF7VmWZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AZ4Dh5VQYwG3y8ndoj8tEZa8Tm8%3D",
+            "title": "10_02_3.半肥猫双三角.png",
+            "size": 1116447
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980251bc0z75fFUGS.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SiypM9AOmGA7UHpjxJ3ZWyWdOaY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980251bc0z75fFUGS.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Lu%2FB7ydNon2PHY1kaHaWKk3BJhM%3D",
+            "title": "11_01_6.trumen 龙虾实验双三角.png",
+            "size": 1069458
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803c9460hacT6mhU.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Pyg9sOqT%2FXI37b%2BwC7LiTdEALwk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803c9460hacT6mhU.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pqbCS6L21NwPkyTkN0b3S%2BbNCx0%3D",
+            "title": "12_01_2.人生红点双三角.png",
+            "size": 948797
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gB7vAOZon6o2",
+        "version": 1,
+        "created_at": "2026-06-03 09:42:11",
+        "updated_at": "2026-06-03 09:42:11"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676427
+    },
+    "request_id": "100fd531e5032001"
+  },
+  "detail": {
+    "id": 1911744630195264000,
+    "note_id": "1911744630195264088",
+    "title": "一堂AI时代竞争力双三角模型：多案例落地解析",
+    "content": "# 一、AI时代竞争力双三角基础模型\n\n### 模型核心灵魂拷问\n- 左侧灵魂拷问：**\"同样都会用AI，为什么不同人业务结果相差这么大？\"**\n- 右侧灵魂拷问：**\"同样都是业务高手，为什么不同人AI结果相差这么大？\"**\n\n### 双三角模型结构\n```\n人类三角 × AI三角\n  ├─ 人类三角核心（持续让自己变强）：创造力，顶为创造力，底左为审美、底中为体系\n  |    ├─ 创造力要求：\n  |    │  理解底层规律\n  |    │  善于解放思想\n  |    │  提出创造假设\n  |    ├─ 审美要求：\n  |    │  专业见识\n  |    │  最佳实践\n  |    │  评价标准\n  |    └─ 体系要求：\n  |       科学体系思维\n  |       假设验证模型\n  |       稳定知识结构\n  └─ AI三角核心（持续使用AI更强）：场景，顶为场景，底右为数据、底中为基本功\n       ├─ 场景要求：\n       │  业务拆解\n       │  ROI预判\n       │  AI打磨\n       │  组织部署\n       ├─ 基本功要求：\n       │  基础：LLM提示词/智能体\n       │  宽度：多模态/AI工具库（∞）\n       │  深度：模型微调训练/工程化\n       └─ 数据要求：\n          非结构化数据\n          结构化数据\n          形成资产\n```\n### 双三角正向循环\n\n人变强了，**调教更强AI** → 有了强AI，**辅助人变得更强**，形成双向赋能的正向循环\n---\n# 二、各行业案例落地应用\n\n## 案例1：徐剑 AI企业经营数据分析\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 从\"因用找数\"到\"因数创用\"<br>从\"你问我答\"走向\"你说我做\"<br>深度挖掘企业经营数据应用场景 |\n| 场景（AI三角） | AI大规模数据标注<br>AI企业经营数据分析 |\n| 审美（人类三角） | 大规模商业数据价值洞察<br>用户核心需求的判断<br>多维度标签价值 |\n| 体系（人类三角） | 1481个商业标签标注映射体系<br>三要素：算法算力数据 |\n| 基本功（AI三角） | 提示词工程<br>RAG技术<br>自动化封装 |\n| 数据（AI三角） | 15TB企业经营数据<br>数据清洗与脱敏<br>高精度数据标注<br>构建商业数据飞轮 |\n---\n## 案例2：敏敏 AI标签审核落地全过程\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | \"白纸外包\"萃取知识<br>引入AI作为\"第三方裁判\"<br>招聘年轻新人成为\"AI翻译官\" |\n| 场景（AI三角） | AI辅助写沟通话术<br>AI提供审核建议<br>AI标签审核 |\n| 审美（人类三角） | 对AI切入点的精准判断<br>标签审核的know-how<br>沟通话术的精准拿捏 |\n| 体系（人类三角） | 构建最小闭环，MVP<br>AI在业务链逐步渗透<br>七级深度、几千个标签 |\n| 基本功（AI三角） | 基础提示词<br>构建知识库<br>Agent工作流 |\n| 数据（AI三角） | 过往优秀沟通话术<br>外包提问与老员工解答<br>人与AI审核结论不同的案例<br>业务动态过程中构建数据飞轮 |\n---\n## 案例3：D同学 AI帮提职场沟通管理能力\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 用两个AI从不同角度给人做加法<br>不断拓宽AI辅助人类沟通的边界<br>重新理解行业技术创新点 |\n| 场景（AI三角） | AI赋能职场沟通<br>在原以为是纯人类经验领域用AI解题 |\n| 审美（人类三角） | 把关专业技术问题<br>对AI输出做把关<br>人对报告做整合/兜底 |\n| 体系（人类三角） | 专业技术知识体系<br>职场沟通与管理认知<br>人机协作工作流 |\n| 基本功（AI三角） | 基础提示词<br>Agent/Coze |\n| 数据（AI三角） | 沟通信息留存敏感度<br>将AI输出沉淀成数据资产 |\n---\n## 案例4：陈天 6年知识管理进化范式升级\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 解放思想：AI合伙人<br>设计Soul.MD灵魂价值假设 |\n| 场景（AI三角） | 识别高频内容创作场景<br>全业务闭环（销售、课程、管理）<br>跨场景自动调度 |\n| 审美（人类三角） | 有\"人味\"的基本审美感<br>建立四层过滤评价机制 |\n| 体系（人类三角） | 基础的项目负责人制<br>意图驱动的工作流逻辑<br>五层组织架构的执行框架 |\n| 基本功（AI三角） | 提示词工程<br>Skills工程化与API调度<br>AI原生开发能力 |\n| 数据（AI三角） | 外部知识库导入<br>内部上下文实时处理<br>混合记忆系统 |\n---\n## 案例5：鲲特 AI创作虚拟艺人深度拆解\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 角色设定：双男性小鲜肉<br>远景视角：降低细节标准<br>剪辑特效：遮盖AI视频BUG<br>商业潜力：暗藏植入伏笔 |\n| 场景（AI三角） | AI虚拟数字艺人 |\n| 审美（人类三角） | 商业：深挖官方评选标准<br>商业：商业潜力调研分析<br>艺术：图片2%采用率<br>艺术：歌曲0.5%采用率<br>技术：资源投入在重要设计 |\n| 体系（人类三角） | 综艺舞台秀设计<br>项目执行里程碑<br>流行歌曲设计<br>视频剪辑工作流 |\n| 基本功（AI三角） | 提示词：多轮迭代<br>多模态：文生图/视频/音乐 |\n| 数据（AI三角） | 参考：流行歌曲风格<br>参考：官方舞台设计 |\n---\n## 案例6：半肥猫 数字化营销AI提效十倍\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 研究论文，反推平台底层算法<br>用敏感词投流测试来\"踩坑\" |\n| 场景（AI三角） | AI营销文案<br>数字人短视频 |\n| 审美（人类三角） | 营销内容的质量感知<br>大健康领域的专业性<br>通过平台数据分析判断 |\n| 体系（人类三角） | 数据工程方法论<br>营销内容生产流程<br>专业领域知识 |\n| 基本功（AI三角） | 基础提示词<br>Cherry Studio:300+Agent<br>RAG技术<br>数字人+TTS<br>封装自动化：工作流，Skills，OpenClaw |\n| 数据（AI三角） | Markdown+JSON<br>原子化数据拆分<br>多维度数据标注<br>知识库构建与关联<br>Obsidian：20万+卡片<br>2000+数字人形象 |\n---\n## 案例7：一堂 龙虾训练\"灵魂赋能\"实验\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 训练的本质就是几个文档<br>一次性拉满做到Max水平 |\n| 场景（AI三角） | 训虾派：Agent的角色配置\"灵魂赋能\" |\n| 审美（人类三角） | 高段位岗位审美<br>Top方法论审美<br>协作美好期待<br>过去配合最好的同事/下属 |\n| 体系（人类三角） | IPO模型<br>项目管理里程碑<br>入门进阶高阶段位 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（Antigravity）<br>文档工具（Obsidian）<br>一堂YAI（结构化知识萃取） |\n| 数据（AI三角） | 官方配置文档<br>全网搜索配置最佳实践<br>一堂/Truman数据包<br>一堂课程数据包 |\n---\n## 案例8：一堂 人生红点教练Partner探索\n\n主题：案例背后的AI核心策略和稀缺竞争力\n| 模块 | 内容 |\n| ---- | ---- |\n| 创造力（人类三角） | 避免直接写<br>让AI自己学着写 |\n| 场景（AI三角） | 锁定\"第一红点\"细分场景 |\n| 审美（人类三角） | 基础：优秀教练评估<br>高阶：Truman微观体感 |\n| 体系（人类三角） | 出口式咨询三段论<br>项目管理里程碑 |\n| 基本功（AI三角） | 基础提示词<br>Agent工具（TRAE）<br>文档工具（Obsidian） |\n| 数据（AI三角） | 教练提示词：Human3.0<br>工程提示词：Mr. Ranedeer<br>课程资产包Datapack |\n---\n# 三、双三角模型核心总结\n\n如果你们想复刻类似的结果，抄一个流程、抄一个提示词是没用的，你得复刻一套类似的体系。\n\n用一个系统工程的角度，从两个三角、六个点做功，你才有机会达到、超越这个水准。\n\n大家感受到双三角的威力了么？\n\n这是操作系统：**无视表象+无限迁移+十年使用**\n\n它就像当初大家学习的\"一堂五步法\"或\"转化率\"，的确有点难有点抽象。但除此以外，全是巨大优势：\n1.  **无视表象**：你不用管是2C2B，是提示词还是工作流，是编程还是短剧，都是一样的。\n2.  **无限迁移**：你的哄娃Agent能力会叠加进你\"VibeCoding\"，你写歌儿练手还会加强你的公司AI落地。\n3.  **十年使用**：在真正实现全面AGI以前，这个模型都有有效，帮你建立核心竞争力。\n\n你们知道我半年前，基本也是个新手，但过去三个月，我用这套体系大概练习了50-100轮各种各样大大小小的项目，一路刻意练习，已经可以基本算个AI专家了。\n\n这么样，热身告一段落，有充分把大家的学习欲望激发、点燃么？\n\n【互动🙋‍♀️】欢迎大家认真想一想，这个对于大家未来的AI竞争力关联度：**关系不大，感兴趣，重要，非常重要，必经之路**\n---\n*以上案例均来自「一堂 ·2026春季马拉松」：带领10000+人用10小时击穿1个课题*",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "525327827",
+        "name": "AI竞争力",
+        "type": "ai"
+      },
+      {
+        "id": "525327828",
+        "name": "双三角模型",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800c9460SSapBCBL.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=yXcaIPwc6dw0NEvY9gOPADuiLtM%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800c9460SSapBCBL.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=3d2pizB11%2FJL7%2BWmR6ogyZfhdKM%3D",
+        "title": "01_双三角模型.png",
+        "size": 584628
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800419c8soCjglwP.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pYAvBcnldrjkMEOQmtCiUWg7GO8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179800419c8soCjglwP.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=DGr4Epzqiqg7x%2B%2FZ1igS%2B301USs%3D",
+        "title": "04_11_1 双三角.png",
+        "size": 6905093
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980051bc0Uy0T4pwq.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=j%2BfDcZeU10M91bqCY%2BaGPjuv51Q%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980051bc0Uy0T4pwq.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=TJ48A5FPRz6mJv7n0HjpLH3vNo0%3D",
+        "title": "05_10_1 双三角.png",
+        "size": 7107904
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980151bc0wsDoKBN6.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=zaeRM9Z7ZK7c5KZel94We%2F9dsqI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980151bc0wsDoKBN6.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=yaBP9m6%2F19%2F2ZUk0VPj4XuIxtNY%3D",
+        "title": "06_13_1 双三角模型.png",
+        "size": 2675054
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801419c8N4honbOV.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2BwsRZ%2FBGUXh8BzOzJ419syl5iII%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801419c8N4honbOV.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=8N9LbQklTJiUmEKZj9%2BXzI%2FWuds%3D",
+        "title": "07_12_1 双三角.png",
+        "size": 6377306
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801c94602CEJRWfy.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ppZRmLqtIqevRz9DL4bNQIRhBO0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179801c94602CEJRWfy.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Nb6SFEYFErcX2taEKCiZSG%2FcaK8%3D",
+        "title": "08_双三角模型的使用方式.png",
+        "size": 801101
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179802c9460bdPRwBCZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=OLQ8Sh8I2g32%2BQnFSnx7iuKQcCk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179802c9460bdPRwBCZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AH1IGh66KTYEbBuR0FEUq7TU6NE%3D",
+        "title": "09_02_4.錕特双三角.png",
+        "size": 1107536
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803419c8BxF7VmWZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=G5uwAYl8jcF0kXgxTqM3RjMEJus%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803419c8BxF7VmWZ.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=AZ4Dh5VQYwG3y8ndoj8tEZa8Tm8%3D",
+        "title": "10_02_3.半肥猫双三角.png",
+        "size": 1116447
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980251bc0z75fFUGS.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SiypM9AOmGA7UHpjxJ3ZWyWdOaY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e17980251bc0z75fFUGS.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Lu%2FB7ydNon2PHY1kaHaWKk3BJhM%3D",
+        "title": "11_01_6.trumen 龙虾实验双三角.png",
+        "size": 1069458
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803c9460hacT6mhU.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Pyg9sOqT%2FXI37b%2BwC7LiTdEALwk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606030939%2Fgetnotes_img_1a87e179803c9460hacT6mhU.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=pqbCS6L21NwPkyTkN0b3S%2BbNCx0%3D",
+        "title": "12_01_2.人生红点双三角.png",
+        "size": 948797
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gB7vAOZon6o2",
+    "version": 1,
+    "created_at": "2026-06-03 09:42:11",
+    "updated_at": "2026-06-03 09:42:11"
+  },
+  "original": null
+}

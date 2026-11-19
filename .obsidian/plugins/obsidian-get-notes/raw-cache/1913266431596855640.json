@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913266431596855640",
+    "display_title": "如何提升刻意练习效果",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T19:23:30+08:00",
+      "edited_at": "2026-06-19T19:23:41.956+08:00",
+      "record_updated_at": "2026-06-19T19:23:41.962+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913266431596855600,
+    "note_id": "1913266431596855640",
+    "title": "如何提升刻意练习效果",
+    "content": "应该如何最大化自己的刻意练习效果？",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "132673438",
+        "name": "刻意练习",
+        "type": "ai"
+      },
+      {
+        "id": "507198489",
+        "name": "自我提升",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-19 19:23:30",
+    "updated_at": "2026-06-19 19:23:41"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913266431596855640",
+        "display_title": "如何提升刻意练习效果",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-19T19:23:30+08:00",
+          "edited_at": "2026-06-19T19:23:41.956+08:00",
+          "record_updated_at": "2026-06-19T19:23:41.962+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913266431596855600,
+        "note_id": "1913266431596855640",
+        "title": "如何提升刻意练习效果",
+        "content": "应该如何最大化自己的刻意练习效果？",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "132673438",
+            "name": "刻意练习",
+            "type": "ai"
+          },
+          {
+            "id": "507198489",
+            "name": "自我提升",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606191923%2Fnotesaudio_1a8d49ae00029100hbB0qJXF.mp3?Expires=1793004573&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=1Fc%2BzXS4%2F1u67VTudH3RgNq23v4%3D",
+            "title": "",
+            "duration": 5040
+          }
+        ],
+        "audio": {
+          "original": "应该如何拉满自己的刻意练习呢?",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "1qn87k1z9nyJj",
+        "version": 5,
+        "created_at": "2026-06-19 19:23:30",
+        "updated_at": "2026-06-19 19:23:41"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572573,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c166a84659002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913266431596855640",
+    "display_title": "如何提升刻意练习效果",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T19:23:30+08:00",
+      "edited_at": "2026-06-19T19:23:41.956+08:00",
+      "record_updated_at": "2026-06-19T19:23:41.962+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913266431596855600,
+    "note_id": "1913266431596855640",
+    "title": "如何提升刻意练习效果",
+    "content": "应该如何最大化自己的刻意练习效果？",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "132673438",
+        "name": "刻意练习",
+        "type": "ai"
+      },
+      {
+        "id": "507198489",
+        "name": "自我提升",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606191923%2Fnotesaudio_1a8d49ae00029100hbB0qJXF.mp3?Expires=1793004573&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=1Fc%2BzXS4%2F1u67VTudH3RgNq23v4%3D",
+        "title": "",
+        "duration": 5040
+      }
+    ],
+    "audio": {
+      "original": "应该如何拉满自己的刻意练习呢?",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "1qn87k1z9nyJj",
+    "version": 5,
+    "created_at": "2026-06-19 19:23:30",
+    "updated_at": "2026-06-19 19:23:41"
+  },
+  "original": "应该如何拉满自己的刻意练习呢?"
+}

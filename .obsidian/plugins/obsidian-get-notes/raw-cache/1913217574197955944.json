@@ -1,0 +1,175 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913217574197955944",
+    "display_title": "陪诊对就医体验的影响",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T06:44:50+08:00",
+      "edited_at": "2026-06-19T06:45:21.103+08:00",
+      "record_updated_at": "2026-06-19T06:45:21.109+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913217574197955800,
+    "note_id": "1913217574197955944",
+    "title": "陪诊对就医体验的影响",
+    "content": "陪诊这件事情，关于如何就医，陪诊可以提升我的体验，并且让我在过程中不断成长。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-19 06:44:50",
+    "updated_at": "2026-06-19 06:45:21"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913217574197955944",
+        "display_title": "陪诊对就医体验的影响",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-19T06:44:50+08:00",
+          "edited_at": "2026-06-19T06:45:21.103+08:00",
+          "record_updated_at": "2026-06-19T06:45:21.109+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913217574197955800,
+        "note_id": "1913217574197955944",
+        "title": "陪诊对就医体验的影响",
+        "content": "陪诊这件事情，关于如何就医，陪诊可以提升我的体验，并且让我在过程中不断成长。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606190645%2Fnotesaudio_1a8d1d3f40129100tDH04ur7.mp3?Expires=1793004581&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=mjVQDL2QZsHF9f9LUeuy9jdRAJ0%3D",
+            "title": "",
+            "duration": 23760
+          }
+        ],
+        "audio": {
+          "original": "陪诊这件事情，你好。关于如何就医这件事情，陪诊是提高我的审美的，然后在这里不断的去分",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gB617PbJzrRm",
+        "version": 4,
+        "created_at": "2026-06-19 06:44:50",
+        "updated_at": "2026-06-19 06:45:21"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572581,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c167253ed2001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913217574197955944",
+    "display_title": "陪诊对就医体验的影响",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T06:44:50+08:00",
+      "edited_at": "2026-06-19T06:45:21.103+08:00",
+      "record_updated_at": "2026-06-19T06:45:21.109+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913217574197955800,
+    "note_id": "1913217574197955944",
+    "title": "陪诊对就医体验的影响",
+    "content": "陪诊这件事情，关于如何就医，陪诊可以提升我的体验，并且让我在过程中不断成长。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606190645%2Fnotesaudio_1a8d1d3f40129100tDH04ur7.mp3?Expires=1793004581&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=mjVQDL2QZsHF9f9LUeuy9jdRAJ0%3D",
+        "title": "",
+        "duration": 23760
+      }
+    ],
+    "audio": {
+      "original": "陪诊这件事情，你好。关于如何就医这件事情，陪诊是提高我的审美的，然后在这里不断的去分",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gB617PbJzrRm",
+    "version": 4,
+    "created_at": "2026-06-19 06:44:50",
+    "updated_at": "2026-06-19 06:45:21"
+  },
+  "original": "陪诊这件事情，你好。关于如何就医这件事情，陪诊是提高我的审美的，然后在这里不断的去分"
+}

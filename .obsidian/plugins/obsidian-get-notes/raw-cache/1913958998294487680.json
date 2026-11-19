@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "id": 1913958998294487600,
+    "note_id": "1913958998294487680",
+    "title": "可训练能力的五个判断标准",
+    "content": "1.  **具体性**：不能太大太虚，必须能说清楚具体练什么动作、产出或判断。\n\n2.  **独立性**：它能从复杂工作里拆出来单独训练，不完全依赖一次性项目。\n\n3.  **检验性**：练得好不好能被观察、比较、反馈或衡量。\n\n4.  **重复性**：工作或生活中有足够多练习机会，而不是一年只碰到一两次。\n\n5.  **复利性**：练成后有长期价值，能迁移到多个任务、岗位、项目或事业方向。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "555886089",
+        "name": "能力成长",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-27 06:33:42",
+    "updated_at": "2026-06-27 06:33:42"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913958998294487600,
+        "note_id": "1913958998294487680",
+        "title": "可训练能力的五个判断标准",
+        "content": "1.  **具体性**：不能太大太虚，必须能说清楚具体练什么动作、产出或判断。\n\n2.  **独立性**：它能从复杂工作里拆出来单独训练，不完全依赖一次性项目。\n\n3.  **检验性**：练得好不好能被观察、比较、反馈或衡量。\n\n4.  **重复性**：工作或生活中有足够多练习机会，而不是一年只碰到一两次。\n\n5.  **复利性**：练成后有长期价值，能迁移到多个任务、岗位、项目或事业方向。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "508933867",
+            "name": "学习方法",
+            "type": "ai"
+          },
+          {
+            "id": "555886089",
+            "name": "能力成长",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270633%2Fgetnotes_img_1a8fbf9080028fb0FyHqjVx9.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=He5RnWT91esv3HIA5IAv6H0J6NU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270633%2Fgetnotes_img_1a8fbf9080028fb0FyHqjVx9.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=fV7lXoHWRC6IhUKuGvZ5wUKRLpA%3D",
+            "title": "image.png",
+            "size": 125995
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "XJz2kqKlL2eZW",
+        "version": 1,
+        "created_at": "2026-06-27 06:33:42",
+        "updated_at": "2026-06-27 06:33:42"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676081
+    },
+    "request_id": "100fd3df5ead1001"
+  },
+  "detail": {
+    "id": 1913958998294487600,
+    "note_id": "1913958998294487680",
+    "title": "可训练能力的五个判断标准",
+    "content": "1.  **具体性**：不能太大太虚，必须能说清楚具体练什么动作、产出或判断。\n\n2.  **独立性**：它能从复杂工作里拆出来单独训练，不完全依赖一次性项目。\n\n3.  **检验性**：练得好不好能被观察、比较、反馈或衡量。\n\n4.  **重复性**：工作或生活中有足够多练习机会，而不是一年只碰到一两次。\n\n5.  **复利性**：练成后有长期价值，能迁移到多个任务、岗位、项目或事业方向。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "508933867",
+        "name": "学习方法",
+        "type": "ai"
+      },
+      {
+        "id": "555886089",
+        "name": "能力成长",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270633%2Fgetnotes_img_1a8fbf9080028fb0FyHqjVx9.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=He5RnWT91esv3HIA5IAv6H0J6NU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270633%2Fgetnotes_img_1a8fbf9080028fb0FyHqjVx9.png?Expires=1793267850&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=fV7lXoHWRC6IhUKuGvZ5wUKRLpA%3D",
+        "title": "image.png",
+        "size": 125995
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "XJz2kqKlL2eZW",
+    "version": 1,
+    "created_at": "2026-06-27 06:33:42",
+    "updated_at": "2026-06-27 06:33:42"
+  },
+  "original": null
+}

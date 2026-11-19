@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913072431145475504",
+    "display_title": "飞书链接下载与存放说明",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-17T17:12:00+08:00",
+      "edited_at": "2026-06-17T17:12:25.713+08:00",
+      "record_updated_at": "2026-06-17T17:12:25.718+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913072431145475600,
+    "note_id": "1913072431145475504",
+    "title": "飞书链接下载与存放说明",
+    "content": "以后，播放飞书链接。如果没有下载的，直接点击下载成md文件，放在俱乐部里面。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "551236583",
+        "name": "文件管理",
+        "type": "ai"
+      },
+      {
+        "id": "551236584",
+        "name": "飞书",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-17 17:12:00",
+    "updated_at": "2026-06-17 17:12:25"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913072431145475504",
+        "display_title": "飞书链接下载与存放说明",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-17T17:12:00+08:00",
+          "edited_at": "2026-06-17T17:12:25.713+08:00",
+          "record_updated_at": "2026-06-17T17:12:25.718+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913072431145475600,
+        "note_id": "1913072431145475504",
+        "title": "飞书链接下载与存放说明",
+        "content": "以后，播放飞书链接。如果没有下载的，直接点击下载成md文件，放在俱乐部里面。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "551236583",
+            "name": "文件管理",
+            "type": "ai"
+          },
+          {
+            "id": "551236584",
+            "name": "飞书",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606171712%2Fnotesaudio_1a8c993dc0129100pu07hJp3.mp3?Expires=1793004593&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=JQjsRAnqCGUrJOkKFVi9eYSX01w%3D",
+            "title": "",
+            "duration": 20232
+          }
+        ],
+        "audio": {
+          "original": "以以后。播放飞书链接。如果没下载的直接点下载成md文件。放在俱乐部里面。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "rBzVxxp7RgdXy",
+        "version": 4,
+        "created_at": "2026-06-17 17:12:00",
+        "updated_at": "2026-06-17 17:12:25"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572593,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c167e1a83f001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913072431145475504",
+    "display_title": "飞书链接下载与存放说明",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-17T17:12:00+08:00",
+      "edited_at": "2026-06-17T17:12:25.713+08:00",
+      "record_updated_at": "2026-06-17T17:12:25.718+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913072431145475600,
+    "note_id": "1913072431145475504",
+    "title": "飞书链接下载与存放说明",
+    "content": "以后，播放飞书链接。如果没有下载的，直接点击下载成md文件，放在俱乐部里面。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "551236583",
+        "name": "文件管理",
+        "type": "ai"
+      },
+      {
+        "id": "551236584",
+        "name": "飞书",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606171712%2Fnotesaudio_1a8c993dc0129100pu07hJp3.mp3?Expires=1793004593&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=JQjsRAnqCGUrJOkKFVi9eYSX01w%3D",
+        "title": "",
+        "duration": 20232
+      }
+    ],
+    "audio": {
+      "original": "以以后。播放飞书链接。如果没下载的直接点下载成md文件。放在俱乐部里面。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "rBzVxxp7RgdXy",
+    "version": 4,
+    "created_at": "2026-06-17 17:12:00",
+    "updated_at": "2026-06-17 17:12:25"
+  },
+  "original": "以以后。播放飞书链接。如果没下载的直接点下载成md文件。放在俱乐部里面。"
+}

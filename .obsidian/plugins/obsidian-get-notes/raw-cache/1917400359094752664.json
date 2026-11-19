@@ -1,0 +1,163 @@
+{
+  "summary": {
+    "id": 1917400359094752800,
+    "note_id": "1917400359094752664",
+    "title": "AI认知互动讲解：AI不是魔法棒，是队友",
+    "content": "### 🎯 开场互动提问\n\n【🐵互动】我先问大家一个问题。你们玩过AI吗？用过ChatGPT、Kimi、豆包、DeepSeek的——（用过小朋友们可以在互动区敲1哦）\n---\n### 📌 核心选择题：你觉得AI是什么？\n\n我再问大家一个问题。你们觉得AI是什么？有三个选项，你们在心里选一个：\n- **选项一：魔法棒**。就像哈利波特那个，一挥，什么都有了！作文写好了、画画画好了、作业做完了——太爽了！\n- **选项二：玩具**。就像新手机，好玩！我让AI帮我画一只恐龙骑自行车，哈哈太有趣了！然后……就没了。\n- **选项三：帮手**。就像你做一周的学习计划——妈妈会陪着你，对着有点麻烦的课程表和学习任务，挑重点、做计划；但她不会替你学习和考试对吧？\n\n【🐵提问】你们心里选了哪个？\n---\n### 💡 核心观点揭晓\n\n我猜很多人选了“魔法棒”——因为感觉AI什么都能做嘛！写作文、画画、做题、讲故事——啥都会！但我今天要告诉你们一个秘密——**AI不是魔法棒。AI是你的队友。**\n\n什么意思？打篮球的时候，你有个特别厉害的队友。他传球特别准、跑位特别快、篮板特别强。但比赛是你打的——你决定战术，你投最后一球，你赢的时候大家一起庆祝。队友帮你分担了很多事，但胜利是你们一起的。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575067710",
+        "name": "AI认知",
+        "type": "ai"
+      },
+      {
+        "id": "575067711",
+        "name": "科普讲解",
+        "type": "ai"
+      },
+      {
+        "id": "223012381",
+        "name": "ChatGPT",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-03 08:50:39",
+    "updated_at": "2026-08-03 08:50:39"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1917400359094752800,
+        "note_id": "1917400359094752664",
+        "title": "AI认知互动讲解：AI不是魔法棒，是队友",
+        "content": "### 🎯 开场互动提问\n\n【🐵互动】我先问大家一个问题。你们玩过AI吗？用过ChatGPT、Kimi、豆包、DeepSeek的——（用过小朋友们可以在互动区敲1哦）\n---\n### 📌 核心选择题：你觉得AI是什么？\n\n我再问大家一个问题。你们觉得AI是什么？有三个选项，你们在心里选一个：\n- **选项一：魔法棒**。就像哈利波特那个，一挥，什么都有了！作文写好了、画画画好了、作业做完了——太爽了！\n- **选项二：玩具**。就像新手机，好玩！我让AI帮我画一只恐龙骑自行车，哈哈太有趣了！然后……就没了。\n- **选项三：帮手**。就像你做一周的学习计划——妈妈会陪着你，对着有点麻烦的课程表和学习任务，挑重点、做计划；但她不会替你学习和考试对吧？\n\n【🐵提问】你们心里选了哪个？\n---\n### 💡 核心观点揭晓\n\n我猜很多人选了“魔法棒”——因为感觉AI什么都能做嘛！写作文、画画、做题、讲故事——啥都会！但我今天要告诉你们一个秘密——**AI不是魔法棒。AI是你的队友。**\n\n什么意思？打篮球的时候，你有个特别厉害的队友。他传球特别准、跑位特别快、篮板特别强。但比赛是你打的——你决定战术，你投最后一球，你赢的时候大家一起庆祝。队友帮你分担了很多事，但胜利是你们一起的。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "575067710",
+            "name": "AI认知",
+            "type": "ai"
+          },
+          {
+            "id": "575067711",
+            "name": "科普讲解",
+            "type": "ai"
+          },
+          {
+            "id": "223012381",
+            "name": "ChatGPT",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030850%2Fgetnotes_img_1a9bf97600001f68aRYMOw0r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HsSDiBWCjerriRep%2BAeTYOS6p5M%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030850%2Fgetnotes_img_1a9bf97600001f68aRYMOw0r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=2DySzSB3haCOMqKnRFY684AtMzs%3D",
+            "title": "image.png",
+            "size": 351614
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "88jda8kv1kdpw",
+        "version": 1,
+        "created_at": "2026-08-03 08:50:39",
+        "updated_at": "2026-08-03 08:50:39"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1791682005
+    },
+    "request_id": "101ed12b092d2001"
+  },
+  "detail": {
+    "id": 1917400359094752800,
+    "note_id": "1917400359094752664",
+    "title": "AI认知互动讲解：AI不是魔法棒，是队友",
+    "content": "### 🎯 开场互动提问\n\n【🐵互动】我先问大家一个问题。你们玩过AI吗？用过ChatGPT、Kimi、豆包、DeepSeek的——（用过小朋友们可以在互动区敲1哦）\n---\n### 📌 核心选择题：你觉得AI是什么？\n\n我再问大家一个问题。你们觉得AI是什么？有三个选项，你们在心里选一个：\n- **选项一：魔法棒**。就像哈利波特那个，一挥，什么都有了！作文写好了、画画画好了、作业做完了——太爽了！\n- **选项二：玩具**。就像新手机，好玩！我让AI帮我画一只恐龙骑自行车，哈哈太有趣了！然后……就没了。\n- **选项三：帮手**。就像你做一周的学习计划——妈妈会陪着你，对着有点麻烦的课程表和学习任务，挑重点、做计划；但她不会替你学习和考试对吧？\n\n【🐵提问】你们心里选了哪个？\n---\n### 💡 核心观点揭晓\n\n我猜很多人选了“魔法棒”——因为感觉AI什么都能做嘛！写作文、画画、做题、讲故事——啥都会！但我今天要告诉你们一个秘密——**AI不是魔法棒。AI是你的队友。**\n\n什么意思？打篮球的时候，你有个特别厉害的队友。他传球特别准、跑位特别快、篮板特别强。但比赛是你打的——你决定战术，你投最后一球，你赢的时候大家一起庆祝。队友帮你分担了很多事，但胜利是你们一起的。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575067710",
+        "name": "AI认知",
+        "type": "ai"
+      },
+      {
+        "id": "575067711",
+        "name": "科普讲解",
+        "type": "ai"
+      },
+      {
+        "id": "223012381",
+        "name": "ChatGPT",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030850%2Fgetnotes_img_1a9bf97600001f68aRYMOw0r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=HsSDiBWCjerriRep%2BAeTYOS6p5M%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030850%2Fgetnotes_img_1a9bf97600001f68aRYMOw0r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=2DySzSB3haCOMqKnRFY684AtMzs%3D",
+        "title": "image.png",
+        "size": 351614
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "88jda8kv1kdpw",
+    "version": 1,
+    "created_at": "2026-08-03 08:50:39",
+    "updated_at": "2026-08-03 08:50:39"
+  },
+  "original": null
+}

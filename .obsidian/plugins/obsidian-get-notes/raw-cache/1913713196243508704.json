@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "id": 1913713196243508700,
+    "note_id": "1913713196243508704",
+    "title": "做美容",
+    "content": "我以前做内容的逻辑是：这个工具很厉害，我来介绍它。段东教练说不对，用户刷短视频不是来上课的，他每一秒都在判断“这和我有什么关系”。前三秒答不上来，就划走了。\n\n后来我给自己总结了一句话：你不是技术老师，而是信息翻译官。不是把一个AI工具讲得多专业，而是把圈内人觉得烂大街的东西，翻译成圈外人听得懂的话。告诉他这是什么，怎么用，能帮他省什么钱、偷什么懒",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-24 14:58:21",
+    "updated_at": "2026-06-24 14:58:21"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913713196243508700,
+        "note_id": "1913713196243508704",
+        "title": "做美容",
+        "content": "我以前做内容的逻辑是：这个工具很厉害，我来介绍它。段东教练说不对，用户刷短视频不是来上课的，他每一秒都在判断“这和我有什么关系”。前三秒答不上来，就划走了。\n\n后来我给自己总结了一句话：你不是技术老师，而是信息翻译官。不是把一个AI工具讲得多专业，而是把圈内人觉得烂大街的东西，翻译成圈外人听得懂的话。告诉他这是什么，怎么用，能帮他省什么钱、偷什么懒",
+        "ref_content": "",
+        "note_type": "plain_text",
+        "source": "app",
+        "entry_type": "manual",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [],
+        "version": 0,
+        "created_at": "2026-06-24 14:58:21",
+        "updated_at": "2026-06-24 14:58:21"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124492
+    },
+    "request_id": "f9f4cd9842d1001"
+  },
+  "detail": {
+    "id": 1913713196243508700,
+    "note_id": "1913713196243508704",
+    "title": "做美容",
+    "content": "我以前做内容的逻辑是：这个工具很厉害，我来介绍它。段东教练说不对，用户刷短视频不是来上课的，他每一秒都在判断“这和我有什么关系”。前三秒答不上来，就划走了。\n\n后来我给自己总结了一句话：你不是技术老师，而是信息翻译官。不是把一个AI工具讲得多专业，而是把圈内人觉得烂大街的东西，翻译成圈外人听得懂的话。告诉他这是什么，怎么用，能帮他省什么钱、偷什么懒",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "entry_type": "manual",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [],
+    "version": 0,
+    "created_at": "2026-06-24 14:58:21",
+    "updated_at": "2026-06-24 14:58:21"
+  },
+  "original": null
+}

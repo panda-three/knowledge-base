@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "id": 1913352497373432000,
+    "note_id": "1913352497373431952",
+    "title": "最佳实践",
+    "content": "做任何事情之前必须要考虑最佳时间，而且最佳时间的寻找要消费一定能找到，其次就是你的平台，抖音YouTube视频号，其中最好的就是视频号这个平台或者是这个订单",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-20 17:39:34",
+    "updated_at": "2026-06-20 17:39:34"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913352497373432000,
+        "note_id": "1913352497373431952",
+        "title": "最佳实践",
+        "content": "做任何事情之前必须要考虑最佳时间，而且最佳时间的寻找要消费一定能找到，其次就是你的平台，抖音YouTube视频号，其中最好的就是视频号这个平台或者是这个订单",
+        "ref_content": "",
+        "note_type": "plain_text",
+        "source": "app",
+        "entry_type": "manual",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [],
+        "version": 0,
+        "created_at": "2026-06-20 17:39:34",
+        "updated_at": "2026-06-20 17:39:34"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124500
+    },
+    "request_id": "f9f4ce118c3f001"
+  },
+  "detail": {
+    "id": 1913352497373432000,
+    "note_id": "1913352497373431952",
+    "title": "最佳实践",
+    "content": "做任何事情之前必须要考虑最佳时间，而且最佳时间的寻找要消费一定能找到，其次就是你的平台，抖音YouTube视频号，其中最好的就是视频号这个平台或者是这个订单",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "entry_type": "manual",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [],
+    "version": 0,
+    "created_at": "2026-06-20 17:39:34",
+    "updated_at": "2026-06-20 17:39:34"
+  },
+  "original": null
+}

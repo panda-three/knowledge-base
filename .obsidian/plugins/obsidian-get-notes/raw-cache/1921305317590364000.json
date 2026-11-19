@@ -1,0 +1,214 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1921305317590364000",
+    "display_title": "第一个不变：深度上看，数据价值深度没变",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-14T11:03:35.34+08:00",
+      "edited_at": "2026-09-14T11:03:35.34+08:00",
+      "record_updated_at": "2026-10-21T16:36:32.558+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1921305317590364000,
+    "note_id": "1921305317590364000",
+    "title": "第一个不变：深度上看，数据价值深度没变",
+    "content": "学过数据分析、知识系统的应该听过一个经典模型叫做**DIKW模型**。\n> 深度上看：数据的“价值深度”没变\n\n这是一个经典的递进关系：**数据 → 信息 → 知识 → 智慧**，每一层都经过“增值加工”：\n- **数据Data**：未处理的符号、事实、观察、记录。\n- **信息Information**：经过处理、组织、赋予上下文后，对接收者有意义的数据。\n- **知识Knowledge**：对信息的理解、内化、组织和应用，能支持行动或回答 how-to 问题。\n- **智慧Wisdom**：在价值、目标、经验、伦理和判断基础上正确使用知识的能力。\n\n在信息科学、知识管理、系统理论、护理信息学、商业智能、数据治理等等领域，这是一个非常知名的、有业内共识的一个认知脚手架。\n\n有点晦涩，我让AI给了一个非常生动的比喻：\n> 一本天书上的杂乱字符（数据）→ 整理成通顺句子：“火山喷发时气温会下降”（信息）→ 归纳出“大规模火山灰遮蔽阳光导致冷却效应”（知识）→ 在面对一次火山爆发时，选择不单纯降温，而是提前储备粮食并疏散人群，避免次生灾害（智慧）。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "182753722",
+        "name": "AI",
+        "type": "ai"
+      },
+      {
+        "id": "595410530",
+        "name": "DIKW模型",
+        "type": "ai"
+      },
+      {
+        "id": "595410531",
+        "name": "数据价值",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-14 11:03:35",
+    "updated_at": "2026-09-14 11:03:35"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1921305317590364000",
+        "display_title": "第一个不变：深度上看，数据价值深度没变",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-14T11:03:35.34+08:00",
+          "edited_at": "2026-09-14T11:03:35.34+08:00",
+          "record_updated_at": "2026-10-21T16:36:32.558+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1921305317590364000,
+        "note_id": "1921305317590364000",
+        "title": "第一个不变：深度上看，数据价值深度没变",
+        "content": "学过数据分析、知识系统的应该听过一个经典模型叫做**DIKW模型**。\n> 深度上看：数据的“价值深度”没变\n\n这是一个经典的递进关系：**数据 → 信息 → 知识 → 智慧**，每一层都经过“增值加工”：\n- **数据Data**：未处理的符号、事实、观察、记录。\n- **信息Information**：经过处理、组织、赋予上下文后，对接收者有意义的数据。\n- **知识Knowledge**：对信息的理解、内化、组织和应用，能支持行动或回答 how-to 问题。\n- **智慧Wisdom**：在价值、目标、经验、伦理和判断基础上正确使用知识的能力。\n\n在信息科学、知识管理、系统理论、护理信息学、商业智能、数据治理等等领域，这是一个非常知名的、有业内共识的一个认知脚手架。\n\n有点晦涩，我让AI给了一个非常生动的比喻：\n> 一本天书上的杂乱字符（数据）→ 整理成通顺句子：“火山喷发时气温会下降”（信息）→ 归纳出“大规模火山灰遮蔽阳光导致冷却效应”（知识）→ 在面对一次火山爆发时，选择不单纯降温，而是提前储备粮食并疏散人群，避免次生灾害（智慧）。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "182753722",
+            "name": "AI",
+            "type": "ai"
+          },
+          {
+            "id": "595410530",
+            "name": "DIKW模型",
+            "type": "ai"
+          },
+          {
+            "id": "595410531",
+            "name": "数据价值",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202609141103%2Fgetnotes_img_1aa9d900c081bd98nMlfEKjI.png?Expires=1795163792&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SADG%2BXd%2BVrczcQyGzihRZVRS4L8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202609141103%2Fgetnotes_img_1aa9d900c081bd98nMlfEKjI.png?Expires=1795163792&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=619X%2FA5UDqIDG7qNHfaSfMV%2F20c%3D",
+            "title": "image.png",
+            "size": 375133
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBmOrg5ZwLgz",
+        "version": 1,
+        "created_at": "2026-09-14 11:03:35",
+        "updated_at": "2026-09-14 11:03:35"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572133,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c14bc98653003"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1921305317590364000",
+    "display_title": "第一个不变：深度上看，数据价值深度没变",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-14T11:03:35.34+08:00",
+      "edited_at": "2026-09-14T11:03:35.34+08:00",
+      "record_updated_at": "2026-10-21T16:36:32.558+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1921305317590364000,
+    "note_id": "1921305317590364000",
+    "title": "第一个不变：深度上看，数据价值深度没变",
+    "content": "学过数据分析、知识系统的应该听过一个经典模型叫做**DIKW模型**。\n> 深度上看：数据的“价值深度”没变\n\n这是一个经典的递进关系：**数据 → 信息 → 知识 → 智慧**，每一层都经过“增值加工”：\n- **数据Data**：未处理的符号、事实、观察、记录。\n- **信息Information**：经过处理、组织、赋予上下文后，对接收者有意义的数据。\n- **知识Knowledge**：对信息的理解、内化、组织和应用，能支持行动或回答 how-to 问题。\n- **智慧Wisdom**：在价值、目标、经验、伦理和判断基础上正确使用知识的能力。\n\n在信息科学、知识管理、系统理论、护理信息学、商业智能、数据治理等等领域，这是一个非常知名的、有业内共识的一个认知脚手架。\n\n有点晦涩，我让AI给了一个非常生动的比喻：\n> 一本天书上的杂乱字符（数据）→ 整理成通顺句子：“火山喷发时气温会下降”（信息）→ 归纳出“大规模火山灰遮蔽阳光导致冷却效应”（知识）→ 在面对一次火山爆发时，选择不单纯降温，而是提前储备粮食并疏散人群，避免次生灾害（智慧）。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "182753722",
+        "name": "AI",
+        "type": "ai"
+      },
+      {
+        "id": "595410530",
+        "name": "DIKW模型",
+        "type": "ai"
+      },
+      {
+        "id": "595410531",
+        "name": "数据价值",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202609141103%2Fgetnotes_img_1aa9d900c081bd98nMlfEKjI.png?Expires=1795163792&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SADG%2BXd%2BVrczcQyGzihRZVRS4L8%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202609141103%2Fgetnotes_img_1aa9d900c081bd98nMlfEKjI.png?Expires=1795163792&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=619X%2FA5UDqIDG7qNHfaSfMV%2F20c%3D",
+        "title": "image.png",
+        "size": 375133
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBmOrg5ZwLgz",
+    "version": 1,
+    "created_at": "2026-09-14 11:03:35",
+    "updated_at": "2026-09-14 11:03:35"
+  },
+  "original": null
+}

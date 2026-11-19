@@ -1,0 +1,9 @@
+【2023年11月江苏职教高考一轮模拟卷】
+
+（1）"e:\\bin\\file.dat","wb+"
+
+（2）rand()%90+10
+
+（3）(N-k)*sizeof(int)
+
+（4）fclose(ff)

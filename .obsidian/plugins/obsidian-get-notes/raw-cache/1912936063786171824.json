@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912936063786171824",
+    "display_title": "任务执行时间与坚持建议",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-16T05:55:22+08:00",
+      "edited_at": "2026-06-16T05:55:43.221+08:00",
+      "record_updated_at": "2026-06-16T05:55:43.225+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912936063786172000,
+    "note_id": "1912936063786171824",
+    "title": "任务执行时间与坚持建议",
+    "content": "衡量你这个时间段的方法是：如果不能完成这个任务，先做3~5分钟，如果没有感觉就不要继续做了。你总会有任务需要完成，一定要坚持。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182708265",
+        "name": "时间管理",
+        "type": "ai"
+      },
+      {
+        "id": "550217665",
+        "name": "任务坚持",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-16 05:55:22",
+    "updated_at": "2026-06-16 05:55:43"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912936063786171824",
+        "display_title": "任务执行时间与坚持建议",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-16T05:55:22+08:00",
+          "edited_at": "2026-06-16T05:55:43.221+08:00",
+          "record_updated_at": "2026-06-16T05:55:43.225+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912936063786172000,
+        "note_id": "1912936063786171824",
+        "title": "任务执行时间与坚持建议",
+        "content": "衡量你这个时间段的方法是：如果不能完成这个任务，先做3~5分钟，如果没有感觉就不要继续做了。你总会有任务需要完成，一定要坚持。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "182708265",
+            "name": "时间管理",
+            "type": "ai"
+          },
+          {
+            "id": "550217665",
+            "name": "任务坚持",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606160555%2Fnotesaudio_1a8c1d3700129100llmDBJlJ.mp3?Expires=1793004610&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ngljnRsm1UDLzL3S1EJLRu7GOtI%3D",
+            "title": "",
+            "duration": 16884
+          }
+        ],
+        "audio": {
+          "original": "怎么衡量你这个时间段？不能做这个任务，做5做3~5分钟之后没有感觉就不要做了。你总总有任务让你做。一定要坚持。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "7gvWk86QLJYdX",
+        "version": 4,
+        "created_at": "2026-06-16 05:55:22",
+        "updated_at": "2026-06-16 05:55:43"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572610,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c168e99ed1001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912936063786171824",
+    "display_title": "任务执行时间与坚持建议",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-16T05:55:22+08:00",
+      "edited_at": "2026-06-16T05:55:43.221+08:00",
+      "record_updated_at": "2026-06-16T05:55:43.225+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912936063786172000,
+    "note_id": "1912936063786171824",
+    "title": "任务执行时间与坚持建议",
+    "content": "衡量你这个时间段的方法是：如果不能完成这个任务，先做3~5分钟，如果没有感觉就不要继续做了。你总会有任务需要完成，一定要坚持。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182708265",
+        "name": "时间管理",
+        "type": "ai"
+      },
+      {
+        "id": "550217665",
+        "name": "任务坚持",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606160555%2Fnotesaudio_1a8c1d3700129100llmDBJlJ.mp3?Expires=1793004610&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ngljnRsm1UDLzL3S1EJLRu7GOtI%3D",
+        "title": "",
+        "duration": 16884
+      }
+    ],
+    "audio": {
+      "original": "怎么衡量你这个时间段？不能做这个任务，做5做3~5分钟之后没有感觉就不要做了。你总总有任务让你做。一定要坚持。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "7gvWk86QLJYdX",
+    "version": 4,
+    "created_at": "2026-06-16 05:55:22",
+    "updated_at": "2026-06-16 05:55:43"
+  },
+  "original": "怎么衡量你这个时间段？不能做这个任务，做5做3~5分钟之后没有感觉就不要做了。你总总有任务让你做。一定要坚持。"
+}

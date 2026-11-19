@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913154499381088128",
+    "display_title": "前期容易把小问题扩大化",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-18T14:25:45+08:00",
+      "edited_at": "2026-06-18T14:26:17.94+08:00",
+      "record_updated_at": "2026-06-18T14:26:17.946+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913154499381088300,
+    "note_id": "1913154499381088128",
+    "title": "前期容易把小问题扩大化",
+    "content": "我觉得我前期容易将小问题扩大化。本来只是写一个简历，后来直接上升到做个人网站，所以还留下了很多坑。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "551694889",
+        "name": "个人反思",
+        "type": "ai"
+      },
+      {
+        "id": "551694890",
+        "name": "项目经验",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-18 14:25:45",
+    "updated_at": "2026-06-18 14:26:17"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913154499381088128",
+        "display_title": "前期容易把小问题扩大化",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-18T14:25:45+08:00",
+          "edited_at": "2026-06-18T14:26:17.94+08:00",
+          "record_updated_at": "2026-06-18T14:26:17.946+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913154499381088300,
+        "note_id": "1913154499381088128",
+        "title": "前期容易把小问题扩大化",
+        "content": "我觉得我前期容易将小问题扩大化。本来只是写一个简历，后来直接上升到做个人网站，所以还留下了很多坑。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "551694889",
+            "name": "个人反思",
+            "type": "ai"
+          },
+          {
+            "id": "551694890",
+            "name": "项目经验",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606181426%2Fnotesaudio_1a8ce3e180202a38iVlSTKfF.mp3?Expires=1793004585&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=8jr1t5VHqC4w7QJy4FQBxDu8zLc%3D",
+            "title": "",
+            "duration": 27288
+          }
+        ],
+        "audio": {
+          "original": "我觉得我前期。容易将小问题扩大化。本来是写一个简历的，后来直接上升到了个人的网站。所以就导致还有很多坑。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMldYa7W1K2L",
+        "version": 4,
+        "created_at": "2026-06-18 14:25:45",
+        "updated_at": "2026-06-18 14:26:17"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572585,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16763b652003"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913154499381088128",
+    "display_title": "前期容易把小问题扩大化",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-18T14:25:45+08:00",
+      "edited_at": "2026-06-18T14:26:17.94+08:00",
+      "record_updated_at": "2026-06-18T14:26:17.946+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913154499381088300,
+    "note_id": "1913154499381088128",
+    "title": "前期容易把小问题扩大化",
+    "content": "我觉得我前期容易将小问题扩大化。本来只是写一个简历，后来直接上升到做个人网站，所以还留下了很多坑。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "551694889",
+        "name": "个人反思",
+        "type": "ai"
+      },
+      {
+        "id": "551694890",
+        "name": "项目经验",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606181426%2Fnotesaudio_1a8ce3e180202a38iVlSTKfF.mp3?Expires=1793004585&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=8jr1t5VHqC4w7QJy4FQBxDu8zLc%3D",
+        "title": "",
+        "duration": 27288
+      }
+    ],
+    "audio": {
+      "original": "我觉得我前期。容易将小问题扩大化。本来是写一个简历的，后来直接上升到了个人的网站。所以就导致还有很多坑。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMldYa7W1K2L",
+    "version": 4,
+    "created_at": "2026-06-18 14:25:45",
+    "updated_at": "2026-06-18 14:26:17"
+  },
+  "original": "我觉得我前期。容易将小问题扩大化。本来是写一个简历的，后来直接上升到了个人的网站。所以就导致还有很多坑。"
+}

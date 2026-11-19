@@ -1,0 +1,134 @@
+{
+  "summary": {
+    "id": 1916042210978338600,
+    "note_id": "1916042210978338680",
+    "title": "寻找主播的两种途径",
+    "content": "寻找主播这件事，要么是你认识主播，要么就是从身边资源开始去辐射。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "567874281",
+        "name": "主播招募",
+        "type": "ai"
+      },
+      {
+        "id": "567874282",
+        "name": "资源拓展",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-07-19 17:29:05",
+    "updated_at": "2026-07-19 17:29:28"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1916042210978338600,
+        "note_id": "1916042210978338680",
+        "title": "寻找主播的两种途径",
+        "content": "寻找主播这件事，要么是你认识主播，要么就是从身边资源开始去辐射。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "567874281",
+            "name": "主播招募",
+            "type": "ai"
+          },
+          {
+            "id": "567874282",
+            "name": "资源拓展",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202607191729%2Fnotesaudio_1a97263b80228fb0UpjIQNjR.mp3?Expires=1785261117&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ZkjgkafswU7%2B7U%2Biv34fSXFqU7c%3D",
+            "title": "",
+            "duration": 12240
+          }
+        ],
+        "audio": {
+          "original": "我觉得找主播这件事情，要不是你认识主播，要么就是从身边资源慢慢往下开呃，开始去辐射。"
+        },
+        "version": 0,
+        "created_at": "2026-07-19 17:29:05",
+        "updated_at": "2026-07-19 17:29:28"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1784829117
+    },
+    "request_id": "fb8b37a16259001"
+  },
+  "detail": {
+    "id": 1916042210978338600,
+    "note_id": "1916042210978338680",
+    "title": "寻找主播的两种途径",
+    "content": "寻找主播这件事，要么是你认识主播，要么就是从身边资源开始去辐射。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "567874281",
+        "name": "主播招募",
+        "type": "ai"
+      },
+      {
+        "id": "567874282",
+        "name": "资源拓展",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202607191729%2Fnotesaudio_1a97263b80228fb0UpjIQNjR.mp3?Expires=1785261117&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ZkjgkafswU7%2B7U%2Biv34fSXFqU7c%3D",
+        "title": "",
+        "duration": 12240
+      }
+    ],
+    "audio": {
+      "original": "我觉得找主播这件事情，要不是你认识主播，要么就是从身边资源慢慢往下开呃，开始去辐射。"
+    },
+    "version": 0,
+    "created_at": "2026-07-19 17:29:05",
+    "updated_at": "2026-07-19 17:29:28"
+  },
+  "original": "我觉得找主播这件事情，要不是你认识主播，要么就是从身边资源慢慢往下开呃，开始去辐射。"
+}

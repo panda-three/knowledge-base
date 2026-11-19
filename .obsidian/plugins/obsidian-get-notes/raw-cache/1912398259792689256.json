@@ -1,0 +1,151 @@
+{
+  "summary": {
+    "id": 1912398259792689200,
+    "note_id": "1912398259792689256",
+    "title": "以太一堂登录页面信息解析",
+    "content": "### **🔐 登录功能模块**\n\n**主要登录方式**\n- **微信登录**：提供微信登录链接，链接地址为https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder。\n- **验证码登录**：页面显示\"获取验证码\"选项，可通过验证码方式登录。\n\n**登录辅助选项**\n- **自动登录设置**：包含\"一个月内自动登录\"复选框，且该选项已被勾选，页面提示\"公共场所不建议自动登录\"。\n\n### **🏢 机构信息展示**\n\n**基本联系信息**\n- **地址**：北京市建国路93号万达广场12号楼28层。\n- **媒体联络邮箱**：pr@ethercap.com。\n- **其他服务邮箱**：service@ethercap.com。\n- **联系电话**：010-58208125。\n\n**运营主体与服务内容**\n- **运营公司**：以太创服由艾普拉斯投资顾问(北京)有限公司运营。\n- **核心服务**：提供早期互联网项目的投融资对接服务。\n\n### **📜 版权与备案信息**\n- **版权声明**：©2014-2026 以太创服。\n- **网站备案**：京ICP备14028208号。\n\n### **📝 补充细节**\n- **品牌标识**：页面包含以太一堂logo图片，同时显示黄色背景、黑色\"堂\"字的图标。\n- **页面主题**：页面标题包含\"一堂创业课\"，表明平台可能与创业培训或课程相关。",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "web",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "546956904",
+        "name": "以太一堂",
+        "type": "ai"
+      },
+      {
+        "id": "546956905",
+        "name": "登录页面",
+        "type": "ai"
+      },
+      {
+        "id": "546956906",
+        "name": "以太创服",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-10 10:47:51",
+    "updated_at": "2026-06-10 10:47:51"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1912398259792689200,
+        "note_id": "1912398259792689256",
+        "title": "以太一堂登录页面信息解析",
+        "content": "### **🔐 登录功能模块**\n\n**主要登录方式**\n- **微信登录**：提供微信登录链接，链接地址为https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder。\n- **验证码登录**：页面显示\"获取验证码\"选项，可通过验证码方式登录。\n\n**登录辅助选项**\n- **自动登录设置**：包含\"一个月内自动登录\"复选框，且该选项已被勾选，页面提示\"公共场所不建议自动登录\"。\n\n### **🏢 机构信息展示**\n\n**基本联系信息**\n- **地址**：北京市建国路93号万达广场12号楼28层。\n- **媒体联络邮箱**：pr@ethercap.com。\n- **其他服务邮箱**：service@ethercap.com。\n- **联系电话**：010-58208125。\n\n**运营主体与服务内容**\n- **运营公司**：以太创服由艾普拉斯投资顾问(北京)有限公司运营。\n- **核心服务**：提供早期互联网项目的投融资对接服务。\n\n### **📜 版权与备案信息**\n- **版权声明**：©2014-2026 以太创服。\n- **网站备案**：京ICP备14028208号。\n\n### **📝 补充细节**\n- **品牌标识**：页面包含以太一堂logo图片，同时显示黄色背景、黑色\"堂\"字的图标。\n- **页面主题**：页面标题包含\"一堂创业课\"，表明平台可能与创业培训或课程相关。",
+        "ref_content": "",
+        "note_type": "link",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "139424302",
+            "name": "AI链接笔记",
+            "type": "system"
+          },
+          {
+            "id": "546956904",
+            "name": "以太一堂",
+            "type": "ai"
+          },
+          {
+            "id": "546956905",
+            "name": "登录页面",
+            "type": "ai"
+          },
+          {
+            "id": "546956906",
+            "name": "以太创服",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "link",
+            "url": "https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder",
+            "title": "登录",
+            "size": 100
+          }
+        ],
+        "web_page": {
+          "url": "https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder",
+          "content": "# 登录\n\n![Image 2: 以太一堂logo](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F22bd504a5f66830bfd7570b5b61046d5?Expires=1785716565&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=l6cmcvWGpxMv6Bb%2BWMOL4%2FhTTUo%3D)\n\n一堂创业课\n\n*   [微信登录](https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder)\n\n获取验证码\n\n- [x] 一个月内自动登录(公共场所不建议自动登录)  \n\n登录\n\n地址：北京市建国路93号万达广场12号楼28层 媒体联络：pr@ethercap.com 其他服务：service@ethercap.com 电话：010-58208125\n\n以太创服由艾普拉斯投资顾问(北京)有限公司运营，提供早期互联网项目的投融资对接服务\n\n©2014-2026 以太创服 京ICP备14028208号"
+        },
+        "version": 0,
+        "created_at": "2026-06-10 10:47:51",
+        "updated_at": "2026-06-10 10:47:51"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124565
+    },
+    "request_id": "f9f4d2056ed1003"
+  },
+  "detail": {
+    "id": 1912398259792689200,
+    "note_id": "1912398259792689256",
+    "title": "以太一堂登录页面信息解析",
+    "content": "### **🔐 登录功能模块**\n\n**主要登录方式**\n- **微信登录**：提供微信登录链接，链接地址为https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder。\n- **验证码登录**：页面显示\"获取验证码\"选项，可通过验证码方式登录。\n\n**登录辅助选项**\n- **自动登录设置**：包含\"一个月内自动登录\"复选框，且该选项已被勾选，页面提示\"公共场所不建议自动登录\"。\n\n### **🏢 机构信息展示**\n\n**基本联系信息**\n- **地址**：北京市建国路93号万达广场12号楼28层。\n- **媒体联络邮箱**：pr@ethercap.com。\n- **其他服务邮箱**：service@ethercap.com。\n- **联系电话**：010-58208125。\n\n**运营主体与服务内容**\n- **运营公司**：以太创服由艾普拉斯投资顾问(北京)有限公司运营。\n- **核心服务**：提供早期互联网项目的投融资对接服务。\n\n### **📜 版权与备案信息**\n- **版权声明**：©2014-2026 以太创服。\n- **网站备案**：京ICP备14028208号。\n\n### **📝 补充细节**\n- **品牌标识**：页面包含以太一堂logo图片，同时显示黄色背景、黑色\"堂\"字的图标。\n- **页面主题**：页面标题包含\"一堂创业课\"，表明平台可能与创业培训或课程相关。",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "546956904",
+        "name": "以太一堂",
+        "type": "ai"
+      },
+      {
+        "id": "546956905",
+        "name": "登录页面",
+        "type": "ai"
+      },
+      {
+        "id": "546956906",
+        "name": "以太创服",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "link",
+        "url": "https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder",
+        "title": "登录",
+        "size": 100
+      }
+    ],
+    "web_page": {
+      "url": "https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder",
+      "content": "# 登录\n\n![Image 2: 以太一堂logo](https://get-notes.umiwi.com/morphling%2Fvoicenotes%2Fprod%2F22bd504a5f66830bfd7570b5b61046d5?Expires=1785716565&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=l6cmcvWGpxMv6Bb%2BWMOL4%2FhTTUo%3D)\n\n一堂创业课\n\n*   [微信登录](https://yitang.top/fs-doc/D24Q690b18f8d450/Gj8YdYy5fo4ADXxzoRfckQfFngg?fromAcl=lesson-founder)\n\n获取验证码\n\n- [x] 一个月内自动登录(公共场所不建议自动登录)  \n\n登录\n\n地址：北京市建国路93号万达广场12号楼28层 媒体联络：pr@ethercap.com 其他服务：service@ethercap.com 电话：010-58208125\n\n以太创服由艾普拉斯投资顾问(北京)有限公司运营，提供早期互联网项目的投融资对接服务\n\n©2014-2026 以太创服 京ICP备14028208号"
+    },
+    "version": 0,
+    "created_at": "2026-06-10 10:47:51",
+    "updated_at": "2026-06-10 10:47:51"
+  },
+  "original": null
+}

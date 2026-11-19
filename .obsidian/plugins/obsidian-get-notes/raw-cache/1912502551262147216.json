@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912502551262147216",
+    "display_title": "将灵感转化为课程的方法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-11T13:46:25+08:00",
+      "edited_at": "2026-06-11T13:46:42.124+08:00",
+      "record_updated_at": "2026-06-11T13:46:42.13+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912502551262147300,
+    "note_id": "1912502551262147216",
+    "title": "将灵感转化为课程的方法",
+    "content": "如何把平时的灵感变成一门课程？",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "510485218",
+        "name": "课程设计",
+        "type": "ai"
+      },
+      {
+        "id": "547698388",
+        "name": "灵感转化",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-11 13:46:25",
+    "updated_at": "2026-06-11 13:46:42"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912502551262147216",
+        "display_title": "将灵感转化为课程的方法",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-11T13:46:25+08:00",
+          "edited_at": "2026-06-11T13:46:42.124+08:00",
+          "record_updated_at": "2026-06-11T13:46:42.13+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912502551262147300,
+        "note_id": "1912502551262147216",
+        "title": "将灵感转化为课程的方法",
+        "content": "如何把平时的灵感变成一门课程？",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "510485218",
+            "name": "课程设计",
+            "type": "ai"
+          },
+          {
+            "id": "547698388",
+            "name": "灵感转化",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606111346%2Fnotesaudio_1a8a92ee40102a38C1LNndht.mp3?Expires=1793004652&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ljEM5ZAMObJw5%2Fxmmh2NWaFT%2B6g%3D",
+            "title": "",
+            "duration": 6480
+          }
+        ],
+        "audio": {
+          "original": "如何把平时的灵感变成一门课程呢?",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "Qxvqlk9M3dbgd",
+        "version": 5,
+        "created_at": "2026-06-11 13:46:25",
+        "updated_at": "2026-06-11 13:46:42"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572652,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16b7a92d1001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912502551262147216",
+    "display_title": "将灵感转化为课程的方法",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-11T13:46:25+08:00",
+      "edited_at": "2026-06-11T13:46:42.124+08:00",
+      "record_updated_at": "2026-06-11T13:46:42.13+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912502551262147300,
+    "note_id": "1912502551262147216",
+    "title": "将灵感转化为课程的方法",
+    "content": "如何把平时的灵感变成一门课程？",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "510485218",
+        "name": "课程设计",
+        "type": "ai"
+      },
+      {
+        "id": "547698388",
+        "name": "灵感转化",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606111346%2Fnotesaudio_1a8a92ee40102a38C1LNndht.mp3?Expires=1793004652&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=ljEM5ZAMObJw5%2Fxmmh2NWaFT%2B6g%3D",
+        "title": "",
+        "duration": 6480
+      }
+    ],
+    "audio": {
+      "original": "如何把平时的灵感变成一门课程呢?",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "Qxvqlk9M3dbgd",
+    "version": 5,
+    "created_at": "2026-06-11 13:46:25",
+    "updated_at": "2026-06-11 13:46:42"
+  },
+  "original": "如何把平时的灵感变成一门课程呢?"
+}

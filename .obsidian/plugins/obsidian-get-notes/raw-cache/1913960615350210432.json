@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "id": 1913960615350210600,
+    "note_id": "1913960615350210432",
+    "title": "能力练习差距分析模板",
+    "content": "我正在练习______能力。下面是我的产出，下面是我对标的 3 个最佳实践。请你从结构、信息量、判断标准、表达质量四个维度，帮我找出最关键的 3 个 GAP，并给出下一次练习动作。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "555890180",
+        "name": "能力练习",
+        "type": "ai"
+      },
+      {
+        "id": "555890181",
+        "name": "差距分析",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-27 06:58:48",
+    "updated_at": "2026-06-27 06:58:48"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913960615350210600,
+        "note_id": "1913960615350210432",
+        "title": "能力练习差距分析模板",
+        "content": "我正在练习______能力。下面是我的产出，下面是我对标的 3 个最佳实践。请你从结构、信息量、判断标准、表达质量四个维度，帮我找出最关键的 3 个 GAP，并给出下一次练习动作。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "555890180",
+            "name": "能力练习",
+            "type": "ai"
+          },
+          {
+            "id": "555890181",
+            "name": "差距分析",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270658%2Fgetnotes_img_1a8fc109c00a8fb0SDBsoCBg.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=5rbcW2RUMiFaFDH0nmE02g%2F1Tfg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270658%2Fgetnotes_img_1a8fc109c00a8fb0SDBsoCBg.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=CHHGq9jTbt0hFEW7Ii1bEBLF0eY%3D",
+            "title": "image.png",
+            "size": 59083
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "yeoA5qp7QlmpA",
+        "version": 1,
+        "created_at": "2026-06-27 06:58:48",
+        "updated_at": "2026-06-27 06:58:48"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676075
+    },
+    "request_id": "100fd3da45252001"
+  },
+  "detail": {
+    "id": 1913960615350210600,
+    "note_id": "1913960615350210432",
+    "title": "能力练习差距分析模板",
+    "content": "我正在练习______能力。下面是我的产出，下面是我对标的 3 个最佳实践。请你从结构、信息量、判断标准、表达质量四个维度，帮我找出最关键的 3 个 GAP，并给出下一次练习动作。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "555890180",
+        "name": "能力练习",
+        "type": "ai"
+      },
+      {
+        "id": "555890181",
+        "name": "差距分析",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270658%2Fgetnotes_img_1a8fc109c00a8fb0SDBsoCBg.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=5rbcW2RUMiFaFDH0nmE02g%2F1Tfg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606270658%2Fgetnotes_img_1a8fc109c00a8fb0SDBsoCBg.png?Expires=1793267849&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=CHHGq9jTbt0hFEW7Ii1bEBLF0eY%3D",
+        "title": "image.png",
+        "size": 59083
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "yeoA5qp7QlmpA",
+    "version": 1,
+    "created_at": "2026-06-27 06:58:48",
+    "updated_at": "2026-06-27 06:58:48"
+  },
+  "original": null
+}

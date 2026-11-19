@@ -1,0 +1,185 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1922231282474425928",
+    "display_title": "空白语音记录",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-24T09:47:05+08:00",
+      "edited_at": "2026-09-24T09:47:05+08:00",
+      "record_updated_at": "2026-09-24T10:37:24.479+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1922231282474425900,
+    "note_id": "1922231282474425928",
+    "title": "空白语音记录",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-09-24 09:47:05\n- **时长**：0 秒\n- **领域**：未提供课程主题，暂不明确\n\n#### 知识精讲\n本次课程无有效授课内容，无核心知识点可总结，未展开任何知识讲解。\n\n#### 📖 课堂实录\n本次录音时长为0秒，无任何可转录的教学内容。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次课程未开展教学，无考点重点。\n\n#### 💡 核心概念\n本次课程未开展教学，无核心概念。\n\n#### ✨ 课堂金句\n本次课程未开展教学，无金句内容。\n\n#### 📝 待办事项\n本次课程未布置任何任务，无待办事项。",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-24 09:47:05",
+    "updated_at": "2026-09-24 09:47:05"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1922231282474425928",
+        "display_title": "空白语音记录",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-24T09:47:05+08:00",
+          "edited_at": "2026-09-24T09:47:05+08:00",
+          "record_updated_at": "2026-09-24T10:37:24.479+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1922231282474425900,
+        "note_id": "1922231282474425928",
+        "title": "空白语音记录",
+        "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-09-24 09:47:05\n- **时长**：0 秒\n- **领域**：未提供课程主题，暂不明确\n\n#### 知识精讲\n本次课程无有效授课内容，无核心知识点可总结，未展开任何知识讲解。\n\n#### 📖 课堂实录\n本次录音时长为0秒，无任何可转录的教学内容。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次课程未开展教学，无考点重点。\n\n#### 💡 核心概念\n本次课程未开展教学，无核心概念。\n\n#### ✨ 课堂金句\n本次课程未开展教学，无金句内容。\n\n#### 📝 待办事项\n本次课程未布置任何任务，无待办事项。",
+        "ref_content": "",
+        "note_type": "class_audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202609241036%2Fnotesaudio_1aad232a40028d78OpOd07v7.mp3?Expires=1793004038&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=17bMAfU2fluP9PiSMCXcR1waLzg%3D",
+            "title": "",
+            "duration": 108
+          }
+        ],
+        "audio": {
+          "sentences": []
+        },
+        "timeline": {
+          "version": 1,
+          "schema_version": 2,
+          "moments": [],
+          "resources": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMn5JkLNO3kb",
+        "version": 1,
+        "created_at": "2026-09-24 09:47:05",
+        "updated_at": "2026-09-24 09:47:05"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572038,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c14603ba52002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1922231282474425928",
+    "display_title": "空白语音记录",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-24T09:47:05+08:00",
+      "edited_at": "2026-09-24T09:47:05+08:00",
+      "record_updated_at": "2026-09-24T10:37:24.479+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1922231282474425900,
+    "note_id": "1922231282474425928",
+    "title": "空白语音记录",
+    "content": "### 📑 智能总结\n\n#### 课程信息\n- **授课时间**：2026-09-24 09:47:05\n- **时长**：0 秒\n- **领域**：未提供课程主题，暂不明确\n\n#### 知识精讲\n本次课程无有效授课内容，无核心知识点可总结，未展开任何知识讲解。\n\n#### 📖 课堂实录\n本次录音时长为0秒，无任何可转录的教学内容。\n\n### 🖍️ 重点速览\n\n#### 🚩 考点重点\n本次课程未开展教学，无考点重点。\n\n#### 💡 核心概念\n本次课程未开展教学，无核心概念。\n\n#### ✨ 课堂金句\n本次课程未开展教学，无金句内容。\n\n#### 📝 待办事项\n本次课程未布置任何任务，无待办事项。",
+    "ref_content": "",
+    "note_type": "class_audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202609241036%2Fnotesaudio_1aad232a40028d78OpOd07v7.mp3?Expires=1793004038&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=17bMAfU2fluP9PiSMCXcR1waLzg%3D",
+        "title": "",
+        "duration": 108
+      }
+    ],
+    "audio": {
+      "sentences": []
+    },
+    "timeline": {
+      "version": 1,
+      "schema_version": 2,
+      "moments": [],
+      "resources": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMn5JkLNO3kb",
+    "version": 1,
+    "created_at": "2026-09-24 09:47:05",
+    "updated_at": "2026-09-24 09:47:05"
+  },
+  "original": null
+}

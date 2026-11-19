@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "id": 1913534304412139800,
+    "note_id": "1913534304412139864",
+    "title": "寻找自动化的最佳实践",
+    "content": "",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-22 16:41:35",
+    "updated_at": "2026-06-22 16:41:35"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913534304412139800,
+        "note_id": "1913534304412139864",
+        "title": "寻找自动化的最佳实践",
+        "content": "",
+        "ref_content": "",
+        "note_type": "plain_text",
+        "source": "app",
+        "entry_type": "manual",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [],
+        "version": 0,
+        "created_at": "2026-06-22 16:41:35",
+        "updated_at": "2026-06-22 16:41:35"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124496
+    },
+    "request_id": "f9f4cdca36d1001"
+  },
+  "detail": {
+    "id": 1913534304412139800,
+    "note_id": "1913534304412139864",
+    "title": "寻找自动化的最佳实践",
+    "content": "",
+    "ref_content": "",
+    "note_type": "plain_text",
+    "source": "app",
+    "entry_type": "manual",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [],
+    "version": 0,
+    "created_at": "2026-06-22 16:41:35",
+    "updated_at": "2026-06-22 16:41:35"
+  },
+  "original": null
+}

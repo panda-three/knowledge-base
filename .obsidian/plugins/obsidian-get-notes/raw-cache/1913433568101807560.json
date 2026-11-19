@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913433568101807560",
+    "display_title": "刻意练习日记数与系统化思考",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-21T14:36:32+08:00",
+      "edited_at": "2026-06-21T14:38:00.1+08:00",
+      "record_updated_at": "2026-06-21T14:38:00.106+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913433568101807600,
+    "note_id": "1913433568101807560",
+    "title": "刻意练习日记数与系统化思考",
+    "content": "刻意练习日记数。思考自己能否通过盖笔及收件箱，形成一个系统。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "132673438",
+        "name": "刻意练习",
+        "type": "ai"
+      },
+      {
+        "id": "552800564",
+        "name": "系统化",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-21 14:36:32",
+    "updated_at": "2026-06-21 14:38:00"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913433568101807560",
+        "display_title": "刻意练习日记数与系统化思考",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-21T14:36:32+08:00",
+          "edited_at": "2026-06-21T14:38:00.1+08:00",
+          "record_updated_at": "2026-06-21T14:38:00.106+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913433568101807600,
+        "note_id": "1913433568101807560",
+        "title": "刻意练习日记数与系统化思考",
+        "content": "刻意练习日记数。思考自己能否通过盖笔及收件箱，形成一个系统。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "132673438",
+            "name": "刻意练习",
+            "type": "ai"
+          },
+          {
+            "id": "552800564",
+            "name": "系统化",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606211437%2Fnotesaudio_1a8de1b180002a38IAIvfA3Y.mp3?Expires=1793004535&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=RJvX5PDBRvdtHUYMRNQYfORC2tc%3D",
+            "title": "",
+            "duration": 26964
+          }
+        ],
+        "audio": {
+          "original": "刻意练习日记数。刻意练习日记数刻意练习日记数。然后思考自己这种通过盖笔及收件箱，看看他能不能形成一个系统",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "QxvXjMLlW7Bby",
+        "version": 4,
+        "created_at": "2026-06-21 14:36:32",
+        "updated_at": "2026-06-21 14:38:00"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572535,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c164566a52001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913433568101807560",
+    "display_title": "刻意练习日记数与系统化思考",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-21T14:36:32+08:00",
+      "edited_at": "2026-06-21T14:38:00.1+08:00",
+      "record_updated_at": "2026-06-21T14:38:00.106+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913433568101807600,
+    "note_id": "1913433568101807560",
+    "title": "刻意练习日记数与系统化思考",
+    "content": "刻意练习日记数。思考自己能否通过盖笔及收件箱，形成一个系统。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "132673438",
+        "name": "刻意练习",
+        "type": "ai"
+      },
+      {
+        "id": "552800564",
+        "name": "系统化",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606211437%2Fnotesaudio_1a8de1b180002a38IAIvfA3Y.mp3?Expires=1793004535&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=RJvX5PDBRvdtHUYMRNQYfORC2tc%3D",
+        "title": "",
+        "duration": 26964
+      }
+    ],
+    "audio": {
+      "original": "刻意练习日记数。刻意练习日记数刻意练习日记数。然后思考自己这种通过盖笔及收件箱，看看他能不能形成一个系统",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "QxvXjMLlW7Bby",
+    "version": 4,
+    "created_at": "2026-06-21 14:36:32",
+    "updated_at": "2026-06-21 14:38:00"
+  },
+  "original": "刻意练习日记数。刻意练习日记数刻意练习日记数。然后思考自己这种通过盖笔及收件箱，看看他能不能形成一个系统"
+}

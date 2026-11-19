@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "id": 1914553617189474800,
+    "note_id": "1914553617189474712",
+    "title": "",
+    "content": "",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "tags": [],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-07-03 16:23:24",
+    "updated_at": "2026-07-03 16:23:24"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1914553617189474800,
+        "note_id": "1914553617189474712",
+        "title": "",
+        "content": "",
+        "ref_content": "",
+        "note_type": "link",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "link",
+            "url": "https://v.douyin.com/y3RSFPLaOeY/",
+            "title": "https://v.douyin.com/y3RSFPLaOeY/",
+            "size": 100
+          }
+        ],
+        "version": 0,
+        "created_at": "2026-07-03 16:23:24",
+        "updated_at": "2026-07-03 16:23:24"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1783124449
+    },
+    "request_id": "f9f4caf28ad2001"
+  },
+  "detail": {
+    "id": 1914553617189474800,
+    "note_id": "1914553617189474712",
+    "title": "",
+    "content": "",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "link",
+        "url": "https://v.douyin.com/y3RSFPLaOeY/",
+        "title": "https://v.douyin.com/y3RSFPLaOeY/",
+        "size": 100
+      }
+    ],
+    "version": 0,
+    "created_at": "2026-07-03 16:23:24",
+    "updated_at": "2026-07-03 16:23:24"
+  },
+  "original": null
+}

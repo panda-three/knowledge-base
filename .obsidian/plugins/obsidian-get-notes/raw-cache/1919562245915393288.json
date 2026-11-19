@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "id": 1919562245915393300,
+    "note_id": "1919562245915393288",
+    "title": "飞书文档访问失败提示页面内容整理",
+    "content": "### 🔍 这个页面是什么平台的？\n\n这是**飞书文档（Feishu Docs）**的页面，顶部有飞书文档的官方链接入口。\n\n### 📌 页面上有哪些功能入口？\n\n页面提供**登录注册**和两个辅助功能入口。\n- **账号入口**：Log In or Sign Up（登录或注册）\n- **辅助功能**：\n  - Help Center（帮助中心）\n  - Keyboard Shortcuts（键盘快捷键）\n\n### ⚠️ 页面提示了什么错误？\n\n页面提示**共享信息无法访问**，错误码为 5。\n- 完整提示内容：Unable to access shared info. Please try again.(5)\n- 页面顶部标识为 header-v2，文档状态为未命名（Untitled document）",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "586214176",
+        "name": "飞书文档",
+        "type": "ai"
+      },
+      {
+        "id": "586214177",
+        "name": "访问失败",
+        "type": "ai"
+      },
+      {
+        "id": "586214178",
+        "name": "错误提示",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-26 16:07:33",
+    "updated_at": "2026-08-26 16:07:33"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1919562245915393300,
+        "note_id": "1919562245915393288",
+        "title": "飞书文档访问失败提示页面内容整理",
+        "content": "### 🔍 这个页面是什么平台的？\n\n这是**飞书文档（Feishu Docs）**的页面，顶部有飞书文档的官方链接入口。\n\n### 📌 页面上有哪些功能入口？\n\n页面提供**登录注册**和两个辅助功能入口。\n- **账号入口**：Log In or Sign Up（登录或注册）\n- **辅助功能**：\n  - Help Center（帮助中心）\n  - Keyboard Shortcuts（键盘快捷键）\n\n### ⚠️ 页面提示了什么错误？\n\n页面提示**共享信息无法访问**，错误码为 5。\n- 完整提示内容：Unable to access shared info. Please try again.(5)\n- 页面顶部标识为 header-v2，文档状态为未命名（Untitled document）",
+        "ref_content": "",
+        "note_type": "link",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "139424302",
+            "name": "AI链接笔记",
+            "type": "system"
+          },
+          {
+            "id": "586214176",
+            "name": "飞书文档",
+            "type": "ai"
+          },
+          {
+            "id": "586214177",
+            "name": "访问失败",
+            "type": "ai"
+          },
+          {
+            "id": "586214178",
+            "name": "错误提示",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "link",
+            "url": "https://jcnjf69lk0l7.feishu.cn/docx/DIYgdBI2AoaBXPxycDBctyPVn2b?from=from_copylink",
+            "title": "Untitled document - Feishu Docs",
+            "size": 100
+          }
+        ],
+        "web_page": {
+          "url": "https://jcnjf69lk0l7.feishu.cn/docx/DIYgdBI2AoaBXPxycDBctyPVn2b?from=from_copylink",
+          "content": "header-v2\n\n[Feishu Docs](https://www.feishu.cn/)\n\nUntitled document\n\nLog In or Sign Up\n\n*    Help Center \n\n*    Keyboard Shortcuts \n\nUnable to access shared info. Please try again.(5)"
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBRzy4eR9bLr",
+        "version": 1,
+        "created_at": "2026-08-26 16:07:33",
+        "updated_at": "2026-08-26 16:07:33"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676016
+    },
+    "request_id": "100fd3a046652002"
+  },
+  "detail": {
+    "id": 1919562245915393300,
+    "note_id": "1919562245915393288",
+    "title": "飞书文档访问失败提示页面内容整理",
+    "content": "### 🔍 这个页面是什么平台的？\n\n这是**飞书文档（Feishu Docs）**的页面，顶部有飞书文档的官方链接入口。\n\n### 📌 页面上有哪些功能入口？\n\n页面提供**登录注册**和两个辅助功能入口。\n- **账号入口**：Log In or Sign Up（登录或注册）\n- **辅助功能**：\n  - Help Center（帮助中心）\n  - Keyboard Shortcuts（键盘快捷键）\n\n### ⚠️ 页面提示了什么错误？\n\n页面提示**共享信息无法访问**，错误码为 5。\n- 完整提示内容：Unable to access shared info. Please try again.(5)\n- 页面顶部标识为 header-v2，文档状态为未命名（Untitled document）",
+    "ref_content": "",
+    "note_type": "link",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "139424302",
+        "name": "AI链接笔记",
+        "type": "system"
+      },
+      {
+        "id": "586214176",
+        "name": "飞书文档",
+        "type": "ai"
+      },
+      {
+        "id": "586214177",
+        "name": "访问失败",
+        "type": "ai"
+      },
+      {
+        "id": "586214178",
+        "name": "错误提示",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "link",
+        "url": "https://jcnjf69lk0l7.feishu.cn/docx/DIYgdBI2AoaBXPxycDBctyPVn2b?from=from_copylink",
+        "title": "Untitled document - Feishu Docs",
+        "size": 100
+      }
+    ],
+    "web_page": {
+      "url": "https://jcnjf69lk0l7.feishu.cn/docx/DIYgdBI2AoaBXPxycDBctyPVn2b?from=from_copylink",
+      "content": "header-v2\n\n[Feishu Docs](https://www.feishu.cn/)\n\nUntitled document\n\nLog In or Sign Up\n\n*    Help Center \n\n*    Keyboard Shortcuts \n\nUnable to access shared info. Please try again.(5)"
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBRzy4eR9bLr",
+    "version": 1,
+    "created_at": "2026-08-26 16:07:33",
+    "updated_at": "2026-08-26 16:07:33"
+  },
+  "original": null
+}

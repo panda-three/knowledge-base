@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913740909518937568",
+    "display_title": "个人网站及产品展示规划",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-24T22:08:15+08:00",
+      "edited_at": "2026-06-24T22:08:33.872+08:00",
+      "record_updated_at": "2026-06-24T22:08:33.877+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913740909518937600,
+    "note_id": "1913740909518937568",
+    "title": "个人网站及产品展示规划",
+    "content": "计划制作一个个人网站，用于展示我的拳头产品。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "554664860",
+        "name": "个人网站",
+        "type": "ai"
+      },
+      {
+        "id": "554664861",
+        "name": "产品展示",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-24 22:08:15",
+    "updated_at": "2026-06-24 22:08:33"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913740909518937568",
+        "display_title": "个人网站及产品展示规划",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-24T22:08:15+08:00",
+          "edited_at": "2026-06-24T22:08:33.872+08:00",
+          "record_updated_at": "2026-06-24T22:08:33.877+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913740909518937600,
+        "note_id": "1913740909518937568",
+        "title": "个人网站及产品展示规划",
+        "content": "计划制作一个个人网站，用于展示我的拳头产品。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "554664860",
+            "name": "个人网站",
+            "type": "ai"
+          },
+          {
+            "id": "554664861",
+            "name": "产品展示",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606242208%2Fnotesaudio_1a8ef9360012f548sXGm5PK4.mp3?Expires=1793004502&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=2nA7MX2uhVnmKQTNgCEou0wBQpE%3D",
+            "title": "",
+            "duration": 8424
+          }
+        ],
+        "audio": {
+          "original": "做一个个人网站。然后里面放我的一些拳头产品。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "7gvbzN25wWrlj",
+        "version": 5,
+        "created_at": "2026-06-24 22:08:15",
+        "updated_at": "2026-06-24 22:08:33"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572502,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c1625dfad1001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913740909518937568",
+    "display_title": "个人网站及产品展示规划",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-24T22:08:15+08:00",
+      "edited_at": "2026-06-24T22:08:33.872+08:00",
+      "record_updated_at": "2026-06-24T22:08:33.877+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913740909518937600,
+    "note_id": "1913740909518937568",
+    "title": "个人网站及产品展示规划",
+    "content": "计划制作一个个人网站，用于展示我的拳头产品。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "554664860",
+        "name": "个人网站",
+        "type": "ai"
+      },
+      {
+        "id": "554664861",
+        "name": "产品展示",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606242208%2Fnotesaudio_1a8ef9360012f548sXGm5PK4.mp3?Expires=1793004502&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=2nA7MX2uhVnmKQTNgCEou0wBQpE%3D",
+        "title": "",
+        "duration": 8424
+      }
+    ],
+    "audio": {
+      "original": "做一个个人网站。然后里面放我的一些拳头产品。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "7gvbzN25wWrlj",
+    "version": 5,
+    "created_at": "2026-06-24 22:08:15",
+    "updated_at": "2026-06-24 22:08:33"
+  },
+  "original": "做一个个人网站。然后里面放我的一些拳头产品。"
+}

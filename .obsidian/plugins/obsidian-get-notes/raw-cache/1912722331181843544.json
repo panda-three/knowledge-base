@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912722331181843544",
+    "display_title": "C语言绘制段位图",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-13T22:37:58+08:00",
+      "edited_at": "2026-06-13T22:38:08.592+08:00",
+      "record_updated_at": "2026-06-13T22:38:08.601+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912722331181843500,
+    "note_id": "1912722331181843544",
+    "title": "C语言绘制段位图",
+    "content": "C语言画一个段位图。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "245802513",
+        "name": "C语言",
+        "type": "ai"
+      },
+      {
+        "id": "549109251",
+        "name": "段位图",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-13 22:37:58",
+    "updated_at": "2026-06-13 22:38:08"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912722331181843544",
+        "display_title": "C语言绘制段位图",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-13T22:37:58+08:00",
+          "edited_at": "2026-06-13T22:38:08.592+08:00",
+          "record_updated_at": "2026-06-13T22:38:08.601+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912722331181843500,
+        "note_id": "1912722331181843544",
+        "title": "C语言绘制段位图",
+        "content": "C语言画一个段位图。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "245802513",
+            "name": "C语言",
+            "type": "ai"
+          },
+          {
+            "id": "549109251",
+            "name": "段位图",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606132238%2Fnotesaudio_1a8b5ad28014e158j6Zvai2g.mp3?Expires=1793004641&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=fcDa69yAyC8M3DX3%2BXCcFRMhSqs%3D",
+            "title": "",
+            "duration": 3780
+          }
+        ],
+        "audio": {
+          "original": "C 语言画一个段位图。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gBWpgjkBKMWr",
+        "version": 5,
+        "created_at": "2026-06-13 22:37:58",
+        "updated_at": "2026-06-13 22:38:08"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572641,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16acc9ad1001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912722331181843544",
+    "display_title": "C语言绘制段位图",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-13T22:37:58+08:00",
+      "edited_at": "2026-06-13T22:38:08.592+08:00",
+      "record_updated_at": "2026-06-13T22:38:08.601+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912722331181843500,
+    "note_id": "1912722331181843544",
+    "title": "C语言绘制段位图",
+    "content": "C语言画一个段位图。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "245802513",
+        "name": "C语言",
+        "type": "ai"
+      },
+      {
+        "id": "549109251",
+        "name": "段位图",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606132238%2Fnotesaudio_1a8b5ad28014e158j6Zvai2g.mp3?Expires=1793004641&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=fcDa69yAyC8M3DX3%2BXCcFRMhSqs%3D",
+        "title": "",
+        "duration": 3780
+      }
+    ],
+    "audio": {
+      "original": "C 语言画一个段位图。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gBWpgjkBKMWr",
+    "version": 5,
+    "created_at": "2026-06-13 22:37:58",
+    "updated_at": "2026-06-13 22:38:08"
+  },
+  "original": "C 语言画一个段位图。"
+}

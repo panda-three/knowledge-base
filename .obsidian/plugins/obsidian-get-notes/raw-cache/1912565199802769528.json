@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912565199802769528",
+    "display_title": "做事要有判断标准",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-12T05:58:42+08:00",
+      "edited_at": "2026-06-12T05:59:08.442+08:00",
+      "record_updated_at": "2026-06-12T05:59:08.448+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912565199802769400,
+    "note_id": "1912565199802769528",
+    "title": "做事要有判断标准",
+    "content": "做事情要建立一个判断标准。例如，上这节课时，做到什么程度为止？先写完，写完之后就可以了。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "531856810",
+        "name": "方法论",
+        "type": "ai"
+      },
+      {
+        "id": "548075894",
+        "name": "行动标准",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-12 05:58:42",
+    "updated_at": "2026-06-12 05:59:08"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912565199802769528",
+        "display_title": "做事要有判断标准",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-12T05:58:42+08:00",
+          "edited_at": "2026-06-12T05:59:08.442+08:00",
+          "record_updated_at": "2026-06-12T05:59:08.448+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912565199802769400,
+        "note_id": "1912565199802769528",
+        "title": "做事要有判断标准",
+        "content": "做事情要建立一个判断标准。例如，上这节课时，做到什么程度为止？先写完，写完之后就可以了。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "531856810",
+            "name": "方法论",
+            "type": "ai"
+          },
+          {
+            "id": "548075894",
+            "name": "行动标准",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606120558%2Fnotesaudio_1a8acbe8c004e158gbxr5Azc.mp3?Expires=1793004650&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=EFcu%2FCzhjvOtElxy%2BNBf9dgMwUQ%3D",
+            "title": "",
+            "duration": 15624
+          }
+        ],
+        "audio": {
+          "original": "做事情要建立一个判断的标准。就是比如说我上这节课，我做这节课做到什么程度为止?先写完，写完之后就可以了。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMWvOBWeMjmb",
+        "version": 5,
+        "created_at": "2026-06-12 05:58:42",
+        "updated_at": "2026-06-12 05:59:08"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572650,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16b5ba653002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912565199802769528",
+    "display_title": "做事要有判断标准",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-12T05:58:42+08:00",
+      "edited_at": "2026-06-12T05:59:08.442+08:00",
+      "record_updated_at": "2026-06-12T05:59:08.448+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912565199802769400,
+    "note_id": "1912565199802769528",
+    "title": "做事要有判断标准",
+    "content": "做事情要建立一个判断标准。例如，上这节课时，做到什么程度为止？先写完，写完之后就可以了。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "531856810",
+        "name": "方法论",
+        "type": "ai"
+      },
+      {
+        "id": "548075894",
+        "name": "行动标准",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606120558%2Fnotesaudio_1a8acbe8c004e158gbxr5Azc.mp3?Expires=1793004650&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=EFcu%2FCzhjvOtElxy%2BNBf9dgMwUQ%3D",
+        "title": "",
+        "duration": 15624
+      }
+    ],
+    "audio": {
+      "original": "做事情要建立一个判断的标准。就是比如说我上这节课，我做这节课做到什么程度为止?先写完，写完之后就可以了。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMWvOBWeMjmb",
+    "version": 5,
+    "created_at": "2026-06-12 05:58:42",
+    "updated_at": "2026-06-12 05:59:08"
+  },
+  "original": "做事情要建立一个判断的标准。就是比如说我上这节课，我做这节课做到什么程度为止?先写完，写完之后就可以了。"
+}

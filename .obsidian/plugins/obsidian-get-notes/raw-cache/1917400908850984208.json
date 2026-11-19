@@ -1,0 +1,233 @@
+{
+  "summary": {
+    "id": 1917400908850984200,
+    "note_id": "1917400908850984208",
+    "title": "AI数据价值体感与睡前故事案例实践全记录",
+    "content": "### 📌 系列课整体框架\n\n课程作为AI数据系列课的认知篇开篇，核心目标是消除学习者的两大卡点：**缺少体感**与**存在傲慢**，整体分为四个部分，最后辅以复习总结。\n- 🎯 **第一部分：有体感**\n  - 通过3个从小到大的案例，帮助学习者建立对“AI数据非常值钱”的基本价值体感，避免抽象认知。\n- 🧠 **第二部分：破傲慢**\n  - 针对多数人认为“自己熟悉数据资产与数据分析”的学习卡点，讲解AI数据带来的底层变化，破除认知傲慢。\n- 🏗️ **第三部分：建体系（重头戏）**\n  - 面对纷繁复杂的AI分析工作流，提供一套全新的**“AI数据工作框架”**，帮助学习者消除认知盲区、实现能力积累复利。\n- 🚀 **第四部分：开始练**\n  - 作为认知篇收尾，给出初步执行建议与策略，提供可长期修炼的**“AI数据高手段位图”**。\n- 📝 **结尾复习**\n  - 重新梳理并深化对“AI数据资产”概念的理解。\n---\n### 📖 个人小案例：我的AI睡前故事\n\n本案例是课程中用于建立数据价值体感的最小生活化案例，完整还原了从“创意枯竭”到“用AI数据实现无限创意”的全过程。\n\n#### 1. 案例背景与初始困境\n- 👨‍👦 **场景设定**：讲述者工作繁忙，偶尔在家陪7岁儿子睡觉，会讲20-30分钟的睡前故事，以此增进哄睡体验与父子关系。\n- 🎨 **故事风格**：儿子喜欢《植物大战僵尸》和《汪汪队》，因此故事为两大IP的杂交版本（如《汪汪队拯救豌豆射手》），要求情节生动、有反转、有趣味、有悬念。\n- ❌ **初始困境**：讲了三四个故事后创意枯竭，既要保持角色特殊性，又要每次有新意和不同反转，个人知识储备难以为继。\n- 🤖 **首次AI尝试失败**：尝试用豆包直接讲故事或生成策划案，仅用一两百字提示词描述想法，结果输出质量非常差，不及个人水平的一半。\n\n#### 2. 第二阶段：积累原始案例集\n- 💡 **核心思路**：将自己讲的优质故事转化为结构化数据，作为AI学习的参考样本。\n- 🔧 **操作步骤**：\n  1. 用手机录制自己讲的20-30分钟故事音频；\n  2. 用AI将逐字稿去除语气词、提纯，转化为干净的故事文稿；\n  3. 为每篇故事标记【起承转合】结构；\n  4. 陆续攒下四五篇满意的故事，全部转为Markdown格式；\n  5. 在Obsidian中建立名为《植物大战僵尸宇宙》的文件夹，统一存放所有故事文稿。\n- 🛠️ **工具说明**：\n  - **Obsidian**：既是Markdown编辑器，也是知识管理软件，支持将文件以Markdown格式存储在本地硬盘，可构建本地知识库，便于与Cherry Studio、OpenClaw等软件协同使用。\n- 📊 **阶段成果**：将4篇范文作为第一波数据包，让AI临摹风格创作新故事，输出质量大幅提升，乍看很像样，但**发挥极不稳定**：内容随机、时而飘忽而死板、上下衔接存在诸多问题，整体约50分水平。\n\n#### 3. 第三阶段：萃取建模形成指南\n- 💡 **核心思路**：光有原始数据不够，需要从案例中提炼底层规律，建立创作模型。\n- 🔧 **操作步骤**：\n  1. 面对Gemini输入提示词：“这是我写的几个故事，未来我想百分百复刻这个水平，你帮我建个模，我之前讲故事的大概思路是xxx”；\n  2. Gemini输出完整的《故事创作指南2.0（Gemini版）》。\n- 📋 《故事创作指南》核心框架：\n  - **核心理念升级**：从“模板”到“游乐场”，目标从100%复刻成功公式，升级为打造“充满无限可能的游乐场”，打破僵硬模板，引入真正的创造力、幽默感与不可预测的惊喜。\n  - **2.0版核心创作哲学**：\n    1. **“缺点”变“亮点”**：不将缺点视为瑕疵，而是角色的“怪癖”“爱好”或“与众不同之处”，作为故事引爆点（笑点），该特点可通过反差甚至荒诞带来效果，最终以意想不到的方式解决问题。\n    2. **“反转”是灵魂**：针对儿童故事，惊喜和反转是抓住孩子注意力的关键，需引导AI在情节、角色和解决方案中设置巧妙、符合儿童心理的转折。\n    3. **“偷懒”是诱饵**：语言的诙谐、情节的荒诞、角色的滑稽是2.0版故事的必备元素，让孩子在紧张情节中会心一笑，甚至捧腹大笑。\n  - **趣味性增强模块：“幽默工具箱”**：包含角色塑造的幽默感、情节设计的反转魅力、语言风格的趣味性等子模块，用于全方位提升故事的生动性。\n  - **AI创作指令模板（2.0版）**：提供标准化的提示词框架，保障AI输出质量的稳定性。\n- 📊 **阶段成果**：用《指南》+《4篇范文》让AI创作新故事，质量进一步提升，达到个人功力的七八成（约65分），但测试一两篇后发现**套路固化、情节重合、内容无趣**，故事均陷入“胆小/内向/发现潜力/找家长/英雄之旅”的固定模式，如同八股文。\n- 🔍 **问题诊断**：属于典型的**案例数量不足导致的过拟合问题**——若有40篇范文或许能总结出优质指南，但仅靠4篇样本量远远不够，而积累40篇需要一两年时间。\n\n#### 4. 第四阶段：主动构建创意数据包\n- 💡 **核心思路**：主动补充“灵感闪现”类数据，破解样本不足导致的创意固化问题。\n- 🔧 **操作步骤**：\n  1. 向Gemini输入提示词：“故事优点做到了，但是不同创作之间的随机性不够，我想要xx、xxx、xx每次都随机，你帮我做一个30个选题策划吧，并且按照SABC倒序排列”；\n  2. AI生成数据包《30个选题策划案》（全称为《30个〈汪汪队拯救植物〉新选题策划》）。\n- 📋 《30个选题策划案》核心信息：\n  - **设计基础**：基于2.0创作指南的“游乐场”理念，重点挖掘“怪癖”与“反转”。\n  - **等级说明**：\n    - S级（3-4个）：脑洞极大，情节反转极具喜剧效果，完美契合“无厘头+神反转”的核心哲学。\n    - A级（8-10个）：角色性格鲜明，故事结构稳健，有可靠的搞笑效果。\n    - B级（12-15个）：较为标准的“交作业级”故事，趣味性尚可但逻辑稍弱。\n    - C级（3-5个）：相对直白或重复性较高，适合作为填充选题。\n  - **选题示例**：包含《汪汪队拯救大蒜》《汪汪队拯救大葱花》《汪汪队拯救小蘑菇》等，每篇均具备完整的“起承转合”结构与独特的角色设定。\n- 📊 **阶段成果**：用《指南》+《4篇范文》+《随机策划案》三者结合让AI创作，最终效果几乎能100%临摹讲述者的水平，同时具备源源不断的脑洞和创意，经常带来意外惊喜，整体达到80分、又好又灵活的状态。\n- ✨ **最终效果**：讲述者的儿子基本拥有了一个“无限创意、能讲各种花样精彩故事”的爸爸。\n---\n### 📊 AI故事创作迭代过程总结\n\n| 阶段 | 升级配置 | 最终效果评分 |\n|------|----------|--------------|\n| 第一阶段 | 简单200字提示词 | 非常差，30分以下 |\n| 第二阶段 | 提示词 + 《案例集》 | 50分，有点形似 |\n| 第三阶段 | 提示词 + 《案例集》 + 《指南》 | 65分，容易固化 |\n| 第四阶段 | 提示词 + 《案例集》 + 《指南》 + 《创意库》 | 80分，又好又灵活 |\n\n### 💡 案例核心启示\n\n该案例是讲述者一年来几十个AI数据实践案例中最小的一个，核心目的是降低新人学习门槛，让学习者直观感受到：AI数据的价值并非仅存在于大型企业或专业场景中，即使是生活里的微小需求，通过有意识地积累、结构化、萃取建模、补充创意数据的迭代流程，也能产生显著的价值提升，从而建立对“AI数据价值”的真实体感。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "221515466",
+        "name": "Obsidian",
+        "type": "ai"
+      },
+      {
+        "id": "575071879",
+        "name": "AI数据应用",
+        "type": "ai"
+      },
+      {
+        "id": "575071880",
+        "name": "内容创作实践",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-03 08:59:11",
+    "updated_at": "2026-08-03 08:59:11"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1917400908850984200,
+        "note_id": "1917400908850984208",
+        "title": "AI数据价值体感与睡前故事案例实践全记录",
+        "content": "### 📌 系列课整体框架\n\n课程作为AI数据系列课的认知篇开篇，核心目标是消除学习者的两大卡点：**缺少体感**与**存在傲慢**，整体分为四个部分，最后辅以复习总结。\n- 🎯 **第一部分：有体感**\n  - 通过3个从小到大的案例，帮助学习者建立对“AI数据非常值钱”的基本价值体感，避免抽象认知。\n- 🧠 **第二部分：破傲慢**\n  - 针对多数人认为“自己熟悉数据资产与数据分析”的学习卡点，讲解AI数据带来的底层变化，破除认知傲慢。\n- 🏗️ **第三部分：建体系（重头戏）**\n  - 面对纷繁复杂的AI分析工作流，提供一套全新的**“AI数据工作框架”**，帮助学习者消除认知盲区、实现能力积累复利。\n- 🚀 **第四部分：开始练**\n  - 作为认知篇收尾，给出初步执行建议与策略，提供可长期修炼的**“AI数据高手段位图”**。\n- 📝 **结尾复习**\n  - 重新梳理并深化对“AI数据资产”概念的理解。\n---\n### 📖 个人小案例：我的AI睡前故事\n\n本案例是课程中用于建立数据价值体感的最小生活化案例，完整还原了从“创意枯竭”到“用AI数据实现无限创意”的全过程。\n\n#### 1. 案例背景与初始困境\n- 👨‍👦 **场景设定**：讲述者工作繁忙，偶尔在家陪7岁儿子睡觉，会讲20-30分钟的睡前故事，以此增进哄睡体验与父子关系。\n- 🎨 **故事风格**：儿子喜欢《植物大战僵尸》和《汪汪队》，因此故事为两大IP的杂交版本（如《汪汪队拯救豌豆射手》），要求情节生动、有反转、有趣味、有悬念。\n- ❌ **初始困境**：讲了三四个故事后创意枯竭，既要保持角色特殊性，又要每次有新意和不同反转，个人知识储备难以为继。\n- 🤖 **首次AI尝试失败**：尝试用豆包直接讲故事或生成策划案，仅用一两百字提示词描述想法，结果输出质量非常差，不及个人水平的一半。\n\n#### 2. 第二阶段：积累原始案例集\n- 💡 **核心思路**：将自己讲的优质故事转化为结构化数据，作为AI学习的参考样本。\n- 🔧 **操作步骤**：\n  1. 用手机录制自己讲的20-30分钟故事音频；\n  2. 用AI将逐字稿去除语气词、提纯，转化为干净的故事文稿；\n  3. 为每篇故事标记【起承转合】结构；\n  4. 陆续攒下四五篇满意的故事，全部转为Markdown格式；\n  5. 在Obsidian中建立名为《植物大战僵尸宇宙》的文件夹，统一存放所有故事文稿。\n- 🛠️ **工具说明**：\n  - **Obsidian**：既是Markdown编辑器，也是知识管理软件，支持将文件以Markdown格式存储在本地硬盘，可构建本地知识库，便于与Cherry Studio、OpenClaw等软件协同使用。\n- 📊 **阶段成果**：将4篇范文作为第一波数据包，让AI临摹风格创作新故事，输出质量大幅提升，乍看很像样，但**发挥极不稳定**：内容随机、时而飘忽而死板、上下衔接存在诸多问题，整体约50分水平。\n\n#### 3. 第三阶段：萃取建模形成指南\n- 💡 **核心思路**：光有原始数据不够，需要从案例中提炼底层规律，建立创作模型。\n- 🔧 **操作步骤**：\n  1. 面对Gemini输入提示词：“这是我写的几个故事，未来我想百分百复刻这个水平，你帮我建个模，我之前讲故事的大概思路是xxx”；\n  2. Gemini输出完整的《故事创作指南2.0（Gemini版）》。\n- 📋 《故事创作指南》核心框架：\n  - **核心理念升级**：从“模板”到“游乐场”，目标从100%复刻成功公式，升级为打造“充满无限可能的游乐场”，打破僵硬模板，引入真正的创造力、幽默感与不可预测的惊喜。\n  - **2.0版核心创作哲学**：\n    1. **“缺点”变“亮点”**：不将缺点视为瑕疵，而是角色的“怪癖”“爱好”或“与众不同之处”，作为故事引爆点（笑点），该特点可通过反差甚至荒诞带来效果，最终以意想不到的方式解决问题。\n    2. **“反转”是灵魂**：针对儿童故事，惊喜和反转是抓住孩子注意力的关键，需引导AI在情节、角色和解决方案中设置巧妙、符合儿童心理的转折。\n    3. **“偷懒”是诱饵**：语言的诙谐、情节的荒诞、角色的滑稽是2.0版故事的必备元素，让孩子在紧张情节中会心一笑，甚至捧腹大笑。\n  - **趣味性增强模块：“幽默工具箱”**：包含角色塑造的幽默感、情节设计的反转魅力、语言风格的趣味性等子模块，用于全方位提升故事的生动性。\n  - **AI创作指令模板（2.0版）**：提供标准化的提示词框架，保障AI输出质量的稳定性。\n- 📊 **阶段成果**：用《指南》+《4篇范文》让AI创作新故事，质量进一步提升，达到个人功力的七八成（约65分），但测试一两篇后发现**套路固化、情节重合、内容无趣**，故事均陷入“胆小/内向/发现潜力/找家长/英雄之旅”的固定模式，如同八股文。\n- 🔍 **问题诊断**：属于典型的**案例数量不足导致的过拟合问题**——若有40篇范文或许能总结出优质指南，但仅靠4篇样本量远远不够，而积累40篇需要一两年时间。\n\n#### 4. 第四阶段：主动构建创意数据包\n- 💡 **核心思路**：主动补充“灵感闪现”类数据，破解样本不足导致的创意固化问题。\n- 🔧 **操作步骤**：\n  1. 向Gemini输入提示词：“故事优点做到了，但是不同创作之间的随机性不够，我想要xx、xxx、xx每次都随机，你帮我做一个30个选题策划吧，并且按照SABC倒序排列”；\n  2. AI生成数据包《30个选题策划案》（全称为《30个〈汪汪队拯救植物〉新选题策划》）。\n- 📋 《30个选题策划案》核心信息：\n  - **设计基础**：基于2.0创作指南的“游乐场”理念，重点挖掘“怪癖”与“反转”。\n  - **等级说明**：\n    - S级（3-4个）：脑洞极大，情节反转极具喜剧效果，完美契合“无厘头+神反转”的核心哲学。\n    - A级（8-10个）：角色性格鲜明，故事结构稳健，有可靠的搞笑效果。\n    - B级（12-15个）：较为标准的“交作业级”故事，趣味性尚可但逻辑稍弱。\n    - C级（3-5个）：相对直白或重复性较高，适合作为填充选题。\n  - **选题示例**：包含《汪汪队拯救大蒜》《汪汪队拯救大葱花》《汪汪队拯救小蘑菇》等，每篇均具备完整的“起承转合”结构与独特的角色设定。\n- 📊 **阶段成果**：用《指南》+《4篇范文》+《随机策划案》三者结合让AI创作，最终效果几乎能100%临摹讲述者的水平，同时具备源源不断的脑洞和创意，经常带来意外惊喜，整体达到80分、又好又灵活的状态。\n- ✨ **最终效果**：讲述者的儿子基本拥有了一个“无限创意、能讲各种花样精彩故事”的爸爸。\n---\n### 📊 AI故事创作迭代过程总结\n\n| 阶段 | 升级配置 | 最终效果评分 |\n|------|----------|--------------|\n| 第一阶段 | 简单200字提示词 | 非常差，30分以下 |\n| 第二阶段 | 提示词 + 《案例集》 | 50分，有点形似 |\n| 第三阶段 | 提示词 + 《案例集》 + 《指南》 | 65分，容易固化 |\n| 第四阶段 | 提示词 + 《案例集》 + 《指南》 + 《创意库》 | 80分，又好又灵活 |\n\n### 💡 案例核心启示\n\n该案例是讲述者一年来几十个AI数据实践案例中最小的一个，核心目的是降低新人学习门槛，让学习者直观感受到：AI数据的价值并非仅存在于大型企业或专业场景中，即使是生活里的微小需求，通过有意识地积累、结构化、萃取建模、补充创意数据的迭代流程，也能产生显著的价值提升，从而建立对“AI数据价值”的真实体感。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "221515466",
+            "name": "Obsidian",
+            "type": "ai"
+          },
+          {
+            "id": "575071879",
+            "name": "AI数据应用",
+            "type": "ai"
+          },
+          {
+            "id": "575071880",
+            "name": "内容创作实践",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9ed00001f68nUy5lFaH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=eeinper8tW5vT72jrO2wut0ooJg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9ed00001f68nUy5lFaH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=wYq2%2B8hhud6hyfLbEzNy%2F8mxDLk%3D",
+            "title": "image.png",
+            "size": 235469
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9eec0001f68Xoh1KiCo.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mPQ%2BQ8OQXUNolebi%2B%2FFNxB2fExw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9eec0001f68Xoh1KiCo.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=lEhXh5TS%2BlNjHUzA%2Boa7%2BPeIW1o%3D",
+            "title": "image.png",
+            "size": 480598
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f1c01202c88qAcqs5r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=gPQL%2FEEHutgnvCVFqen8GpF8D8c%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f1c01202c88qAcqs5r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jrxjmHDXXQ3XsY42da%2FRhgFaN3g%3D",
+            "title": "image.png",
+            "size": 415854
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f4002202c8HK2d3UY3.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=MKjFGlI9JwQ3lk40E2tO4wLIzBQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f4002202c8HK2d3UY3.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=FKGJ8TerHc7d3xBP0JYb9%2FBeAjM%3D",
+            "title": "image.png",
+            "size": 392461
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f6801291a8UGTrteqF.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=u4XUB8MCOWUx2jRNqRgidKyzzW4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f6801291a8UGTrteqF.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=XJ8%2BCVT03Xpu4fYTwjHSglHwmb8%3D",
+            "title": "image.png",
+            "size": 521197
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f7803202c8gmQkCIHy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1JhFcm537jeOH46Z0TKjfJpGh3c%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f7803202c8gmQkCIHy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=DZqW%2BY4%2FXukA9SVTPboPU6gsVSk%3D",
+            "title": "image.png",
+            "size": 81109
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "v7pK2P1vReqK6",
+        "version": 1,
+        "created_at": "2026-08-03 08:59:11",
+        "updated_at": "2026-08-03 08:59:11"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1791681994
+    },
+    "request_id": "101ed12037032001"
+  },
+  "detail": {
+    "id": 1917400908850984200,
+    "note_id": "1917400908850984208",
+    "title": "AI数据价值体感与睡前故事案例实践全记录",
+    "content": "### 📌 系列课整体框架\n\n课程作为AI数据系列课的认知篇开篇，核心目标是消除学习者的两大卡点：**缺少体感**与**存在傲慢**，整体分为四个部分，最后辅以复习总结。\n- 🎯 **第一部分：有体感**\n  - 通过3个从小到大的案例，帮助学习者建立对“AI数据非常值钱”的基本价值体感，避免抽象认知。\n- 🧠 **第二部分：破傲慢**\n  - 针对多数人认为“自己熟悉数据资产与数据分析”的学习卡点，讲解AI数据带来的底层变化，破除认知傲慢。\n- 🏗️ **第三部分：建体系（重头戏）**\n  - 面对纷繁复杂的AI分析工作流，提供一套全新的**“AI数据工作框架”**，帮助学习者消除认知盲区、实现能力积累复利。\n- 🚀 **第四部分：开始练**\n  - 作为认知篇收尾，给出初步执行建议与策略，提供可长期修炼的**“AI数据高手段位图”**。\n- 📝 **结尾复习**\n  - 重新梳理并深化对“AI数据资产”概念的理解。\n---\n### 📖 个人小案例：我的AI睡前故事\n\n本案例是课程中用于建立数据价值体感的最小生活化案例，完整还原了从“创意枯竭”到“用AI数据实现无限创意”的全过程。\n\n#### 1. 案例背景与初始困境\n- 👨‍👦 **场景设定**：讲述者工作繁忙，偶尔在家陪7岁儿子睡觉，会讲20-30分钟的睡前故事，以此增进哄睡体验与父子关系。\n- 🎨 **故事风格**：儿子喜欢《植物大战僵尸》和《汪汪队》，因此故事为两大IP的杂交版本（如《汪汪队拯救豌豆射手》），要求情节生动、有反转、有趣味、有悬念。\n- ❌ **初始困境**：讲了三四个故事后创意枯竭，既要保持角色特殊性，又要每次有新意和不同反转，个人知识储备难以为继。\n- 🤖 **首次AI尝试失败**：尝试用豆包直接讲故事或生成策划案，仅用一两百字提示词描述想法，结果输出质量非常差，不及个人水平的一半。\n\n#### 2. 第二阶段：积累原始案例集\n- 💡 **核心思路**：将自己讲的优质故事转化为结构化数据，作为AI学习的参考样本。\n- 🔧 **操作步骤**：\n  1. 用手机录制自己讲的20-30分钟故事音频；\n  2. 用AI将逐字稿去除语气词、提纯，转化为干净的故事文稿；\n  3. 为每篇故事标记【起承转合】结构；\n  4. 陆续攒下四五篇满意的故事，全部转为Markdown格式；\n  5. 在Obsidian中建立名为《植物大战僵尸宇宙》的文件夹，统一存放所有故事文稿。\n- 🛠️ **工具说明**：\n  - **Obsidian**：既是Markdown编辑器，也是知识管理软件，支持将文件以Markdown格式存储在本地硬盘，可构建本地知识库，便于与Cherry Studio、OpenClaw等软件协同使用。\n- 📊 **阶段成果**：将4篇范文作为第一波数据包，让AI临摹风格创作新故事，输出质量大幅提升，乍看很像样，但**发挥极不稳定**：内容随机、时而飘忽而死板、上下衔接存在诸多问题，整体约50分水平。\n\n#### 3. 第三阶段：萃取建模形成指南\n- 💡 **核心思路**：光有原始数据不够，需要从案例中提炼底层规律，建立创作模型。\n- 🔧 **操作步骤**：\n  1. 面对Gemini输入提示词：“这是我写的几个故事，未来我想百分百复刻这个水平，你帮我建个模，我之前讲故事的大概思路是xxx”；\n  2. Gemini输出完整的《故事创作指南2.0（Gemini版）》。\n- 📋 《故事创作指南》核心框架：\n  - **核心理念升级**：从“模板”到“游乐场”，目标从100%复刻成功公式，升级为打造“充满无限可能的游乐场”，打破僵硬模板，引入真正的创造力、幽默感与不可预测的惊喜。\n  - **2.0版核心创作哲学**：\n    1. **“缺点”变“亮点”**：不将缺点视为瑕疵，而是角色的“怪癖”“爱好”或“与众不同之处”，作为故事引爆点（笑点），该特点可通过反差甚至荒诞带来效果，最终以意想不到的方式解决问题。\n    2. **“反转”是灵魂**：针对儿童故事，惊喜和反转是抓住孩子注意力的关键，需引导AI在情节、角色和解决方案中设置巧妙、符合儿童心理的转折。\n    3. **“偷懒”是诱饵**：语言的诙谐、情节的荒诞、角色的滑稽是2.0版故事的必备元素，让孩子在紧张情节中会心一笑，甚至捧腹大笑。\n  - **趣味性增强模块：“幽默工具箱”**：包含角色塑造的幽默感、情节设计的反转魅力、语言风格的趣味性等子模块，用于全方位提升故事的生动性。\n  - **AI创作指令模板（2.0版）**：提供标准化的提示词框架，保障AI输出质量的稳定性。\n- 📊 **阶段成果**：用《指南》+《4篇范文》让AI创作新故事，质量进一步提升，达到个人功力的七八成（约65分），但测试一两篇后发现**套路固化、情节重合、内容无趣**，故事均陷入“胆小/内向/发现潜力/找家长/英雄之旅”的固定模式，如同八股文。\n- 🔍 **问题诊断**：属于典型的**案例数量不足导致的过拟合问题**——若有40篇范文或许能总结出优质指南，但仅靠4篇样本量远远不够，而积累40篇需要一两年时间。\n\n#### 4. 第四阶段：主动构建创意数据包\n- 💡 **核心思路**：主动补充“灵感闪现”类数据，破解样本不足导致的创意固化问题。\n- 🔧 **操作步骤**：\n  1. 向Gemini输入提示词：“故事优点做到了，但是不同创作之间的随机性不够，我想要xx、xxx、xx每次都随机，你帮我做一个30个选题策划吧，并且按照SABC倒序排列”；\n  2. AI生成数据包《30个选题策划案》（全称为《30个〈汪汪队拯救植物〉新选题策划》）。\n- 📋 《30个选题策划案》核心信息：\n  - **设计基础**：基于2.0创作指南的“游乐场”理念，重点挖掘“怪癖”与“反转”。\n  - **等级说明**：\n    - S级（3-4个）：脑洞极大，情节反转极具喜剧效果，完美契合“无厘头+神反转”的核心哲学。\n    - A级（8-10个）：角色性格鲜明，故事结构稳健，有可靠的搞笑效果。\n    - B级（12-15个）：较为标准的“交作业级”故事，趣味性尚可但逻辑稍弱。\n    - C级（3-5个）：相对直白或重复性较高，适合作为填充选题。\n  - **选题示例**：包含《汪汪队拯救大蒜》《汪汪队拯救大葱花》《汪汪队拯救小蘑菇》等，每篇均具备完整的“起承转合”结构与独特的角色设定。\n- 📊 **阶段成果**：用《指南》+《4篇范文》+《随机策划案》三者结合让AI创作，最终效果几乎能100%临摹讲述者的水平，同时具备源源不断的脑洞和创意，经常带来意外惊喜，整体达到80分、又好又灵活的状态。\n- ✨ **最终效果**：讲述者的儿子基本拥有了一个“无限创意、能讲各种花样精彩故事”的爸爸。\n---\n### 📊 AI故事创作迭代过程总结\n\n| 阶段 | 升级配置 | 最终效果评分 |\n|------|----------|--------------|\n| 第一阶段 | 简单200字提示词 | 非常差，30分以下 |\n| 第二阶段 | 提示词 + 《案例集》 | 50分，有点形似 |\n| 第三阶段 | 提示词 + 《案例集》 + 《指南》 | 65分，容易固化 |\n| 第四阶段 | 提示词 + 《案例集》 + 《指南》 + 《创意库》 | 80分，又好又灵活 |\n\n### 💡 案例核心启示\n\n该案例是讲述者一年来几十个AI数据实践案例中最小的一个，核心目的是降低新人学习门槛，让学习者直观感受到：AI数据的价值并非仅存在于大型企业或专业场景中，即使是生活里的微小需求，通过有意识地积累、结构化、萃取建模、补充创意数据的迭代流程，也能产生显著的价值提升，从而建立对“AI数据价值”的真实体感。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "221515466",
+        "name": "Obsidian",
+        "type": "ai"
+      },
+      {
+        "id": "575071879",
+        "name": "AI数据应用",
+        "type": "ai"
+      },
+      {
+        "id": "575071880",
+        "name": "内容创作实践",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9ed00001f68nUy5lFaH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=eeinper8tW5vT72jrO2wut0ooJg%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9ed00001f68nUy5lFaH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=wYq2%2B8hhud6hyfLbEzNy%2F8mxDLk%3D",
+        "title": "image.png",
+        "size": 235469
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9eec0001f68Xoh1KiCo.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mPQ%2BQ8OQXUNolebi%2B%2FFNxB2fExw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9eec0001f68Xoh1KiCo.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=lEhXh5TS%2BlNjHUzA%2Boa7%2BPeIW1o%3D",
+        "title": "image.png",
+        "size": 480598
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f1c01202c88qAcqs5r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=gPQL%2FEEHutgnvCVFqen8GpF8D8c%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f1c01202c88qAcqs5r.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jrxjmHDXXQ3XsY42da%2FRhgFaN3g%3D",
+        "title": "image.png",
+        "size": 415854
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f4002202c8HK2d3UY3.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=MKjFGlI9JwQ3lk40E2tO4wLIzBQ%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030858%2Fgetnotes_img_1a9bf9f4002202c8HK2d3UY3.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=FKGJ8TerHc7d3xBP0JYb9%2FBeAjM%3D",
+        "title": "image.png",
+        "size": 392461
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f6801291a8UGTrteqF.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=u4XUB8MCOWUx2jRNqRgidKyzzW4%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f6801291a8UGTrteqF.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=XJ8%2BCVT03Xpu4fYTwjHSglHwmb8%3D",
+        "title": "image.png",
+        "size": 521197
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f7803202c8gmQkCIHy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=1JhFcm537jeOH46Z0TKjfJpGh3c%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030859%2Fgetnotes_img_1a9bf9f7803202c8gmQkCIHy.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=DZqW%2BY4%2FXukA9SVTPboPU6gsVSk%3D",
+        "title": "image.png",
+        "size": 81109
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "v7pK2P1vReqK6",
+    "version": 1,
+    "created_at": "2026-08-03 08:59:11",
+    "updated_at": "2026-08-03 08:59:11"
+  },
+  "original": null
+}

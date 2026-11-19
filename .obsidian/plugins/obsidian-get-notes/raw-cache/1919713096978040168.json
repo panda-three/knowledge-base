@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1919713096978040168",
+    "display_title": "局域网内共享特定网址访问",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-28T07:08:42+08:00",
+      "edited_at": "2026-08-28T07:09:07.944+08:00",
+      "record_updated_at": "2026-08-28T07:09:07.951+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1919713096978040000,
+    "note_id": "1919713096978040168",
+    "title": "局域网内共享特定网址访问",
+    "content": "在局域网内，其他电脑可以访问我的电脑，并能访问我电脑上固定的某个网址。这样，局域网内的其他电脑就无需连接外部网络。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "586977230",
+        "name": "技术",
+        "type": "ai"
+      },
+      {
+        "id": "586977231",
+        "name": "网络共享",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-28 07:08:42",
+    "updated_at": "2026-08-28 07:09:07"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1919713096978040168",
+        "display_title": "局域网内共享特定网址访问",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-08-28T07:08:42+08:00",
+          "edited_at": "2026-08-28T07:09:07.944+08:00",
+          "record_updated_at": "2026-08-28T07:09:07.951+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1919713096978040000,
+        "note_id": "1919713096978040168",
+        "title": "局域网内共享特定网址访问",
+        "content": "在局域网内，其他电脑可以访问我的电脑，并能访问我电脑上固定的某个网址。这样，局域网内的其他电脑就无需连接外部网络。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "586977230",
+            "name": "技术",
+            "type": "ai"
+          },
+          {
+            "id": "586977231",
+            "name": "网络共享",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202608280708%2Fnotesaudio_1aa430e28021bd98SfeCPcGu.mp3?Expires=1793004274&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=KWeM3Xz8mS1A8%2FF7kgnCQ%2BpnRhM%3D",
+            "title": "",
+            "duration": 14328
+          }
+        ],
+        "audio": {
+          "original": "局域网下面能够访问我的电脑，并且能够访问我电脑里面固定的某个网址。这样的话，局域网里面其他电脑就不用联网了。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "7gvwVPXAMrLOB",
+        "version": 5,
+        "created_at": "2026-08-28 07:08:42",
+        "updated_at": "2026-08-28 07:09:07"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572274,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c1546df43f001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1919713096978040168",
+    "display_title": "局域网内共享特定网址访问",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-08-28T07:08:42+08:00",
+      "edited_at": "2026-08-28T07:09:07.944+08:00",
+      "record_updated_at": "2026-08-28T07:09:07.951+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1919713096978040000,
+    "note_id": "1919713096978040168",
+    "title": "局域网内共享特定网址访问",
+    "content": "在局域网内，其他电脑可以访问我的电脑，并能访问我电脑上固定的某个网址。这样，局域网内的其他电脑就无需连接外部网络。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "586977230",
+        "name": "技术",
+        "type": "ai"
+      },
+      {
+        "id": "586977231",
+        "name": "网络共享",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202608280708%2Fnotesaudio_1aa430e28021bd98SfeCPcGu.mp3?Expires=1793004274&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=KWeM3Xz8mS1A8%2FF7kgnCQ%2BpnRhM%3D",
+        "title": "",
+        "duration": 14328
+      }
+    ],
+    "audio": {
+      "original": "局域网下面能够访问我的电脑，并且能够访问我电脑里面固定的某个网址。这样的话，局域网里面其他电脑就不用联网了。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "7gvwVPXAMrLOB",
+    "version": 5,
+    "created_at": "2026-08-28 07:08:42",
+    "updated_at": "2026-08-28 07:09:07"
+  },
+  "original": "局域网下面能够访问我的电脑，并且能够访问我电脑里面固定的某个网址。这样的话，局域网里面其他电脑就不用联网了。"
+}

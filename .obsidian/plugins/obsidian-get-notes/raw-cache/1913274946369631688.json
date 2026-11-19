@@ -1,0 +1,175 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913274946369631688",
+    "display_title": "保持对 AI 的想象力",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T21:35:40+08:00",
+      "edited_at": "2026-06-19T21:35:51.071+08:00",
+      "record_updated_at": "2026-06-19T21:35:51.075+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913274946369631700,
+    "note_id": "1913274946369631688",
+    "title": "保持对 AI 的想象力",
+    "content": "要对 AI 充满极大的想象力。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-19 21:35:40",
+    "updated_at": "2026-06-19 21:35:51"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913274946369631688",
+        "display_title": "保持对 AI 的想象力",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-19T21:35:40+08:00",
+          "edited_at": "2026-06-19T21:35:51.071+08:00",
+          "record_updated_at": "2026-06-19T21:35:51.075+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913274946369631700,
+        "note_id": "1913274946369631688",
+        "title": "保持对 AI 的想象力",
+        "content": "要对 AI 充满极大的想象力。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606192135%2Fnotesaudio_1a8d516c80002a38SxeVaSRf.mp3?Expires=1793004571&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2B7bbS3X66YfDcNeQgiOFGXU0pGg%3D",
+            "title": "",
+            "duration": 4572
+          }
+        ],
+        "audio": {
+          "original": "要对 AI 充满极大的想象力。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "6gB6Oee1yNlal",
+        "version": 5,
+        "created_at": "2026-06-19 21:35:40",
+        "updated_at": "2026-06-19 21:35:51"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572571,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16688fa52002"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913274946369631688",
+    "display_title": "保持对 AI 的想象力",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-19T21:35:40+08:00",
+      "edited_at": "2026-06-19T21:35:51.071+08:00",
+      "record_updated_at": "2026-06-19T21:35:51.075+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913274946369631700,
+    "note_id": "1913274946369631688",
+    "title": "保持对 AI 的想象力",
+    "content": "要对 AI 充满极大的想象力。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606192135%2Fnotesaudio_1a8d516c80002a38SxeVaSRf.mp3?Expires=1793004571&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2B7bbS3X66YfDcNeQgiOFGXU0pGg%3D",
+        "title": "",
+        "duration": 4572
+      }
+    ],
+    "audio": {
+      "original": "要对 AI 充满极大的想象力。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "6gB6Oee1yNlal",
+    "version": 5,
+    "created_at": "2026-06-19 21:35:40",
+    "updated_at": "2026-06-19 21:35:51"
+  },
+  "original": "要对 AI 充满极大的想象力。"
+}

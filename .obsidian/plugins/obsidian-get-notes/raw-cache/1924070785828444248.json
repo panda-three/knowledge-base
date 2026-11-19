@@ -1,0 +1,175 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1924070785828444248",
+    "display_title": "无内容",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-10-14T06:29:18.999+08:00",
+      "edited_at": "2026-10-14T06:29:20.795+08:00",
+      "record_updated_at": "2026-10-14T06:29:20.801+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1924070785828444200,
+    "note_id": "1924070785828444248",
+    "title": "无内容",
+    "content": "未识别到有效内容，仅有唤醒词“小度小度”。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-10-14 06:29:18",
+    "updated_at": "2026-10-14 06:29:20"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1924070785828444248",
+        "display_title": "无内容",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-10-14T06:29:18.999+08:00",
+          "edited_at": "2026-10-14T06:29:20.795+08:00",
+          "record_updated_at": "2026-10-14T06:29:20.801+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1924070785828444200,
+        "note_id": "1924070785828444248",
+        "title": "无内容",
+        "content": "未识别到有效内容，仅有唤醒词“小度小度”。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202610140629%2Fnotesaudio_1ab3ac2d810418103oXyM4Wu.mp3?Expires=1793003995&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=fbPzjXAun3ZmsBRM5WhvD%2FvoR5Q%3D",
+            "title": "",
+            "duration": 3132
+          }
+        ],
+        "audio": {
+          "original": "小度小度。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "rBzogPXPjnd7a",
+        "version": 4,
+        "created_at": "2026-10-14 06:29:18",
+        "updated_at": "2026-10-14 06:29:20"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792571995,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c14360b2d2001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1924070785828444248",
+    "display_title": "无内容",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-10-14T06:29:18.999+08:00",
+      "edited_at": "2026-10-14T06:29:20.795+08:00",
+      "record_updated_at": "2026-10-14T06:29:20.801+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1924070785828444200,
+    "note_id": "1924070785828444248",
+    "title": "无内容",
+    "content": "未识别到有效内容，仅有唤醒词“小度小度”。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202610140629%2Fnotesaudio_1ab3ac2d810418103oXyM4Wu.mp3?Expires=1793003995&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=fbPzjXAun3ZmsBRM5WhvD%2FvoR5Q%3D",
+        "title": "",
+        "duration": 3132
+      }
+    ],
+    "audio": {
+      "original": "小度小度。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "rBzogPXPjnd7a",
+    "version": 4,
+    "created_at": "2026-10-14 06:29:18",
+    "updated_at": "2026-10-14 06:29:20"
+  },
+  "original": "小度小度。"
+}

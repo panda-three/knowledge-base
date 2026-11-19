@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1913285812636781928",
+    "display_title": "AI系统自运转与想象力激发",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-20T00:24:10+08:00",
+      "edited_at": "2026-06-20T00:24:32.19+08:00",
+      "record_updated_at": "2026-06-20T00:24:32.196+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1913285812636781800,
+    "note_id": "1913285812636781928",
+    "title": "AI系统自运转与想象力激发",
+    "content": "下面的重点是回到AI的最底层，思考如何让这个系统实现自我运转，并持续发挥想象力。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182753722",
+        "name": "AI",
+        "type": "ai"
+      },
+      {
+        "id": "552284666",
+        "name": "系统自运转",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-20 00:24:10",
+    "updated_at": "2026-06-20 00:24:32"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1913285812636781928",
+        "display_title": "AI系统自运转与想象力激发",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-20T00:24:10+08:00",
+          "edited_at": "2026-06-20T00:24:32.19+08:00",
+          "record_updated_at": "2026-06-20T00:24:32.196+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1913285812636781800,
+        "note_id": "1913285812636781928",
+        "title": "AI系统自运转与想象力激发",
+        "content": "下面的重点是回到AI的最底层，思考如何让这个系统实现自我运转，并持续发挥想象力。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "182753722",
+            "name": "AI",
+            "type": "ai"
+          },
+          {
+            "id": "552284666",
+            "name": "系统自运转",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606200024%2Fnotesaudio_1a8d5b4d8004e158lWuZAy6w.mp3?Expires=1793004551&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2BHeaWXCWHwT2VSYHPI6%2B2pNKxtw%3D",
+            "title": "",
+            "duration": 11448
+          }
+        ],
+        "audio": {
+          "original": "下面的时间都要回到 AI 的最底层，如何让这个系统进行自运转，不停的发挥自己的想象力。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMlWvBV8lBld",
+        "version": 5,
+        "created_at": "2026-06-20 00:24:10",
+        "updated_at": "2026-06-20 00:24:32"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572551,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c165507432001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1913285812636781928",
+    "display_title": "AI系统自运转与想象力激发",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-20T00:24:10+08:00",
+      "edited_at": "2026-06-20T00:24:32.19+08:00",
+      "record_updated_at": "2026-06-20T00:24:32.196+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1913285812636781800,
+    "note_id": "1913285812636781928",
+    "title": "AI系统自运转与想象力激发",
+    "content": "下面的重点是回到AI的最底层，思考如何让这个系统实现自我运转，并持续发挥想象力。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "182753722",
+        "name": "AI",
+        "type": "ai"
+      },
+      {
+        "id": "552284666",
+        "name": "系统自运转",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606200024%2Fnotesaudio_1a8d5b4d8004e158lWuZAy6w.mp3?Expires=1793004551&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=%2BHeaWXCWHwT2VSYHPI6%2B2pNKxtw%3D",
+        "title": "",
+        "duration": 11448
+      }
+    ],
+    "audio": {
+      "original": "下面的时间都要回到 AI 的最底层，如何让这个系统进行自运转，不停的发挥自己的想象力。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMlWvBV8lBld",
+    "version": 5,
+    "created_at": "2026-06-20 00:24:10",
+    "updated_at": "2026-06-20 00:24:32"
+  },
+  "original": "下面的时间都要回到 AI 的最底层，如何让这个系统进行自运转，不停的发挥自己的想象力。"
+}

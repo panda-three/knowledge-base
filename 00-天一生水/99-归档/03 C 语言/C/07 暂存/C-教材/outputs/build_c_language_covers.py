@@ -1,0 +1,296 @@
+from html import escape
+from pathlib import Path
+
+from openpyxl import load_workbook
+
+
+ROOT = Path(__file__).resolve().parents[1]
+SOURCE = ROOT / "实验2班成绩.xlsx"
+OUTPUT = ROOT / "outputs" / "实验2班_C语言寄语封面.html"
+
+
+MESSAGES = {
+    "仲曼如": "你在 C 语言理论学习中展现出的稳定与锋芒非常难得。希望你继续保持这份认真与敏锐，把每一个知识点都想透、学透，也愿你一直站在班级前列，成为同学们学习时可以仰望的榜样。",
+    "刘沙沙": "你的成绩说明你已经能较好地抓住 C 语言的主干。希望你继续保持这种稳健的节奏，在细节上再精一点、在理解上再深一点，也愿你把这份踏实和自律一直延续下去。",
+    "刘金秋": "你已经跨过了 C 语言学习中很重要的一道门槛：能理解知识点，也能分析题意。希望你继续把优势稳稳守住，在课堂上始终保持专注和思考，也愿你把这份优秀持续到更远的地方。",
+    "陆思伟": "学习 C 语言的路上，基础薄一点并不代表不能追上来。希望你先把课堂例题和基础题重新整理一遍，把每一步都弄明白；只要肯坚持，后面会越来越有方向。",
+    "梁旭阳": "你在 C 语言这门课上有不错的理解力，也有继续向上的空间。请把易错点整理成自己的清单，反复检查题意、判断条件和循环规则；真正的提升，往往就藏在这些看似普通的地方。",
+    "王静茹": "你的成绩已经说明你具备继续突破的基础。希望你继续把每一个知识点都学得扎实、想得明白，把这种认真和稳定保持下去，也愿你一直是老师心里很放心、很亮眼的学生。",
+    "耿晗": "你在 C 语言学习中保持了较好的节奏。接下来可以把重点放在综合理解上：看到题目先分析条件关系，再判断涉及选择、循环还是数组；思路稳了，答案自然会更稳。",
+    "范贵阳": "你的表现说明你对 C 语言知识点掌握得比较均衡。希望你继续在细节上打磨自己，特别是分号、括号、变量初始化这些基础环节；基础越干净，后面的题目越不容易拖住你。",
+    "董博": "这门课对你来说还有不少地方需要慢慢补齐，但这正说明你还有很大的成长空间。先把最基础的语法和题型抓稳，一题一题写完整，今天多懂一点，明天就会轻松一点。",
+    "胡玉蝶": "你的 C 语言成绩体现出认真积累的效果。希望你继续保持这种稳步前进的状态，多梳理数组、循环嵌套和函数概念，把单个知识点连接成完整的理解框架。",
+    "于嘉旺": "这段学习路上你还会遇到不少卡点，但不要急着否定自己。先把基础题反复练熟，把每一个小知识点都补上，慢一点没关系，稳住了就会越来越好。",
+    "王涵": "你的基础已经能够支撑更高层次的学习。希望你分析题目时多问一句：这个变量代表什么，这个循环条件对应什么含义；当你能解释清楚每一步思路，进步就会很明显。",
+    "孙浩铭": "现在更重要的是把信心一点点建立起来。请先从最基础的例题开始，耐心把每个步骤写出来、改一遍、再巩固一遍；你会发现，很多困难其实都能被练习化解。",
+    "丁志茹": "你的成绩说明你已经具备继续提升的基础。希望你把平时练习中的小错误记录下来，尤其是格式要求、数据类型和判断条件；这些小地方一旦稳定，整体表现会更上一层。",
+    "周志刚": "你现在要做的不是着急追赶别人，而是把自己的节奏稳下来。把课堂内容一点点补实，把错过的地方重新过一遍，只要坚持，变化一定会慢慢出现。",
+    "荣光辉": "你的 C 语言学习有基础，也有可提升的余地。希望你继续把数组、循环和条件判断的概念理解熟，不急于跳过基础题；基础题越稳，难题才越有入口。",
+    "周帅": "你已经掌握了 C 语言的不少核心内容。希望你继续保持这份扎实和自觉，把理论知识学得更系统、更透彻，也愿你始终带着这份沉稳和自律，在班级里稳稳走在前面。",
+    "马鑫国": "基础薄一点并不可怕，怕的是不愿意重新开始。你只要愿意把最基本的知识重新捡起来，慢慢练、反复练，就一定会一点点找到感觉。",
+    "丁秋园": "现在最需要的是耐心和坚持。先别急着看结果，把每次练习都当成一次补课，把不会的地方记下来再回头复习，进步会在不知不觉里发生。",
+    "张浩田": "你已经在路上了，只是节奏还需要再稳一点。请把简单题做扎实，把每次错误都认真改掉，慢慢积累起来，你会比现在更从容。",
+    "张佳城": "你的 C 语言学习已经有了基本框架。接下来要把知识点之间的联系建立起来，遇到题目先想条件、处理关系和结果要求；结构清楚了，判断就不容易乱。",
+    "杨欢欢": "你已经具备继续提升的基础。希望你不要只停留在看懂答案，而是坚持把题目思路重新梳理一遍；从看懂到会分析，中间差的正是这一次次复盘。",
+    "蒋甜甜": "你的成绩说明你在 C 语言上有一定积累。下一阶段请多关注题目中的隐藏条件，比如范围、次数、特殊值；能把边界想完整，答案就会更可靠。",
+    "袁嘉乐": "别着急，先把基础一步一步补上。你现在最重要的是保持练习，把不会的内容拆开学、拆开练，慢慢来，反而更容易走稳。",
+    "范奥同": "你的 C 语言学习处在可以继续向上突破的位置。希望你把每次练习后的错误原因写清楚，是审题问题、语法问题还是思路问题；分清问题，进步才会更快。",
+    "祁斌": "你已经掌握了一部分 C 语言基础。后面请多做完整题目分析，从读题、找条件到确定结果要求都自己梳理；完整走完一次思考流程，比零散记知识点更有效。",
+    "魏书琪": "你的成绩说明基础还需要继续加固，但已经有了可继续推进的起点。希望你把常见语法、循环结构和数组概念每天保持一点复习，慢慢把不确定变成确定。",
+    "毛俊杰": "你已经有一定基础，但还需要更主动地查漏补缺。请把错题按知识点分类，尤其关注循环、数组和函数概念；当薄弱处被逐个补上，成绩会出现更清楚的变化。",
+    "姜春林": "你的 C 语言学习需要把基础再压实一些。建议你先稳住基本语法和常见题型，不急着追难题；把简单题理解透、记熟，就是后来突破的根。",
+    "张家乐": "这门课对你来说还需要更多时间去熟悉，但这不代表你做不到。只要你愿意持续练习、认真订正，每一次小小的坚持都会变成往前的一步。",
+    "张雨馨": "你的 C 语言基础还有提升空间，但这并不妨碍你继续往前。请把复习内容拆小，每天解决一个具体问题，比如一次只梳理循环或数组；小步坚持，会比一次性用力更可靠。",
+    "徐蜜": "先不要急着看最终分数，先把基础补起来。每天进步一点点，哪怕只是多理解一道题、多改正一个错误，累积起来也会很有力量。",
+    "赵自然": "你的成绩提醒我们，接下来要先把基础题稳住。请不要急着追求复杂题，先把变量、表达式、if 语句和 for 循环的概念理清楚；基础清楚了，后面的路会轻很多。",
+    "王思怡": "C 语言对你来说还有不少需要补上的地方，但起点已经在这里。希望你从最基本的概念结构开始，一题一题看清条件和要求；只要肯坚持，知识点会慢慢从陌生变熟悉。",
+    "陈欣茹": "你接下来最重要的是建立信心和节奏。每天固定复习几道基础题，把错误记录下来再理解一遍；C 语言理论不是靠看过就会的，而是靠反复梳理出来的。",
+    "吴文达": "你的 C 语言基础还需要继续夯实。建议你先抓住输入、输出、判断、循环这四类理论要点，把每个环节都理到不慌；能稳住基础，就能看到变化。",
+    "周好": "这次成绩说明你还有较大的提升空间。希望你从最基础的语法和理论结构重新梳理，不怕慢，也不要跳步；只要每次复习都比上一次更清楚，就是有效进步。",
+    "汪靖哲": "你需要给 C 语言学习建立一个更稳定的复习节奏。请先把课堂例题重新理解一遍，再做同类型题；从熟悉概念到理清思路，是你接下来最值得坚持的方向。",
+    "靳舒雅": "C 语言目前对你来说还比较吃力，但可以从最小的题目开始突破。先保证理解基本格式和简单判断，再逐步梳理循环结构；一步稳，一步进。",
+    "胡远": "这次成绩提醒你，基础复习要尽快开始。请把时间用在最核心的知识点上：变量、运算、选择结构和循环结构；每补上一块基础，后面的内容就少一分陌生。",
+    "方欣冉": "你现在最需要的是把基础重新搭起来。不要害怕从简单题开始，能把一个知识点真正理解清楚，就是向前的一步；坚持把每道错题改到真正明白，进步会慢慢出现。",
+    "赵健为": "你在班级里一直是很靠前的位置，这说明你的学习能力和自我要求都很强。希望你继续保持这份优秀，把每一个知识点都学得更深、更透，也愿你未来能一直朝着更高、更稳的方向走下去。",
+}
+
+
+def main():
+    wb = load_workbook(SOURCE, data_only=True)
+    ws = wb.active
+    students = []
+    for row in ws.iter_rows(min_row=2, values_only=True):
+        no, name, score = row[:3]
+        if name and str(name) != "唐天宇":
+            students.append({"no": no, "name": str(name), "score": score})
+
+    missing = [s["name"] for s in students if s["name"] not in MESSAGES]
+    if missing:
+        raise ValueError(f"缺少寄语: {missing}")
+
+    cards = []
+    for index, student in enumerate(students, 1):
+        name = escape(student["name"])
+        message = escape(MESSAGES[student["name"]])
+        cards.append(
+            f"""
+    <section class="cover">
+      <div class="corner corner-a"></div>
+      <div class="corner corner-b"></div>
+      <div class="cover-inner">
+        <header class="topline">
+          <span>实验 2 班</span>
+          <span>C 语言课程寄语</span>
+        </header>
+        <main class="content">
+          <p class="eyebrow">To {name}</p>
+          <h1>{name}</h1>
+          <div class="message">
+            <span class="quote-mark">“</span>
+            <p>{message}</p>
+          </div>
+        </main>
+        <footer class="footer">
+          <span>愿你把理解写进积累，也把坚持写进成长。</span>
+        </footer>
+      </div>
+    </section>"""
+        )
+
+    html = f"""<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>实验2班 C语言课程寄语封面</title>
+  <style>
+    * {{
+      box-sizing: border-box;
+    }}
+
+    :root {{
+      --ink: #17324d;
+      --paper: #f7f0df;
+      --green: #2e6b5f;
+      --gold: #d9a441;
+      --red: #bd4b3b;
+      --line: rgba(23, 50, 77, 0.18);
+    }}
+
+    body {{
+      margin: 0;
+      background: #1d2630;
+      color: var(--ink);
+      font-family: "Noto Serif SC", "Songti SC", "SimSun", serif;
+    }}
+
+    .cover {{
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto 18px;
+      padding: 15mm;
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(135deg, rgba(46, 107, 95, 0.13), transparent 42%),
+        linear-gradient(315deg, rgba(189, 75, 59, 0.11), transparent 44%),
+        repeating-linear-gradient(0deg, rgba(23, 50, 77, 0.035) 0 1px, transparent 1px 7px),
+        var(--paper);
+      page-break-after: always;
+      break-after: page;
+    }}
+
+    .cover::before {{
+      content: "";
+      position: absolute;
+      inset: 9mm;
+      border: 1.4px solid var(--line);
+      pointer-events: none;
+    }}
+
+    .cover::after {{
+      content: "C";
+      position: absolute;
+      right: -5mm;
+      bottom: -31mm;
+      font-size: 182mm;
+      line-height: 1;
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 700;
+      color: rgba(23, 50, 77, 0.055);
+      pointer-events: none;
+    }}
+
+    .corner {{
+      position: absolute;
+      width: 48mm;
+      height: 48mm;
+      border: 2px solid rgba(217, 164, 65, 0.55);
+    }}
+
+    .corner-a {{
+      top: 9mm;
+      left: 9mm;
+      border-right: 0;
+      border-bottom: 0;
+    }}
+
+    .corner-b {{
+      right: 9mm;
+      bottom: 9mm;
+      border-left: 0;
+      border-top: 0;
+    }}
+
+    .cover-inner {{
+      min-height: 267mm;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      z-index: 1;
+    }}
+
+    .topline,
+    .footer {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: rgba(23, 50, 77, 0.72);
+      font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-size: 12px;
+      letter-spacing: 0;
+    }}
+
+    .topline {{
+      padding-bottom: 9mm;
+      border-bottom: 1px solid var(--line);
+    }}
+
+    .content {{
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 12mm 8mm 10mm;
+    }}
+
+    .eyebrow {{
+      margin: 0 0 7mm;
+      color: var(--red);
+      font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0;
+    }}
+
+    h1 {{
+      margin: 0;
+      font-size: 54px;
+      line-height: 1.05;
+      letter-spacing: 0;
+      font-weight: 800;
+    }}
+
+    .message {{
+      margin-top: 20mm;
+      display: grid;
+      grid-template-columns: 20mm 1fr;
+      gap: 5mm;
+      align-items: start;
+    }}
+
+    .quote-mark {{
+      color: var(--gold);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 76px;
+      line-height: 0.85;
+    }}
+
+    .message p {{
+      margin: 0;
+      max-width: 132mm;
+      font-size: 24px;
+      line-height: 1.86;
+      text-align: justify;
+    }}
+
+    .footer {{
+      padding-top: 9mm;
+      border-top: 1px solid var(--line);
+    }}
+
+    @page {{
+      size: A4;
+      margin: 0;
+    }}
+
+    @media print {{
+      body {{
+        background: white;
+      }}
+
+      .cover {{
+        margin: 0;
+        box-shadow: none;
+      }}
+    }}
+
+    @media screen {{
+      .cover {{
+        box-shadow: 0 18px 55px rgba(0, 0, 0, 0.28);
+      }}
+    }}
+  </style>
+</head>
+<body>
+{''.join(cards)}
+</body>
+</html>
+"""
+    OUTPUT.write_text(html, encoding="utf-8")
+    print(OUTPUT)
+    print(f"students={len(students)}")
+
+
+if __name__ == "__main__":
+    main()

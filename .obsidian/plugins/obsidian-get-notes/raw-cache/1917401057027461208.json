@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "id": 1917401057027461000,
+    "note_id": "1917401057027461208",
+    "title": "AI时代数据价值的变化与6+1数据价值提升策略",
+    "content": "### 📌 主流观点引入\n\n有一类普遍且主流的观点认为：\n- 数据是“新时代的石油”这一说法并不新鲜，在互联网时代数据就已经是“石油”、是“资产”，属于常识。\n- 数据的价值不局限于AI领域，IT系统、互联网、大数据、数字化等概念已经被多轮提及。\n- AI所用的数据在本质上和传统数据没有区别，没有必要单独提出研究。\n\n### 🔄 AI时代数据价值场景的巨变（出口变了）\n\n#### 传统互联网时代的数据角色\n- **数据服务对象**：过去积攒的用户行为数据、日志数据、财务数据等（如点击、停留数据），投喂给IT系统分析后，归根结底是**给人看的**。\n- **价值模式**：人类通过阅读数据发现规律，更懂用户与商业，进而做出正确决策，属于稳定、高确定性的**“查字典”模式**。\n\n#### AI时代的数据角色转变\n- **数据服务对象**：海量数据不再服务于IT系统、存储在数据库中，而是成为**“AI吃的食材”**，最终服务于大语言模型（LLM），作为上下文、训练材料与决策参考。\n- **价值模式**：如果传统IT数据是“查字典”，AI数据就像**“给教材”**——如同培养聪明的名校实习生，需要提供教材、例题、考卷、错题本，以及班规和反馈。\n- **角色反转**：数据不再是被动躺在报表里的结果，而是驱动AI Agent执行下一步任务的**“Prompt（提示词）”和“运行时的上下文”**，这是传统数据分析和BI从业者需要完成的心态转型。\n- **评估方式转型**：数据使用出口的变化，导致评估数据好坏的方法发生了根本性转变。\n\n### 💰 AI时代数据成本的变化（成本变了）\n\n#### 传统数据处理的高门槛\n\n过去数据的搜集、处理、组织难度极高，需要依靠人工或IT团队整理、建模、分析，往往需要专业团队和大笔预算才能完成数据清洗处理。\n\n#### AI带来的成本降低（数据全链条门槛全面下降）\n\nAI可以全面参与数据的采集、分类、清洗、萃取、分类使用，形成新的AI飞轮：\n- 🎙️ **AI辅助采集**：各种AI录音、录像工具。\n- ✍️ **AI辅助处理**：转写、摘要、OCR、分类、标注。\n- 🧩 **AI辅助建模**：萃取、建模、整理Checklist。\n- 📊 **AI辅助复盘**：自动收集事实、自动对比错误、自动监控迭代。\n\n#### 实际案例与影响\n- 过去数据标注预算需500-1000万，有了AI自动化后，成本压缩到5万以内的算力成本。\n- 数据库中沉睡多年、被认为无用的数据，在AI赋能后变得极具价值。\n- 过去需要组建专业数据分析团队，现在借助AI进行数据洞察挖掘，效果可超过年薪百万的BI专家。\n- 结论：只要思路打开，现在几乎人人都可以拥有一个“专业的AI数据团队”。\n\n### 🎯 6+1（六步一横）AI数据关键策略\n\n为覆盖几乎所有AI数据难题和主要矛盾，提炼出数据价值提升的核心节点与合规策略，关键词简化为：**预判、识别、收集、处理、使用、反馈**，外加**治理（合规治理）**。\n\n#### 六步数据价值提升节点\n\n| 步骤 | 名称 | 核心内容 |\n|------|------|----------|\n| 1 | **预判** | 思考未来，以终为始，思考数据长期的场景和价值。 |\n| 2 | **识别** | 分析现在，识别数据，明确哪些数据值得关注及优先级。 |\n| 3 | **收集** | 及时采集，收集入湖，主动获取数据、确保可追溯。 |\n| 4 | **处理** | 专业处理，清洗萃取，转化成AI可用的高质量数据。 |\n| 5 | **使用** | 真正落地，回到场景，使用数据真正实现商业价值。 |\n| 6 | **反馈** | 结果评估，信息回流，回到起点迭代形成反馈飞轮。 |\n\n#### 核心原则\n- 里程碑的意义：从前往后一步步推理，从后往前一层层剥离。\n- 风险提示：每一步丢失都是盲区，每跳过一步都可能有系统性硬伤。\n\n#### 一横：治理（合规治理）\n\n为保证数据的安全可控，符合基本的法律伦理，需要在整个数据系统的各个环节加固护栏，即合规治理策略。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575072847",
+        "name": "AI数据价值",
+        "type": "ai"
+      },
+      {
+        "id": "575072848",
+        "name": "数据治理",
+        "type": "ai"
+      },
+      {
+        "id": "575072849",
+        "name": "大语言模型（LLM）",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-08-03 09:01:29",
+    "updated_at": "2026-08-03 09:01:29"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1917401057027461000,
+        "note_id": "1917401057027461208",
+        "title": "AI时代数据价值的变化与6+1数据价值提升策略",
+        "content": "### 📌 主流观点引入\n\n有一类普遍且主流的观点认为：\n- 数据是“新时代的石油”这一说法并不新鲜，在互联网时代数据就已经是“石油”、是“资产”，属于常识。\n- 数据的价值不局限于AI领域，IT系统、互联网、大数据、数字化等概念已经被多轮提及。\n- AI所用的数据在本质上和传统数据没有区别，没有必要单独提出研究。\n\n### 🔄 AI时代数据价值场景的巨变（出口变了）\n\n#### 传统互联网时代的数据角色\n- **数据服务对象**：过去积攒的用户行为数据、日志数据、财务数据等（如点击、停留数据），投喂给IT系统分析后，归根结底是**给人看的**。\n- **价值模式**：人类通过阅读数据发现规律，更懂用户与商业，进而做出正确决策，属于稳定、高确定性的**“查字典”模式**。\n\n#### AI时代的数据角色转变\n- **数据服务对象**：海量数据不再服务于IT系统、存储在数据库中，而是成为**“AI吃的食材”**，最终服务于大语言模型（LLM），作为上下文、训练材料与决策参考。\n- **价值模式**：如果传统IT数据是“查字典”，AI数据就像**“给教材”**——如同培养聪明的名校实习生，需要提供教材、例题、考卷、错题本，以及班规和反馈。\n- **角色反转**：数据不再是被动躺在报表里的结果，而是驱动AI Agent执行下一步任务的**“Prompt（提示词）”和“运行时的上下文”**，这是传统数据分析和BI从业者需要完成的心态转型。\n- **评估方式转型**：数据使用出口的变化，导致评估数据好坏的方法发生了根本性转变。\n\n### 💰 AI时代数据成本的变化（成本变了）\n\n#### 传统数据处理的高门槛\n\n过去数据的搜集、处理、组织难度极高，需要依靠人工或IT团队整理、建模、分析，往往需要专业团队和大笔预算才能完成数据清洗处理。\n\n#### AI带来的成本降低（数据全链条门槛全面下降）\n\nAI可以全面参与数据的采集、分类、清洗、萃取、分类使用，形成新的AI飞轮：\n- 🎙️ **AI辅助采集**：各种AI录音、录像工具。\n- ✍️ **AI辅助处理**：转写、摘要、OCR、分类、标注。\n- 🧩 **AI辅助建模**：萃取、建模、整理Checklist。\n- 📊 **AI辅助复盘**：自动收集事实、自动对比错误、自动监控迭代。\n\n#### 实际案例与影响\n- 过去数据标注预算需500-1000万，有了AI自动化后，成本压缩到5万以内的算力成本。\n- 数据库中沉睡多年、被认为无用的数据，在AI赋能后变得极具价值。\n- 过去需要组建专业数据分析团队，现在借助AI进行数据洞察挖掘，效果可超过年薪百万的BI专家。\n- 结论：只要思路打开，现在几乎人人都可以拥有一个“专业的AI数据团队”。\n\n### 🎯 6+1（六步一横）AI数据关键策略\n\n为覆盖几乎所有AI数据难题和主要矛盾，提炼出数据价值提升的核心节点与合规策略，关键词简化为：**预判、识别、收集、处理、使用、反馈**，外加**治理（合规治理）**。\n\n#### 六步数据价值提升节点\n\n| 步骤 | 名称 | 核心内容 |\n|------|------|----------|\n| 1 | **预判** | 思考未来，以终为始，思考数据长期的场景和价值。 |\n| 2 | **识别** | 分析现在，识别数据，明确哪些数据值得关注及优先级。 |\n| 3 | **收集** | 及时采集，收集入湖，主动获取数据、确保可追溯。 |\n| 4 | **处理** | 专业处理，清洗萃取，转化成AI可用的高质量数据。 |\n| 5 | **使用** | 真正落地，回到场景，使用数据真正实现商业价值。 |\n| 6 | **反馈** | 结果评估，信息回流，回到起点迭代形成反馈飞轮。 |\n\n#### 核心原则\n- 里程碑的意义：从前往后一步步推理，从后往前一层层剥离。\n- 风险提示：每一步丢失都是盲区，每跳过一步都可能有系统性硬伤。\n\n#### 一横：治理（合规治理）\n\n为保证数据的安全可控，符合基本的法律伦理，需要在整个数据系统的各个环节加固护栏，即合规治理策略。",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "575072847",
+            "name": "AI数据价值",
+            "type": "ai"
+          },
+          {
+            "id": "575072848",
+            "name": "数据治理",
+            "type": "ai"
+          },
+          {
+            "id": "575072849",
+            "name": "大语言模型（LLM）",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1480801f68YvuxmChW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VvB2MpdQz8%2B%2ByfTTFar83Mi%2FlhU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1480801f68YvuxmChW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ypBDQnT2MKmitbn3UYeiXzdYGZ8%3D",
+            "title": "image.png",
+            "size": 87845
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1600801f68ve6S3vFC.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=kCQlz6uBcChu3KNnM2Who1q1QCY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1600801f68ve6S3vFC.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=nlvkvABrRDK4gfFMO4mgCqS7iKY%3D",
+            "title": "image.png",
+            "size": 637656
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa17801a91a8GrCxkYnH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SzD3EZu8ZGkb75diHSL4%2BPfeMF0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa17801a91a8GrCxkYnH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2BMynKUsXQ3w7unxJPkbpRjFR6yc%3D",
+            "title": "image.png",
+            "size": 510112
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1a001291a8w61Swo57.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=i%2F20CNOvdhsIFgYq%2FJdlOsnpzHk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1a001291a8w61Swo57.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=9604V467ye6uAxf8dDSJVGoy%2FXk%3D",
+            "title": "image.png",
+            "size": 333260
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "v7pK2PJaAAemA",
+        "version": 1,
+        "created_at": "2026-08-03 09:01:29",
+        "updated_at": "2026-08-03 09:01:29"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1791681990
+    },
+    "request_id": "101ed11d0943f001"
+  },
+  "detail": {
+    "id": 1917401057027461000,
+    "note_id": "1917401057027461208",
+    "title": "AI时代数据价值的变化与6+1数据价值提升策略",
+    "content": "### 📌 主流观点引入\n\n有一类普遍且主流的观点认为：\n- 数据是“新时代的石油”这一说法并不新鲜，在互联网时代数据就已经是“石油”、是“资产”，属于常识。\n- 数据的价值不局限于AI领域，IT系统、互联网、大数据、数字化等概念已经被多轮提及。\n- AI所用的数据在本质上和传统数据没有区别，没有必要单独提出研究。\n\n### 🔄 AI时代数据价值场景的巨变（出口变了）\n\n#### 传统互联网时代的数据角色\n- **数据服务对象**：过去积攒的用户行为数据、日志数据、财务数据等（如点击、停留数据），投喂给IT系统分析后，归根结底是**给人看的**。\n- **价值模式**：人类通过阅读数据发现规律，更懂用户与商业，进而做出正确决策，属于稳定、高确定性的**“查字典”模式**。\n\n#### AI时代的数据角色转变\n- **数据服务对象**：海量数据不再服务于IT系统、存储在数据库中，而是成为**“AI吃的食材”**，最终服务于大语言模型（LLM），作为上下文、训练材料与决策参考。\n- **价值模式**：如果传统IT数据是“查字典”，AI数据就像**“给教材”**——如同培养聪明的名校实习生，需要提供教材、例题、考卷、错题本，以及班规和反馈。\n- **角色反转**：数据不再是被动躺在报表里的结果，而是驱动AI Agent执行下一步任务的**“Prompt（提示词）”和“运行时的上下文”**，这是传统数据分析和BI从业者需要完成的心态转型。\n- **评估方式转型**：数据使用出口的变化，导致评估数据好坏的方法发生了根本性转变。\n\n### 💰 AI时代数据成本的变化（成本变了）\n\n#### 传统数据处理的高门槛\n\n过去数据的搜集、处理、组织难度极高，需要依靠人工或IT团队整理、建模、分析，往往需要专业团队和大笔预算才能完成数据清洗处理。\n\n#### AI带来的成本降低（数据全链条门槛全面下降）\n\nAI可以全面参与数据的采集、分类、清洗、萃取、分类使用，形成新的AI飞轮：\n- 🎙️ **AI辅助采集**：各种AI录音、录像工具。\n- ✍️ **AI辅助处理**：转写、摘要、OCR、分类、标注。\n- 🧩 **AI辅助建模**：萃取、建模、整理Checklist。\n- 📊 **AI辅助复盘**：自动收集事实、自动对比错误、自动监控迭代。\n\n#### 实际案例与影响\n- 过去数据标注预算需500-1000万，有了AI自动化后，成本压缩到5万以内的算力成本。\n- 数据库中沉睡多年、被认为无用的数据，在AI赋能后变得极具价值。\n- 过去需要组建专业数据分析团队，现在借助AI进行数据洞察挖掘，效果可超过年薪百万的BI专家。\n- 结论：只要思路打开，现在几乎人人都可以拥有一个“专业的AI数据团队”。\n\n### 🎯 6+1（六步一横）AI数据关键策略\n\n为覆盖几乎所有AI数据难题和主要矛盾，提炼出数据价值提升的核心节点与合规策略，关键词简化为：**预判、识别、收集、处理、使用、反馈**，外加**治理（合规治理）**。\n\n#### 六步数据价值提升节点\n\n| 步骤 | 名称 | 核心内容 |\n|------|------|----------|\n| 1 | **预判** | 思考未来，以终为始，思考数据长期的场景和价值。 |\n| 2 | **识别** | 分析现在，识别数据，明确哪些数据值得关注及优先级。 |\n| 3 | **收集** | 及时采集，收集入湖，主动获取数据、确保可追溯。 |\n| 4 | **处理** | 专业处理，清洗萃取，转化成AI可用的高质量数据。 |\n| 5 | **使用** | 真正落地，回到场景，使用数据真正实现商业价值。 |\n| 6 | **反馈** | 结果评估，信息回流，回到起点迭代形成反馈飞轮。 |\n\n#### 核心原则\n- 里程碑的意义：从前往后一步步推理，从后往前一层层剥离。\n- 风险提示：每一步丢失都是盲区，每跳过一步都可能有系统性硬伤。\n\n#### 一横：治理（合规治理）\n\n为保证数据的安全可控，符合基本的法律伦理，需要在整个数据系统的各个环节加固护栏，即合规治理策略。",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "575072847",
+        "name": "AI数据价值",
+        "type": "ai"
+      },
+      {
+        "id": "575072848",
+        "name": "数据治理",
+        "type": "ai"
+      },
+      {
+        "id": "575072849",
+        "name": "大语言模型（LLM）",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1480801f68YvuxmChW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VvB2MpdQz8%2B%2ByfTTFar83Mi%2FlhU%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1480801f68YvuxmChW.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=ypBDQnT2MKmitbn3UYeiXzdYGZ8%3D",
+        "title": "image.png",
+        "size": 87845
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1600801f68ve6S3vFC.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=kCQlz6uBcChu3KNnM2Who1q1QCY%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1600801f68ve6S3vFC.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=nlvkvABrRDK4gfFMO4mgCqS7iKY%3D",
+        "title": "image.png",
+        "size": 637656
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa17801a91a8GrCxkYnH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=SzD3EZu8ZGkb75diHSL4%2BPfeMF0%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa17801a91a8GrCxkYnH.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=%2BMynKUsXQ3w7unxJPkbpRjFR6yc%3D",
+        "title": "image.png",
+        "size": 510112
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1a001291a8w61Swo57.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=i%2F20CNOvdhsIFgYq%2FJdlOsnpzHk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202608030901%2Fgetnotes_img_1a9bfa1a001291a8w61Swo57.png?Expires=1794273859&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=9604V467ye6uAxf8dDSJVGoy%2FXk%3D",
+        "title": "image.png",
+        "size": 333260
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "v7pK2PJaAAemA",
+    "version": 1,
+    "created_at": "2026-08-03 09:01:29",
+    "updated_at": "2026-08-03 09:01:29"
+  },
+  "original": null
+}

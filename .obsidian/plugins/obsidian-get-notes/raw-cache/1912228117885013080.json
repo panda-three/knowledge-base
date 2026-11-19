@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1912228117885013080",
+    "display_title": "任务管理拟公司化运营",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-08T14:46:35+08:00",
+      "edited_at": "2026-06-08T14:46:56.227+08:00",
+      "record_updated_at": "2026-06-08T14:46:56.232+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1912228117885013000,
+    "note_id": "1912228117885013080",
+    "title": "任务管理拟公司化运营",
+    "content": "把任务管理做成公司形式，以公司老板的名义督促员工完成工作。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "545867865",
+        "name": "任务管理",
+        "type": "ai"
+      },
+      {
+        "id": "545867866",
+        "name": "公司运营",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-08 14:46:35",
+    "updated_at": "2026-06-08 14:46:56"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1912228117885013080",
+        "display_title": "任务管理拟公司化运营",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-06-08T14:46:35+08:00",
+          "edited_at": "2026-06-08T14:46:56.227+08:00",
+          "record_updated_at": "2026-06-08T14:46:56.232+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1912228117885013000,
+        "note_id": "1912228117885013080",
+        "title": "任务管理拟公司化运营",
+        "content": "把任务管理做成公司形式，以公司老板的名义督促员工完成工作。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "545867865",
+            "name": "任务管理",
+            "type": "ai"
+          },
+          {
+            "id": "545867866",
+            "name": "公司运营",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202606081446%2Fnotesaudio_1a89995600151bc0DXyHE94m.mp3?Expires=1793004677&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=cNlagloFh91m3BYTf8PjCnkoLZQ%3D",
+            "title": "",
+            "duration": 12096
+          }
+        ],
+        "audio": {
+          "original": "把任务管理做成公司形式，以公司老板的名义逼员工干活。",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "XJzMzjVn4V63d",
+        "version": 5,
+        "created_at": "2026-06-08 14:46:35",
+        "updated_at": "2026-06-08 14:46:56"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572677,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c16d028253001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1912228117885013080",
+    "display_title": "任务管理拟公司化运营",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-06-08T14:46:35+08:00",
+      "edited_at": "2026-06-08T14:46:56.227+08:00",
+      "record_updated_at": "2026-06-08T14:46:56.232+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1912228117885013000,
+    "note_id": "1912228117885013080",
+    "title": "任务管理拟公司化运营",
+    "content": "把任务管理做成公司形式，以公司老板的名义督促员工完成工作。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "545867865",
+        "name": "任务管理",
+        "type": "ai"
+      },
+      {
+        "id": "545867866",
+        "name": "公司运营",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202606081446%2Fnotesaudio_1a89995600151bc0DXyHE94m.mp3?Expires=1793004677&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=cNlagloFh91m3BYTf8PjCnkoLZQ%3D",
+        "title": "",
+        "duration": 12096
+      }
+    ],
+    "audio": {
+      "original": "把任务管理做成公司形式，以公司老板的名义逼员工干活。",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "XJzMzjVn4V63d",
+    "version": 5,
+    "created_at": "2026-06-08 14:46:35",
+    "updated_at": "2026-06-08 14:46:56"
+  },
+  "original": "把任务管理做成公司形式，以公司老板的名义逼员工干活。"
+}

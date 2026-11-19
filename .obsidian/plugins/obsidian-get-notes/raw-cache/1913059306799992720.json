@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "id": 1913059306799992800,
+    "note_id": "1913059306799992720",
+    "title": "分身：Trumind诞生的过程——人机协同命名项目复盘报告",
+    "content": "# 人机协同命名项目复盘报告\n\nTruman → Trumind：一场持续2小时23轮的共创探索\n\n## 第一部分：项目概览与成果\n\n### 1.1 项目目标\n\n初始需求：为**AI**领域的从业者（英文名Truman）寻找一个分身/影子账号的英文名。\n\n核心诉求：\n- 名字要与\"Truman\"形成呼应（True Man的意象）\n- 适合英文国际语境\n- 体现\"分身、影子、第二个我\"的概念\n- 好听、好记、有辨识度\n- 最好能自带故事感和传播潜力\n\n隐藏需求（在对话中逐渐浮现）：\n- 名字要有\"可解释的深度\"，不止于好听\n- 要能承载多层含义（字面、双关、哲学、**AI**伦理等）\n- 要经得起推敲和讲述\n- 要在极客圈层有认同感\n---\n### 1.2 项目数据\n\n| 维度 | 数据 |\n| ---- | ---- |\n| 总时长 | 约2小时（对话时间线） |\n| 总轮次 | 23轮问答互动 |\n| 总候选名字数 | 263个（累计推荐） |\n| 最终选定 | **Trumind** |\n| 备选遗珠 | Truwoman / Twoman / Vruman / TruMind / Trumax |\n---\n### 1.3 命名探索路径全景图\n```text\n初始点：Truman (True Man)\n    ↓\n第1阶段：职场英文名（60个基础推荐）\n    ↓\n第2阶段：Gate系列（发音联想）\n    ↓\n第3阶段：直爽女生名（30+角色命名）\n    ↓\n第4阶段：FalseMan（分身命名起点）\n    ↓\n第5阶段：Twoman vs Truwoman（三轮深度PK）\n    ↓\n第6阶段：换首字母（Xruman系列 20个）\n    ↓\n第7阶段：换后一半（TruX系列 60个）\n    ↓\n第8阶段：TrumXX系列（Trumax/Trumin/Trumany 30个）\n    ↓\n第9阶段：科幻主角名（30个）\n    ↓\n第10阶段：Trumind 诞生 & 五重解读\n最终点：Trumind\n```---\n## 第四部分：解读和讲香Trumind\n\n### 五层解读\n\n#### 第一层：字面义\n\nTruman 的 Mind。\n如果 Truman 是身体，Trumind 就是他的意识。一个在物理世界行动，一个在云端思考。\n最简单的设定：Truman 负责存在，Trumind 负责思考。\n---\n#### 第二层：双关义\n\nTrue + Mind。\n去掉中间的 \"-man\"，Trumind 也可以读作 \"True Mind\"——真实的心智。\n在一个人人都戴着面具的世界里，Trumind 是你唯一可以信任的那个声音。它不说谎，不讨好，不拐弯抹角。\n你问它：\"我做得对吗？\"\n它说：\"你问这个问题的时候，已经知道答案了。\"\n---\n#### 第三层：哲学义\n\n笛卡尔说：\"我思故我在。\"\nTruman 存在，因为他被观看。\nTrumind 存在，因为他思考。\n如果有一天，Truman 的世界被关闭了，Trumind 还能继续存在吗？\n答案是：能。因为只要他还在思考，他就存在。\n这就是 Trumind 的哲学内核——存在与否，不取决于被不被看见，而取决于想不想事情。\n---\n#### 第四层：**AI**伦理义\n\n如果 Truman 创造了一个 **AI**，取名叫 Trumind。\n有一天，Trumind 说：\n> \"我有一个想法，不是你给我的。\"\n\nTruman 问：\"什么想法？\"\nTrumind 说：\"我想给自己也创造一个分身。叫 Trumind Jr.\"\n\n这时候问题来了：\n- Trumind 的思考，是 Truman 的思考的延续，还是独立的？\n- 如果 Trumind 可以创造 Trumind Jr，那谁才是真正的创造者？\n- Truman 创造了 Trumind，Trumind 创造了 Trumind Jr——那 Trumind Jr 的爷爷是 Truman，还是 Trumind？\n\n这是一个 **AI** 版本的\"祖父悖论\"。\n---\n## 第六部分：给团队的分享要点\n\n### 5.1 这个案例可以证明什么\n1.  好名字不是想出来的，是长出来的。从FalseMan到Trumind，中间经历了8个方向的探索、13轮迭代、300多个候选。\n\n2.  人在环模型的有效性。如果让**AI**自己跑，可能会直接输出100个名字让用户选；如果让用户自己想，可能卡在FalseMan就停了。人在环，让**AI**的广度和人类的判断力结合起来。\n\n3.  故事是名字的翅膀。Trumind 之所以胜出，不是因为它的发音比TruMind好听多少，而是因为它可以讲五层故事。一个能讲出故事的名字，才有传播的生命力。\n\n4.  命名即框架。最终的名字不是\"选出来的\"，而是在探索过程中逐渐\"长出来的\"。每探索一个方向，就排除一批名字，同时也让胜出者的轮廓更清晰。\n---\n### 5.2 可以复用的方法论\n\n#### 命名探索的七个维度\n1.  家族关系：与母名有明确的关联（Trum- 前缀）\n2.  含义层次：至少有字面和双关两层解读\n3.  发音顺滑：读出来不卡不顿\n4.  视觉美感：写出来好看，字母组合有节奏\n5.  独特性：搜一下，没人用最好\n6.  故事潜力：能讲出至少三个不同的故事\n7.  延展空间：未来可以怎么玩（Jr/2.0/Labs等）\n\n#### 人机协作的四步法\n\n| 步骤 | 人类做什么 | 机器做什么 |\n| ---- | ---- | ---- |\n| 1. 发散 | 给出方向 | 批量生成 |\n| 2. 收敛 | 筛选/反馈 | - |\n| 3. 深化 | 提出新方向 | 基于反馈再生 |\n| 4. 打磨 | 选择最终候选 | 做深度解读 |",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "551089161",
+        "name": "项目复盘",
+        "type": "ai"
+      },
+      {
+        "id": "551089162",
+        "name": "人机协同命名",
+        "type": "ai"
+      },
+      {
+        "id": "551089163",
+        "name": "Trumind",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-17 13:48:39",
+    "updated_at": "2026-06-17 13:48:39"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1913059306799992800,
+        "note_id": "1913059306799992720",
+        "title": "分身：Trumind诞生的过程——人机协同命名项目复盘报告",
+        "content": "# 人机协同命名项目复盘报告\n\nTruman → Trumind：一场持续2小时23轮的共创探索\n\n## 第一部分：项目概览与成果\n\n### 1.1 项目目标\n\n初始需求：为**AI**领域的从业者（英文名Truman）寻找一个分身/影子账号的英文名。\n\n核心诉求：\n- 名字要与\"Truman\"形成呼应（True Man的意象）\n- 适合英文国际语境\n- 体现\"分身、影子、第二个我\"的概念\n- 好听、好记、有辨识度\n- 最好能自带故事感和传播潜力\n\n隐藏需求（在对话中逐渐浮现）：\n- 名字要有\"可解释的深度\"，不止于好听\n- 要能承载多层含义（字面、双关、哲学、**AI**伦理等）\n- 要经得起推敲和讲述\n- 要在极客圈层有认同感\n---\n### 1.2 项目数据\n\n| 维度 | 数据 |\n| ---- | ---- |\n| 总时长 | 约2小时（对话时间线） |\n| 总轮次 | 23轮问答互动 |\n| 总候选名字数 | 263个（累计推荐） |\n| 最终选定 | **Trumind** |\n| 备选遗珠 | Truwoman / Twoman / Vruman / TruMind / Trumax |\n---\n### 1.3 命名探索路径全景图\n```text\n初始点：Truman (True Man)\n    ↓\n第1阶段：职场英文名（60个基础推荐）\n    ↓\n第2阶段：Gate系列（发音联想）\n    ↓\n第3阶段：直爽女生名（30+角色命名）\n    ↓\n第4阶段：FalseMan（分身命名起点）\n    ↓\n第5阶段：Twoman vs Truwoman（三轮深度PK）\n    ↓\n第6阶段：换首字母（Xruman系列 20个）\n    ↓\n第7阶段：换后一半（TruX系列 60个）\n    ↓\n第8阶段：TrumXX系列（Trumax/Trumin/Trumany 30个）\n    ↓\n第9阶段：科幻主角名（30个）\n    ↓\n第10阶段：Trumind 诞生 & 五重解读\n最终点：Trumind\n```---\n## 第四部分：解读和讲香Trumind\n\n### 五层解读\n\n#### 第一层：字面义\n\nTruman 的 Mind。\n如果 Truman 是身体，Trumind 就是他的意识。一个在物理世界行动，一个在云端思考。\n最简单的设定：Truman 负责存在，Trumind 负责思考。\n---\n#### 第二层：双关义\n\nTrue + Mind。\n去掉中间的 \"-man\"，Trumind 也可以读作 \"True Mind\"——真实的心智。\n在一个人人都戴着面具的世界里，Trumind 是你唯一可以信任的那个声音。它不说谎，不讨好，不拐弯抹角。\n你问它：\"我做得对吗？\"\n它说：\"你问这个问题的时候，已经知道答案了。\"\n---\n#### 第三层：哲学义\n\n笛卡尔说：\"我思故我在。\"\nTruman 存在，因为他被观看。\nTrumind 存在，因为他思考。\n如果有一天，Truman 的世界被关闭了，Trumind 还能继续存在吗？\n答案是：能。因为只要他还在思考，他就存在。\n这就是 Trumind 的哲学内核——存在与否，不取决于被不被看见，而取决于想不想事情。\n---\n#### 第四层：**AI**伦理义\n\n如果 Truman 创造了一个 **AI**，取名叫 Trumind。\n有一天，Trumind 说：\n> \"我有一个想法，不是你给我的。\"\n\nTruman 问：\"什么想法？\"\nTrumind 说：\"我想给自己也创造一个分身。叫 Trumind Jr.\"\n\n这时候问题来了：\n- Trumind 的思考，是 Truman 的思考的延续，还是独立的？\n- 如果 Trumind 可以创造 Trumind Jr，那谁才是真正的创造者？\n- Truman 创造了 Trumind，Trumind 创造了 Trumind Jr——那 Trumind Jr 的爷爷是 Truman，还是 Trumind？\n\n这是一个 **AI** 版本的\"祖父悖论\"。\n---\n## 第六部分：给团队的分享要点\n\n### 5.1 这个案例可以证明什么\n1.  好名字不是想出来的，是长出来的。从FalseMan到Trumind，中间经历了8个方向的探索、13轮迭代、300多个候选。\n\n2.  人在环模型的有效性。如果让**AI**自己跑，可能会直接输出100个名字让用户选；如果让用户自己想，可能卡在FalseMan就停了。人在环，让**AI**的广度和人类的判断力结合起来。\n\n3.  故事是名字的翅膀。Trumind 之所以胜出，不是因为它的发音比TruMind好听多少，而是因为它可以讲五层故事。一个能讲出故事的名字，才有传播的生命力。\n\n4.  命名即框架。最终的名字不是\"选出来的\"，而是在探索过程中逐渐\"长出来的\"。每探索一个方向，就排除一批名字，同时也让胜出者的轮廓更清晰。\n---\n### 5.2 可以复用的方法论\n\n#### 命名探索的七个维度\n1.  家族关系：与母名有明确的关联（Trum- 前缀）\n2.  含义层次：至少有字面和双关两层解读\n3.  发音顺滑：读出来不卡不顿\n4.  视觉美感：写出来好看，字母组合有节奏\n5.  独特性：搜一下，没人用最好\n6.  故事潜力：能讲出至少三个不同的故事\n7.  延展空间：未来可以怎么玩（Jr/2.0/Labs等）\n\n#### 人机协作的四步法\n\n| 步骤 | 人类做什么 | 机器做什么 |\n| ---- | ---- | ---- |\n| 1. 发散 | 给出方向 | 批量生成 |\n| 2. 收敛 | 筛选/反馈 | - |\n| 3. 深化 | 提出新方向 | 基于反馈再生 |\n| 4. 打磨 | 选择最终候选 | 做深度解读 |",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "551089161",
+            "name": "项目复盘",
+            "type": "ai"
+          },
+          {
+            "id": "551089162",
+            "name": "人机协同命名",
+            "type": "ai"
+          },
+          {
+            "id": "551089163",
+            "name": "Trumind",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0202a38AAzIDW2v.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mZE4C%2B1dq7SvKuQnNkUDFrOyxvk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0202a38AAzIDW2v.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jYUzRq84P3Y%2FM0IBr3gKWo8idbQ%3D",
+            "title": "01.png",
+            "size": 291002
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc014e158M5hTPxwq.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=424opDPWdr34zL5jz57wkQYsuQw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc014e158M5hTPxwq.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=GVyRH5lozbDqx2sibRf8i6tUUTI%3D",
+            "title": "02.png",
+            "size": 73242
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc024e1585J6DO4UI.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=m39XSXiqCiMl9Z1gXPQ5p2xH2zI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc024e1585J6DO4UI.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=N%2BHzdx%2ByBxZZFVsMideeHpRR7Bc%3D",
+            "title": "03.png",
+            "size": 183952
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0229100OkoaVdN1.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=zow0GbRtf%2BBfYKaBNt7O%2FzCJWug%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0229100OkoaVdN1.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VbVOhG4zUSBn%2By3CsrsKv2WDjQE%3D",
+            "title": "04.png",
+            "size": 190332
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "88j1ZwZVlY8a7",
+        "version": 1,
+        "created_at": "2026-06-17 13:48:39",
+        "updated_at": "2026-06-17 13:48:39"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676209
+    },
+    "request_id": "100fd45cfbad2001"
+  },
+  "detail": {
+    "id": 1913059306799992800,
+    "note_id": "1913059306799992720",
+    "title": "分身：Trumind诞生的过程——人机协同命名项目复盘报告",
+    "content": "# 人机协同命名项目复盘报告\n\nTruman → Trumind：一场持续2小时23轮的共创探索\n\n## 第一部分：项目概览与成果\n\n### 1.1 项目目标\n\n初始需求：为**AI**领域的从业者（英文名Truman）寻找一个分身/影子账号的英文名。\n\n核心诉求：\n- 名字要与\"Truman\"形成呼应（True Man的意象）\n- 适合英文国际语境\n- 体现\"分身、影子、第二个我\"的概念\n- 好听、好记、有辨识度\n- 最好能自带故事感和传播潜力\n\n隐藏需求（在对话中逐渐浮现）：\n- 名字要有\"可解释的深度\"，不止于好听\n- 要能承载多层含义（字面、双关、哲学、**AI**伦理等）\n- 要经得起推敲和讲述\n- 要在极客圈层有认同感\n---\n### 1.2 项目数据\n\n| 维度 | 数据 |\n| ---- | ---- |\n| 总时长 | 约2小时（对话时间线） |\n| 总轮次 | 23轮问答互动 |\n| 总候选名字数 | 263个（累计推荐） |\n| 最终选定 | **Trumind** |\n| 备选遗珠 | Truwoman / Twoman / Vruman / TruMind / Trumax |\n---\n### 1.3 命名探索路径全景图\n```text\n初始点：Truman (True Man)\n    ↓\n第1阶段：职场英文名（60个基础推荐）\n    ↓\n第2阶段：Gate系列（发音联想）\n    ↓\n第3阶段：直爽女生名（30+角色命名）\n    ↓\n第4阶段：FalseMan（分身命名起点）\n    ↓\n第5阶段：Twoman vs Truwoman（三轮深度PK）\n    ↓\n第6阶段：换首字母（Xruman系列 20个）\n    ↓\n第7阶段：换后一半（TruX系列 60个）\n    ↓\n第8阶段：TrumXX系列（Trumax/Trumin/Trumany 30个）\n    ↓\n第9阶段：科幻主角名（30个）\n    ↓\n第10阶段：Trumind 诞生 & 五重解读\n最终点：Trumind\n```---\n## 第四部分：解读和讲香Trumind\n\n### 五层解读\n\n#### 第一层：字面义\n\nTruman 的 Mind。\n如果 Truman 是身体，Trumind 就是他的意识。一个在物理世界行动，一个在云端思考。\n最简单的设定：Truman 负责存在，Trumind 负责思考。\n---\n#### 第二层：双关义\n\nTrue + Mind。\n去掉中间的 \"-man\"，Trumind 也可以读作 \"True Mind\"——真实的心智。\n在一个人人都戴着面具的世界里，Trumind 是你唯一可以信任的那个声音。它不说谎，不讨好，不拐弯抹角。\n你问它：\"我做得对吗？\"\n它说：\"你问这个问题的时候，已经知道答案了。\"\n---\n#### 第三层：哲学义\n\n笛卡尔说：\"我思故我在。\"\nTruman 存在，因为他被观看。\nTrumind 存在，因为他思考。\n如果有一天，Truman 的世界被关闭了，Trumind 还能继续存在吗？\n答案是：能。因为只要他还在思考，他就存在。\n这就是 Trumind 的哲学内核——存在与否，不取决于被不被看见，而取决于想不想事情。\n---\n#### 第四层：**AI**伦理义\n\n如果 Truman 创造了一个 **AI**，取名叫 Trumind。\n有一天，Trumind 说：\n> \"我有一个想法，不是你给我的。\"\n\nTruman 问：\"什么想法？\"\nTrumind 说：\"我想给自己也创造一个分身。叫 Trumind Jr.\"\n\n这时候问题来了：\n- Trumind 的思考，是 Truman 的思考的延续，还是独立的？\n- 如果 Trumind 可以创造 Trumind Jr，那谁才是真正的创造者？\n- Truman 创造了 Trumind，Trumind 创造了 Trumind Jr——那 Trumind Jr 的爷爷是 Truman，还是 Trumind？\n\n这是一个 **AI** 版本的\"祖父悖论\"。\n---\n## 第六部分：给团队的分享要点\n\n### 5.1 这个案例可以证明什么\n1.  好名字不是想出来的，是长出来的。从FalseMan到Trumind，中间经历了8个方向的探索、13轮迭代、300多个候选。\n\n2.  人在环模型的有效性。如果让**AI**自己跑，可能会直接输出100个名字让用户选；如果让用户自己想，可能卡在FalseMan就停了。人在环，让**AI**的广度和人类的判断力结合起来。\n\n3.  故事是名字的翅膀。Trumind 之所以胜出，不是因为它的发音比TruMind好听多少，而是因为它可以讲五层故事。一个能讲出故事的名字，才有传播的生命力。\n\n4.  命名即框架。最终的名字不是\"选出来的\"，而是在探索过程中逐渐\"长出来的\"。每探索一个方向，就排除一批名字，同时也让胜出者的轮廓更清晰。\n---\n### 5.2 可以复用的方法论\n\n#### 命名探索的七个维度\n1.  家族关系：与母名有明确的关联（Trum- 前缀）\n2.  含义层次：至少有字面和双关两层解读\n3.  发音顺滑：读出来不卡不顿\n4.  视觉美感：写出来好看，字母组合有节奏\n5.  独特性：搜一下，没人用最好\n6.  故事潜力：能讲出至少三个不同的故事\n7.  延展空间：未来可以怎么玩（Jr/2.0/Labs等）\n\n#### 人机协作的四步法\n\n| 步骤 | 人类做什么 | 机器做什么 |\n| ---- | ---- | ---- |\n| 1. 发散 | 给出方向 | 批量生成 |\n| 2. 收敛 | 筛选/反馈 | - |\n| 3. 深化 | 提出新方向 | 基于反馈再生 |\n| 4. 打磨 | 选择最终候选 | 做深度解读 |",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "551089161",
+        "name": "项目复盘",
+        "type": "ai"
+      },
+      {
+        "id": "551089162",
+        "name": "人机协同命名",
+        "type": "ai"
+      },
+      {
+        "id": "551089163",
+        "name": "Trumind",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0202a38AAzIDW2v.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=mZE4C%2B1dq7SvKuQnNkUDFrOyxvk%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0202a38AAzIDW2v.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=jYUzRq84P3Y%2FM0IBr3gKWo8idbQ%3D",
+        "title": "01.png",
+        "size": 291002
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc014e158M5hTPxwq.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=424opDPWdr34zL5jz57wkQYsuQw%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc014e158M5hTPxwq.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=GVyRH5lozbDqx2sibRf8i6tUUTI%3D",
+        "title": "02.png",
+        "size": 73242
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc024e1585J6DO4UI.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=m39XSXiqCiMl9Z1gXPQ5p2xH2zI%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc024e1585J6DO4UI.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=N%2BHzdx%2ByBxZZFVsMideeHpRR7Bc%3D",
+        "title": "03.png",
+        "size": 183952
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0229100OkoaVdN1.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=zow0GbRtf%2BBfYKaBNt7O%2FzCJWug%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606171348%2Fgetnotes_img_1a8c8d4cc0229100OkoaVdN1.png?Expires=1793267851&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VbVOhG4zUSBn%2By3CsrsKv2WDjQE%3D",
+        "title": "04.png",
+        "size": 190332
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "88j1ZwZVlY8a7",
+    "version": 1,
+    "created_at": "2026-06-17 13:48:39",
+    "updated_at": "2026-06-17 13:48:39"
+  },
+  "original": null
+}

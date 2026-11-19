@@ -1,0 +1,177 @@
+{
+  "summary": {
+    "id": 1911746507095294000,
+    "note_id": "1911746507095293848",
+    "title": "“人生红点”教练Partner开发案例分享",
+    "content": "第一个案例： “人生红点”教练Partner\n敲黑板，说重点\n\n距离当时项目立项，其实已经过去了一年多。期间我们断断续续做过测试，也看过同学们做的一些coze，但一直觉得不太行；我们也试着让AI直接把课程的小抄直接变成一个系统提示词，但就是非常死板、非常像填问卷表格。\n\n用双三角思考，我们应该怎么办呢?\n\n最好的审美是什么呢? 一堂有一套方法，叫: **出口式咨询**。先跟你的用户明确一个高价值的长期目标和出口，然后通过提问的方法一步步引导思考和洞察。\n\n所以第一步，我们把出口式咨询的方法论喂进去了，要先定出口，换视角，最后再一起探索路径。\n到这里，AI的沟通开始出现了一种飞跃，开始有点教练的样子了。\n但是还是不够好，仍然太业余了，中间沟通非常死板。\n\n第二步，有没有高水平的模型和数据可以参考呢? yulu试着把我们找到的两个神级别的提示词组合，一起喂给AI学习高阶教练提示设计:\n- Human3.0：一个人生顾问的诊断提示词。\n- Mr. Ranedeer：一个提示词工程的最佳实践范例。\n\nyulu直接让AI自己学习这两个项目的优点，开始有了系统的灵活提问和引导。\n这下又进步了，开始有一种系统引导的过程。\n但是还是不够好，我们又发现细节太少了，好多细节专业度都很弱。\n\n第三步，我又让PM去后台萃取了一个《人生红点核心理念知识》Datapack，然后作为一个附件同时配在了系统提示词后面，然后再次测试: **哇，就很惊艳**。\n\n整体上，既有教练的引导思维，也有一步步千人千面的灵活性，同时也很专业，可以随时解答疑问。\n到这个阶段以后，我们又打磨了几轮开篇的引导+最后报告的价值感，这个提示词才结束。\n\n大家感受到了这个过程么?\n这个远远不是一个简单的提示词能力的问题，用双三角来看，优先级如下:\n\n# 一堂：人生红点教练Partner探索\n\n案例背后的AI核心策略和稀缺竞争力\n```mermaid\ngraph LR\n    人类三角 --- AI三角\n    人类三角 -- 人变强了，调教更强AI --> AI三角\n    AI三角 -- 有了强AI，辅助人变得更强 --> 人类三角\n```\n人类三角（持续让自己变强）维度：\n1. 创造力：避免直接写，让AI自己学着写\n2. 审美：基础：优秀教练评估，高阶：Truman微观体感\n3. 体系：出口式咨询三段论，项目管理里程碑\n\nAI三角（持续使用AI更强）维度：\n1. 场景：锁定“第一红点”细分场景\n2. 基本功：基础提示词，Agent工具（TRAE），文档工具（Obsidian）\n3. 数据：教练提示词：Human3.0，工程提示词：Mr. Ranedeer，课程资产包Datapack\n\n一堂·2026春季马拉松\n带领10000+人用10小时击穿1个课题",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "497340404",
+        "name": "AI提示词工程",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      },
+      {
+        "id": "542882346",
+        "name": "人生红点教练",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-06-03 10:11:19",
+    "updated_at": "2026-06-03 10:11:19"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "id": 1911746507095294000,
+        "note_id": "1911746507095293848",
+        "title": "“人生红点”教练Partner开发案例分享",
+        "content": "第一个案例： “人生红点”教练Partner\n敲黑板，说重点\n\n距离当时项目立项，其实已经过去了一年多。期间我们断断续续做过测试，也看过同学们做的一些coze，但一直觉得不太行；我们也试着让AI直接把课程的小抄直接变成一个系统提示词，但就是非常死板、非常像填问卷表格。\n\n用双三角思考，我们应该怎么办呢?\n\n最好的审美是什么呢? 一堂有一套方法，叫: **出口式咨询**。先跟你的用户明确一个高价值的长期目标和出口，然后通过提问的方法一步步引导思考和洞察。\n\n所以第一步，我们把出口式咨询的方法论喂进去了，要先定出口，换视角，最后再一起探索路径。\n到这里，AI的沟通开始出现了一种飞跃，开始有点教练的样子了。\n但是还是不够好，仍然太业余了，中间沟通非常死板。\n\n第二步，有没有高水平的模型和数据可以参考呢? yulu试着把我们找到的两个神级别的提示词组合，一起喂给AI学习高阶教练提示设计:\n- Human3.0：一个人生顾问的诊断提示词。\n- Mr. Ranedeer：一个提示词工程的最佳实践范例。\n\nyulu直接让AI自己学习这两个项目的优点，开始有了系统的灵活提问和引导。\n这下又进步了，开始有一种系统引导的过程。\n但是还是不够好，我们又发现细节太少了，好多细节专业度都很弱。\n\n第三步，我又让PM去后台萃取了一个《人生红点核心理念知识》Datapack，然后作为一个附件同时配在了系统提示词后面，然后再次测试: **哇，就很惊艳**。\n\n整体上，既有教练的引导思维，也有一步步千人千面的灵活性，同时也很专业，可以随时解答疑问。\n到这个阶段以后，我们又打磨了几轮开篇的引导+最后报告的价值感，这个提示词才结束。\n\n大家感受到了这个过程么?\n这个远远不是一个简单的提示词能力的问题，用双三角来看，优先级如下:\n\n# 一堂：人生红点教练Partner探索\n\n案例背后的AI核心策略和稀缺竞争力\n```mermaid\ngraph LR\n    人类三角 --- AI三角\n    人类三角 -- 人变强了，调教更强AI --> AI三角\n    AI三角 -- 有了强AI，辅助人变得更强 --> 人类三角\n```\n人类三角（持续让自己变强）维度：\n1. 创造力：避免直接写，让AI自己学着写\n2. 审美：基础：优秀教练评估，高阶：Truman微观体感\n3. 体系：出口式咨询三段论，项目管理里程碑\n\nAI三角（持续使用AI更强）维度：\n1. 场景：锁定“第一红点”细分场景\n2. 基本功：基础提示词，Agent工具（TRAE），文档工具（Obsidian）\n3. 数据：教练提示词：Human3.0，工程提示词：Mr. Ranedeer，课程资产包Datapack\n\n一堂·2026春季马拉松\n带领10000+人用10小时击穿1个课题",
+        "ref_content": "",
+        "note_type": "img_text",
+        "source": "web",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "228073328",
+            "name": "图片笔记",
+            "type": "system"
+          },
+          {
+            "id": "497340404",
+            "name": "AI提示词工程",
+            "type": "ai"
+          },
+          {
+            "id": "525427391",
+            "name": "一堂",
+            "type": "ai"
+          },
+          {
+            "id": "542882346",
+            "name": "人生红点教练",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000b419c8gWUwOx6y.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=hkL4u%2F5a2Xbxbm%2FU25gJ%2Bg0xEuA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000b419c8gWUwOx6y.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=XsnQF6RPLBI72wgJufJnN252doI%3D",
+            "title": "01_1.人生红点 partner.png",
+            "size": 1341917
+          },
+          {
+            "type": "image",
+            "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000c494608woE32QC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Q4jAP3h2VC7T5aSKFM0MCB7cEjc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+            "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000c494608woE32QC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VUVva4mQ%2FUw46vyWV0%2Ff8hqlHls%3D",
+            "title": "01_2.人生红点双三角.png",
+            "size": 948797
+          }
+        ],
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "rBzwyW435YQPw",
+        "version": 1,
+        "created_at": "2026-06-03 10:11:19",
+        "updated_at": "2026-06-03 10:11:19"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1790676401
+    },
+    "request_id": "100fd518aaa59002"
+  },
+  "detail": {
+    "id": 1911746507095294000,
+    "note_id": "1911746507095293848",
+    "title": "“人生红点”教练Partner开发案例分享",
+    "content": "第一个案例： “人生红点”教练Partner\n敲黑板，说重点\n\n距离当时项目立项，其实已经过去了一年多。期间我们断断续续做过测试，也看过同学们做的一些coze，但一直觉得不太行；我们也试着让AI直接把课程的小抄直接变成一个系统提示词，但就是非常死板、非常像填问卷表格。\n\n用双三角思考，我们应该怎么办呢?\n\n最好的审美是什么呢? 一堂有一套方法，叫: **出口式咨询**。先跟你的用户明确一个高价值的长期目标和出口，然后通过提问的方法一步步引导思考和洞察。\n\n所以第一步，我们把出口式咨询的方法论喂进去了，要先定出口，换视角，最后再一起探索路径。\n到这里，AI的沟通开始出现了一种飞跃，开始有点教练的样子了。\n但是还是不够好，仍然太业余了，中间沟通非常死板。\n\n第二步，有没有高水平的模型和数据可以参考呢? yulu试着把我们找到的两个神级别的提示词组合，一起喂给AI学习高阶教练提示设计:\n- Human3.0：一个人生顾问的诊断提示词。\n- Mr. Ranedeer：一个提示词工程的最佳实践范例。\n\nyulu直接让AI自己学习这两个项目的优点，开始有了系统的灵活提问和引导。\n这下又进步了，开始有一种系统引导的过程。\n但是还是不够好，我们又发现细节太少了，好多细节专业度都很弱。\n\n第三步，我又让PM去后台萃取了一个《人生红点核心理念知识》Datapack，然后作为一个附件同时配在了系统提示词后面，然后再次测试: **哇，就很惊艳**。\n\n整体上，既有教练的引导思维，也有一步步千人千面的灵活性，同时也很专业，可以随时解答疑问。\n到这个阶段以后，我们又打磨了几轮开篇的引导+最后报告的价值感，这个提示词才结束。\n\n大家感受到了这个过程么?\n这个远远不是一个简单的提示词能力的问题，用双三角来看，优先级如下:\n\n# 一堂：人生红点教练Partner探索\n\n案例背后的AI核心策略和稀缺竞争力\n```mermaid\ngraph LR\n    人类三角 --- AI三角\n    人类三角 -- 人变强了，调教更强AI --> AI三角\n    AI三角 -- 有了强AI，辅助人变得更强 --> 人类三角\n```\n人类三角（持续让自己变强）维度：\n1. 创造力：避免直接写，让AI自己学着写\n2. 审美：基础：优秀教练评估，高阶：Truman微观体感\n3. 体系：出口式咨询三段论，项目管理里程碑\n\nAI三角（持续使用AI更强）维度：\n1. 场景：锁定“第一红点”细分场景\n2. 基本功：基础提示词，Agent工具（TRAE），文档工具（Obsidian）\n3. 数据：教练提示词：Human3.0，工程提示词：Mr. Ranedeer，课程资产包Datapack\n\n一堂·2026春季马拉松\n带领10000+人用10小时击穿1个课题",
+    "ref_content": "",
+    "note_type": "img_text",
+    "source": "web",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "228073328",
+        "name": "图片笔记",
+        "type": "system"
+      },
+      {
+        "id": "497340404",
+        "name": "AI提示词工程",
+        "type": "ai"
+      },
+      {
+        "id": "525427391",
+        "name": "一堂",
+        "type": "ai"
+      },
+      {
+        "id": "542882346",
+        "name": "人生红点教练",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000b419c8gWUwOx6y.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=hkL4u%2F5a2Xbxbm%2FU25gJ%2Bg0xEuA%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000b419c8gWUwOx6y.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=XsnQF6RPLBI72wgJufJnN252doI%3D",
+        "title": "01_1.人生红点 partner.png",
+        "size": 1341917
+      },
+      {
+        "type": "image",
+        "url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000c494608woE32QC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=Q4jAP3h2VC7T5aSKFM0MCB7cEjc%3D&x-oss-process=image%2Fresize%2Cm_lfit%2Cw_720%2Ch_3240",
+        "original_url": "https://get-notes.umiwi.com/get_notes_prod%2F202606031011%2Fgetnotes_img_1a87e35000c494608woE32QC.png?Expires=1793267852&OSSAccessKeyId=LTAI5t7toTp72R3TvdXf9QdK&Signature=VUVva4mQ%2FUw46vyWV0%2Ff8hqlHls%3D",
+        "title": "01_2.人生红点双三角.png",
+        "size": 948797
+      }
+    ],
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "rBzwyW435YQPw",
+    "version": 1,
+    "created_at": "2026-06-03 10:11:19",
+    "updated_at": "2026-06-03 10:11:19"
+  },
+  "original": null
+}

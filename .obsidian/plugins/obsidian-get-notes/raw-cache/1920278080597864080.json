@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1920278080597864080",
+    "display_title": "如果对课程失去兴趣，会影响语言表达习惯",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-03T09:18:28+08:00",
+      "edited_at": "2026-09-03T09:18:51.626+08:00",
+      "record_updated_at": "2026-09-03T09:18:51.631+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1920278080597864200,
+    "note_id": "1920278080597864080",
+    "title": "如果对课程失去兴趣，会影响语言表达习惯",
+    "content": "如果你对这门课都不想上了，那肯定会影响你的语言表达习惯，因为你的心思压根就不在这里。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "511720046",
+        "name": "学习",
+        "type": "ai"
+      },
+      {
+        "id": "589857478",
+        "name": "习惯",
+        "type": "ai"
+      },
+      {
+        "id": "589857479",
+        "name": "专注力",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-03 09:18:28",
+    "updated_at": "2026-09-03 09:18:51"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1920278080597864080",
+        "display_title": "如果对课程失去兴趣，会影响语言表达习惯",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-03T09:18:28+08:00",
+          "edited_at": "2026-09-03T09:18:51.626+08:00",
+          "record_updated_at": "2026-09-03T09:18:51.631+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1920278080597864200,
+        "note_id": "1920278080597864080",
+        "title": "如果对课程失去兴趣，会影响语言表达习惯",
+        "content": "如果你对这门课都不想上了，那肯定会影响你的语言表达习惯，因为你的心思压根就不在这里。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "511720046",
+            "name": "学习",
+            "type": "ai"
+          },
+          {
+            "id": "589857478",
+            "name": "习惯",
+            "type": "ai"
+          },
+          {
+            "id": "589857479",
+            "name": "专注力",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202609030918%2Fnotesaudio_1aa632bdc0422e10vxQMvX6C.mp3?Expires=1793004236&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=cbSl0XnkI6oJsFqzj9hM3a%2Bt0EM%3D",
+            "title": "",
+            "duration": 17352
+          }
+        ],
+        "audio": {
+          "original": "如果你对这个课，你都不想上了。那你肯定会影响你的语言表达的这个习惯因为你的心思压根就不在这里",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "XJzzVKgx31yO2",
+        "version": 4,
+        "created_at": "2026-09-03 09:18:28",
+        "updated_at": "2026-09-03 09:18:51"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572236,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c1521d7a53001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1920278080597864080",
+    "display_title": "如果对课程失去兴趣，会影响语言表达习惯",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-03T09:18:28+08:00",
+      "edited_at": "2026-09-03T09:18:51.626+08:00",
+      "record_updated_at": "2026-09-03T09:18:51.631+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1920278080597864200,
+    "note_id": "1920278080597864080",
+    "title": "如果对课程失去兴趣，会影响语言表达习惯",
+    "content": "如果你对这门课都不想上了，那肯定会影响你的语言表达习惯，因为你的心思压根就不在这里。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "511720046",
+        "name": "学习",
+        "type": "ai"
+      },
+      {
+        "id": "589857478",
+        "name": "习惯",
+        "type": "ai"
+      },
+      {
+        "id": "589857479",
+        "name": "专注力",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202609030918%2Fnotesaudio_1aa632bdc0422e10vxQMvX6C.mp3?Expires=1793004236&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=cbSl0XnkI6oJsFqzj9hM3a%2Bt0EM%3D",
+        "title": "",
+        "duration": 17352
+      }
+    ],
+    "audio": {
+      "original": "如果你对这个课，你都不想上了。那你肯定会影响你的语言表达的这个习惯因为你的心思压根就不在这里",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "XJzzVKgx31yO2",
+    "version": 4,
+    "created_at": "2026-09-03 09:18:28",
+    "updated_at": "2026-09-03 09:18:51"
+  },
+  "original": "如果你对这个课，你都不想上了。那你肯定会影响你的语言表达的这个习惯因为你的心思压根就不在这里"
+}

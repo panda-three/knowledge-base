@@ -1,0 +1,220 @@
+{
+  "summary": {
+    "note_url": "https://www.biji.com/note/1920211789925727472",
+    "display_title": "关于教学设计与学生认知差异的反思",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-02T16:09:14+08:00",
+      "edited_at": "2026-09-02T16:09:55.104+08:00",
+      "record_updated_at": "2026-09-02T16:09:55.108+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "unavailable",
+      "topics": "unavailable"
+    },
+    "id": 1920211789925727500,
+    "note_id": "1920211789925727472",
+    "title": "关于教学设计与学生认知差异的反思",
+    "content": "我最近的反思是：教师认为简单的内容与学生实际理解之间存在差异。教学时，应先让学生表达，否则难以了解其认知难点。教师自身的认知中，内容似乎很简单，但实际上对学生的脑力而言是复杂的。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "507099606",
+        "name": "教学反思",
+        "type": "ai"
+      },
+      {
+        "id": "589568477",
+        "name": "认知差异",
+        "type": "ai"
+      },
+      {
+        "id": "589568478",
+        "name": "教学设计",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "topics": [],
+    "is_child_note": false,
+    "created_at": "2026-09-02 16:09:14",
+    "updated_at": "2026-09-02 16:09:55"
+  },
+  "detailPayload": {
+    "success": true,
+    "data": {
+      "note": {
+        "note_url": "https://www.biji.com/note/1920211789925727472",
+        "display_title": "关于教学设计与学生认知差异的反思",
+        "reference": null,
+        "timestamps": {
+          "created_at": "2026-09-02T16:09:14+08:00",
+          "edited_at": "2026-09-02T16:09:55.104+08:00",
+          "record_updated_at": "2026-09-02T16:09:55.108+08:00"
+        },
+        "content_state": {
+          "content": "full",
+          "ref_content": "full"
+        },
+        "metadata_state": {
+          "reference": "complete",
+          "topics": "complete"
+        },
+        "id": 1920211789925727500,
+        "note_id": "1920211789925727472",
+        "title": "关于教学设计与学生认知差异的反思",
+        "content": "我最近的反思是：教师认为简单的内容与学生实际理解之间存在差异。教学时，应先让学生表达，否则难以了解其认知难点。教师自身的认知中，内容似乎很简单，但实际上对学生的脑力而言是复杂的。",
+        "ref_content": "",
+        "note_type": "audio",
+        "source": "app",
+        "entry_type": "ai",
+        "tags": [
+          {
+            "id": "62038231",
+            "name": "录音笔记",
+            "type": "system"
+          },
+          {
+            "id": "507099606",
+            "name": "教学反思",
+            "type": "ai"
+          },
+          {
+            "id": "589568477",
+            "name": "认知差异",
+            "type": "ai"
+          },
+          {
+            "id": "589568478",
+            "name": "教学设计",
+            "type": "ai"
+          }
+        ],
+        "children_count": 0,
+        "children_ids": [],
+        "topics": [],
+        "is_child_note": false,
+        "attachments": [
+          {
+            "type": "audio",
+            "url": "https://mediacdn.umiwi.com/voicenotes%2F202609021609%2Fnotesaudio_1aa5f67300d22e10MoIR2gfF.mp3?Expires=1793004252&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=vIVRIafwKr14gh1TPTPPRtyWqCs%3D",
+            "title": "",
+            "duration": 33372
+          }
+        ],
+        "audio": {
+          "original": "我最近的反思就是你说的这个题目，真要做的内容跟你讲过的内容之间有什么差异？你要先让学生说，不然的话怕不够怎么去形象。你在你自己的认知认知当中，他好像是很简单的，但是实际上对于学生的脑力来说还是挺复杂的。啥的",
+          "sentences": []
+        },
+        "chapter_timeline": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "meeting_todos": {
+          "source": "summary_markdown_rules",
+          "items": []
+        },
+        "share_id": "AgMM89gKV7Vjo",
+        "version": 4,
+        "created_at": "2026-09-02 16:09:14",
+        "updated_at": "2026-09-02 16:09:55"
+      }
+    },
+    "error": null,
+    "meta": {
+      "timestamp": 1792572252,
+      "capabilities": [
+        "note.reference.v1"
+      ]
+    },
+    "request_id": "102c153109a53001"
+  },
+  "detail": {
+    "note_url": "https://www.biji.com/note/1920211789925727472",
+    "display_title": "关于教学设计与学生认知差异的反思",
+    "reference": null,
+    "timestamps": {
+      "created_at": "2026-09-02T16:09:14+08:00",
+      "edited_at": "2026-09-02T16:09:55.104+08:00",
+      "record_updated_at": "2026-09-02T16:09:55.108+08:00"
+    },
+    "content_state": {
+      "content": "full",
+      "ref_content": "full"
+    },
+    "metadata_state": {
+      "reference": "complete",
+      "topics": "complete"
+    },
+    "id": 1920211789925727500,
+    "note_id": "1920211789925727472",
+    "title": "关于教学设计与学生认知差异的反思",
+    "content": "我最近的反思是：教师认为简单的内容与学生实际理解之间存在差异。教学时，应先让学生表达，否则难以了解其认知难点。教师自身的认知中，内容似乎很简单，但实际上对学生的脑力而言是复杂的。",
+    "ref_content": "",
+    "note_type": "audio",
+    "source": "app",
+    "entry_type": "ai",
+    "tags": [
+      {
+        "id": "62038231",
+        "name": "录音笔记",
+        "type": "system"
+      },
+      {
+        "id": "507099606",
+        "name": "教学反思",
+        "type": "ai"
+      },
+      {
+        "id": "589568477",
+        "name": "认知差异",
+        "type": "ai"
+      },
+      {
+        "id": "589568478",
+        "name": "教学设计",
+        "type": "ai"
+      }
+    ],
+    "children_count": 0,
+    "children_ids": [],
+    "topics": [],
+    "is_child_note": false,
+    "attachments": [
+      {
+        "type": "audio",
+        "url": "https://mediacdn.umiwi.com/voicenotes%2F202609021609%2Fnotesaudio_1aa5f67300d22e10MoIR2gfF.mp3?Expires=1793004252&OSSAccessKeyId=LTAI5tHHz6xkMSPLAPECfqTM&Signature=vIVRIafwKr14gh1TPTPPRtyWqCs%3D",
+        "title": "",
+        "duration": 33372
+      }
+    ],
+    "audio": {
+      "original": "我最近的反思就是你说的这个题目，真要做的内容跟你讲过的内容之间有什么差异？你要先让学生说，不然的话怕不够怎么去形象。你在你自己的认知认知当中，他好像是很简单的，但是实际上对于学生的脑力来说还是挺复杂的。啥的",
+      "sentences": []
+    },
+    "chapter_timeline": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "meeting_todos": {
+      "source": "summary_markdown_rules",
+      "items": []
+    },
+    "share_id": "AgMM89gKV7Vjo",
+    "version": 4,
+    "created_at": "2026-09-02 16:09:14",
+    "updated_at": "2026-09-02 16:09:55"
+  },
+  "original": "我最近的反思就是你说的这个题目，真要做的内容跟你讲过的内容之间有什么差异？你要先让学生说，不然的话怕不够怎么去形象。你在你自己的认知认知当中，他好像是很简单的，但是实际上对于学生的脑力来说还是挺复杂的。啥的"
+}

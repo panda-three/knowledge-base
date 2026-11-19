@@ -1,0 +1,471 @@
+{
+  "userName": "",
+  "permissionMode": "manual",
+  "model": "haiku",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationLocale": "",
+  "titleGenerationModel": "",
+  "showTabTitlesByDefault": true,
+  "chatFontScale": 100,
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "en",
+  "providerConfigs": {
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {
+        "device-7d8ec25a21271c8f10593423b17927f0bc506336d42701467bad742bedafbb5e": "/Users/panda/.npm-global/bin/gemini"
+      },
+      "enabled": true,
+      "environmentHash": "runtime-input:v1:381521e8f16e0c05d7b9b3275741a5e3d27bbb6e211ccc193e3294d82a73ffc2",
+      "environmentVariables": "GEMINI_API_KEY=sk-acw-4075937e-46ef0d97493ce516\nGEMINI_BASE_URL=https://api.aicodewith.com/chatgpt/v1",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
+    "claude": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "enabled": true,
+      "outputStyle": null,
+      "promptSuggestions": false,
+      "discoveredOutputStyles": [
+        "default",
+        "Proactive",
+        "Concise",
+        "Explanatory",
+        "Learning"
+      ],
+      "cliPath": "",
+      "cliPathsByHost": {
+        "device-7d8ec25a21271c8f10593423b17927f0bc506336d42701467bad742bedafbb5e": "/Users/panda/.npm-global/bin/claude"
+      },
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "visibleModels": [
+        "opus",
+        "fable",
+        "sonnet",
+        "haiku",
+        "claude-fable-5"
+      ],
+      "modelAliases": {},
+      "environmentVariables": "ANTHROPIC_API_KEY=sk-1KhO2ribJF7Xmxq2Jc5Mopp1qYQr7mVXPJYvGLUzDcUVcXTg\nANTHROPIC_BASE_URL=https://breakout.wenwen-ai.com\n",
+      "environmentHash": "runtime-input:v1:688d3202dc66ee7d2dccc16e5c426862168b399bffb9657457d24a7c0cc3378e",
+      "selectedModels": [
+        {
+          "value": "opus",
+          "label": "Opus",
+          "description": "Opus 5.5 · Best for everyday, complex tasks · $4/$20 per Mtok",
+          "resolvedModel": "claude-opus-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "fable",
+          "label": "Fable",
+          "description": "Fable 5.2 · Most capable for your hardest and longest-running tasks · $8/$40 per Mtok",
+          "resolvedModel": "claude-fable-5-2",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "claude-fable-5",
+          "label": "Fable 5",
+          "description": "Fable 5 · Most capable for your hardest and longest-running tasks",
+          "resolvedModel": "claude-fable-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "sonnet",
+          "label": "Sonnet",
+          "description": "Sonnet 5.5 · Efficient for routine tasks · $2/$10 per Mtok",
+          "resolvedModel": "claude-sonnet-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        },
+        {
+          "value": "haiku",
+          "label": "Haiku",
+          "description": "Haiku 5.5 · Fastest for quick answers · $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts over 100k)",
+          "resolvedModel": "claude-haiku-5-5",
+          "reasoningMetadataResolved": true,
+          "supportedEffortLevels": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ]
+        }
+      ]
+    },
+    "codex": {
+      "enabled": true,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {
+        "device-7d8ec25a21271c8f10593423b17927f0bc506336d42701467bad742bedafbb5e": "/Users/panda/.npm-global/bin/codex"
+      },
+      "modelAliases": {},
+      "visibleModels": [
+        "gpt-6.1-sol",
+        "gpt-6-astra"
+      ],
+      "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
+      "responseVerbosity": "default",
+      "reasoningSummary": "detailed",
+      "environmentVariables": "OPENAI_API_KEY=sk-acw-4075937e-46ef0d97493ce516\nOPENAI_BASE_URL=https://api.aicodewith.com/chatgpt/v1\nOPENAI_MODEL=gpt-6.1-sol\nCODEX_SANDBOX=workspace-write",
+      "environmentHash": "runtime-input:v1:836b15b53d65eb55f2e6bd6b495a90726900f41e8e2c96053a970caeb39b18b8",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "selectedModels": [
+        {
+          "model": "gpt-6.1-sol",
+          "displayName": "GPT-6.1 Sol",
+          "description": "Latest workhorse model for coding and everyday work.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            },
+            {
+              "value": "ultra",
+              "description": "Maximum reasoning with automatic task delegation"
+            }
+          ],
+          "defaultReasoningEffort": "low",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "2x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": true
+        },
+        {
+          "model": "gpt-6-astra",
+          "displayName": "GPT-6 Astra",
+          "description": "Frontier intelligence for the most demanding work.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            },
+            {
+              "value": "ultra",
+              "description": "Maximum reasoning with automatic task delegation"
+            }
+          ],
+          "defaultReasoningEffort": "low",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "2x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": false
+        }
+      ]
+    },
+    "deepseek": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "enabled": true,
+      "codeMode": false,
+      "presetPlugins": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "visibleModels": [
+        "deepseek:deepseek-official/deepseek-flash",
+        "deepseek:deepseek-official/deepseek-v4-pro",
+        "deepseek:deepseek-account/deepseek-flash",
+        "deepseek:deepseek-account/deepseek-v4-pro"
+      ],
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "selectedModels": [
+        {
+          "encodedId": "deepseek:deepseek-official/deepseek-flash",
+          "provider": "deepseek-official",
+          "providerName": "DeepSeek",
+          "id": "deepseek-flash",
+          "label": "DeepSeek-V4.1-Flash",
+          "reasoning": [
+            {
+              "id": "off",
+              "name": "Off",
+              "description": "Use for simple tasks that do not need reasoning."
+            },
+            {
+              "id": "low",
+              "name": "Low",
+              "description": "Prefer for routine or latency-sensitive tasks."
+            },
+            {
+              "id": "high",
+              "name": "High",
+              "description": "The default balance for most tasks."
+            },
+            {
+              "id": "max",
+              "name": "Max",
+              "description": "Reserve for the hardest quality-first tasks."
+            }
+          ],
+          "available": true
+        },
+        {
+          "encodedId": "deepseek:deepseek-official/deepseek-v4-pro",
+          "provider": "deepseek-official",
+          "providerName": "DeepSeek",
+          "id": "deepseek-v4-pro",
+          "label": "DeepSeek-V4-Pro",
+          "reasoning": [
+            {
+              "id": "off",
+              "name": "Off",
+              "description": "Use for simple tasks that do not need reasoning."
+            },
+            {
+              "id": "low",
+              "name": "Low",
+              "description": "Prefer for routine or latency-sensitive tasks."
+            },
+            {
+              "id": "high",
+              "name": "High",
+              "description": "The default balance for most tasks."
+            },
+            {
+              "id": "max",
+              "name": "Max",
+              "description": "Reserve for the hardest quality-first tasks."
+            }
+          ],
+          "description": "Stronger agentic coding, knowledge, and difficult reasoning; suited to complex or quality-critical tasks at higher cost.",
+          "available": true
+        },
+        {
+          "encodedId": "deepseek:deepseek-account/deepseek-flash",
+          "provider": "deepseek-account",
+          "providerName": "DeepSeek Account",
+          "id": "deepseek-flash",
+          "label": "DeepSeek-V4.1-Flash",
+          "reasoning": [
+            {
+              "id": "off",
+              "name": "Off",
+              "description": "Use for simple tasks that do not need reasoning."
+            },
+            {
+              "id": "low",
+              "name": "Low",
+              "description": "Prefer for routine or latency-sensitive tasks."
+            },
+            {
+              "id": "high",
+              "name": "High",
+              "description": "The default balance for most tasks."
+            },
+            {
+              "id": "max",
+              "name": "Max",
+              "description": "Reserve for the hardest quality-first tasks."
+            }
+          ],
+          "available": true
+        },
+        {
+          "encodedId": "deepseek:deepseek-account/deepseek-v4-pro",
+          "provider": "deepseek-account",
+          "providerName": "DeepSeek Account",
+          "id": "deepseek-v4-pro",
+          "label": "DeepSeek-V4-Pro",
+          "reasoning": [
+            {
+              "id": "off",
+              "name": "Off",
+              "description": "Use for simple tasks that do not need reasoning."
+            },
+            {
+              "id": "low",
+              "name": "Low",
+              "description": "Prefer for routine or latency-sensitive tasks."
+            },
+            {
+              "id": "high",
+              "name": "High",
+              "description": "The default balance for most tasks."
+            },
+            {
+              "id": "max",
+              "name": "Max",
+              "description": "Reserve for the hardest quality-first tasks."
+            }
+          ],
+          "description": "Stronger agentic coding, knowledge, and difficult reasoning; suited to complex or quality-critical tasks at higher cost.",
+          "available": true
+        }
+      ]
+    },
+    "grok": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
+    "opencode": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "thinkingOptionsByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    },
+    "pi": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    }
+  },
+  "settingsProvider": "claude",
+  "lastSelectedChatModel": {
+    "providerId": "codex",
+    "model": "openai-codex/gpt-6.1-sol"
+  },
+  "inlineEditModel": null,
+  "savedProviderModel": {
+    "claude": "haiku"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderPermissionMode": {
+    "claude": "manual",
+    "codex": "auto-review",
+    "antigravity": "normal"
+  },
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "enableZenMode": true,
+  "zenModePosition": null,
+  "enableDualPane": true,
+  "dualPaneSide": "right",
+  "restoreTabsOnStartup": true,
+  "skillsSynced": false,
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "sessionAutoArchiveAfter": "off",
+  "pinnedLinkedContentPaths": [],
+  "hiddenCommands": []
+}
